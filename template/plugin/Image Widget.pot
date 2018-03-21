@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:46+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Image Widget\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/ImageObject.cpp:345
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO;*.GIF"
+msgstr ""
+
+#: src/ImageObject.cpp:346
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr ""
+
+#: src/ImageObject.cpp:347
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr ""
+
+#: src/ImageObject.cpp:348
+msgid "Animation files (*.GIF)|*.GIF"
+msgstr ""
+
+#: include/defs.h:9
+msgid "Image Widget"
+msgstr ""
+
+#: include/defs.h:10
+msgid "Image Widget for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
+

@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 23:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Mail Box\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/MailBox.cpp:139
+msgid "<Untitled>"
+msgstr ""
+
+#: src/MailBox.cpp:280
+#, c-format
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+
+#: src/MsgBox.cpp:180
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr ""
+
+#: src/MsgBox.cpp:295
+msgid "Reply"
+msgstr ""
+
+#: src/MsgBox.cpp:300
+msgid "Mark  Read"
+msgstr ""
+
+#: src/MsgBox.cpp:305
+msgid "Read  Later"
+msgstr ""
+
+#: src/MsgBox.cpp:310
+msgid "Open  HTML"
+msgstr ""
+
+#: src/MsgBox.cpp:314
+msgid "Ignore  All"
+msgstr ""
+
+#: src/task.cpp:21
+#, c-format
+msgid "Failed to test %s server."
+msgstr ""
+
+#: src/task.cpp:22
+#, c-format
+msgid "Cannot connect to server: %s:%d."
+msgstr ""
+
+#: src/task.cpp:23
+#, c-format
+msgid "Cannot login to %s server, %s."
+msgstr ""
+
+#: src/task.cpp:24
+msgid "Cannot retrieve message list."
+msgstr ""
+
+#: src/task.cpp:27
+msgid "invalid user name or password"
+msgstr ""
+
+#: src/task.cpp:207
+#: src/panel/ComposeDialog.cpp:298
+msgid "Failed to send message."
+msgstr ""
+
+#: src/task.cpp:257
+msgid "Message rejected by server."
+msgstr ""
+
+#: src/task.cpp:345
+msgid "Failed to receive message."
+msgstr ""
+
+#: src/task.cpp:378
+msgid "Cannot download message."
+msgstr ""
+
+#: src/task.cpp:379
+msgid "Cannot find specified message."
+msgstr ""
+
+#: src/task.cpp:402
+msgid "Failed to fetch message list."
+msgstr ""
+
+#: src/WidgetObject.cpp:133
+#: src/panel/ComposeDialog.cpp:175
+msgid "Compose Message"
+msgstr ""
+
+#: src/WidgetObject.cpp:143
+msgid "Online User"
+msgstr ""
+
+#: src/WidgetObject.cpp:153
+msgid "Inbox"
+msgstr ""
+
+#: src/WidgetObject.cpp:163
+msgid "Option"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:120
+msgid "- Hide original message."
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:123
+msgid "- Show original message."
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:180
+msgid "From"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:185
+msgid "To"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:189
+msgid "Subject"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:194
+msgid "Attachment"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:195
+msgid "<Not implemented yet!>"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:215
+msgid "Original Message"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send message"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard message"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:266
+msgid "Discard editing message ?"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:276
+msgid "Please input recipient."
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:283
+msgid "Sending message......"
+msgstr ""
+
+#: src/panel/ComposeDialog.cpp:328
+msgid "Message sent."
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:226
+msgid "Mail Box"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:228
+msgid "Email Account Settings"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:230
+msgid "Email Address:"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:239
+msgid "Server Address"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:242
+msgid "Port"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:245
+msgid "Secure"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:251
+msgid "POP3 Server:"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:260
+#: src/panel/ConfigDialog.cpp:276
+msgid "None"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:261
+#: src/panel/ConfigDialog.cpp:277
+msgid "SSL"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:262
+#: src/panel/ConfigDialog.cpp:278
+msgid "TLS"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:267
+msgid "SMTP Server:"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:283
+msgid "Username:"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:287
+msgid "Password:"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:292
+msgid "Click to test account setting"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:294
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Do not contain chat history in reply messages"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:303
+msgid "Check for new messages every"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "minutes"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:313
+msgid "Display Name (in Online User list):"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:320
+msgid "Signature text:"
+msgstr ""
+
+# ignore
+#: src/panel/ConfigDialog.cpp:329
+msgid "OK"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:411
+msgid "Please input email address!"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:418
+msgid "Please input POP3 server!"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:425
+msgid "Please input SMTP server!"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:432
+msgid "Please input user name!"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:439
+msgid "Please input password!"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:446
+msgid "Connecting to server......"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:482
+msgid "Test Passed!"
+msgstr ""
+
+#: src/panel/UserEditDialog.cpp:52
+msgid "Display Name:"
+msgstr ""
+
+#: src/panel/UserEditDialog.cpp:57
+msgid "Locale:"
+msgstr ""
+
+#: src/panel/UserInfoPanel.cpp:116
+#: src/panel/UserInfoPanel.cpp:120
+#: src/panel/UserListDialog.cpp:143
+#: src/panel/UserListDialog.cpp:173
+msgid "<N/A>"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:140
+#: src/panel/UserMenu.cpp:64
+msgid "Add Friend"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:169
+#: src/panel/UserMenu.cpp:60
+msgid "Edit Friend"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records match your search."
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records currently, please come back later!"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:297
+#: src/panel/UserListDialog.cpp:300
+msgid "My Friends"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:297
+#: src/panel/UserListDialog.cpp:300
+msgid "Online Users"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:320
+msgid "User List"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:336
+msgid "Search user name or email address"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:346
+msgid "Previous"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:354
+msgid "Next"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:387
+msgid "Loading online users, please wait..."
+msgstr ""
+
+#: src/panel/UserMenu.cpp:52
+msgid "Send Mail"
+msgstr ""
+
+#: src/panel/UserMenu.cpp:56
+msgid "New Friend"
+msgstr ""
+
+#: src/panel/UserMenu.cpp:61
+msgid "Remove Friend"
+msgstr ""
+
+#: include/defs.h:10
+msgid "Mail Box for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
+
+#: include/defs.h:27
+msgid "- Sent from SAO Utils Mail Box"
+msgstr ""
+

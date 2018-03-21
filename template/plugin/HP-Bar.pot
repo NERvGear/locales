@@ -1,0 +1,90 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HP-Bar for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/HP-Bar\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/ContextMenu.cpp:65
+msgid "Move Up"
+msgstr ""
+
+#: src/ContextMenu.cpp:66
+msgid "Move Down"
+msgstr ""
+
+#: src/ContextMenu.cpp:67
+msgid "Reorder"
+msgstr ""
+
+#: src/ContextMenu.cpp:70
+msgid "&New Bar..."
+msgstr ""
+
+#: src/ContextMenu.cpp:71
+msgid "&Edit Bar..."
+msgstr ""
+
+#: src/ContextMenu.cpp:72
+msgid "&Remove Bar"
+msgstr ""
+
+#: src/ContextMenu.cpp:74
+msgid "Always on &Top"
+msgstr ""
+
+#: src/ContextMenu.cpp:75
+msgid "&Attach to Launcher"
+msgstr ""
+
+#: src/ContextMenu.cpp:76
+msgid "&Lock Widget"
+msgstr ""
+
+#: src/ContextMenu.cpp:77
+msgid "&Transparent Widget"
+msgstr ""
+
+#: src/panel/EditBarDialog.cpp:120
+msgid "Bar Settings"
+msgstr ""
+
+#: src/panel/EditBarDialog.cpp:123
+msgid "Name"
+msgstr ""
+
+#: src/panel/EditBarDialog.cpp:128
+msgid "Click to choose a data"
+msgstr ""
+
+#: src/panel/EditBarDialog.cpp:136
+msgid "OK"
+msgstr ""
+
+#: src/panel/EditBarDialog.cpp:138
+msgid "Cancel"
+msgstr ""
+
+#: include/defs.h:9
+msgid "HP-Bar"
+msgstr ""
+
+#: include/defs.h:10
+msgid "HP-Bar Widget for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

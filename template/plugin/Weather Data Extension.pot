@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather Data Extension for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:08+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Weather Data Extension\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/WeatherDataSource.cpp:74
+msgid "Weather Data Collection"
+msgstr ""
+
+#: src/WeatherDataSource.cpp:79
+msgid "Weather Forecast Data Collection"
+msgstr ""
+
+#: src/WeatherDataSource.cpp:274
+msgid ""
+"The update parameter takes a city name or code to query weather data.\n"
+"Example 1: New York\n"
+"Example 2: USNY0996\n"
+"Reference: http://www.weather.com/weather/today/l/USNY0996:1:US"
+msgstr ""
+
+#: src/WeatherDataSource_bar.cpp:53
+msgid "Pressure Data"
+msgstr ""
+
+#: src/WeatherDataSource_bar.cpp:58
+msgid "Atmospheric Pressure Data"
+msgstr ""
+
+#: src/WeatherDataSource_bar.cpp:148
+msgid "Pressure Trend"
+msgstr ""
+
+#: src/WeatherDataSource_bar.cpp:149
+msgid "Barometric Pressure"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:59
+msgid "General Data"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:64
+msgid "General Weather Data"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:176
+msgid "Weather Forecast"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:177
+msgid "Current Temperature"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:178
+msgid "Feels Like Temperature"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:179
+msgid "Dew Point"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:180
+msgid "Relative Humidity"
+msgstr ""
+
+#: src/WeatherDataSource_general.cpp:181
+msgid "Visibility"
+msgstr ""
+
+#: src/WeatherDataSource_uv.cpp:50
+msgid "UV Data"
+msgstr ""
+
+#: src/WeatherDataSource_uv.cpp:55
+msgid "Ultraviolet Radiation Data"
+msgstr ""
+
+#: src/WeatherDataSource_uv.cpp:142
+msgid "UV Level"
+msgstr ""
+
+#: src/WeatherDataSource_uv.cpp:143
+msgid "UV Index"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:56
+msgid "Wind Data"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:61
+msgid "Wind Speed and Direction Data"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:165
+msgid "Wind Direction"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:166
+msgid "Wind Degrees"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:167
+msgid "Wind Speed"
+msgstr ""
+
+#: src/WeatherDataSource_wind.cpp:168
+msgid "Wind Gust"
+msgstr ""
+
+#: include/defs.h:9
+msgid "Weather Data Extension"
+msgstr ""
+
+#: include/defs.h:10
+msgid "Weather Data Extension for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua."
+msgstr ""
+
