@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Launch for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-10 22:24+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/ContextMenu.cpp:66
+msgid "Always on &Top"
+msgstr "置頂顯示(&T)"
+
+#: src/WidgetObject.cpp:135
+msgid "- Click or drag files to launch main menu."
+msgstr "-  點擊或拖拽文件到此處以啟動主菜單。"
+
+#: include/defs.h:9
+msgid "Quick Launch"
+msgstr "快速啟動掛件"
+
+#: include/defs.h:10
+msgid "Quick Launch Widget for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

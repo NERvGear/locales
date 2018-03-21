@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 23:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/MailBox.cpp:139
+msgid "<Untitled>"
+msgstr "<無標題>"
+
+#: src/MailBox.cpp:280
+#, c-format
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+"%s\n"
+"%d 未讀信息"
+
+#: src/MsgBox.cpp:180
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr "<點擊 '打開 HTML' 以閱讀 HTML 內容>"
+
+#: src/MsgBox.cpp:295
+msgid "Reply"
+msgstr "回　　復"
+
+#: src/MsgBox.cpp:300
+msgid "Mark  Read"
+msgstr "標記已閱"
+
+#: src/MsgBox.cpp:305
+msgid "Read  Later"
+msgstr "稍後閱讀"
+
+#: src/MsgBox.cpp:310
+msgid "Open  HTML"
+msgstr "打開 HTML"
+
+#: src/MsgBox.cpp:314
+msgid "Ignore  All"
+msgstr "忽略所有"
+
+#: src/task.cpp:21
+#, c-format
+msgid "Failed to test %s server."
+msgstr "測試服務器%s失敗。"
+
+#: src/task.cpp:22
+#, c-format
+msgid "Cannot connect to server: %s:%d."
+msgstr "無法連接到服務器：%s:%d。"
+
+#: src/task.cpp:23
+#, c-format
+msgid "Cannot login to %s server, %s."
+msgstr "無法登陸到服務器%s,%s。"
+
+#: src/task.cpp:24
+msgid "Cannot retrieve message list."
+msgstr "無法獲取郵件列表。"
+
+#: src/task.cpp:27
+msgid "invalid user name or password"
+msgstr "錯誤的用戶名或密碼"
+
+#: src/task.cpp:207 src/panel/ComposeDialog.cpp:298
+msgid "Failed to send message."
+msgstr "郵件發送失敗。"
+
+#: src/task.cpp:257
+msgid "Message rejected by server."
+msgstr "郵件已被服務器拒絕。"
+
+#: src/task.cpp:345
+msgid "Failed to receive message."
+msgstr "郵件接收失敗。"
+
+#: src/task.cpp:378
+msgid "Cannot download message."
+msgstr "無法下載郵件。"
+
+#: src/task.cpp:379
+msgid "Cannot find specified message."
+msgstr "找不到指定郵件。"
+
+#: src/task.cpp:402
+msgid "Failed to fetch message list."
+msgstr "郵件檢索失敗。"
+
+#: src/WidgetObject.cpp:133 src/panel/ComposeDialog.cpp:175
+msgid "Compose Message"
+msgstr "撰寫郵件"
+
+#: src/WidgetObject.cpp:143
+msgid "Online User"
+msgstr "在線玩家"
+
+#: src/WidgetObject.cpp:153
+msgid "Inbox"
+msgstr "收件箱"
+
+#: src/WidgetObject.cpp:163
+msgid "Option"
+msgstr "首選項"
+
+#: src/panel/ComposeDialog.cpp:120
+msgid "- Hide original message."
+msgstr "- 隱藏原始郵件。"
+
+#: src/panel/ComposeDialog.cpp:123
+msgid "- Show original message."
+msgstr "- 顯示原始郵件。"
+
+#: src/panel/ComposeDialog.cpp:180
+msgid "From"
+msgstr "發件人"
+
+#: src/panel/ComposeDialog.cpp:185
+msgid "To"
+msgstr "收件人"
+
+#: src/panel/ComposeDialog.cpp:189
+msgid "Subject"
+msgstr "主題"
+
+#: src/panel/ComposeDialog.cpp:194
+msgid "Attachment"
+msgstr "附件"
+
+#: src/panel/ComposeDialog.cpp:195
+msgid "<Not implemented yet!>"
+msgstr "<尚未開放！>"
+
+#: src/panel/ComposeDialog.cpp:215
+msgid "Original Message"
+msgstr "原始郵件"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send"
+msgstr "發送"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send message"
+msgstr "發送郵件"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard"
+msgstr "取消"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard message"
+msgstr "取消郵件"
+
+#: src/panel/ComposeDialog.cpp:266
+msgid "Discard editing message ?"
+msgstr "放棄正在編輯的郵件？"
+
+#: src/panel/ComposeDialog.cpp:276
+msgid "Please input recipient."
+msgstr "請輸入收件人地址。"
+
+#: src/panel/ComposeDialog.cpp:283
+msgid "Sending message......"
+msgstr "正在發送郵件……"
+
+#: src/panel/ComposeDialog.cpp:328
+msgid "Message sent."
+msgstr "郵件發送成功。"
+
+#: src/panel/ConfigDialog.cpp:226
+msgid "Mail Box"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:228
+msgid "Email Account Settings"
+msgstr "郵箱賬號設置"
+
+#: src/panel/ConfigDialog.cpp:230
+msgid "Email Address:"
+msgstr "郵箱地址:"
+
+#: src/panel/ConfigDialog.cpp:239
+msgid "Server Address"
+msgstr "服務器地址"
+
+#: src/panel/ConfigDialog.cpp:242
+msgid "Port"
+msgstr "端口"
+
+#: src/panel/ConfigDialog.cpp:245
+msgid "Secure"
+msgstr "安全鏈接"
+
+#: src/panel/ConfigDialog.cpp:251
+msgid "POP3 Server:"
+msgstr "POP3服務器:"
+
+#: src/panel/ConfigDialog.cpp:260 src/panel/ConfigDialog.cpp:276
+msgid "None"
+msgstr "無"
+
+#: src/panel/ConfigDialog.cpp:261 src/panel/ConfigDialog.cpp:277
+msgid "SSL"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:262 src/panel/ConfigDialog.cpp:278
+msgid "TLS"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:267
+msgid "SMTP Server:"
+msgstr "SMTP服務器:"
+
+#: src/panel/ConfigDialog.cpp:283
+msgid "Username:"
+msgstr "用戶名:"
+
+#: src/panel/ConfigDialog.cpp:287
+msgid "Password:"
+msgstr "密碼:"
+
+#: src/panel/ConfigDialog.cpp:292
+msgid "Click to test account setting"
+msgstr "點擊開始測試郵箱設置"
+
+#: src/panel/ConfigDialog.cpp:294
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr "* 如果無法登陸POP3服務器請嘗試啟用SSL。"
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Do not contain chat history in reply messages"
+msgstr "不要在回復郵件中包含對話記錄"
+
+#: src/panel/ConfigDialog.cpp:303
+msgid "Check for new messages every"
+msgstr "檢查郵箱的新郵件,每"
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "minutes"
+msgstr "分鐘"
+
+#: src/panel/ConfigDialog.cpp:313
+msgid "Display Name (in Online User list):"
+msgstr "昵稱（對在線玩家顯示）:"
+
+#: src/panel/ConfigDialog.cpp:320
+msgid "Signature text:"
+msgstr "自定義簽名:"
+
+# ignore
+#: src/panel/ConfigDialog.cpp:329
+msgid "OK"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:411
+msgid "Please input email address!"
+msgstr "請輸入郵件地址！"
+
+#: src/panel/ConfigDialog.cpp:418
+msgid "Please input POP3 server!"
+msgstr "請輸入POP3服務器地址！"
+
+#: src/panel/ConfigDialog.cpp:425
+msgid "Please input SMTP server!"
+msgstr "請輸入SMTP服務器地址！"
+
+#: src/panel/ConfigDialog.cpp:432
+msgid "Please input user name!"
+msgstr "請輸入用戶名！"
+
+#: src/panel/ConfigDialog.cpp:439
+msgid "Please input password!"
+msgstr "請輸入密碼！"
+
+#: src/panel/ConfigDialog.cpp:446
+msgid "Connecting to server......"
+msgstr "正在連接服務器……"
+
+#: src/panel/ConfigDialog.cpp:482
+msgid "Test Passed!"
+msgstr "測試通過！"
+
+#: src/panel/UserEditDialog.cpp:52
+msgid "Display Name:"
+msgstr "昵稱:"
+
+#: src/panel/UserEditDialog.cpp:57
+msgid "Locale:"
+msgstr "區域:"
+
+# ignore
+#: src/panel/UserInfoPanel.cpp:116 src/panel/UserInfoPanel.cpp:120
+#: src/panel/UserListDialog.cpp:143 src/panel/UserListDialog.cpp:173
+msgid "<N/A>"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:140 src/panel/UserMenu.cpp:64
+msgid "Add Friend"
+msgstr "添加好友"
+
+#: src/panel/UserListDialog.cpp:169 src/panel/UserMenu.cpp:60
+msgid "Edit Friend"
+msgstr "編輯好友"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records match your search."
+msgstr "沒有搜索到合符記錄。"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records currently, please come back later!"
+msgstr "暫無記錄,請等會兒再來看看！"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "My Friends"
+msgstr "我的好友"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "Online Users"
+msgstr "在線玩家"
+
+#: src/panel/UserListDialog.cpp:320
+msgid "User List"
+msgstr "用戶列表"
+
+#: src/panel/UserListDialog.cpp:336
+msgid "Search user name or email address"
+msgstr "搜索用戶名或郵件地址"
+
+#: src/panel/UserListDialog.cpp:346
+msgid "Previous"
+msgstr "上壹頁"
+
+#: src/panel/UserListDialog.cpp:354
+msgid "Next"
+msgstr "下壹頁"
+
+#: src/panel/UserListDialog.cpp:387
+msgid "Loading online users, please wait..."
+msgstr "正在加載在線列表,請稍候..."
+
+#: src/panel/UserMenu.cpp:52
+msgid "Send Mail"
+msgstr "發送郵件"
+
+#: src/panel/UserMenu.cpp:56
+msgid "New Friend"
+msgstr "新建好友"
+
+#: src/panel/UserMenu.cpp:61
+msgid "Remove Friend"
+msgstr "刪除好友"
+
+#: include/defs.h:10
+msgid "Mail Box for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
+
+#: include/defs.h:27
+msgid "- Sent from SAO Utils Mail Box"
+msgstr "- 信息來自 SAO Utils Mail Box"

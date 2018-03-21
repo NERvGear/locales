@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Browser Engine for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-03 17:23+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: StudioGPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/BrowserObject.cpp:543
+msgid "Please input URL:"
+msgstr "請錄入 URL:"
+
+#: src/BrowserObject.cpp:543
+msgid "Go to..."
+msgstr "轉到..."
+
+#: src/CefBrowserClient.cpp:548
+#, c-format
+msgid "Go to %s"
+msgstr "轉到 %s"
+
+#: src/CefBrowserClient.cpp:553
+msgid "Open link in new tab"
+msgstr "在新標籤頁打開鏈接"
+
+#: src/CefBrowserClient.cpp:554
+msgid "Open link in external browser"
+msgstr "在外置瀏覽器打開鏈接"
+
+#: src/CefBrowserClient.cpp:555
+msgid "Copy link address"
+msgstr "複製鏈接地址"
+
+#: src/CefBrowserClient.cpp:558
+msgid "Refresh"
+msgstr "重新載入"
+
+#: src/CefBrowserClient.cpp:560
+msgid "Developer tools"
+msgstr "開發者工具"
+
+#: src/CefBrowserClient.cpp:562
+msgid "Open external browser"
+msgstr "打開外置瀏覽器"
+
+#: src/CefBrowserClient.cpp:700
+msgid "This page is not available"
+msgstr "該頁面無法顯示"
+
+#: src/CefBrowserClient.cpp:707
+msgid "Reload"
+msgstr "重新載入"
+
+#: src/WebBrowserEngine.cpp:168
+msgid "Chromium command line switches:"
+msgstr "Chromium 命令行開關:"
+
+#: include/defs.h:9
+msgid "Web Browser Engine"
+msgstr "網頁瀏覽器引擎"
+
+#: include/defs.h:10
+msgid "Web Browser Engine Plug-in for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

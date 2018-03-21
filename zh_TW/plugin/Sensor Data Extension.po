@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensor Data Extension for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-01 22:13+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: StudioGPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/CoreTempDataSource_info.cpp:59
+msgid "Processor Information"
+msgstr "處理器信息"
+
+#: src/CoreTempDataSource_info.cpp:64
+msgid "Processor Information Data"
+msgstr "處理器信息數據"
+
+#: src/CoreTempDataSource_info.cpp:172
+msgid "Model"
+msgstr "型號"
+
+#: src/CoreTempDataSource_info.cpp:173
+msgid "CPU Speed"
+msgstr "主頻"
+
+#: src/CoreTempDataSource_info.cpp:174
+msgid "Bus Speed"
+msgstr "外頻"
+
+#: src/CoreTempDataSource_info.cpp:175
+msgid "Multiplier"
+msgstr "倍頻"
+
+#: src/CoreTempDataSource_info.cpp:176
+msgid "VID"
+msgstr ""
+
+#: src/CoreTempDataSource_load.cpp:53
+msgid "CPU Load"
+msgstr "CPU 負載"
+
+#: src/CoreTempDataSource_load.cpp:58
+msgid "CPU Load Data"
+msgstr "CPU 負載數據"
+
+#: src/CoreTempDataSource_mtpr.cpp:53
+msgid "CPU Multiplier"
+msgstr "CPU 倍頻"
+
+#: src/CoreTempDataSource_mtpr.cpp:58
+msgid "CPU Multiplier Data"
+msgstr "CPU 倍頻數據"
+
+#: src/CoreTempDataSource_power.cpp:53
+msgid "CPU Power"
+msgstr "CPU 功耗"
+
+#: src/CoreTempDataSource_power.cpp:58
+msgid "CPU Power Consumption Data"
+msgstr "CPU 功耗數據"
+
+#: src/CoreTempDataSource_temp.cpp:53
+msgid "CPU Temperature"
+msgstr "CPU 溫度"
+
+#: src/CoreTempDataSource_temp.cpp:58
+msgid "CPU Temperature Data"
+msgstr "CPU 溫度數據"
+
+#: src/GPUZDataSource_info.cpp:53
+msgid "GPU Information Data"
+msgstr "GPU 信息數據"
+
+#: src/GPUZDataSource_info.cpp:58
+msgid "Graphic Card Information Data"
+msgstr "圖形卡信息數據"
+
+#: src/GPUZDataSource_sens.cpp:54
+msgid "GPU Sensor Data"
+msgstr "GPU 傳感器數據"
+
+#: src/GPUZDataSource_sens.cpp:59
+msgid "Graphic Card Sensor Data"
+msgstr "圖形卡傳感器數據"
+
+#: src/GPUZDataSource_sens.cpp:162
+msgid ""
+"The update parameter takes '[{min}, {max}]' string to define minimum and maximum values.\n"
+"Example: [0.0, 100.0]"
+msgstr ""
+"更新參數以“[{最小值}, {最大值}]”字符串定義最小值和最大值。\n"
+"例子：[0.0, 100.0]"
+
+#: src/HWiNFODataSource_data.cpp:80 src/HWiNFODataSource_data.cpp:89
+#: src/SpeedFanDataSource_temp.cpp:53 src/SpeedFanDataSource_temp.cpp:58
+msgid "Temperature Data"
+msgstr "溫度數據"
+
+#: src/HWiNFODataSource_data.cpp:81 src/HWiNFODataSource_data.cpp:90
+#: src/SpeedFanDataSource_volt.cpp:58 src/SpeedFanDataSource_volt.cpp:63
+msgid "Voltage Data"
+msgstr "電壓數據"
+
+#: src/HWiNFODataSource_data.cpp:82 src/HWiNFODataSource_data.cpp:91
+#: src/SpeedFanDataSource_fan.cpp:53 src/SpeedFanDataSource_fan.cpp:58
+msgid "Fan Speed Data"
+msgstr "風扇轉速數據"
+
+#: src/HWiNFODataSource_data.cpp:83 src/HWiNFODataSource_data.cpp:92
+msgid "Ammeter Data"
+msgstr "電流數據"
+
+#: src/HWiNFODataSource_data.cpp:84 src/HWiNFODataSource_data.cpp:93
+msgid "Power Consumption Data"
+msgstr "功耗數據"
+
+#: src/HWiNFODataSource_data.cpp:85 src/HWiNFODataSource_data.cpp:94
+msgid "Clock Frequency Data"
+msgstr "時鐘頻率數據"
+
+#: src/HWiNFODataSource_data.cpp:86 src/HWiNFODataSource_data.cpp:95
+msgid "Usage Data"
+msgstr "使用量數據"
+
+#: src/HWiNFODataSource_data.cpp:87 src/HWiNFODataSource_data.cpp:96
+msgid "Miscellaneous Data"
+msgstr "雜項數據"
+
+#: src/XmlDataSourceT_data.cpp:103 src/XmlDataSourceT_data.cpp:119
+msgid "System Data"
+msgstr "系統數據"
+
+#: include/defs.h:9
+msgid "Sensor Data Extension"
+msgstr "傳感器數據擴展"
+
+#: include/defs.h:10
+msgid "Sensor Data Extension for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua."
+msgstr ""
+
+#: include/strs.h:9
+#, c-format
+msgid "%s Data Proxy"
+msgstr "%s 數據代理"
+
+#: include/strs.h:14
+#, c-format
+msgid "Data available when %s is running and the 'Shared Memory' function is enabled."
+msgstr "僅當  %s 運行且啟用共享內存功能時數據可用。"
+
+#~ msgid "Core Temp Data Proxy"
+#~ msgstr "Core Temp 數據代理"
+
+#~ msgid "Data available when Core Temp is running."
+#~ msgstr "僅當 Core Temp 運行時數據可用。"
+
+#~ msgid "Core Temp CPU Load Data"
+#~ msgstr "Core Temp CPU 負載數據"
+
+#~ msgid "Core Temp CPU Multiplier Data"
+#~ msgstr "Core Temp CPU 倍頻數據"
+
+#~ msgid "Core Temp CPU Temperature Data"
+#~ msgstr "Core Temp CPU 溫度數據"
+
+#~ msgid "Data available when SpeedFan is running."
+#~ msgstr "僅當 SpeedFan 運行時數據可用。"
+
+#~ msgid "SpeedFan Fan Speed Data"
+#~ msgstr "SpeedFan 轉速數據"
+
+#~ msgid "SpeedFan Temperature Data"
+#~ msgstr "SpeedFan 溫度數據"
+
+#~ msgid "SpeedFan Voltage Data"
+#~ msgstr "SpeedFan 電壓數據"
