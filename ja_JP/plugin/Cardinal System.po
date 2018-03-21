@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cardinal System for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: ZOE、時雨月 <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/CardinalSystem.cpp:83
+msgid "New version available, I think it's time to update."
+msgstr "新バージョン発見！今すぐ更新する方が良いと思うよー☆"
+
+#: src/CardinalSystem.cpp:170
+msgid "Good night,"
+msgstr "おやすみなさい、"
+
+#: src/CardinalSystem.cpp:171
+msgid "Good morning,"
+msgstr "おはよー、"
+
+#: src/CardinalSystem.cpp:172
+msgid "Good afternoon,"
+msgstr "こんにちは、"
+
+#: src/CardinalSystem.cpp:173
+msgid "Good evening,"
+msgstr "こんばんは、"
+
+#: src/CardinalSystem.cpp:175
+msgid "I'm YUI."
+msgstr "ユイです。"
+
+#: src/CardinalSystem.cpp:176
+msgid "please call me YUI."
+msgstr "私のことを「ユイ」と呼んでくださいね。"
+
+#: src/CardinalSystem.cpp:177
+msgid "it's me, YUI!"
+msgstr "ユイダヨー（<ゝω·）~☆"
+
+#: src/CardinalSystem.cpp:178
+msgid "may I help you?"
+msgstr "何かお手伝う事はありますか？"
+
+#: src/CardinalSystem.cpp:179
+msgid "welcome back!"
+msgstr "お帰りなさい(*^__^*) "
+
+#: src/CardinalSystem.cpp:180
+msgid "long time no see."
+msgstr "久しぶりですね。"
+
+#: src/CardinalSystem.cpp:224
+msgid "Gesture functions have recovered."
+msgstr "ジェスチャ機能が回復しました。"
+
+#: src/CardinalSystem.cpp:225
+msgid "Gesture functions have disabled."
+msgstr "ジェスチャ機能が中断しました。"
+
+# ignore
+#: include/defs.h:9
+msgid "YUI-MHCP001"
+msgstr ""
+
+#: include/defs.h:10
+msgid "Mental Health Counseling Program 001(YUI) for SAO Utils"
+msgstr "SAOUtils 用プラグイン MHCP001（ユイ）"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:46+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: ZOE、時雨月\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/ImageObject.cpp:345
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO;*.GIF"
+msgstr "サポートするすべての形式|*.PNG;*.JPG;*.BMP;*.ICO;*.GIF"
+
+#: src/ImageObject.cpp:346
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "静画ファイル (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+#: src/ImageObject.cpp:347
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "アイコンファイル (*.ICO)|*.ICO"
+
+#: src/ImageObject.cpp:348
+msgid "Animation files (*.GIF)|*.GIF"
+msgstr "動画ファイル (*.GIF)|*.GIF"
+
+#: include/defs.h:9
+msgid "Image Widget"
+msgstr "イメージ ウィジェット"
+
+#: include/defs.h:10
+msgid "Image Widget for SAO Utils"
+msgstr "画像ウィジェットプラグイン"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

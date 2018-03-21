@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 23:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: テクニカル座、Moffu Moffu、ほーしょー、ZOE、時雨月\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/GGO/LauncherMenu.cpp:345 src/SAO/LauncherMenu.cpp:292
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+"- クリックでメニューを開けます、\n"
+"長押しや右クリックでアイコンを編集できます。"
+
+#: src/GGO/ListMenu.cpp:524 src/SAO/ListMenu.cpp:296
+msgid "- Modify this item."
+msgstr "- このアイテムを編集する。"
+
+#: src/GGO/ListMenu.cpp:531 src/SAO/ListMenu.cpp:304
+msgid "- Add new item."
+msgstr "- アイテムを追加する。"
+
+#: src/GGO/ListMenu.cpp:538 src/SAO/ListMenu.cpp:312
+msgid "- Drag to move item."
+msgstr "- ドラッグ・アンド・ドロップでアイテムを移動する。"
+
+#: src/GGO/ListMenu.cpp:545 src/SAO/ListMenu.cpp:320
+msgid "- Remove this item."
+msgstr "- このアイテムを削除する。"
+
+#: src/share/theme/HelpMenu.cpp:74
+msgid "User Guide"
+msgstr "取扱説明書"
+
+#: src/share/theme/HelpMenu.cpp:84
+msgid "About"
+msgstr "アバウト"
+
+#: src/share/theme/OptionMenu.cpp:78
+msgid "Switch Theme"
+msgstr "テーマ替え"
+
+#: src/share/theme/OptionMenu.cpp:88
+msgid "General"
+msgstr "一般"
+
+#: src/share/theme/OptionMenu.cpp:98
+msgid "Appearance"
+msgstr "外観"
+
+#: src/share/theme/OptionMenu.cpp:108
+msgid "Graphics"
+msgstr "図形"
+
+#: src/share/theme/OptionMenu.cpp:118
+msgid "Sounds"
+msgstr "音声"
+
+#: src/share/theme/OptionMenu.cpp:128
+msgid "Plug-ins"
+msgstr "プラグイン"
+
+#: src/share/theme/PluginMenu.cpp:90
+msgid "Manage Plug-ins"
+msgstr "プラグイン管理"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Enable plug-in [ %s ] ?"
+msgstr "プラグイン [ %s ] を有効にしますか？"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Disable plug-in [ %s ] ?"
+msgstr "プラグイン [ %s ] を無効にしますか？"
+
+#: src/share/theme/SettingMenu.cpp:75
+msgid "- Settings for SAO Utils."
+msgstr "- SAO Utils の設定。"
+
+#: src/share/theme/SettingMenu.cpp:86
+msgid "- Workshop of SAO Utils."
+msgstr "- SAO Utils のワークショップ。"
+
+#: src/share/theme/SettingMenu.cpp:97
+msgid "- Information of SAO Utils."
+msgstr "- SAO Utils の情報。"
+
+#: src/share/theme/SettingMenu.cpp:107
+msgid "- Shut down SAO Utils."
+msgstr "- SAO Utils を終了する。"
+
+#~ msgid ""
+#~ "- Click to edit current item,\n"
+#~ "long press or right click to expand operation menu."
+#~ msgstr ""
+#~ "- クリックでアイテムを編集します、\n"
+#~ "長押しや右クリックで操作メニューを開けます。"

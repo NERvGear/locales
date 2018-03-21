@@ -1,0 +1,1794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 17:21+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: テクニカル座、Moffu Moffu、ほーしょー、ZOE、時雨月\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/Core.cpp:15
+msgid "Oops!"
+msgstr "おっとぉ！？"
+
+#: src/Core.cpp:16
+msgid ""
+"NERvGear was already stopped :(\n"
+"Debugging information has been saved as files in the program folder.\n"
+"For more information, please enable 'Verbose Mode' to generate a complete "
+"log file."
+msgstr ""
+"NERvGear は予期せぬ原因によって動作停止しました。\n"
+"デバッグの情報はプログラムのフォルダで保存されました。\n"
+"より多くの情報を得るには、設定の詳細表示モードをオンにしてログファイルを作成"
+"してください。"
+
+#: src/NERvAPI/UI/MenuBase.cpp:230
+#, c-format
+msgid "Execute item [ %s ] ?"
+msgstr "[ %s ] を実行しますか？"
+
+#: src/NERvAPI/private.cpp:569
+msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
+msgstr ""
+"ソード・アート・オンライン世界のVRウィンドウの操作感を味わえるランチャー・ア"
+"プリケーション"
+
+#: src/NERvAPI/private.cpp:621
+msgid "Please input file or folder name:"
+msgstr "ファイルまたはフォルダの名前を入力してください。"
+
+#: src/NERvAPI/private.cpp:635
+msgid "Create File"
+msgstr "ファイル新規作成"
+
+#: src/NERvAPI/private.cpp:660
+msgid "Rename File"
+msgstr "ファイル名変更"
+
+#: src/NERvAPI/private.cpp:770
+msgid "Are you sure to drop the old menu ?"
+msgstr "該当のメニューを全て破棄してもよろしいですか？"
+
+#: src/PluginManager.cpp:361
+#, c-format
+msgid "Plug-in [%s] already installed, do you want to replace it ?"
+msgstr "プラグイン [%s] もう存在しています、交換してもよろしいいですか？"
+
+#: src/PluginManager.cpp:362
+msgid "Replace Plug-in"
+msgstr "プラグインを替え"
+
+#: src/PluginManager.cpp:411
+msgid "Plug-in installed, please restart program to enable it."
+msgstr ""
+"プラグインがインストールしました、プラグインを適用するためにプログラムを再起"
+"動してください。"
+
+#: src/PluginManager.cpp:412 src/PluginManager.cpp:422
+#: src/PluginManager.cpp:446
+msgid "Install Plug-in"
+msgstr "プラグインをインストール"
+
+#: src/PluginManager.cpp:422
+msgid "Plug-in installed successfully."
+msgstr "プラグインのインストールが無事に完了しました。"
+
+#: src/PluginManager.cpp:446
+msgid "Failed to install plug-in."
+msgstr "プラグインのインストールに失敗しました。"
+
+#: src/SAOUtils.cpp:15
+msgid ""
+"An instance of SAO Utils is already running in the background,\n"
+"please retry after it has stopped completely."
+msgstr ""
+"SAO Utils が既に実行されています、\n"
+"プログラムが停止した後再度起動できるかお試しください。"
+
+#: src/SteamManager.cpp:321
+msgid "Workshop item(s) installed"
+msgstr "ワークショップのアイテムをインストールしました"
+
+#: src/UI/Launcher.cpp:913
+msgid "Are you sure to exit ?"
+msgstr "本当にログアウトしますか？"
+
+#: src/UI/Launcher_widget.cpp:280
+msgid "Always on &Top"
+msgstr "最前面に表示(&T)"
+
+#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:101
+msgid "&Lock Launcher"
+msgstr "ランチャーをロック(&L)"
+
+#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:106
+msgid "&Preference"
+msgstr "設定(&P)"
+
+#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:108
+msgid "&Exit"
+msgstr "SAO Utils を終了する(&E)"
+
+#: src/UI/ThemeBox.cpp:151 src/UI/ThemeBox.cpp:305
+#: src/panel/DataPickerDialog.cpp:297 src/panel/DataPickerDialog.cpp:587
+msgid "<Preview Not Available>"
+msgstr "<プレビューができません>"
+
+#: src/UI/ThemeBox.cpp:309
+msgid "<No Themes Available>"
+msgstr "<テーマが見つけていません>"
+
+#: src/UI/TrayIcon.cpp:100
+msgid "&Disable Hotkeys"
+msgstr "ホットキーを無効にする(&D)"
+
+#: src/UI/TrayIcon.cpp:103
+msgid "&Switch Theme"
+msgstr "テーマ替え(&S)"
+
+#: src/UI/TrayIcon.cpp:105
+msgid "&Workshop"
+msgstr "ワークショップ (&W)"
+
+#: src/UI/Tutorial.cpp:52
+msgid "Welcome to SAO Utils!"
+msgstr "SAO Utils へようこそ！"
+
+#: src/UI/Tutorial.cpp:63
+msgid "Would you like to take a tutorial?"
+msgstr "「取扱説明書」を読みますか？"
+
+#: src/UIManager.cpp:153
+msgid "SAO Utils Starts Successfully."
+msgstr "ソード·アート·オンライン へようこそ。"
+
+#: src/component/DataSource.cpp:70
+msgid "NERvGear Data Collection"
+msgstr "ナーヴギアのデータ収集"
+
+#: src/component/DataSource.cpp:75
+msgid "Nerve Gear Data Collection"
+msgstr "ナーヴギアのデータ収集"
+
+#: src/component/DataSource_core.cpp:68
+msgid "Core Data"
+msgstr "コアデータ"
+
+#: src/component/DataSource_core.cpp:73
+msgid "Nerve Gear Core Data"
+msgstr "ナーヴギアのコアデータ"
+
+#: src/component/DataSource_core.cpp:205
+msgid "Total Component Service"
+msgstr "コンポーネントのサービス"
+
+#: src/component/DataSource_core.cpp:206
+msgid "Total Object Service"
+msgstr "対象のサービス"
+
+#: src/component/DataSource_core.cpp:207
+msgid "Total Lock Service"
+msgstr "サービスのロック"
+
+#: src/component/DataSource_core.cpp:208
+msgid "Total Component Usage"
+msgstr "コンポーネントの使用状況"
+
+#: src/component/DataSource_core.cpp:209
+msgid "Total Object Usage"
+msgstr "対象の使用状況"
+
+#: src/component/DataSource_core.cpp:210
+msgid "Total Private Object"
+msgstr "私有の対象"
+
+#: src/component/DataSource_core.cpp:220
+msgid ""
+"The update parameter takes UID of a plug-in to query module data, returning "
+"NERvGear module data as default.\n"
+"Example: 00000000-0000-0000-0000-000000000000"
+msgstr ""
+"更新のパラメータはプラグインのUIDによってデータモジュールのデータを検索しま"
+"す、NERvGear のデータは既定値に返します。\n"
+"例： 00000000-0000-0000-0000-000000000000"
+
+#: src/component/DataSource_cpu.cpp:81
+msgid "CPU Usage"
+msgstr "CPU の使用状況"
+
+#: src/component/DataSource_cpu.cpp:86
+msgid "CPU Performance Count"
+msgstr "CPU 性能の計算"
+
+#: src/component/DataSource_cpu.cpp:197
+msgid "Overall"
+msgstr "全体"
+
+#: src/component/DataSource_disk.cpp:56
+msgid "Hard Disk Usage"
+msgstr "ハードディスクの使用状況"
+
+#: src/component/DataSource_disk.cpp:61
+msgid "Free Disk Space Count"
+msgstr "ハードディスクの空き容量を計算"
+
+#: src/component/DataSource_disk.cpp:179
+msgid "Driver Space"
+msgstr "ドライブ空き容量"
+
+#: src/component/DataSource_disk.cpp:180
+msgid "Driver Cluster"
+msgstr "ドライバのクラスタ"
+
+#: src/component/DataSource_disk.cpp:190
+msgid ""
+"The update parameter takes a path to count free space of a disk drive, "
+"returning current disk drive data as default.\n"
+"Example: C:\\"
+msgstr ""
+"更新のパラメータはパスによってドライバの空き領域を計算する、現在のドライバが"
+"既定値に使います。\n"
+"Example: C:\\"
+
+#: src/component/DataSource_misc.cpp:49
+msgid "Miscellaneous Data"
+msgstr "雑多なデータ"
+
+#: src/component/DataSource_misc.cpp:54
+msgid "Useful Utilities Data"
+msgstr "便利なユーティリティのデータ"
+
+#: src/component/DataSource_misc.cpp:127 src/panel/InfoOptionPanel.cpp:70
+msgid "Custom Text"
+msgstr "カスタム本文"
+
+#: src/component/DataSource_misc.cpp:137
+msgid ""
+"The update parameter takes a custom text to return a string.\n"
+"Example: Welcome to Sword Art Online!"
+msgstr ""
+"更新のパラメータはカスタム文字列を返します。\n"
+"例： Welcome to Sword Art Online!"
+
+#: src/component/DataSource_power.cpp:59
+msgid "Power Data"
+msgstr "電源のデータ"
+
+#: src/component/DataSource_power.cpp:64
+msgid "System Power Status"
+msgstr "システム電源状態"
+
+#: src/component/DataSource_power.cpp:199
+msgid "AC Line Status"
+msgstr "電源ライン状態"
+
+#: src/component/DataSource_power.cpp:200
+msgid "Battery Status"
+msgstr "バッテリ状態"
+
+#: src/component/DataSource_power.cpp:201
+msgid "Life Time"
+msgstr "動く時間"
+
+#: src/component/DataSource_ram.cpp:68
+msgid "RAM Usage"
+msgstr "メモリ使用状況"
+
+#: src/component/DataSource_ram.cpp:73
+msgid "Available Memory Count"
+msgstr "利用可能な物理メモリ容量"
+
+#: src/component/DataSource_ram.cpp:196
+msgid "Physical Memory"
+msgstr "物理メモリ"
+
+#: src/component/DataSource_ram.cpp:197
+msgid "Virtual Memory"
+msgstr "仮想メモリ"
+
+#: src/component/DataSource_ram.cpp:198
+msgid "Page File"
+msgstr "ページファイル"
+
+#: src/component/DataSource_system.cpp:99
+msgid "System Data"
+msgstr "システムのデータ"
+
+#: src/component/DataSource_system.cpp:104
+msgid "Operator System Data"
+msgstr "オペレータシステムのデータ"
+
+#: src/component/DataSource_system.cpp:209
+msgid "OS Name"
+msgstr "OSの名前"
+
+#: src/component/DataSource_system.cpp:210
+msgid "OS Version"
+msgstr "OS のバージョン"
+
+#: src/component/DataSource_system.cpp:211
+msgid "OS Description"
+msgstr "OS の説明"
+
+#: src/component/DataSource_system.cpp:212
+msgid "OS Directory"
+msgstr "OS のパス"
+
+#: src/component/DataSource_system.cpp:213
+msgid "Processor"
+msgstr "プロセッサ"
+
+#: src/component/DataSource_system.cpp:214
+msgid "Installed Memory"
+msgstr "搭載メモリ"
+
+#: src/component/DataSource_system.cpp:215
+msgid "Computer Name"
+msgstr "コンピューターの名前"
+
+#: src/component/DataSource_system.cpp:216
+msgid "Account Name"
+msgstr "アカウント名"
+
+#: src/component/DataSource_system.cpp:217
+msgid "Current Date"
+msgstr "現在の日付"
+
+#: src/component/DataSource_system.cpp:218
+msgid "Current Time"
+msgstr "現在の時間"
+
+#: src/component/DataSource_system.cpp:219
+msgid "Device Uptime"
+msgstr "装置の稼働時間"
+
+#: src/component/DataSource_system.cpp:220
+msgid "Program Uptime"
+msgstr "プログラムの稼働時間"
+
+#: src/component/DataSource_system.cpp:233
+msgid ""
+"The update parameter takes ANSI C strftime() format string to format date or "
+"time.\n"
+"Example: %Y-%m-%d\n"
+"Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+msgstr ""
+"更新のパラメータは ANSI C strftime() フォーマット文字列によって日付または時間"
+"を正規化します。\n"
+"例： %Y-%m-%d\n"
+"参照： http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+
+#: src/panel/ActionOptionPanel.cpp:155
+msgid "Action"
+msgstr "操作"
+
+#: src/panel/ActionOptionPanel.cpp:162
+msgid "Program"
+msgstr "プログラム"
+
+#: src/panel/ActionOptionPanel.cpp:165
+msgid "Execute an existed program."
+msgstr "プログラムを実行"
+
+#: src/panel/ActionOptionPanel.cpp:167
+msgid "File"
+msgstr "ファイル"
+
+#: src/panel/ActionOptionPanel.cpp:169
+msgid "Open a file with associated program."
+msgstr "指定のファイルを特定のプログラムで開く"
+
+#: src/panel/ActionOptionPanel.cpp:171 src/panel/IconShopDialog.cpp:216
+msgid "Folder"
+msgstr "フォルダ"
+
+#: src/panel/ActionOptionPanel.cpp:173
+msgid "Open a folder in exlporer."
+msgstr "エクスプローラーでフォルダを開く"
+
+#: src/panel/ActionOptionPanel.cpp:175 src/panel/ActionOptionPanel.cpp:255
+msgid "URL"
+msgstr "URL"
+
+#: src/panel/ActionOptionPanel.cpp:177
+msgid "Open a web, file or e-mail address. "
+msgstr "指定されたウェブサイト、ファイル、メールアドレスを開く"
+
+#: src/panel/ActionOptionPanel.cpp:179
+msgid "Command"
+msgstr "コマンド プロンプト"
+
+#: src/panel/ActionOptionPanel.cpp:181
+msgid "Run a command or program with parameters."
+msgstr "コマンド、プログラムをパラメータ付きで実行する"
+
+#: src/panel/ActionOptionPanel.cpp:183 src/panel/InfoOptionPanel.cpp:74
+msgid "Extension"
+msgstr "エクステンション"
+
+#: src/panel/ActionOptionPanel.cpp:190 src/panel/DataPickerDialog.cpp:329
+#: src/panel/DataPickerDialog.cpp:337 src/panel/PreferenceSoundPanel.cpp:161
+msgid "..."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:195
+msgid "Confirm before action"
+msgstr "操作確認"
+
+#: src/panel/ActionOptionPanel.cpp:200
+msgid "Keep launcher after action"
+msgstr "ラウンチャーを維持する"
+
+#: src/panel/ActionOptionPanel.cpp:234
+msgid "Programs (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+msgstr ""
+"プログラム (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+
+#: src/panel/ActionOptionPanel.cpp:234 src/panel/ActionOptionPanel.cpp:240
+msgid "All files (*.*)|*.*"
+msgstr "すべてのファイル (*.*)|*.*"
+
+#: src/panel/ActionOptionPanel.cpp:255
+msgid "Please input a url with http:/file:/mailto: prefix."
+msgstr "http:/file:/mailto:の後にURLを入力してください"
+
+#: src/panel/ActionOptionPanel.cpp:262
+msgid "Please input a shell command"
+msgstr "コマンドを入力してください"
+
+#: src/panel/ActionOptionPanel.cpp:262
+msgid "Action Command"
+msgstr "操作コマンド"
+
+#: src/panel/DataPickerDialog.cpp:289
+msgid "Choose a value..."
+msgstr "値を選択してください"
+
+#: src/panel/DataPickerDialog.cpp:296 src/panel/IconShopDialog.cpp:221
+msgid "Preview"
+msgstr "プレビュー"
+
+#: src/panel/DataPickerDialog.cpp:302
+msgid "Cur. Value"
+msgstr "現在値"
+
+#: src/panel/DataPickerDialog.cpp:303
+msgid "Inv. Value"
+msgstr "逆数値"
+
+#: src/panel/DataPickerDialog.cpp:304
+msgid "Max. Value"
+msgstr "最大値"
+
+#: src/panel/DataPickerDialog.cpp:305
+msgid "Min. Value"
+msgstr "最小値"
+
+#: src/panel/DataPickerDialog.cpp:307
+msgid "Options"
+msgstr "設定"
+
+#: src/panel/DataPickerDialog.cpp:313
+msgid "Update value every"
+msgstr "更新の間隔"
+
+#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:371
+msgid "1"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:318
+msgid "Milliseconds"
+msgstr "ミリ秒"
+
+#: src/panel/DataPickerDialog.cpp:319
+msgid "Seconds"
+msgstr "秒"
+
+#: src/panel/DataPickerDialog.cpp:320
+msgid "Minutes"
+msgstr "分"
+
+#: src/panel/DataPickerDialog.cpp:321
+msgid "Hours"
+msgstr "時"
+
+#: src/panel/DataPickerDialog.cpp:322
+msgid "Days"
+msgstr "日"
+
+#: src/panel/DataPickerDialog.cpp:327
+msgid "Update Parameter"
+msgstr "更新のパラメータ"
+
+#: src/panel/DataPickerDialog.cpp:335
+msgid "Invoke Parameter"
+msgstr "実行のパラメータ"
+
+#: src/panel/DataPickerDialog.cpp:342
+msgid "Value Unit:"
+msgstr "値の単位："
+
+#: src/panel/DataPickerDialog.cpp:348
+msgid "Display as"
+msgstr "に表示する"
+
+#: src/panel/DataPickerDialog.cpp:362 src/panel/IconSettingDialog.cpp:449
+msgid "OK"
+msgstr "ＯＫ"
+
+#: src/panel/DataPickerDialog.cpp:365 src/panel/IconSettingDialog.cpp:450
+#: src/panel/PreferenceFrame.cpp:215 src/panel/WorkshopPublishDialog.cpp:232
+msgid "Cancel"
+msgstr "戻る"
+
+#: src/panel/DataPickerDialog.cpp:385
+msgid "<Unknown Data Source>"
+msgstr "<未知情報源>"
+
+#: src/panel/DataPickerDialog.cpp:396
+msgid "<Unknown Data>"
+msgstr "<未知データ>"
+
+#: src/panel/DataPickerDialog.cpp:403
+msgid "<Unknown Value>"
+msgstr "<未知値>"
+
+#: src/panel/DataPickerDialog.cpp:586
+msgid "<Loading Data...>"
+msgstr "<データ読込中...>"
+
+#: src/panel/GestureExcludeDialog.cpp:107
+msgid "Gesture Exclusions"
+msgstr "ジェスチャの除外"
+
+#: src/panel/GestureExcludeDialog.cpp:109
+msgid "Disable if following processes are running:"
+msgstr "以下にプロセスの実行中でジェスチャを無効にする:"
+
+#: src/panel/GestureExcludeDialog.cpp:113
+msgid "Process Name"
+msgstr "プロセス名："
+
+#: src/panel/GestureExcludeDialog.cpp:116
+msgid "Only detect processes running in foreground"
+msgstr "前景プロセスに限定する"
+
+#: src/panel/GestureExcludeDialog.cpp:119
+msgid "Other Exclusions"
+msgstr "その他の除外"
+
+#: src/panel/GestureExcludeDialog.cpp:120
+msgid "Disable mouse gesture in fullscreen mode"
+msgstr "フルスクリーンモードでジェスチャを無効にする"
+
+#: src/panel/IconPickerDialog.cpp:27 src/panel/WorkshopPublishDialog.cpp:210
+#: src/panel/WorkshopPublishDialog.cpp:218
+msgid "Browse"
+msgstr "参照..."
+
+#: src/panel/IconPickerDialog.cpp:57
+msgid "Icon Picker"
+msgstr "アイコン"
+
+#: src/panel/IconPickerDialog.cpp:60 src/panel/IconShopDialog.cpp:238
+msgid "Normal:"
+msgstr "通常時:"
+
+#: src/panel/IconPickerDialog.cpp:62
+msgid "Select an icon"
+msgstr "アイコン選択"
+
+#: src/panel/IconPickerDialog.cpp:66 src/panel/IconShopDialog.cpp:244
+msgid "Hover:"
+msgstr "ホバー:"
+
+#: src/panel/IconPickerDialog.cpp:68
+msgid "Select the hover icon"
+msgstr "ホバー（カーソルオン）時のアイコンを選択"
+
+#: src/panel/IconPickerDialog.cpp:72 src/panel/IconShopDialog.cpp:250
+msgid "Press:"
+msgstr "クリック:"
+
+#: src/panel/IconPickerDialog.cpp:74
+msgid "Select the press icon"
+msgstr "クリック時のアイコンを選択"
+
+#: src/panel/IconPickerDialog.cpp:77
+msgid "* Leave 'Press' icon blank to use same icon as Hover state."
+msgstr ""
+"クリック時のアイコンにホバー時のアイコンと同じ物を使う場合は空白にしてくださ"
+"い。"
+
+#: src/panel/IconSettingDialog.cpp:360
+msgid "Icon Settings"
+msgstr "アイコンの設定"
+
+#: src/panel/IconSettingDialog.cpp:364
+msgid "Icon Setting"
+msgstr "アイコンの設定"
+
+#: src/panel/IconSettingDialog.cpp:380 src/panel/IconShopDialog.cpp:231
+msgid "Icon"
+msgstr "アイコン"
+
+#: src/panel/IconSettingDialog.cpp:385 src/panel/WorkshopFrame.cpp:301
+msgid "Edit"
+msgstr "編集"
+
+#: src/panel/IconSettingDialog.cpp:390 src/panel/PreferencePluginPanel.cpp:212
+msgid "Name"
+msgstr "名前"
+
+#: src/panel/IconSettingDialog.cpp:397
+msgid "Sub-Menu"
+msgstr "サブメニュー"
+
+#: src/panel/IconSettingDialog.cpp:404
+msgid "Virtual Folder"
+msgstr "バーチャルのフォルダ"
+
+#: src/panel/IconSettingDialog.cpp:405
+msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
+msgstr "「バーチャルのフォルダ」でメニューを自由に編集することが出来ます。"
+
+#: src/panel/IconSettingDialog.cpp:407
+msgid "Real Folder"
+msgstr "リアルのフォルダ"
+
+#: src/panel/IconSettingDialog.cpp:409
+msgid ""
+"A 'Real Folder' sub-menu enables you to manage the files inside a folder."
+msgstr "「リアルのフォルダ」でフォルダのファイルを管理することが出来ます。"
+
+#: src/panel/IconSettingDialog.cpp:413
+msgid "Show File Icon"
+msgstr "ファイル アイコンを表示する"
+
+#: src/panel/IconSettingDialog.cpp:416
+msgid "Show File Extension"
+msgstr "ファイルの拡張子を表示する"
+
+#: src/panel/IconSettingDialog.cpp:420
+msgid "Click to choose a folder"
+msgstr "フォルダを選択する"
+
+#: src/panel/IconShopDialog.cpp:182 src/panel/IconShopDialog.cpp:183
+#: src/panel/IconShopDialog.cpp:184 src/panel/IconShopDialog.cpp:240
+#: src/panel/IconShopDialog.cpp:246 src/panel/IconShopDialog.cpp:252
+#: src/panel/IconShopDialog.cpp:537 src/panel/PluginInfoDialog.cpp:101
+#: src/panel/PluginInfoDialog.cpp:108 src/panel/PluginInfoDialog.cpp:113
+#: src/panel/PluginInfoDialog.cpp:119 src/panel/PluginInfoDialog.cpp:125
+#: src/panel/PluginInfoDialog.cpp:131 src/panel/PluginInfoDialog.cpp:137
+#: src/panel/PluginInfoDialog.cpp:143 src/panel/PluginInfoDialog.cpp:152
+#: src/panel/PluginInfoDialog.cpp:157 src/panel/PluginInfoDialog.cpp:163
+msgid "<N/A>"
+msgstr "<未指定>"
+
+#: src/panel/IconShopDialog.cpp:210
+msgid "Icon Shop"
+msgstr "アイコン設定"
+
+#: src/panel/IconShopDialog.cpp:256
+msgid "Custom..."
+msgstr "カスタマイズ "
+
+#: src/panel/IconShopDialog.cpp:381 src/panel/PreferenceGraphicPanel.cpp:333
+#: src/panel/PreferenceSoundPanel.cpp:254
+#: src/panel/PreferenceSoundPanel.cpp:284
+#: src/panel/PreferenceSoundPanel.cpp:332
+#: src/panel/PreferenceSoundPanel.cpp:479
+msgid "<Default>"
+msgstr "<未指定>"
+
+#: src/panel/InfoOptionPanel.cpp:63
+msgid "Info Panel"
+msgstr "ー情報ー"
+
+#: src/panel/InfoOptionPanel.cpp:85
+msgid "Static Image"
+msgstr "静画"
+
+#: src/panel/InfoOptionPanel.cpp:89
+msgid "Select a background image"
+msgstr "背景の画像を選択"
+
+#: src/panel/PluginInfoDialog.cpp:99
+msgid "Plug-in Information"
+msgstr "プラグイン情報"
+
+#: src/panel/PluginInfoDialog.cpp:111
+msgid "Module Name:"
+msgstr "モジュール名："
+
+#: src/panel/PluginInfoDialog.cpp:117
+msgid "Original Name:"
+msgstr "原名："
+
+#: src/panel/PluginInfoDialog.cpp:123 src/panel/PreferenceAboutPanel.cpp:125
+msgid "Developer:"
+msgstr "作者："
+
+#: src/panel/PluginInfoDialog.cpp:129 src/panel/PreferenceAboutPanel.cpp:137
+msgid "Website:"
+msgstr "開発者サイトURL："
+
+#: src/panel/PluginInfoDialog.cpp:135 src/panel/PreferenceAboutPanel.cpp:131
+msgid "E-Mail:"
+msgstr "Ｅメールアドレス："
+
+#: src/panel/PluginInfoDialog.cpp:141
+msgid "NERvSDK Version:"
+msgstr "NERvSDK バージョン："
+
+#: src/panel/PluginInfoDialog.cpp:147
+msgid "UUID:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:149
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+#: src/panel/PluginInfoDialog.cpp:155 src/panel/WorkshopPublishDialog.cpp:221
+msgid "Description:"
+msgstr "説明："
+
+#: src/panel/PluginInfoDialog.cpp:161
+msgid "Comment:"
+msgstr "コメント："
+
+#: src/panel/PreferenceAboutPanel.cpp:89 src/panel/PreferenceFrame.cpp:235
+msgid "About SAO Utils"
+msgstr "SAO Utils について"
+
+#: src/panel/PreferenceAboutPanel.cpp:102
+msgid ""
+"SAO Utils provides you a customizable 3D app launcher with varieties of "
+"themes, desktop widgets and powerful utilities.\n"
+"Its pluggable architecture allows you, the developer, to add any kinds of "
+"plug-ins to the core program.\n"
+"That's the reason why it was named as \"SAO Utils\" :)"
+msgstr ""
+"SAO Utils とは、さまざまなテーマやデスクトップウィジェットや強力なユーティリ"
+"ティを備えたカスタマイズ可能な 3D アプリランチャーです。\n"
+"メニューは任意のアプリケーションを起動したり、プラグインによって様々な機能を"
+"追加したり、お好きなだけカストマイズできます。\n"
+"まさにこのアプリケーションの名前通り　ヾ(*＞∀＜*)ﾉ"
+
+#: src/panel/PreferenceAboutPanel.cpp:105
+msgid "Information"
+msgstr "情報"
+
+#: src/panel/PreferenceAboutPanel.cpp:111
+msgid "Program Name:"
+msgstr "プログラム名："
+
+#: src/panel/PreferenceAboutPanel.cpp:118
+msgid "Version:"
+msgstr "バージョン："
+
+#: src/panel/PreferenceAboutPanel.cpp:127
+msgid "Joshua (GPBeta)"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "studiocghibli@gmail.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "mailto:studiocghibli@gmail.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com/post/develop/sao-utils/"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:193
+#: src/panel/PreferenceFrame.cpp:231
+msgid "Appearance Settings"
+msgstr "外観設定"
+
+#: src/panel/PreferenceAppearancePanel.cpp:205
+msgid "Launcher Mode"
+msgstr "ランチャーモード"
+
+#: src/panel/PreferenceAppearancePanel.cpp:207
+msgid "2D"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:209
+msgid "3D"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:213
+msgid "Launcher Position"
+msgstr "ランチャー表示位置"
+
+#: src/panel/PreferenceAppearancePanel.cpp:216
+msgid "Follow Cursor"
+msgstr "カーソル付近に表示"
+
+#: src/panel/PreferenceAppearancePanel.cpp:219
+msgid "Fixed:"
+msgstr "固定"
+
+#: src/panel/PreferenceAppearancePanel.cpp:222
+msgid "Left"
+msgstr "左"
+
+#: src/panel/PreferenceAppearancePanel.cpp:223
+msgid "Central"
+msgstr "中央"
+
+#: src/panel/PreferenceAppearancePanel.cpp:224
+msgid "Right"
+msgstr "右"
+
+#: src/panel/PreferenceAppearancePanel.cpp:229
+msgid "Background Density"
+msgstr "背景の透明度"
+
+#: src/panel/PreferenceAppearancePanel.cpp:232
+msgid "Thin"
+msgstr "薄い"
+
+#: src/panel/PreferenceAppearancePanel.cpp:236
+msgid "Thick"
+msgstr "濃い"
+
+#: src/panel/PreferenceAppearancePanel.cpp:241
+msgid "Notification Icon Position"
+msgstr "通知アイコンの位置"
+
+#: src/panel/PreferenceAppearancePanel.cpp:243
+msgid "Cross Screen"
+msgstr "クロススクリーン"
+
+#: src/panel/PreferenceAppearancePanel.cpp:248
+msgid "Top Left"
+msgstr "左上"
+
+#: src/panel/PreferenceAppearancePanel.cpp:249
+msgid "Top Centre"
+msgstr "上中央"
+
+#: src/panel/PreferenceAppearancePanel.cpp:250
+msgid "Top Right"
+msgstr "右上"
+
+#: src/panel/PreferenceAppearancePanel.cpp:251
+msgid "Centre Left"
+msgstr "中央左"
+
+#: src/panel/PreferenceAppearancePanel.cpp:252
+msgid "Centre"
+msgstr "真ん中"
+
+#: src/panel/PreferenceAppearancePanel.cpp:253
+msgid "Centre Right"
+msgstr "中央右"
+
+#: src/panel/PreferenceAppearancePanel.cpp:254
+msgid "Bottom Left"
+msgstr "左下"
+
+#: src/panel/PreferenceAppearancePanel.cpp:255
+msgid "Bottom Centre"
+msgstr "下中央"
+
+#: src/panel/PreferenceAppearancePanel.cpp:256
+msgid "Bottom Right"
+msgstr "右下"
+
+#: src/panel/PreferenceAppearancePanel.cpp:260
+msgid "Startup Animation"
+msgstr "起動アニメーション"
+
+#: src/panel/PreferenceAppearancePanel.cpp:262
+msgid "- Play 3D startup animation."
+msgstr "- 3Dの起動アニメーションを再生する。"
+
+#: src/panel/PreferenceAppearancePanel.cpp:264
+msgid "Show Splash"
+msgstr "起動画面を表示"
+
+#: src/panel/PreferenceAppearancePanel.cpp:266
+msgid "- Show splash screen on start-up."
+msgstr "- 起動時にスプラッシュ画面を表示します。"
+
+#: src/panel/PreferenceAppearancePanel.cpp:270
+msgid "3D FX"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:276
+msgid "Magnification Ratio"
+msgstr "倍率"
+
+#: src/panel/PreferenceAppearancePanel.cpp:279
+msgid "x0.5"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:284
+msgid "x2.0"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:289
+msgid "Camera Following Mouse"
+msgstr "カメラ付マウス"
+
+#: src/panel/PreferenceAppearancePanel.cpp:292
+msgid "Breathing Camera Effect"
+msgstr "カメラの呼吸効果"
+
+#: src/panel/PreferenceAppearancePanel.cpp:297
+msgid "Analog TV"
+msgstr "アナログテレビ"
+
+#: src/panel/PreferenceAppearancePanel.cpp:300
+#: src/panel/PreferenceAppearancePanel.cpp:309
+#: src/panel/PreferenceGraphicPanel.cpp:263
+msgid "Off"
+msgstr "オフ"
+
+#: src/panel/PreferenceAppearancePanel.cpp:301
+#: src/panel/PreferenceAppearancePanel.cpp:310
+msgid "Light"
+msgstr "軽い"
+
+#: src/panel/PreferenceAppearancePanel.cpp:302
+#: src/panel/PreferenceAppearancePanel.cpp:311
+#: src/panel/PreferenceGraphicPanel.cpp:238
+msgid "Medium"
+msgstr "中"
+
+#: src/panel/PreferenceAppearancePanel.cpp:303
+#: src/panel/PreferenceAppearancePanel.cpp:312
+msgid "Strong"
+msgstr "濃い"
+
+#: src/panel/PreferenceAppearancePanel.cpp:304
+msgid "Zoom"
+msgstr "ズーム"
+
+#: src/panel/PreferenceAppearancePanel.cpp:306
+msgid "Motion Blur"
+msgstr "モーションブラー"
+
+#: src/panel/PreferenceFrame.cpp:197
+msgid "Preferences"
+msgstr "設定"
+
+#: src/panel/PreferenceFrame.cpp:209 src/panel/PreferencePluginPanel.cpp:190
+msgid "Reset"
+msgstr "初期化"
+
+#: src/panel/PreferenceFrame.cpp:209
+msgid "Reset all settings"
+msgstr "全て初期設定に戻す"
+
+#: src/panel/PreferenceFrame.cpp:214
+msgid "Save"
+msgstr "保存"
+
+#: src/panel/PreferenceFrame.cpp:214
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: src/panel/PreferenceFrame.cpp:215
+msgid "Revert changes"
+msgstr "保存しない"
+
+#: src/panel/PreferenceFrame.cpp:230
+msgid "General"
+msgstr "一般"
+
+#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:248
+msgid "General Settings"
+msgstr "通常設定"
+
+#: src/panel/PreferenceFrame.cpp:231
+msgid "Appearance"
+msgstr "外観"
+
+#: src/panel/PreferenceFrame.cpp:232
+msgid "Graphics"
+msgstr "図形"
+
+#: src/panel/PreferenceFrame.cpp:232 src/panel/PreferenceGraphicPanel.cpp:201
+msgid "Graphics Settings"
+msgstr "図形設定"
+
+#: src/panel/PreferenceFrame.cpp:233
+msgid "Sounds"
+msgstr "音声"
+
+#: src/panel/PreferenceFrame.cpp:233 src/panel/PreferenceSoundPanel.cpp:133
+msgid "Sound Settings"
+msgstr "音声設定"
+
+#: src/panel/PreferenceFrame.cpp:234
+msgid "Plug-ins"
+msgstr "プラグイン"
+
+#: src/panel/PreferenceFrame.cpp:234 src/panel/PreferencePluginPanel.cpp:162
+msgid "Plug-in Settings"
+msgstr "プラグイン設定"
+
+#: src/panel/PreferenceFrame.cpp:235
+msgid "About"
+msgstr "アバウト"
+
+#: src/panel/PreferenceFrame.cpp:277
+msgid "Are you sure to reset all the settings?"
+msgstr "全設定を初期設定に戻します。よろしいですか？"
+
+#: src/panel/PreferenceGeneralPanel.cpp:260
+msgid "DPI Scaling"
+msgstr "DPI サポート"
+
+#: src/panel/PreferenceGeneralPanel.cpp:263
+msgid "Auto"
+msgstr "オート"
+
+#: src/panel/PreferenceGeneralPanel.cpp:266
+msgid "100%"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:268
+msgid "125%"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:270
+msgid "150%"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:272
+msgid "200%"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:276
+msgid "Lock Launcher"
+msgstr "ランチャーをロック"
+
+#: src/panel/PreferenceGeneralPanel.cpp:278
+msgid "- Disable editing launcher items."
+msgstr "ランチャーを固定して編集を不可能にします。"
+
+#: src/panel/PreferenceGeneralPanel.cpp:280
+msgid "Show Tooltips"
+msgstr "ヒントを表示"
+
+#: src/panel/PreferenceGeneralPanel.cpp:283
+msgid "Touch Friendly"
+msgstr "タブレット最適化"
+
+#: src/panel/PreferenceGeneralPanel.cpp:285
+msgid "- Provide better user experience for tablet devices."
+msgstr "- タブレットデバイスに良いユーザーエクスペリエンスを提供します。"
+
+#: src/panel/PreferenceGeneralPanel.cpp:289
+msgid "Hotkeys"
+msgstr "ホットキー"
+
+#: src/panel/PreferenceGeneralPanel.cpp:295
+msgid "Enable Mouse Gesture"
+msgstr "マウスジェスチャを有効にする"
+
+#: src/panel/PreferenceGeneralPanel.cpp:298
+msgid "&Exclusions..."
+msgstr "除外(&E)..."
+
+#: src/panel/PreferenceGeneralPanel.cpp:299
+msgid "- Manage mouse gesture exclusions."
+msgstr "- ジェスチャの除外に管理します。"
+
+#: src/panel/PreferenceGeneralPanel.cpp:304
+msgid "LMB + RMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:305
+msgid "LMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:306
+msgid "MMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:307
+msgid "RMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:308
+msgid "XBUTTON1"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:309
+msgid "XBUTTON2"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:311
+msgid "+ Slide Down"
+msgstr "+ 下にスライド"
+
+#: src/panel/PreferenceGeneralPanel.cpp:314
+msgid "Sensitive"
+msgstr "感度"
+
+#: src/panel/PreferenceGeneralPanel.cpp:317
+#: src/panel/PreferenceGraphicPanel.cpp:237
+msgid "Low"
+msgstr "低い"
+
+#: src/panel/PreferenceGeneralPanel.cpp:318
+msgid "Normal"
+msgstr "通常"
+
+#: src/panel/PreferenceGeneralPanel.cpp:319
+#: src/panel/PreferenceGraphicPanel.cpp:239
+msgid "High"
+msgstr "高い"
+
+#: src/panel/PreferenceGeneralPanel.cpp:323
+msgid "Enable Hotkey"
+msgstr "ホットキーを有効にする"
+
+#: src/panel/PreferenceGeneralPanel.cpp:328
+msgid "Ctrl"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:331
+msgid "Shift"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:334
+msgid "Alt"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:337
+msgid "Win"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:341
+msgid "+ Key"
+msgstr "+ 鍵"
+
+#: src/panel/PreferenceGeneralPanel.cpp:344
+msgid "A"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:345
+msgid "B"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:346
+msgid "C"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:347
+msgid "D"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:348
+msgid "E"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:349
+msgid "F"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:350
+msgid "G"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:351
+msgid "H"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:352
+msgid "I"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:353
+msgid "J"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:354
+msgid "K"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:355
+msgid "L"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:356
+msgid "M"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:357
+msgid "N"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:358
+msgid "O"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:359
+msgid "P"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:360
+msgid "Q"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:361
+msgid "R"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:362
+msgid "S"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:363
+msgid "T"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:364
+msgid "U"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:365
+msgid "V"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:366
+msgid "W"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:367
+msgid "X"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:368
+msgid "Y"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:369
+msgid "Z"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:370
+msgid "`"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:372
+msgid "2"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:373
+msgid "3"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:374
+msgid "4"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:375
+msgid "5"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:376
+msgid "6"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:377
+msgid "7"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:378
+msgid "8"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:379
+msgid "9"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:380
+#: src/panel/PreferenceGeneralPanel.cpp:404
+msgid "0"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:381
+msgid "-"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:382
+msgid "="
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:383
+msgid "\\"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:387
+msgid "Remap Win-Key"
+msgstr "Windows キーを SAO Utils 起動用にする"
+
+#: src/panel/PreferenceGeneralPanel.cpp:394
+msgid "MISC."
+msgstr "その他"
+
+#: src/panel/PreferenceGeneralPanel.cpp:401
+msgid "Start with Windows, delay for"
+msgstr "自動的に起動、遅れ"
+
+#: src/panel/PreferenceGeneralPanel.cpp:407
+msgid "seconds"
+msgstr "秒"
+
+#: src/panel/PreferenceGeneralPanel.cpp:410
+msgid "Verbose Mode"
+msgstr "詳細表示モード"
+
+#: src/panel/PreferenceGraphicPanel.cpp:213
+msgid "Video Adapter"
+msgstr "ビデオアダプタ"
+
+#: src/panel/PreferenceGraphicPanel.cpp:219
+msgid "Display Mode"
+msgstr "表示モード"
+
+#: src/panel/PreferenceGraphicPanel.cpp:222
+msgid "Direct3D 9"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:224
+msgid "Layered"
+msgstr "レイヤード"
+
+#: src/panel/PreferenceGraphicPanel.cpp:226
+msgid "- Recommended option with transparent background support."
+msgstr "- 推奨の選択。"
+
+#: src/panel/PreferenceGraphicPanel.cpp:228
+msgid "Standard"
+msgstr "標準"
+
+#: src/panel/PreferenceGraphicPanel.cpp:229
+msgid ""
+"- Recommended for any stereo mode,\n"
+"also fixes some performance or 3D graphic problems."
+msgstr ""
+"- 任意のステレオモードにおすすめで、\n"
+"パフォーマンスや 3D グラフィックの問題も修正可能。"
+
+#: src/panel/PreferenceGraphicPanel.cpp:233
+msgid "Texture Quality"
+msgstr "テクスチャ品質"
+
+#: src/panel/PreferenceGraphicPanel.cpp:242
+msgid "Texture Filtering"
+msgstr "テクスチャフィルタリング"
+
+#: src/panel/PreferenceGraphicPanel.cpp:245
+msgid "No Filtering"
+msgstr "フィルタリングしない"
+
+#: src/panel/PreferenceGraphicPanel.cpp:246
+msgid "Nearest Neighbor"
+msgstr "最近傍"
+
+#: src/panel/PreferenceGraphicPanel.cpp:247
+msgid "Bilinear"
+msgstr "バイリニア"
+
+#: src/panel/PreferenceGraphicPanel.cpp:248
+msgid "Trilinear"
+msgstr "三線性"
+
+#: src/panel/PreferenceGraphicPanel.cpp:249
+msgid "Anisotropic"
+msgstr "異方性"
+
+#: src/panel/PreferenceGraphicPanel.cpp:251
+msgid "Render Quality"
+msgstr "レンダリング品質"
+
+#: src/panel/PreferenceGraphicPanel.cpp:255
+msgid "High Performance"
+msgstr "高性能"
+
+#: src/panel/PreferenceGraphicPanel.cpp:256
+msgid "Balance"
+msgstr "平衡"
+
+#: src/panel/PreferenceGraphicPanel.cpp:257
+msgid "High Quality"
+msgstr "高品質"
+
+#: src/panel/PreferenceGraphicPanel.cpp:260
+msgid "Anti-aliasing"
+msgstr "アンチエイリアス"
+
+#: src/panel/PreferenceGraphicPanel.cpp:264
+msgid "FSAA"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:265
+msgid "MSAA 2X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:266
+msgid "MSAA 4X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:267
+msgid "MSAA 8X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:268
+msgid "MSAA 16X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:272
+msgid "Stereo"
+msgstr "立体化"
+
+#: src/panel/PreferenceGraphicPanel.cpp:279
+msgid "Disable"
+msgstr "無効にする"
+
+#: src/panel/PreferenceGraphicPanel.cpp:282
+msgid "Side by Side Stereo"
+msgstr "サイドバイサイド立体"
+
+#: src/panel/PreferenceGraphicPanel.cpp:284
+msgid "Anaglyph Stereo"
+msgstr "アナグリフ立体"
+
+#: src/panel/PreferenceGraphicPanel.cpp:288
+msgid "Stereoscopic Mode"
+msgstr "立体モード"
+
+#: src/panel/PreferenceGraphicPanel.cpp:291
+msgid "Half Size (Cropped)"
+msgstr "半分のサイズ（クロップ）"
+
+#: src/panel/PreferenceGraphicPanel.cpp:292
+msgid "Full Size (Squeezed)"
+msgstr "フルサイズ（スクイーズ）"
+
+#: src/panel/PreferenceGraphicPanel.cpp:293
+msgid "Full Size (Black Bars)"
+msgstr "フルサイズ（黒いバー）"
+
+#: src/panel/PreferenceGraphicPanel.cpp:297
+msgid "Zero Parallax"
+msgstr "ゼロ視差距離"
+
+#: src/panel/PreferenceGraphicPanel.cpp:300
+#: src/panel/PreferenceGraphicPanel.cpp:313
+msgid "Near"
+msgstr "近い"
+
+#: src/panel/PreferenceGraphicPanel.cpp:305
+#: src/panel/PreferenceGraphicPanel.cpp:318
+msgid "Far"
+msgstr "遠い"
+
+#: src/panel/PreferenceGraphicPanel.cpp:310
+msgid "Interaxial Separation"
+msgstr "軸間分離"
+
+#: src/panel/PreferencePluginPanel.cpp:150
+#: src/panel/PreferenceSoundPanel.cpp:255
+#: src/panel/PreferenceSoundPanel.cpp:373
+#: src/panel/PreferenceSoundPanel.cpp:480
+msgid "Yes"
+msgstr "はい"
+
+#: src/panel/PreferencePluginPanel.cpp:150
+#: src/panel/PreferenceSoundPanel.cpp:256
+#: src/panel/PreferenceSoundPanel.cpp:373
+msgid "No"
+msgstr "いいえ"
+
+#: src/panel/PreferencePluginPanel.cpp:174
+msgid "Enable Plug-ins"
+msgstr "プラグインを有効にする"
+
+#: src/panel/PreferencePluginPanel.cpp:177
+msgid "Get Updates"
+msgstr "更新を入手"
+
+#: src/panel/PreferencePluginPanel.cpp:180
+msgid "Install..."
+msgstr "インストール..."
+
+#: src/panel/PreferencePluginPanel.cpp:186
+msgid "Remove"
+msgstr "削除"
+
+#: src/panel/PreferencePluginPanel.cpp:188
+msgid "- Remove this plug-in. (Program restart required)"
+msgstr "- プラグインを削除する。（プログラム再起動が必要）"
+
+#: src/panel/PreferencePluginPanel.cpp:192
+msgid "- Reset this plug-in's settings."
+msgstr "- プラグインを初期設定に戻す。"
+
+#: src/panel/PreferencePluginPanel.cpp:194
+#: src/panel/PreferencePluginPanel.cpp:215
+#: src/panel/PreferenceSoundPanel.cpp:154
+#: src/panel/PreferenceSoundPanel.cpp:173
+msgid "Enable"
+msgstr "使用する"
+
+#: src/panel/PreferencePluginPanel.cpp:197
+msgid "Config"
+msgstr "設定"
+
+#: src/panel/PreferencePluginPanel.cpp:199
+msgid "Details..."
+msgstr "詳しい情報..."
+
+#: src/panel/PreferencePluginPanel.cpp:201
+msgid "?"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:202
+msgid "- Read plug-in guideline."
+msgstr "- プラグインの説明書を読む。"
+
+#: src/panel/PreferencePluginPanel.cpp:213
+msgid "Version"
+msgstr "バージョン"
+
+#: src/panel/PreferencePluginPanel.cpp:214
+msgid "Author"
+msgstr "作者"
+
+#: src/panel/PreferencePluginPanel.cpp:397
+msgid "Nerve Gear Package (*.NVG)|*.NVG"
+msgstr "ナーヴギアのパッケージ (*.NVG)|*.NVG"
+
+#: src/panel/PreferenceSoundPanel.cpp:145
+msgid "Enable Sounds"
+msgstr "サウンドをオンにする"
+
+#: src/panel/PreferenceSoundPanel.cpp:148
+msgid "Presets..."
+msgstr "プリセット..."
+
+#: src/panel/PreferenceSoundPanel.cpp:159
+msgid "Playback"
+msgstr "再生"
+
+#: src/panel/PreferenceSoundPanel.cpp:171
+msgid "Events"
+msgstr "イベント"
+
+#: src/panel/PreferenceSoundPanel.cpp:172
+msgid "Sound Files"
+msgstr "Sound Files"
+
+#: src/panel/PreferenceSoundPanel.cpp:179
+msgid "Program Start"
+msgstr "プログラム起動"
+
+#: src/panel/PreferenceSoundPanel.cpp:182
+msgid "Program Ready"
+msgstr "準備完了"
+
+#: src/panel/PreferenceSoundPanel.cpp:185
+msgid "Launcher Show"
+msgstr "ランチャーを表示"
+
+#: src/panel/PreferenceSoundPanel.cpp:188
+msgid "Launcher Hide"
+msgstr "ランチャーを隠す"
+
+#: src/panel/PreferenceSoundPanel.cpp:191
+msgid "Message Show"
+msgstr "メッセージ表示"
+
+#: src/panel/PreferenceSoundPanel.cpp:194
+msgid "Message Hide"
+msgstr "メッセージ隠し"
+
+#: src/panel/PreferenceSoundPanel.cpp:197
+msgid "Menu Popup"
+msgstr "メニュー表示"
+
+#: src/panel/PreferenceSoundPanel.cpp:203
+msgid "Panel Popup"
+msgstr "パネル表示"
+
+#: src/panel/PreferenceSoundPanel.cpp:206
+msgid "Item Select"
+msgstr "アイテム選択"
+
+#: src/panel/PreferenceSoundPanel.cpp:209
+msgid "Message Notify"
+msgstr "メッセージ通知"
+
+#: src/panel/PreferenceSoundPanel.cpp:212
+msgid "System Notify"
+msgstr "システム通知"
+
+#: src/panel/PreferenceSoundPanel.cpp:215
+msgid "System Forbid"
+msgstr "システム禁止"
+
+#: src/panel/PreferenceSoundPanel.cpp:218
+msgid "System Alert"
+msgstr "システム警告"
+
+#: src/panel/PreferenceSoundPanel.cpp:389
+msgid "Wave files (*.WAV)|*.WAV"
+msgstr "音声ファイル (*.WAV)|*.WAV"
+
+#: src/panel/PreferenceSoundPanel.cpp:445
+msgid "&Default Settings"
+msgstr "既定設定(&D)"
+
+#: src/panel/PreferenceSoundPanel.cpp:460
+msgid "&Import Presets..."
+msgstr "プリセットを輸入(&I)..."
+
+#: src/panel/PreferenceSoundPanel.cpp:461
+msgid "&Export Presets..."
+msgstr "プリセットを輸出(&E)..."
+
+#: src/panel/PreferenceSoundPanel.cpp:488
+#: src/panel/PreferenceSoundPanel.cpp:501
+msgid "Preset files (*.PRESET)|*.PRESET"
+msgstr "プリセットファイル (*.PRESET)|*.PRESET"
+
+#: src/panel/WorkshopFrame.cpp:228
+msgid "Warning"
+msgstr "警告"
+
+#: src/panel/WorkshopFrame.cpp:252
+msgid "Aincrad Workshop"
+msgstr "ワークショップ"
+
+#: src/panel/WorkshopFrame.cpp:259 src/panel/WorkshopFrame.cpp:272
+#: src/panel/WorkshopFrame.cpp:285
+msgid "Comming soon!"
+msgstr "近日発売！"
+
+#: src/panel/WorkshopFrame.cpp:261 src/panel/WorkshopFrame.cpp:274
+#: src/panel/WorkshopFrame.cpp:287
+msgid "View on Steam"
+msgstr "Steam で見る"
+
+#: src/panel/WorkshopFrame.cpp:299
+msgid "Create"
+msgstr "新規作成"
+
+#: src/panel/WorkshopFrame.cpp:303
+msgid "Delete"
+msgstr "削除する"
+
+#: src/panel/WorkshopFrame.cpp:305
+msgid "View"
+msgstr "閲覧"
+
+#: src/panel/WorkshopFrame.cpp:308
+msgid "Refresh List"
+msgstr "リストを更新する"
+
+#: src/panel/WorkshopFrame.cpp:314
+msgid "Online Shop"
+msgstr "オンラインショップ"
+
+#: src/panel/WorkshopFrame.cpp:315
+msgid "Subscribed Items"
+msgstr "サブスクライブ中"
+
+#: src/panel/WorkshopFrame.cpp:316
+msgid "Favorited Items"
+msgstr "お気に入り"
+
+#: src/panel/WorkshopFrame.cpp:317
+msgid "My Items"
+msgstr "アイテム"
+
+#: src/panel/WorkshopFrame.cpp:388
+msgid "Now Loading..."
+msgstr "少女祈祷中・・・"
+
+#: src/panel/WorkshopFrame.cpp:485
+msgid "Failed to create the workshop item."
+msgstr "アイテムの作成に失敗しました。"
+
+#: src/panel/WorkshopFrame.cpp:486 src/panel/WorkshopFrame.cpp:502
+#: src/panel/WorkshopPublishDialog.cpp:336
+msgid "Error"
+msgstr "エラー"
+
+#: src/panel/WorkshopFrame.cpp:501
+msgid "Failed to delete the workshop item."
+msgstr "アイテムの削除に失敗しました。"
+
+#: src/panel/WorkshopFrame.cpp:532
+msgid "Creating workshop item..."
+msgstr "アイテム作成中・・・"
+
+#: src/panel/WorkshopFrame.cpp:548
+msgid "Deleting workshop item..."
+msgstr "アイテム削除中・・・"
+
+#: src/panel/WorkshopPublishDialog.cpp:192
+msgid "Publish Workshop Item"
+msgstr "アイテムの出版"
+
+#: src/panel/WorkshopPublishDialog.cpp:195
+msgid "Title"
+msgstr "タイトル"
+
+#: src/panel/WorkshopPublishDialog.cpp:199
+msgid "Type"
+msgstr "タイプ"
+
+#: src/panel/WorkshopPublishDialog.cpp:202
+msgid "Icon Set"
+msgstr "アイコンセット"
+
+#: src/panel/WorkshopPublishDialog.cpp:205
+msgid "Cover Image: (< 1 MB, Recommended Aspect 16:9)"
+msgstr "表紙画像：（< 1 MB、推奨アスペクト比 16:9）"
+
+#: src/panel/WorkshopPublishDialog.cpp:213
+msgid "Resource Folder:"
+msgstr "リソースフォルダ："
+
+#: src/panel/WorkshopPublishDialog.cpp:225
+msgid "Change Note:"
+msgstr "変更メモ："
+
+#: src/panel/WorkshopPublishDialog.cpp:230
+msgid "Submit"
+msgstr "提出する"
+
+#: src/panel/WorkshopPublishDialog.cpp:241
+msgid "Leave it blank to keep original data"
+msgstr "元のデータを保持する場合は空欄にしてください"
+
+#: src/panel/WorkshopPublishDialog.cpp:321
+msgid ""
+"Failed to update the workshop item.\n"
+"Error Code: "
+msgstr ""
+"アイテムの更新に失敗しました。\n"
+"エラーコード："
+
+#: src/panel/WorkshopPublishDialog.cpp:378
+msgid "Updating workshop item..."
+msgstr "アイテム更新中・・・"
+
+#: src/panel/WorkshopPublishDialog.cpp:391
+msgid "Image files (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
+msgstr "静画ファイル (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
+
+#: include/utils/preference.h:22
+#, c-format
+msgid ""
+"Remove [ %s ] ?\n"
+"(Please disable responding plug-in manually)"
+msgstr ""
+"[%s] を削除しますか？\n"
+"(プラグインを手動で無効にしてください)"

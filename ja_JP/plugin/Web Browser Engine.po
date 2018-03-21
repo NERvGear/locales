@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Browser Engine for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-03 17:23+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: StudioGPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/BrowserObject.cpp:543
+msgid "Please input URL:"
+msgstr "URLを入力してください："
+
+#: src/BrowserObject.cpp:543
+msgid "Go to..."
+msgstr "移動する…"
+
+#: src/CefBrowserClient.cpp:548
+#, c-format
+msgid "Go to %s"
+msgstr "%sに移動"
+
+#: src/CefBrowserClient.cpp:553
+msgid "Open link in new tab"
+msgstr "新しいタブでリンクを開く"
+
+#: src/CefBrowserClient.cpp:554
+msgid "Open link in external browser"
+msgstr "外部ブラウザでリンクを開く"
+
+#: src/CefBrowserClient.cpp:555
+msgid "Copy link address"
+msgstr "リンクアドレスをコピーする"
+
+#: src/CefBrowserClient.cpp:558
+msgid "Refresh"
+msgstr "リロード"
+
+#: src/CefBrowserClient.cpp:560
+msgid "Developer tools"
+msgstr "開発者ツール"
+
+#: src/CefBrowserClient.cpp:562
+msgid "Open external browser"
+msgstr "外部ブラウザを開く"
+
+#: src/CefBrowserClient.cpp:700
+msgid "This page is not available"
+msgstr "このページは利用できません"
+
+#: src/CefBrowserClient.cpp:707
+msgid "Reload"
+msgstr "リロード"
+
+#: src/WebBrowserEngine.cpp:168
+msgid "Chromium command line switches:"
+msgstr "Chromiumコマンドラインスイッチ："
+
+#: include/defs.h:9
+msgid "Web Browser Engine"
+msgstr "ウェブブラウザエンジン"
+
+#: include/defs.h:10
+msgid "Web Browser Engine Plug-in for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

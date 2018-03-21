@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 23:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: ZOE、時雨月\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: ja_JP\n"
+
+#: src/MailBox.cpp:139
+msgid "<Untitled>"
+msgstr "<無題>"
+
+#: src/MailBox.cpp:280
+#, c-format
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+"%s\n"
+"%d 未読メッセージ"
+
+#: src/MsgBox.cpp:180
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr "<'HTML を開く' をクリックして内容を読みます>"
+
+#: src/MsgBox.cpp:295
+msgid "Reply"
+msgstr "返　　信"
+
+#: src/MsgBox.cpp:300
+msgid "Mark  Read"
+msgstr "既　　読"
+
+#: src/MsgBox.cpp:305
+msgid "Read  Later"
+msgstr "後で読む"
+
+#: src/MsgBox.cpp:310
+msgid "Open  HTML"
+msgstr "HTML を開く"
+
+#: src/MsgBox.cpp:314
+msgid "Ignore  All"
+msgstr "全部無視"
+
+#: src/task.cpp:21
+#, c-format
+msgid "Failed to test %s server."
+msgstr "サーバー%sのテストに失敗しました。"
+
+#: src/task.cpp:22
+#, c-format
+msgid "Cannot connect to server: %s:%d."
+msgstr "サーバー%s:%dに接続できません。"
+
+#: src/task.cpp:23
+#, c-format
+msgid "Cannot login to %s server, %s."
+msgstr "サーバー%sにログインできません、%s。"
+
+#: src/task.cpp:24
+msgid "Cannot retrieve message list."
+msgstr "メールリスト取得できません。"
+
+#: src/task.cpp:27
+msgid "invalid user name or password"
+msgstr "無効なユーザー名やパスワード"
+
+#: src/task.cpp:207 src/panel/ComposeDialog.cpp:298
+msgid "Failed to send message."
+msgstr "メールの送信に失敗しました。"
+
+#: src/task.cpp:257
+msgid "Message rejected by server."
+msgstr "メールがサーバーに拒否されました。"
+
+#: src/task.cpp:345
+msgid "Failed to receive message."
+msgstr "メールの受信に失敗しました。"
+
+#: src/task.cpp:378
+msgid "Cannot download message."
+msgstr "メールをダウンロードできません。"
+
+#: src/task.cpp:379
+msgid "Cannot find specified message."
+msgstr "指定されたメールが見つかりません。"
+
+#: src/task.cpp:402
+msgid "Failed to fetch message list."
+msgstr "メールの検索に失敗しました。"
+
+#: src/WidgetObject.cpp:133 src/panel/ComposeDialog.cpp:175
+msgid "Compose Message"
+msgstr "新規メール"
+
+#: src/WidgetObject.cpp:143
+msgid "Online User"
+msgstr "プレーヤーズ"
+
+#: src/WidgetObject.cpp:153
+msgid "Inbox"
+msgstr "受信箱"
+
+#: src/WidgetObject.cpp:163
+msgid "Option"
+msgstr "オプション"
+
+#: src/panel/ComposeDialog.cpp:120
+msgid "- Hide original message."
+msgstr "- 元のメールを非表示する。"
+
+#: src/panel/ComposeDialog.cpp:123
+msgid "- Show original message."
+msgstr "- 元のメールを表示する。"
+
+#: src/panel/ComposeDialog.cpp:180
+msgid "From"
+msgstr "送信者"
+
+#: src/panel/ComposeDialog.cpp:185
+msgid "To"
+msgstr "受信者"
+
+#: src/panel/ComposeDialog.cpp:189
+msgid "Subject"
+msgstr "主題"
+
+#: src/panel/ComposeDialog.cpp:194
+msgid "Attachment"
+msgstr "取り付け"
+
+#: src/panel/ComposeDialog.cpp:195
+msgid "<Not implemented yet!>"
+msgstr "<まだ実装されていません！>"
+
+#: src/panel/ComposeDialog.cpp:215
+msgid "Original Message"
+msgstr "元のメール"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send"
+msgstr "送信"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send message"
+msgstr "送信する"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard"
+msgstr "削除"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard message"
+msgstr "メールを削除する"
+
+#: src/panel/ComposeDialog.cpp:266
+msgid "Discard editing message ?"
+msgstr "編集中のメールを削除しますか？"
+
+#: src/panel/ComposeDialog.cpp:276
+msgid "Please input recipient."
+msgstr "受信者を入力してください。"
+
+#: src/panel/ComposeDialog.cpp:283
+msgid "Sending message......"
+msgstr "送信中……"
+
+#: src/panel/ComposeDialog.cpp:328
+msgid "Message sent."
+msgstr "メールを送信しました。"
+
+#: src/panel/ConfigDialog.cpp:226
+msgid "Mail Box"
+msgstr "メールボックス"
+
+#: src/panel/ConfigDialog.cpp:228
+msgid "Email Account Settings"
+msgstr "メールアカウントの設定"
+
+#: src/panel/ConfigDialog.cpp:230
+msgid "Email Address:"
+msgstr "メールアドレス:"
+
+#: src/panel/ConfigDialog.cpp:239
+msgid "Server Address"
+msgstr "サーバーアドレス"
+
+#: src/panel/ConfigDialog.cpp:242
+msgid "Port"
+msgstr "ポート"
+
+#: src/panel/ConfigDialog.cpp:245
+msgid "Secure"
+msgstr "セキュア"
+
+#: src/panel/ConfigDialog.cpp:251
+msgid "POP3 Server:"
+msgstr "POP3 サーバー:"
+
+#: src/panel/ConfigDialog.cpp:260 src/panel/ConfigDialog.cpp:276
+msgid "None"
+msgstr "無し"
+
+#: src/panel/ConfigDialog.cpp:261 src/panel/ConfigDialog.cpp:277
+msgid "SSL"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:262 src/panel/ConfigDialog.cpp:278
+msgid "TLS"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:267
+msgid "SMTP Server:"
+msgstr "SMTP サーバー:"
+
+#: src/panel/ConfigDialog.cpp:283
+msgid "Username:"
+msgstr "ユーザ名:"
+
+#: src/panel/ConfigDialog.cpp:287
+msgid "Password:"
+msgstr "パスワード:"
+
+#: src/panel/ConfigDialog.cpp:292
+msgid "Click to test account setting"
+msgstr "アカウント設定をテストする"
+
+#: src/panel/ConfigDialog.cpp:294
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr "* POP3サーバーにログインできない場合は、SSLをお試しください。"
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Do not contain chat history in reply messages"
+msgstr "返信にチャットの履歴を含まない"
+
+#: src/panel/ConfigDialog.cpp:303
+msgid "Check for new messages every"
+msgstr "次の時間ごとに自動的に送受信を実行する"
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "minutes"
+msgstr "分"
+
+#: src/panel/ConfigDialog.cpp:313
+msgid "Display Name (in Online User list):"
+msgstr "表示名 (オンライン·ユーザーに):"
+
+#: src/panel/ConfigDialog.cpp:320
+msgid "Signature text:"
+msgstr "署名文:"
+
+# ignore
+#: src/panel/ConfigDialog.cpp:329
+msgid "OK"
+msgstr ""
+
+#: src/panel/ConfigDialog.cpp:411
+msgid "Please input email address!"
+msgstr "メールアドレスを入力してください！"
+
+#: src/panel/ConfigDialog.cpp:418
+msgid "Please input POP3 server!"
+msgstr "POP3サーバーを入力してください！"
+
+#: src/panel/ConfigDialog.cpp:425
+msgid "Please input SMTP server!"
+msgstr "SMTPサーバーを入力してください！"
+
+#: src/panel/ConfigDialog.cpp:432
+msgid "Please input user name!"
+msgstr "ユーザ名を入力してください！"
+
+#: src/panel/ConfigDialog.cpp:439
+msgid "Please input password!"
+msgstr "パスワードを入力してください！"
+
+#: src/panel/ConfigDialog.cpp:446
+msgid "Connecting to server......"
+msgstr "サーバーに接続しています……"
+
+#: src/panel/ConfigDialog.cpp:482
+msgid "Test Passed!"
+msgstr "テスト成功しました！"
+
+#: src/panel/UserEditDialog.cpp:52
+msgid "Display Name:"
+msgstr "表示名:"
+
+#: src/panel/UserEditDialog.cpp:57
+msgid "Locale:"
+msgstr "ロケール:"
+
+#: src/panel/UserInfoPanel.cpp:116 src/panel/UserInfoPanel.cpp:120
+#: src/panel/UserListDialog.cpp:143 src/panel/UserListDialog.cpp:173
+msgid "<N/A>"
+msgstr ""
+
+#: src/panel/UserListDialog.cpp:140 src/panel/UserMenu.cpp:64
+msgid "Add Friend"
+msgstr "友達に追加する"
+
+#: src/panel/UserListDialog.cpp:169 src/panel/UserMenu.cpp:60
+msgid "Edit Friend"
+msgstr "編集する"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records match your search."
+msgstr "似合う記録がありません。"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records currently, please come back later!"
+msgstr "情報はありません、後で戻ってくるしてください！"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "My Friends"
+msgstr "友人リスト"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "Online Users"
+msgstr "オンライン·ユーザー"
+
+#: src/panel/UserListDialog.cpp:320
+msgid "User List"
+msgstr "ユーザリスト"
+
+#: src/panel/UserListDialog.cpp:336
+msgid "Search user name or email address"
+msgstr "ユーザ名やメールアドレスを検索し"
+
+#: src/panel/UserListDialog.cpp:346
+msgid "Previous"
+msgstr "前のページ"
+
+#: src/panel/UserListDialog.cpp:354
+msgid "Next"
+msgstr "次のページ"
+
+#: src/panel/UserListDialog.cpp:387
+msgid "Loading online users, please wait..."
+msgstr "オンラインユーザの検索中ですので、お待ちください。"
+
+#: src/panel/UserMenu.cpp:52
+msgid "Send Mail"
+msgstr "メールを送信する"
+
+#: src/panel/UserMenu.cpp:56
+msgid "New Friend"
+msgstr "友人を作る"
+
+#: src/panel/UserMenu.cpp:61
+msgid "Remove Friend"
+msgstr "削除する"
+
+#: include/defs.h:10
+msgid "Mail Box for SAO Utils"
+msgstr "メールプラグイン"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
+
+#: include/defs.h:27
+msgid "- Sent from SAO Utils Mail Box"
+msgstr "- SAO Utils メール"

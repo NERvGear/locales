@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GGO Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-19 13:00+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/ContextMenu.cpp:62
+msgid "Left Shift"
+msgstr "左へ"
+
+#: src/ContextMenu.cpp:63
+msgid "Right Shift"
+msgstr "右へ"
+
+#: src/ContextMenu.cpp:64
+msgid "Row Up"
+msgstr "上へ"
+
+#: src/ContextMenu.cpp:65
+msgid "Row Down"
+msgstr "下へ"
+
+#: src/ContextMenu.cpp:66
+msgid "Reorder"
+msgstr "整理し直し"
+
+#: src/ContextMenu.cpp:69
+msgid "Preset A (Large)"
+msgstr "プリセット A(大)"
+
+#: src/ContextMenu.cpp:70
+msgid "Preset B (Large)"
+msgstr "プリセット B(大)"
+
+#: src/ContextMenu.cpp:71
+msgid "Preset C (Medium)"
+msgstr "プリセット C(中)"
+
+#: src/ContextMenu.cpp:72
+msgid "Preset D (Medium)"
+msgstr "プリセット D(中)"
+
+#: src/ContextMenu.cpp:73
+msgid "Preset E (Small)"
+msgstr "プリセット E(小)"
+
+#: src/ContextMenu.cpp:74
+msgid "Preset F (Small)"
+msgstr "プリセット F(小)"
+
+#: src/ContextMenu.cpp:75
+msgid "Customize..."
+msgstr "カスタマイズ..."
+
+#: src/ContextMenu.cpp:76
+msgid "Resize"
+msgstr "サイズ変更"
+
+#: src/ContextMenu.cpp:79
+msgid "&New Item..."
+msgstr "アイテムを追加(&N)..."
+
+#: src/ContextMenu.cpp:80
+msgid "&Edit Item..."
+msgstr "アイテムを編集(&E)..."
+
+#: src/ContextMenu.cpp:81
+msgid "&Remove Item"
+msgstr "アイテムを削除(&R)..."
+
+#: src/ContextMenu.cpp:83
+msgid "New Row..."
+msgstr "行を追加..."
+
+#: src/ContextMenu.cpp:84
+msgid "Remove Row"
+msgstr "行を削除"
+
+#: src/ContextMenu.cpp:86
+msgid "New Widget"
+msgstr "ウィジェットを追加"
+
+#: src/ContextMenu.cpp:87
+msgid "Remove Widget"
+msgstr "ウィジェットを削除"
+
+#: src/ContextMenu.cpp:89
+msgid "Always on &Top"
+msgstr "最前面に表示(&T)"
+
+#: src/ContextMenu.cpp:90
+msgid "&Lock Widget"
+msgstr "ウィジェットをロック(&L)"
+
+#: src/ContextMenu.cpp:91
+msgid "&Transparent all Widgets"
+msgstr "ウィジェットを透明化(&T)"
+
+#: src/ContextMenu.cpp:93
+msgid "Top Left"
+msgstr "上左"
+
+#: src/ContextMenu.cpp:94
+msgid "Top Right"
+msgstr "上右"
+
+#: src/ContextMenu.cpp:95
+msgid "Bottom Left"
+msgstr "下左"
+
+#: src/ContextMenu.cpp:96
+msgid "Bottom Right"
+msgstr "下右"
+
+#: src/ContextMenu.cpp:97
+msgid "&Align To"
+msgstr "並べ(&A)"
+
+#: src/GGOWidget.cpp:103
+msgid "Are you sure to drop this widget ?"
+msgstr "該当のウィジェットを破棄してもよろしいですか？"
+
+#: src/WidgetObject.cpp:751
+#, c-format
+msgid "Please input item size (%d-%d):"
+msgstr "アイテムのサイズを入力してください (%d-%d)："
+
+#: src/WidgetObject.cpp:752
+msgid "Resize Item"
+msgstr "アイテムのサイズ"
+
+#: src/panel/EditItemDialog.cpp:137
+msgid "Item Settings"
+msgstr "アイテム設定"
+
+# ignore
+#: src/panel/EditItemDialog.cpp:140
+msgid "Name"
+msgstr ""
+
+#: src/panel/EditItemDialog.cpp:146
+msgid "Type Options"
+msgstr "タイプ設定"
+
+#: src/panel/EditItemDialog.cpp:152
+msgid "Empty Space"
+msgstr "空白"
+
+#: src/panel/EditItemDialog.cpp:154
+msgid "Static Image"
+msgstr "静画"
+
+#: src/panel/EditItemDialog.cpp:159
+msgid "Numeric or Text"
+msgstr "数値や文字列"
+
+#: src/panel/EditItemDialog.cpp:161
+msgid "Bar Chart"
+msgstr "バーグラフ"
+
+#: src/panel/EditItemDialog.cpp:163
+msgid "Histogram"
+msgstr "柱状グラフ"
+
+# ignore
+#: src/panel/EditItemDialog.cpp:166
+msgid "..."
+msgstr ""
+
+# ignore
+#: src/panel/EditItemDialog.cpp:174
+msgid "OK"
+msgstr ""
+
+# ignore
+#: src/panel/EditItemDialog.cpp:176
+msgid "Cancel"
+msgstr ""
+
+#: src/panel/EditItemDialog.cpp:223
+msgid "Click to choose an image"
+msgstr "静画を選択する"
+
+#: src/panel/EditItemDialog.cpp:229
+msgid "Click to choose a data"
+msgstr "データを選択する"
+
+#: src/panel/EditItemDialog.cpp:265
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "サポートするすべての形式|*.PNG;*.JPG;*.BMP;*.ICO"
+
+#: src/panel/EditItemDialog.cpp:266
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "静画ファイル (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+#: src/panel/EditItemDialog.cpp:267
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "アイコンファイル (*.ICO)|*.ICO"
+
+#: include/defs.h:9
+msgid "GGO Widget"
+msgstr "GGO ウィジェット"
+
+#: include/defs.h:10
+msgid "Gun Gale Online Status Widget for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
