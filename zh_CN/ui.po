@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 23:26+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/GGO/LauncherMenu.cpp:345 src/SAO/LauncherMenu.cpp:292
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+"- 点击展开菜单，\n"
+"长按或右键编辑当前项目。"
+
+#: src/GGO/ListMenu.cpp:524 src/SAO/ListMenu.cpp:296
+msgid "- Modify this item."
+msgstr "- 编辑此项目。"
+
+#: src/GGO/ListMenu.cpp:531 src/SAO/ListMenu.cpp:304
+msgid "- Add new item."
+msgstr "- 添加新项目。"
+
+#: src/GGO/ListMenu.cpp:538 src/SAO/ListMenu.cpp:312
+msgid "- Drag to move item."
+msgstr "- 拖拽移动项目。"
+
+#: src/GGO/ListMenu.cpp:545 src/SAO/ListMenu.cpp:320
+msgid "- Remove this item."
+msgstr "- 移除此项目。"
+
+#: src/share/theme/HelpMenu.cpp:74
+msgid "User Guide"
+msgstr "使用指南"
+
+#: src/share/theme/HelpMenu.cpp:84
+msgid "About"
+msgstr "关于"
+
+#: src/share/theme/OptionMenu.cpp:78
+msgid "Switch Theme"
+msgstr "切换主题"
+
+#: src/share/theme/OptionMenu.cpp:88
+msgid "General"
+msgstr "常规"
+
+#: src/share/theme/OptionMenu.cpp:98
+msgid "Appearance"
+msgstr "外观"
+
+#: src/share/theme/OptionMenu.cpp:108
+msgid "Graphics"
+msgstr "图形"
+
+#: src/share/theme/OptionMenu.cpp:118
+msgid "Sounds"
+msgstr "音效"
+
+#: src/share/theme/OptionMenu.cpp:128
+msgid "Plug-ins"
+msgstr "插件"
+
+#: src/share/theme/PluginMenu.cpp:90
+msgid "Manage Plug-ins"
+msgstr "管理插件"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Enable plug-in [ %s ] ?"
+msgstr "确认启用插件 [ %s ] ?"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Disable plug-in [ %s ] ?"
+msgstr "确认禁用插件 [ %s ] ?"
+
+#: src/share/theme/SettingMenu.cpp:75
+msgid "- Settings for SAO Utils."
+msgstr "- SAO Utils 设定。"
+
+#: src/share/theme/SettingMenu.cpp:86
+msgid "- Workshop of SAO Utils."
+msgstr "- SAO Utils 创意工坊。"
+
+#: src/share/theme/SettingMenu.cpp:97
+msgid "- Information of SAO Utils."
+msgstr "- SAO Utils 详情。"
+
+#: src/share/theme/SettingMenu.cpp:107
+msgid "- Shut down SAO Utils."
+msgstr "- 退出 SAO Utils。"
+
+#~ msgid ""
+#~ "- Click to edit current item,\n"
+#~ "long press or right click to expand operation menu."
+#~ msgstr ""
+#~ "- 点击编辑当前项目，\n"
+#~ "长按或右键展开操作菜单。"

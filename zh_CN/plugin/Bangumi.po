@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bangumi for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-01 01:48+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: \n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/Bangumi.cpp:187
+msgid "Retrieving animation list..."
+msgstr "正在获取动画列表…"
+
+#: src/Bangumi.cpp:202 src/Bangumi.cpp:492
+msgid "Cannot retrieve animation list."
+msgstr "无法获取动画列表。"
+
+#: src/Bangumi.cpp:486
+msgid "No records currently."
+msgstr "暂无记录。"
+
+#: src/BangumiDataSource.cpp:76
+msgid "Bangumi Data Collection"
+msgstr "Bangumi 数据收集"
+
+#: src/BangumiDataSource.cpp:81
+msgid "Bangumi Daily Animation Data Collection"
+msgstr "Bangumi 每日动画数据收集"
+
+#: src/BangumiDataSource.cpp:132
+msgid "Programme Schedule"
+msgstr "番组表"
+
+#: src/BangumiDataSource.cpp:137
+msgid "Animation Programme Schedule Data"
+msgstr "动画节目表数据"
+
+#: src/BangumiDataSource.cpp:260
+msgid "On-Air Animation"
+msgstr "正在上映动画"
+
+#: src/BangumiDataSource.cpp:261
+msgid "On-Air Animation Count"
+msgstr "正在上映动画数"
+
+#: src/BangumiDataSource.cpp:262
+msgid "Daily Animation Count"
+msgstr "每日上映动画数"
+
+#: src/ConfigDialog.cpp:47
+msgid "Bangumi"
+msgstr ""
+
+#: src/ConfigDialog.cpp:49
+msgid "Prefer local translation name"
+msgstr "优先显示本地翻译名字"
+
+#: src/ConfigDialog.cpp:52
+msgid "Prefer local  premiere time"
+msgstr "优先显示本地版权播放时间"
+
+#: src/ConfigDialog.cpp:56
+msgid "Hide special programs"
+msgstr "隐藏特别节目"
+
+#: src/ConfigDialog.cpp:60
+msgid "Treat midnight as another day"
+msgstr "把深夜当做转天"
+
+#: src/ConfigDialog.cpp:64
+msgid "Open web pages in external browser"
+msgstr "在外部浏览器打开视频页面"
+
+#: src/ConfigDialog.cpp:70
+msgid "Data sources supported by ACGDB.COM"
+msgstr "动画数据支持由 ACGDB.COM 提供"
+
+# ignore
+#: src/ConfigDialog.cpp:73
+msgid "OK"
+msgstr ""
+
+#: src/InfoBox.cpp:198
+msgid "Spring"
+msgstr "春"
+
+#: src/InfoBox.cpp:198
+msgid "Summer"
+msgstr "夏"
+
+#: src/InfoBox.cpp:198
+msgid "Autumn"
+msgstr "秋"
+
+#: src/InfoBox.cpp:198
+msgid "Winter"
+msgstr "冬"
+
+#: src/InfoBox.cpp:250
+#, c-format
+msgid "Premiere :   %s"
+msgstr "首映:　%s"
+
+#: src/InfoBox.cpp:256
+#, c-format
+msgid "Episode :   %s"
+msgstr "话数:　%s"
+
+#: src/InfoBox.cpp:262
+#, c-format
+msgid "Tags :   %s"
+msgstr "标签:　%s"
+
+#: src/InfoBox.cpp:267
+msgid "Description :"
+msgstr "故事背景:"
+
+#: src/InfoBox.cpp:289
+#, c-format
+msgid "Time :  %s"
+msgstr "时间:　%s"
+
+#: src/InfoBox.cpp:295
+msgid "ON AIR"
+msgstr "连载中"
+
+#: src/InfoBox.cpp:296
+msgid "OFF AIR"
+msgstr "停播"
+
+#: src/InfoBox.cpp:297
+msgid "FIN"
+msgstr "完结"
+
+#: src/InfoBox.cpp:299
+msgid "UNKNOWN"
+msgstr "未知"
+
+#: src/InfoBox.cpp:301
+#, c-format
+msgid "State :  %s"
+msgstr "状态:　%s"
+
+#: include/defs.h:11
+msgid "Daily Animation Widget for SAO Utils"
+msgstr ""
+
+#: include/defs.h:12
+msgid "The SAO Utils Project by Joshua"
+msgstr ""

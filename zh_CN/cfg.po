@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Config for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-25 18:06+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: src/ConfigManager.cpp:55
+msgid ""
+"An instance of SAO Utils is already running,\n"
+"please close the program before you continue any operations."
+msgstr ""
+"SAO Utils 实例正在运行，\n"
+"请先退出该程序后再继续配置操作。"
+
+#: src/ConfigManager.cpp:57 src/panel/ConfigDialog.cpp:277
+msgid "Warning"
+msgstr "警告"
+
+#: src/panel/ConfigDialog.cpp:52
+msgid "SAO Utils Configuration Manager"
+msgstr "SAO Utils 配置管理工具"
+
+#: src/panel/ConfigDialog.cpp:60
+msgid "Import"
+msgstr "导入"
+
+#: src/panel/ConfigDialog.cpp:62
+msgid "Export"
+msgstr "导出"
+
+#: src/panel/ConfigDialog.cpp:65
+msgid "Migrate from another version"
+msgstr "从过往版本迁移"
+
+#: src/panel/ConfigDialog.cpp:79
+msgid "Current Version: "
+msgstr "当前版本："
+
+#: src/panel/ConfigDialog.cpp:172 src/panel/ConfigDialog.cpp:187
+#: src/panel/ConfigDialog.cpp:388 src/panel/ConfigDialog.cpp:404
+#: src/panel/ConfigDialog.cpp:419 src/panel/ConfigDialog.cpp:435
+msgid "Migrate: "
+msgstr "迁移："
+
+#: src/panel/ConfigDialog.cpp:208 src/panel/ConfigDialog.cpp:217
+#: src/panel/ConfigDialog.cpp:328
+msgid "Export: "
+msgstr "导出："
+
+#: src/panel/ConfigDialog.cpp:256
+msgid "Import: "
+msgstr "导入："
+
+#: src/panel/ConfigDialog.cpp:277
+msgid "Are you sure to override current configuration?"
+msgstr "是否确认覆盖当前配置？"
+
+#: src/panel/ConfigDialog.cpp:286 src/panel/ConfigDialog.cpp:310
+msgid "Zip File (*.ZIP)|*.ZIP"
+msgstr "压缩文件 (*.ZIP)|*.ZIP"
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Configuration import finished."
+msgstr "配置导入完成。"
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "Save As"
+msgstr "另存为"
+
+#: src/panel/ConfigDialog.cpp:335
+msgid "Configuration export finished."
+msgstr "配置导出完成。"
+
+#: src/panel/ConfigDialog.cpp:355
+msgid "Please choose a configuration source"
+msgstr "请选择配置来源"
+
+#: src/panel/ConfigDialog.cpp:356
+#, c-format
+msgid "Executable (%s)|%s"
+msgstr "可执行文件 (%s)|%s"
+
+#: src/panel/ConfigDialog.cpp:440
+msgid "Configuration migration finished."
+msgstr "配置迁移完成。"
