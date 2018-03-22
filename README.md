@@ -7,6 +7,7 @@
   
 ### Traditional Chinese
 - [Joshua (GPBeta)](http://www.gpbeta.com)
+- [zhtw](http://www.zhtw.me)
   
 ### Japanese
 - [Joshua (GPBeta)](http://www.gpbeta.com)
