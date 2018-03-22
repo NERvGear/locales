@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-01 01:48+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,15 +12,15 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/Bangumi.cpp:187
 msgid "Retrieving animation list..."
-msgstr "正在獲取動畫列表…"
+msgstr "正在取得動畫清單…"
 
 #: src/Bangumi.cpp:202 src/Bangumi.cpp:492
 msgid "Cannot retrieve animation list."
-msgstr "無法獲取動畫列表。"
+msgstr "無法取得動畫清單。"
 
 #: src/Bangumi.cpp:486
 msgid "No records currently."
@@ -28,11 +28,11 @@ msgstr "暫無記錄。"
 
 #: src/BangumiDataSource.cpp:76
 msgid "Bangumi Data Collection"
-msgstr "Bangumi 數據收集"
+msgstr "Bangumi 資料收集"
 
 #: src/BangumiDataSource.cpp:81
 msgid "Bangumi Daily Animation Data Collection"
-msgstr "Bangumi 每日動畫數據收集"
+msgstr "Bangumi 每日動畫資料收集"
 
 #: src/BangumiDataSource.cpp:132
 msgid "Programme Schedule"
@@ -40,7 +40,7 @@ msgstr "番組表"
 
 #: src/BangumiDataSource.cpp:137
 msgid "Animation Programme Schedule Data"
-msgstr "動畫節目表數據"
+msgstr "動畫節目表資料"
 
 #: src/BangumiDataSource.cpp:260
 msgid "On-Air Animation"
@@ -72,15 +72,15 @@ msgstr "隱藏特別節目"
 
 #: src/ConfigDialog.cpp:60
 msgid "Treat midnight as another day"
-msgstr "把深夜當做轉天"
+msgstr "把深夜當做轉日"
 
 #: src/ConfigDialog.cpp:64
 msgid "Open web pages in external browser"
-msgstr "在外部瀏覽器打開視頻頁面"
+msgstr "在外部瀏覽器開啟影片頁面"
 
 #: src/ConfigDialog.cpp:70
 msgid "Data sources supported by ACGDB.COM"
-msgstr "動畫數據支持由 ACGDB.COM 提供"
+msgstr "動畫資料支援由 ACGDB.COM 提供"
 
 # ignore
 #: src/ConfigDialog.cpp:73
@@ -116,7 +116,7 @@ msgstr "話數:　%s"
 #: src/InfoBox.cpp:262
 #, c-format
 msgid "Tags :   %s"
-msgstr "標簽:　%s"
+msgstr "標籤:　%s"
 
 #: src/InfoBox.cpp:267
 msgid "Description :"
@@ -129,7 +129,7 @@ msgstr "時間:　%s"
 
 #: src/InfoBox.cpp:295
 msgid "ON AIR"
-msgstr "連載中"
+msgstr "正在連載"
 
 #: src/InfoBox.cpp:296
 msgid "OFF AIR"

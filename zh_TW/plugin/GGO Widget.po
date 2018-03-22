@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-04 21:57+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/ContextMenu.cpp:62
 msgid "Left Shift"
@@ -24,11 +24,11 @@ msgstr "右移"
 
 #: src/ContextMenu.cpp:64
 msgid "Row Up"
-msgstr "上移本行"
+msgstr "往上一列"
 
 #: src/ContextMenu.cpp:65
 msgid "Row Down"
-msgstr "下移本行"
+msgstr "往下一列"
 
 #: src/ContextMenu.cpp:66
 msgid "Reorder"
@@ -60,7 +60,7 @@ msgstr "預置 F(小)"
 
 #: src/ContextMenu.cpp:75
 msgid "Customize..."
-msgstr "自定義..."
+msgstr "自訂..."
 
 #: src/ContextMenu.cpp:76
 msgid "Resize"
@@ -68,7 +68,7 @@ msgstr "大小"
 
 #: src/ContextMenu.cpp:79
 msgid "&New Item..."
-msgstr "添加項目(&N)..."
+msgstr "新增項目(&N)..."
 
 #: src/ContextMenu.cpp:80
 msgid "&Edit Item..."
@@ -80,7 +80,7 @@ msgstr "移除項目(&R)"
 
 #: src/ContextMenu.cpp:83
 msgid "New Row..."
-msgstr "添加壹行..."
+msgstr "新增一行..."
 
 #: src/ContextMenu.cpp:84
 msgid "Remove Row"
@@ -88,19 +88,19 @@ msgstr "移除本行"
 
 #: src/ContextMenu.cpp:86
 msgid "New Widget"
-msgstr "添加掛件"
+msgstr "新增小工具"
 
 #: src/ContextMenu.cpp:87
 msgid "Remove Widget"
-msgstr "移除掛件"
+msgstr "移除小工具"
 
 #: src/ContextMenu.cpp:89
 msgid "Always on &Top"
-msgstr "置頂顯示(&T)"
+msgstr "最上層顯示(&T)"
 
 #: src/ContextMenu.cpp:90
 msgid "&Lock all Widgets"
-msgstr "鎖定所有掛件(&L)"
+msgstr "鎖定所有小工具(&L)"
 
 #: src/ContextMenu.cpp:92
 msgid "Top Left"
@@ -120,11 +120,11 @@ msgstr "右下角"
 
 #: src/ContextMenu.cpp:96
 msgid "&Align To"
-msgstr "對齊到(&A)"
+msgstr "對齊至(&A)"
 
 #: src/GGOWidget.cpp:102
 msgid "Are you sure to drop this widget ?"
-msgstr "是否確認移除本掛件 ?"
+msgstr "是否確認移除此小工具 ?"
 
 #: src/WidgetObject.cpp:725
 #, c-format
@@ -158,15 +158,15 @@ msgstr "靜態圖片"
 
 #: src/panel/EditItemDialog.cpp:158
 msgid "Numeric or Text"
-msgstr "數字或文本"
+msgstr "數字或文字"
 
 #: src/panel/EditItemDialog.cpp:160
 msgid "Bar Chart"
-msgstr "條形圖"
+msgstr "橫條圖\t"
 
 #: src/panel/EditItemDialog.cpp:162
 msgid "Histogram"
-msgstr "直方圖"
+msgstr "長條圖\t"
 
 # ignore
 #: src/panel/EditItemDialog.cpp:165
@@ -185,27 +185,27 @@ msgstr ""
 
 #: src/panel/EditItemDialog.cpp:220
 msgid "Click to choose an image"
-msgstr "點擊選擇圖片"
+msgstr "點選選擇圖片"
 
 #: src/panel/EditItemDialog.cpp:226
 msgid "Click to choose a data"
-msgstr "點擊選擇數據"
+msgstr "點選選擇資料"
 
 #: src/panel/EditItemDialog.cpp:262
 msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
-msgstr "所有支持的文件|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "所有支援的檔案|*.PNG;*.JPG;*.BMP;*.ICO"
 
 #: src/panel/EditItemDialog.cpp:263
 msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
-msgstr "圖片文件 (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "圖片檔案 (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
 
 #: src/panel/EditItemDialog.cpp:264
 msgid "Icon files (*.ICO)|*.ICO"
-msgstr "圖標文件 (*.ICO)|*.ICO"
+msgstr "圖示檔案 (*.ICO)|*.ICO"
 
 #: include/defs.h:9
 msgid "GGO Widget"
-msgstr "GGO 桌面掛件"
+msgstr "GGO 桌面小工具"
 
 #: include/defs.h:10
 msgid "Gun Gale Online Status Widget for SAO Utils"

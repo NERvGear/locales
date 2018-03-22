@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-04 22:08+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: StudioGPBeta <studiocghibli@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,15 +12,15 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/WeatherDataSource.cpp:74
 msgid "Weather Data Collection"
-msgstr "天氣數據收集"
+msgstr "天氣資料收集"
 
 #: src/WeatherDataSource.cpp:79
 msgid "Weather Forecast Data Collection"
-msgstr "天氣預報數據收集"
+msgstr "天氣預報資料收集"
 
 #: src/WeatherDataSource.cpp:274
 msgid ""
@@ -29,18 +29,18 @@ msgid ""
 "Example 2: USNY0996\n"
 "Reference: http://www.weather.com/weather/today/l/USNY0996:1:US"
 msgstr ""
-"更新參數以城市名字拼音或代碼查詢天氣數據. \n"
+"更新參數以城市名字拼音或代碼查詢天氣資料. \n"
 "例子1: Guangzhou\n"
 "例子2: CHXX0037\n"
 "參考: http://www.weather.com/weather/today/l/CHXX0037:1:CH"
 
 #: src/WeatherDataSource_bar.cpp:53
 msgid "Pressure Data"
-msgstr "氣壓數據"
+msgstr "氣壓資料"
 
 #: src/WeatherDataSource_bar.cpp:58
 msgid "Atmospheric Pressure Data"
-msgstr "大氣壓數據"
+msgstr "大氣壓資料"
 
 #: src/WeatherDataSource_bar.cpp:148
 msgid "Pressure Trend"
@@ -52,11 +52,11 @@ msgstr "氣壓大小"
 
 #: src/WeatherDataSource_general.cpp:59
 msgid "General Data"
-msgstr "常用數據"
+msgstr "常用資料"
 
 #: src/WeatherDataSource_general.cpp:64
 msgid "General Weather Data"
-msgstr "常用天氣數據"
+msgstr "常用天氣資料"
 
 #: src/WeatherDataSource_general.cpp:176
 msgid "Weather Forecast"
@@ -64,7 +64,7 @@ msgstr "天氣預報"
 
 #: src/WeatherDataSource_general.cpp:177
 msgid "Current Temperature"
-msgstr "當前氣溫"
+msgstr "目前氣溫"
 
 #: src/WeatherDataSource_general.cpp:178
 msgid "Feels Like Temperature"
@@ -84,11 +84,11 @@ msgstr "能見度"
 
 #: src/WeatherDataSource_uv.cpp:50
 msgid "UV Data"
-msgstr "UV 數據"
+msgstr "UV 資料"
 
 #: src/WeatherDataSource_uv.cpp:55
 msgid "Ultraviolet Radiation Data"
-msgstr "紫外線輻射數據"
+msgstr "紫外線輻射資料"
 
 #: src/WeatherDataSource_uv.cpp:142
 msgid "UV Level"
@@ -100,11 +100,11 @@ msgstr "UV 指數"
 
 #: src/WeatherDataSource_wind.cpp:56
 msgid "Wind Data"
-msgstr "風力數據"
+msgstr "風力資料"
 
 #: src/WeatherDataSource_wind.cpp:61
 msgid "Wind Speed and Direction Data"
-msgstr "風速風向數據"
+msgstr "風速風向資料"
 
 #: src/WeatherDataSource_wind.cpp:165
 msgid "Wind Direction"
@@ -124,7 +124,7 @@ msgstr "陣風"
 
 #: include/defs.h:9
 msgid "Weather Data Extension"
-msgstr "天氣數據擴展"
+msgstr "天氣資料擴充"
 
 #: include/defs.h:10
 msgid "Weather Data Extension for SAO Utils"

@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-04 22:04+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/ContextMenu.cpp:65
 msgid "Move Up"
@@ -28,7 +28,7 @@ msgstr "排序"
 
 #: src/ContextMenu.cpp:70
 msgid "&New Bar..."
-msgstr "添加計量條(&N)"
+msgstr "新增計量條(&N)"
 
 #: src/ContextMenu.cpp:71
 msgid "&Edit Bar..."
@@ -40,15 +40,15 @@ msgstr "移除計量條(&R)"
 
 #: src/ContextMenu.cpp:74
 msgid "Always on &Top"
-msgstr "置頂顯示(&T)"
+msgstr "最上層顯示(&T)"
 
 #: src/ContextMenu.cpp:75
 msgid "&Attach to Launcher"
-msgstr "附加到啟動器(&A)"
+msgstr "附加至啟動器(&A)"
 
 #: src/ContextMenu.cpp:76
 msgid "&Lock Widget"
-msgstr "鎖定掛件(&L)"
+msgstr "鎖定小工具(&L)"
 
 #: src/panel/EditBarDialog.cpp:119
 msgid "Bar Settings"
@@ -61,7 +61,7 @@ msgstr ""
 
 #: src/panel/EditBarDialog.cpp:127
 msgid "Click to choose a data"
-msgstr "點擊選擇數據"
+msgstr "點選選擇資料"
 
 # ignore
 #: src/panel/EditBarDialog.cpp:135
@@ -75,7 +75,7 @@ msgstr ""
 
 #: include/defs.h:9
 msgid "HP-Bar"
-msgstr "HP 計量標掛件"
+msgstr "HP 計量標小工具"
 
 #: include/defs.h:10
 msgid "HP-Bar Widget for SAO Utils"

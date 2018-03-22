@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-05 17:19+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/Core.cpp:15
 msgid "Oops!"
@@ -26,8 +26,8 @@ msgid ""
 "log file."
 msgstr ""
 "NERvGear 已經停止 :(\n"
-"調試信息以保存到程序目錄下的文件中。\n"
-"如需更詳細的信息,請在設置頁面打開 '診斷模式' 以生成日誌文件."
+"偵錯資訊已儲存至程式目錄下的檔案中。\n"
+"如需更詳細的資訊,請在設定頁面開啟 '診斷模式' 以輸出記錄檔。"
 
 #: src/NERvAPI/UI/MenuBase.cpp:230
 #, c-format
@@ -36,69 +36,69 @@ msgstr "確定要執行 [ %s ] ?"
 
 #: src/NERvAPI/private.cpp:569
 msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
-msgstr "刀劍神域外觀風格的啟動器及各種功能的小工具合集."
+msgstr "刀劍神域外觀風格的啟動器及各種功能的小工具合輯."
 
 #: src/NERvAPI/private.cpp:621
 msgid "Please input file or folder name:"
-msgstr "請輸入文件名或目錄名："
+msgstr "請輸入檔案名稱或目錄名稱："
 
 #: src/NERvAPI/private.cpp:635
 msgid "Create File"
-msgstr "創建文件"
+msgstr "建立檔案"
 
 #: src/NERvAPI/private.cpp:660
 msgid "Rename File"
-msgstr "重命名文件"
+msgstr "重新命名檔案"
 
 #: src/NERvAPI/private.cpp:770
 msgid "Are you sure to drop the old menu ?"
-msgstr "確定要拋棄舊菜單?"
+msgstr "確定要拋棄舊選單?"
 
 #: src/PluginManager.cpp:361
 #, c-format
 msgid "Plug-in [%s] already installed, do you want to replace it ?"
-msgstr "插件 [%s] 已存在，是否替換安裝 ?"
+msgstr "外掛程式 [%s] 已存在，是否取代安裝 ?"
 
 #: src/PluginManager.cpp:362
 msgid "Replace Plug-in"
-msgstr "替換插件"
+msgstr "取代外掛程式"
 
 #: src/PluginManager.cpp:411
 msgid "Plug-in installed, please restart program to enable it."
-msgstr "插件安裝完成，請重啟程序以啟用插件。"
+msgstr "外掛程式安裝完成，請重啟程式以啟用外掛程式。"
 
 #: src/PluginManager.cpp:412 src/PluginManager.cpp:422
 #: src/PluginManager.cpp:446
 msgid "Install Plug-in"
-msgstr "安裝插件"
+msgstr "安裝外掛程式"
 
 #: src/PluginManager.cpp:422
 msgid "Plug-in installed successfully."
-msgstr "插件安裝成功。"
+msgstr "外掛程式安裝成功。"
 
 #: src/PluginManager.cpp:446
 msgid "Failed to install plug-in."
-msgstr "安裝插件失敗。"
+msgstr "安裝外掛程式失敗。"
 
 #: src/SAOUtils.cpp:15
 msgid ""
 "An instance of SAO Utils is already running in the background,\n"
 "please retry after it has stopped completely."
 msgstr ""
-"SAO Utils 已在後台運作，\n"
-"請等待該程式完全退出後再重試。"
+"SAO Utils 已在背景運作，\n"
+"請等待該程式完全結束後再重試。"
 
 #: src/SteamManager.cpp:321
 msgid "Workshop item(s) installed"
-msgstr "創意工坊物品安裝完畢"
+msgstr "工作坊物品安裝完畢"
 
 #: src/UI/Launcher.cpp:913
 msgid "Are you sure to exit ?"
-msgstr "是否確認退出 ?"
+msgstr "是否確認結束?"
 
 #: src/UI/Launcher_widget.cpp:280
 msgid "Always on &Top"
-msgstr "置頂顯示(&T)"
+msgstr "最上層顯示(&T)"
 
 #: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:101
 msgid "&Lock Launcher"
@@ -106,16 +106,16 @@ msgstr "鎖定啟動器(&L)"
 
 #: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:106
 msgid "&Preference"
-msgstr "首選項(&P)"
+msgstr "偏好設定(&P)"
 
 #: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:108
 msgid "&Exit"
-msgstr "退出(&E)"
+msgstr "結束(&E)"
 
 #: src/UI/ThemeBox.cpp:151 src/UI/ThemeBox.cpp:305
 #: src/panel/DataPickerDialog.cpp:297 src/panel/DataPickerDialog.cpp:587
 msgid "<Preview Not Available>"
-msgstr "<預覽不可用>"
+msgstr "<預覽無法使用>"
 
 #: src/UI/ThemeBox.cpp:309
 msgid "<No Themes Available>"
@@ -123,7 +123,7 @@ msgstr "<無可用主題>"
 
 #: src/UI/TrayIcon.cpp:100
 msgid "&Disable Hotkeys"
-msgstr "禁用所有熱鍵(&D)"
+msgstr "停用所有熱鍵(&D)"
 
 #: src/UI/TrayIcon.cpp:103
 msgid "&Switch Theme"
@@ -131,7 +131,7 @@ msgstr "切換主題(&S)"
 
 #: src/UI/TrayIcon.cpp:105
 msgid "&Workshop"
-msgstr "創意工坊(&W)"
+msgstr "工作坊(&W)"
 
 #: src/UI/Tutorial.cpp:52
 msgid "Welcome to SAO Utils!"
@@ -139,7 +139,7 @@ msgstr "歡迎使用 SAO Utils！"
 
 #: src/UI/Tutorial.cpp:63
 msgid "Would you like to take a tutorial?"
-msgstr "是否需要查閱「用戶指南」?"
+msgstr "是否需要查閱「使用者指南」?"
 
 #: src/UIManager.cpp:153
 msgid "SAO Utils Starts Successfully."
@@ -147,27 +147,27 @@ msgstr "SAO Utils 啟動成功."
 
 #: src/component/DataSource.cpp:70
 msgid "NERvGear Data Collection"
-msgstr "NERvGear 數據收集"
+msgstr "NERvGear 資料收集"
 
 #: src/component/DataSource.cpp:75
 msgid "Nerve Gear Data Collection"
-msgstr "Nerve Gear 數據收集"
+msgstr "Nerve Gear 資料收集"
 
 #: src/component/DataSource_core.cpp:68
 msgid "Core Data"
-msgstr "核心數據"
+msgstr "核心資料"
 
 #: src/component/DataSource_core.cpp:73
 msgid "Nerve Gear Core Data"
-msgstr "Nerve Gear 核心數據"
+msgstr "Nerve Gear 核心資料"
 
 #: src/component/DataSource_core.cpp:205
 msgid "Total Component Service"
-msgstr "組件服務計數"
+msgstr "元件服務計數"
 
 #: src/component/DataSource_core.cpp:206
 msgid "Total Object Service"
-msgstr "實例服務計數"
+msgstr "執行個體服務計數"
 
 #: src/component/DataSource_core.cpp:207
 msgid "Total Lock Service"
@@ -175,15 +175,15 @@ msgstr "鎖定服務計數"
 
 #: src/component/DataSource_core.cpp:208
 msgid "Total Component Usage"
-msgstr "組件使用計數"
+msgstr "元件使用計數"
 
 #: src/component/DataSource_core.cpp:209
 msgid "Total Object Usage"
-msgstr "實例使用計數"
+msgstr "執行個體使用計數"
 
 #: src/component/DataSource_core.cpp:210
 msgid "Total Private Object"
-msgstr "私有實例計數"
+msgstr "私有執行個體計數"
 
 #: src/component/DataSource_core.cpp:220
 msgid ""
@@ -191,7 +191,7 @@ msgid ""
 "NERvGear module data as default.\n"
 "Example: 00000000-0000-0000-0000-000000000000"
 msgstr ""
-"更新參數以插件的UID查詢模塊數據, 默認返回NERvGear模塊數據.\n"
+"更新參數以外掛程式的UID查詢模組資料, 預設返回NERvGear模組資料.\n"
 "例子: 00000000-0000-0000-0000-000000000000"
 
 #: src/component/DataSource_cpu.cpp:81
@@ -204,15 +204,15 @@ msgstr "CPU 性能計數"
 
 #: src/component/DataSource_cpu.cpp:197
 msgid "Overall"
-msgstr "總體"
+msgstr "整體"
 
 #: src/component/DataSource_disk.cpp:56
 msgid "Hard Disk Usage"
-msgstr "硬盤使用情況"
+msgstr "硬碟使用情況"
 
 #: src/component/DataSource_disk.cpp:61
 msgid "Free Disk Space Count"
-msgstr "可用硬盤空間計數"
+msgstr "可用硬碟空間計數"
 
 #: src/component/DataSource_disk.cpp:179
 msgid "Driver Space"
@@ -220,7 +220,7 @@ msgstr "分區空間"
 
 #: src/component/DataSource_disk.cpp:180
 msgid "Driver Cluster"
-msgstr "分區簇"
+msgstr "分區叢集"
 
 #: src/component/DataSource_disk.cpp:190
 msgid ""
@@ -228,32 +228,32 @@ msgid ""
 "returning current disk drive data as default.\n"
 "Example: C:\\"
 msgstr ""
-"更新參數以路徑計算目標分區空余空間, 默認返回當前分區的數據.\n"
+"更新參數以路徑計算目標分區剩餘空間，預設返回目前分區的資料.\n"
 "例子: C:\\"
 
 #: src/component/DataSource_misc.cpp:49
 msgid "Miscellaneous Data"
-msgstr "雜項數據"
+msgstr "雜項資料"
 
 #: src/component/DataSource_misc.cpp:54
 msgid "Useful Utilities Data"
-msgstr "其他工具集數據"
+msgstr "其他工具集資料"
 
 #: src/component/DataSource_misc.cpp:127 src/panel/InfoOptionPanel.cpp:70
 msgid "Custom Text"
-msgstr "自定文本"
+msgstr "自訂文字"
 
 #: src/component/DataSource_misc.cpp:137
 msgid ""
 "The update parameter takes a custom text to return a string.\n"
 "Example: Welcome to Sword Art Online!"
 msgstr ""
-"更新參數以自定義文本返回字符串數據.\n"
+"更新參數以自訂文字返回字串資料.\n"
 "例子: Welcome to Sword Art Online!"
 
 #: src/component/DataSource_power.cpp:59
 msgid "Power Data"
-msgstr "電源數據"
+msgstr "電源資料"
 
 #: src/component/DataSource_power.cpp:64
 msgid "System Power Status"
@@ -273,31 +273,31 @@ msgstr "續航時間"
 
 #: src/component/DataSource_ram.cpp:68
 msgid "RAM Usage"
-msgstr "內存使用情況"
+msgstr "記憶體使用情況"
 
 #: src/component/DataSource_ram.cpp:73
 msgid "Available Memory Count"
-msgstr "可用內存計數"
+msgstr "可用記憶體計數"
 
 #: src/component/DataSource_ram.cpp:196
 msgid "Physical Memory"
-msgstr "物理內存"
+msgstr "實體記憶體"
 
 #: src/component/DataSource_ram.cpp:197
 msgid "Virtual Memory"
-msgstr "虛擬內存"
+msgstr "虛擬記憶體"
 
 #: src/component/DataSource_ram.cpp:198
 msgid "Page File"
-msgstr "頁面文件"
+msgstr "頁面檔案"
 
 #: src/component/DataSource_system.cpp:99
 msgid "System Data"
-msgstr "系統數據"
+msgstr "系統資料"
 
 #: src/component/DataSource_system.cpp:104
 msgid "Operator System Data"
-msgstr "操作系統數據"
+msgstr "作業系統資料"
 
 #: src/component/DataSource_system.cpp:209
 msgid "OS Name"
@@ -321,31 +321,31 @@ msgstr "處理器"
 
 #: src/component/DataSource_system.cpp:214
 msgid "Installed Memory"
-msgstr "已安裝內存大小"
+msgstr "已安裝記憶體大小"
 
 #: src/component/DataSource_system.cpp:215
 msgid "Computer Name"
-msgstr "計算機名字"
+msgstr "電腦名稱"
 
 #: src/component/DataSource_system.cpp:216
 msgid "Account Name"
-msgstr "賬戶名字"
+msgstr "帳戶名字"
 
 #: src/component/DataSource_system.cpp:217
 msgid "Current Date"
-msgstr "當前日期"
+msgstr "目前日期"
 
 #: src/component/DataSource_system.cpp:218
 msgid "Current Time"
-msgstr "當前時間"
+msgstr "目前時間"
 
 #: src/component/DataSource_system.cpp:219
 msgid "Device Uptime"
-msgstr "設備啟動時間"
+msgstr "裝置啟動時間"
 
 #: src/component/DataSource_system.cpp:220
 msgid "Program Uptime"
-msgstr "程序啟動時間"
+msgstr "程式啟動時間"
 
 #: src/component/DataSource_system.cpp:233
 msgid ""
@@ -354,7 +354,7 @@ msgid ""
 "Example: %Y-%m-%d\n"
 "Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
 msgstr ""
-"更新參數以ANSI strftime()格式化字符串格式化日期或時間.\n"
+"更新參數以ANSI strftime()格式化字串格式化日期或時間.\n"
 "例子: %Y-%m-%d\n"
 "參考: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
 
@@ -364,35 +364,35 @@ msgstr "動作"
 
 #: src/panel/ActionOptionPanel.cpp:162
 msgid "Program"
-msgstr "程序"
+msgstr "程式"
 
 #: src/panel/ActionOptionPanel.cpp:165
 msgid "Execute an existed program."
-msgstr "運行壹個已有的程序."
+msgstr "執行一個已有的程式。"
 
 #: src/panel/ActionOptionPanel.cpp:167
 msgid "File"
-msgstr "文件"
+msgstr "檔案"
 
 #: src/panel/ActionOptionPanel.cpp:169
 msgid "Open a file with associated program."
-msgstr "以關聯程序打開文件."
+msgstr "以關聯程式開啟檔案。"
 
 #: src/panel/ActionOptionPanel.cpp:171 src/panel/IconShopDialog.cpp:216
 msgid "Folder"
-msgstr "文件夾"
+msgstr "資料夾"
 
 #: src/panel/ActionOptionPanel.cpp:173
 msgid "Open a folder in exlporer."
-msgstr "在文件管理器中打開壹個文件."
+msgstr "在檔案總管中開啟一個檔案。"
 
 #: src/panel/ActionOptionPanel.cpp:175 src/panel/ActionOptionPanel.cpp:255
 msgid "URL"
-msgstr "鏈接"
+msgstr "連結"
 
 #: src/panel/ActionOptionPanel.cpp:177
 msgid "Open a web, file or e-mail address. "
-msgstr "打開壹個網頁,文件或電子郵件地址."
+msgstr "開啟一個網頁,檔案或電子郵件位址."
 
 #: src/panel/ActionOptionPanel.cpp:179
 msgid "Command"
@@ -400,11 +400,11 @@ msgstr "命令"
 
 #: src/panel/ActionOptionPanel.cpp:181
 msgid "Run a command or program with parameters."
-msgstr "執行壹個帶有參數的命令或程序."
+msgstr "執行一個帶有參數的命令或程式。"
 
 #: src/panel/ActionOptionPanel.cpp:183 src/panel/InfoOptionPanel.cpp:74
 msgid "Extension"
-msgstr "擴展"
+msgstr "擴充"
 
 #: src/panel/ActionOptionPanel.cpp:190 src/panel/DataPickerDialog.cpp:329
 #: src/panel/DataPickerDialog.cpp:337 src/panel/PreferenceSoundPanel.cpp:161
@@ -413,23 +413,23 @@ msgstr ""
 
 #: src/panel/ActionOptionPanel.cpp:195
 msgid "Confirm before action"
-msgstr "執行前需確認."
+msgstr "執行前需確認。"
 
 #: src/panel/ActionOptionPanel.cpp:200
 msgid "Keep launcher after action"
-msgstr "執行後保持啟動器."
+msgstr "執行後保持啟動器。"
 
 #: src/panel/ActionOptionPanel.cpp:234
 msgid "Programs (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
-msgstr "程序 (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+msgstr "程式 (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
 
 #: src/panel/ActionOptionPanel.cpp:234 src/panel/ActionOptionPanel.cpp:240
 msgid "All files (*.*)|*.*"
-msgstr "所有文件 (*.*)|*.*"
+msgstr "所有檔案 (*.*)|*.*"
 
 #: src/panel/ActionOptionPanel.cpp:255
 msgid "Please input a url with http:/file:/mailto: prefix."
-msgstr "請輸入壹個連接,以http:或file:或mailto:開始."
+msgstr "請輸入一個連結,以http:或file:或mailto:開始。"
 
 #: src/panel/ActionOptionPanel.cpp:262
 msgid "Please input a shell command"
@@ -449,7 +449,7 @@ msgstr "預覽"
 
 #: src/panel/DataPickerDialog.cpp:302
 msgid "Cur. Value"
-msgstr "當前值"
+msgstr "目前值"
 
 #: src/panel/DataPickerDialog.cpp:303
 msgid "Inv. Value"
@@ -522,35 +522,35 @@ msgstr "取消"
 
 #: src/panel/DataPickerDialog.cpp:385
 msgid "<Unknown Data Source>"
-msgstr "<未知數據源>"
+msgstr "<不詳資料來源>"
 
 #: src/panel/DataPickerDialog.cpp:396
 msgid "<Unknown Data>"
-msgstr "<未知數據>"
+msgstr "<不詳資料>"
 
 #: src/panel/DataPickerDialog.cpp:403
 msgid "<Unknown Value>"
-msgstr "<未知數值>"
+msgstr "<不詳數值>"
 
 #: src/panel/DataPickerDialog.cpp:586
 msgid "<Loading Data...>"
-msgstr "<正在加載數據…>"
+msgstr "<正在載入資料…>"
 
 #: src/panel/GestureExcludeDialog.cpp:107
 msgid "Gesture Exclusions"
-msgstr "鼠標手勢例外"
+msgstr "滑鼠手勢例外"
 
 #: src/panel/GestureExcludeDialog.cpp:109
 msgid "Disable if following processes are running:"
-msgstr "當以下列表中的進程運行時禁用鼠標手勢："
+msgstr "當以下清單中的處理程序執行時停用滑鼠手勢："
 
 #: src/panel/GestureExcludeDialog.cpp:113
 msgid "Process Name"
-msgstr "進程名稱"
+msgstr "處理程序名稱"
 
 #: src/panel/GestureExcludeDialog.cpp:116
 msgid "Only detect processes running in foreground"
-msgstr "僅檢測在前臺運行的應用"
+msgstr "僅偵測在前景執行的應用程式"
 
 #: src/panel/GestureExcludeDialog.cpp:119
 msgid "Other Exclusions"
@@ -558,7 +558,7 @@ msgstr "其他例外"
 
 #: src/panel/GestureExcludeDialog.cpp:120
 msgid "Disable mouse gesture in fullscreen mode"
-msgstr "全屏模式下禁用鼠標手勢"
+msgstr "全螢幕模式下停用滑鼠手勢"
 
 #: src/panel/IconPickerDialog.cpp:27 src/panel/WorkshopPublishDialog.cpp:210
 #: src/panel/WorkshopPublishDialog.cpp:218
@@ -567,7 +567,7 @@ msgstr "瀏覽..."
 
 #: src/panel/IconPickerDialog.cpp:57
 msgid "Icon Picker"
-msgstr "選擇圖標"
+msgstr "選擇圖示"
 
 #: src/panel/IconPickerDialog.cpp:60 src/panel/IconShopDialog.cpp:238
 msgid "Normal:"
@@ -575,15 +575,15 @@ msgstr "通常時:"
 
 #: src/panel/IconPickerDialog.cpp:62
 msgid "Select an icon"
-msgstr "選擇壹個圖標"
+msgstr "選擇一個圖示"
 
 #: src/panel/IconPickerDialog.cpp:66 src/panel/IconShopDialog.cpp:244
 msgid "Hover:"
-msgstr "懸停時:"
+msgstr "滑鼠暫留時:"
 
 #: src/panel/IconPickerDialog.cpp:68
 msgid "Select the hover icon"
-msgstr "選擇懸停時圖標"
+msgstr "選擇滑鼠暫留時圖示"
 
 #: src/panel/IconPickerDialog.cpp:72 src/panel/IconShopDialog.cpp:250
 msgid "Press:"
@@ -591,23 +591,23 @@ msgstr "按下時:"
 
 #: src/panel/IconPickerDialog.cpp:74
 msgid "Select the press icon"
-msgstr "選擇按下時圖標"
+msgstr "選擇按下時圖示"
 
 #: src/panel/IconPickerDialog.cpp:77
 msgid "* Leave 'Press' icon blank to use same icon as Hover state."
-msgstr "* 可留空\"按下時\"圖標以直接使用懸停時圖標."
+msgstr "* 可留空\"按下時\"圖示以直接使用滑鼠暫留時的圖示。"
 
 #: src/panel/IconSettingDialog.cpp:360
 msgid "Icon Settings"
-msgstr "圖標設定"
+msgstr "圖示設定"
 
 #: src/panel/IconSettingDialog.cpp:364
 msgid "Icon Setting"
-msgstr "圖標設定"
+msgstr "圖示設定"
 
 #: src/panel/IconSettingDialog.cpp:380 src/panel/IconShopDialog.cpp:231
 msgid "Icon"
-msgstr "圖標"
+msgstr "圖示"
 
 #: src/panel/IconSettingDialog.cpp:385 src/panel/WorkshopFrame.cpp:301
 msgid "Edit"
@@ -619,7 +619,7 @@ msgstr "名稱"
 
 #: src/panel/IconSettingDialog.cpp:397
 msgid "Sub-Menu"
-msgstr "子菜單"
+msgstr "子選單"
 
 #: src/panel/IconSettingDialog.cpp:404
 msgid "Virtual Folder"
@@ -627,7 +627,7 @@ msgstr "虛擬目錄"
 
 #: src/panel/IconSettingDialog.cpp:405
 msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
-msgstr "您可以向 '虛擬目錄' 子菜單添加自定義的菜單項目。"
+msgstr "您可以向 '虛擬目錄' 子選單新增自訂的選單項目。"
 
 #: src/panel/IconSettingDialog.cpp:407
 msgid "Real Folder"
@@ -636,19 +636,19 @@ msgstr "真實目錄"
 #: src/panel/IconSettingDialog.cpp:409
 msgid ""
 "A 'Real Folder' sub-menu enables you to manage the files inside a folder."
-msgstr "您可以為 '真實目錄' 子菜單綁定文件夾並管理其中的文件。"
+msgstr "您可以為 '真實目錄' 子功能表繫結資料夾並管理其中的檔案。"
 
 #: src/panel/IconSettingDialog.cpp:413
 msgid "Show File Icon"
-msgstr "顯示文件關聯圖標"
+msgstr "顯示檔案關聯圖示"
 
 #: src/panel/IconSettingDialog.cpp:416
 msgid "Show File Extension"
-msgstr "顯示文件後綴名"
+msgstr "顯示檔案副檔名"
 
 #: src/panel/IconSettingDialog.cpp:420
 msgid "Click to choose a folder"
-msgstr "點擊選擇文件夾"
+msgstr "點選選擇資料夾"
 
 #: src/panel/IconShopDialog.cpp:182 src/panel/IconShopDialog.cpp:183
 #: src/panel/IconShopDialog.cpp:184 src/panel/IconShopDialog.cpp:240
@@ -660,15 +660,15 @@ msgstr "點擊選擇文件夾"
 #: src/panel/PluginInfoDialog.cpp:143 src/panel/PluginInfoDialog.cpp:152
 #: src/panel/PluginInfoDialog.cpp:157 src/panel/PluginInfoDialog.cpp:163
 msgid "<N/A>"
-msgstr "<未定義>"
+msgstr "<未自訂>"
 
 #: src/panel/IconShopDialog.cpp:210
 msgid "Icon Shop"
-msgstr "自定義圖標"
+msgstr "自訂圖示"
 
 #: src/panel/IconShopDialog.cpp:256
 msgid "Custom..."
-msgstr "自定義..."
+msgstr "自訂..."
 
 #: src/panel/IconShopDialog.cpp:381 src/panel/PreferenceGraphicPanel.cpp:333
 #: src/panel/PreferenceSoundPanel.cpp:254
@@ -676,11 +676,11 @@ msgstr "自定義..."
 #: src/panel/PreferenceSoundPanel.cpp:332
 #: src/panel/PreferenceSoundPanel.cpp:479
 msgid "<Default>"
-msgstr "<默認>"
+msgstr "<預設>"
 
 #: src/panel/InfoOptionPanel.cpp:63
 msgid "Info Panel"
-msgstr "信息面板"
+msgstr "資訊面板"
 
 #: src/panel/InfoOptionPanel.cpp:85
 msgid "Static Image"
@@ -692,11 +692,11 @@ msgstr "選擇背景圖片"
 
 #: src/panel/PluginInfoDialog.cpp:99
 msgid "Plug-in Information"
-msgstr "插件信息"
+msgstr "外掛程式資訊"
 
 #: src/panel/PluginInfoDialog.cpp:111
 msgid "Module Name:"
-msgstr "模塊名稱:"
+msgstr "模組名稱:"
 
 #: src/panel/PluginInfoDialog.cpp:117
 msgid "Original Name:"
@@ -720,11 +720,11 @@ msgstr "NERvSDK 版本："
 
 #: src/panel/PluginInfoDialog.cpp:147
 msgid "UUID:"
-msgstr "通用唯壹識別碼(UUID):"
+msgstr "通用唯一識別碼(UUID):"
 
 #: src/panel/PluginInfoDialog.cpp:149
 msgid "Copy to Clipboard"
-msgstr "復制到剪貼板"
+msgstr "複製至剪貼簿"
 
 #: src/panel/PluginInfoDialog.cpp:155 src/panel/WorkshopPublishDialog.cpp:221
 msgid "Description:"
@@ -746,18 +746,18 @@ msgid ""
 "plug-ins to the core program.\n"
 "That's the reason why it was named as \"SAO Utils\" :)"
 msgstr ""
-"SAO Utils 是壹款專註於 ACG 主題化的 3D 應用啟動器，除此之外更為玩家提供各種各"
-"樣主題、桌面掛件及強大的實用工具。\n"
-"它所設計的插件模式，可以讓任何的開發者為其設計插件並讓其自動加載。\n"
+"SAO Utils 是一款專注於 ACG 主題化的 3D 應用程式啟動器，除此之外更為玩家提供各"
+"種各樣主題、桌面小工具及強大的實用工具。\n"
+"它所設計的外掛程式模式，可以讓任何開發者為其設計外掛程式並讓其自動載入。\n"
 "這就是它以 SAO Utils 命名的原因了 XD"
 
 #: src/panel/PreferenceAboutPanel.cpp:105
 msgid "Information"
-msgstr "信息"
+msgstr "資訊"
 
 #: src/panel/PreferenceAboutPanel.cpp:111
 msgid "Program Name:"
-msgstr "程序名稱："
+msgstr "程式名稱："
 
 #: src/panel/PreferenceAboutPanel.cpp:118
 msgid "Version:"
@@ -786,7 +786,7 @@ msgstr ""
 #: src/panel/PreferenceAppearancePanel.cpp:193
 #: src/panel/PreferenceFrame.cpp:231
 msgid "Appearance Settings"
-msgstr "外觀設置"
+msgstr "外觀設定"
 
 #: src/panel/PreferenceAppearancePanel.cpp:205
 msgid "Launcher Mode"
@@ -807,7 +807,7 @@ msgstr "啟動器位置"
 
 #: src/panel/PreferenceAppearancePanel.cpp:216
 msgid "Follow Cursor"
-msgstr "跟隨鼠標"
+msgstr "追隨滑鼠"
 
 #: src/panel/PreferenceAppearancePanel.cpp:219
 msgid "Fixed:"
@@ -819,7 +819,7 @@ msgstr "靠左"
 
 #: src/panel/PreferenceAppearancePanel.cpp:223
 msgid "Central"
-msgstr "居中"
+msgstr "置中"
 
 #: src/panel/PreferenceAppearancePanel.cpp:224
 msgid "Right"
@@ -839,11 +839,11 @@ msgstr "濃"
 
 #: src/panel/PreferenceAppearancePanel.cpp:241
 msgid "Notification Icon Position"
-msgstr "通知圖標位置"
+msgstr "通知圖示位置"
 
 #: src/panel/PreferenceAppearancePanel.cpp:243
 msgid "Cross Screen"
-msgstr "跨熒幕"
+msgstr "跨螢幕"
 
 #: src/panel/PreferenceAppearancePanel.cpp:248
 msgid "Top Left"
@@ -887,7 +887,7 @@ msgstr "播放啟動動畫"
 
 #: src/panel/PreferenceAppearancePanel.cpp:262
 msgid "- Play 3D startup animation."
-msgstr "- 啟動時播放3D準備動畫."
+msgstr "- 啟動時播放 3D 準備動畫."
 
 #: src/panel/PreferenceAppearancePanel.cpp:264
 msgid "Show Splash"
@@ -895,7 +895,7 @@ msgstr "顯示啟動畫面"
 
 #: src/panel/PreferenceAppearancePanel.cpp:266
 msgid "- Show splash screen on start-up."
-msgstr "- 啟動完成後顯示歡迎畫面."
+msgstr "- 啟動完成後顯示歡迎畫面。"
 
 #: src/panel/PreferenceAppearancePanel.cpp:270
 msgid "3D FX"
@@ -903,7 +903,7 @@ msgstr "3D 特效"
 
 #: src/panel/PreferenceAppearancePanel.cpp:276
 msgid "Magnification Ratio"
-msgstr "縮放比率"
+msgstr "縮放比例"
 
 #: src/panel/PreferenceAppearancePanel.cpp:279
 msgid "x0.5"
@@ -915,7 +915,7 @@ msgstr ""
 
 #: src/panel/PreferenceAppearancePanel.cpp:289
 msgid "Camera Following Mouse"
-msgstr "鏡頭跟隨鼠標"
+msgstr "鏡頭追隨滑鼠"
 
 #: src/panel/PreferenceAppearancePanel.cpp:292
 msgid "Breathing Camera Effect"
@@ -923,7 +923,7 @@ msgstr "鏡頭呼吸效果"
 
 #: src/panel/PreferenceAppearancePanel.cpp:297
 msgid "Analog TV"
-msgstr "模擬色差"
+msgstr "類比色差"
 
 #: src/panel/PreferenceAppearancePanel.cpp:300
 #: src/panel/PreferenceAppearancePanel.cpp:309
@@ -953,39 +953,39 @@ msgstr "縮放"
 
 #: src/panel/PreferenceAppearancePanel.cpp:306
 msgid "Motion Blur"
-msgstr "運動模糊"
+msgstr "移動模糊"
 
 #: src/panel/PreferenceFrame.cpp:197
 msgid "Preferences"
-msgstr "首選項"
+msgstr "偏好設定"
 
 #: src/panel/PreferenceFrame.cpp:209 src/panel/PreferencePluginPanel.cpp:190
 msgid "Reset"
-msgstr "重置"
+msgstr "重設"
 
 #: src/panel/PreferenceFrame.cpp:209
 msgid "Reset all settings"
-msgstr "重置所有設置"
+msgstr "重設所有設定"
 
 #: src/panel/PreferenceFrame.cpp:214
 msgid "Save"
-msgstr "保存"
+msgstr "儲存"
 
 #: src/panel/PreferenceFrame.cpp:214
 msgid "Save changes"
-msgstr "保存修改"
+msgstr "儲存變更"
 
 #: src/panel/PreferenceFrame.cpp:215
 msgid "Revert changes"
-msgstr "還原設置"
+msgstr "還原設定"
 
 #: src/panel/PreferenceFrame.cpp:230
 msgid "General"
-msgstr "常規"
+msgstr "一般"
 
 #: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:248
 msgid "General Settings"
-msgstr "常規設置"
+msgstr "一般設定"
 
 #: src/panel/PreferenceFrame.cpp:231
 msgid "Appearance"
@@ -997,7 +997,7 @@ msgstr "圖形"
 
 #: src/panel/PreferenceFrame.cpp:232 src/panel/PreferenceGraphicPanel.cpp:201
 msgid "Graphics Settings"
-msgstr "圖形設置"
+msgstr "圖形設定"
 
 #: src/panel/PreferenceFrame.cpp:233
 msgid "Sounds"
@@ -1005,15 +1005,15 @@ msgstr "音效"
 
 #: src/panel/PreferenceFrame.cpp:233 src/panel/PreferenceSoundPanel.cpp:133
 msgid "Sound Settings"
-msgstr "音效設置"
+msgstr "音效設定"
 
 #: src/panel/PreferenceFrame.cpp:234
 msgid "Plug-ins"
-msgstr "插件"
+msgstr "外掛程式"
 
 #: src/panel/PreferenceFrame.cpp:234 src/panel/PreferencePluginPanel.cpp:162
 msgid "Plug-in Settings"
-msgstr "插件設置"
+msgstr "外掛程式設定"
 
 #: src/panel/PreferenceFrame.cpp:235
 msgid "About"
@@ -1021,11 +1021,11 @@ msgstr "關於"
 
 #: src/panel/PreferenceFrame.cpp:277
 msgid "Are you sure to reset all the settings?"
-msgstr "確定要重置所有設置?"
+msgstr "確定要重設所有設定?"
 
 #: src/panel/PreferenceGeneralPanel.cpp:260
 msgid "DPI Scaling"
-msgstr "DPI 適配"
+msgstr "DPI 縮放比例"
 
 #: src/panel/PreferenceGeneralPanel.cpp:263
 msgid "Auto"
@@ -1057,15 +1057,15 @@ msgstr "- 禁止編輯啟動器項目."
 
 #: src/panel/PreferenceGeneralPanel.cpp:280
 msgid "Show Tooltips"
-msgstr "顯示操作提示"
+msgstr "顯示動作提示"
 
 #: src/panel/PreferenceGeneralPanel.cpp:283
 msgid "Touch Friendly"
-msgstr "觸摸優化"
+msgstr "觸控最佳化"
 
 #: src/panel/PreferenceGeneralPanel.cpp:285
 msgid "- Provide better user experience for tablet devices."
-msgstr "- 針對觸摸設備優化操作."
+msgstr "- 針對觸控裝置最佳化動作."
 
 #: src/panel/PreferenceGeneralPanel.cpp:289
 msgid "Hotkeys"
@@ -1073,7 +1073,7 @@ msgstr "熱鍵"
 
 #: src/panel/PreferenceGeneralPanel.cpp:295
 msgid "Enable Mouse Gesture"
-msgstr "啟用鼠標手勢"
+msgstr "啟用滑鼠手勢"
 
 #: src/panel/PreferenceGeneralPanel.cpp:298
 msgid "&Exclusions..."
@@ -1081,7 +1081,7 @@ msgstr "例外(&E)..."
 
 #: src/panel/PreferenceGeneralPanel.cpp:299
 msgid "- Manage mouse gesture exclusions."
-msgstr "- 管理鼠標手勢例外。"
+msgstr "- 管理滑鼠手勢例外。"
 
 #: src/panel/PreferenceGeneralPanel.cpp:304
 msgid "LMB + RMB"
@@ -1312,7 +1312,7 @@ msgstr ""
 
 #: src/panel/PreferenceGeneralPanel.cpp:387
 msgid "Remap Win-Key"
-msgstr "覆蓋Win鍵"
+msgstr "覆蓋 Win 鍵"
 
 #: src/panel/PreferenceGeneralPanel.cpp:394
 msgid "MISC."
@@ -1332,7 +1332,7 @@ msgstr "診斷模式"
 
 #: src/panel/PreferenceGraphicPanel.cpp:213
 msgid "Video Adapter"
-msgstr "顯示適配器"
+msgstr "顯示卡"
 
 #: src/panel/PreferenceGraphicPanel.cpp:219
 msgid "Display Mode"
@@ -1348,7 +1348,7 @@ msgstr "分層"
 
 #: src/panel/PreferenceGraphicPanel.cpp:226
 msgid "- Recommended option with transparent background support."
-msgstr "- 推薦選擇此選項以支持透明背景功能。"
+msgstr "- 推薦選擇此選項以支援透明背景功能。"
 
 #: src/panel/PreferenceGraphicPanel.cpp:228
 msgid "Standard"
@@ -1364,19 +1364,19 @@ msgstr ""
 
 #: src/panel/PreferenceGraphicPanel.cpp:233
 msgid "Texture Quality"
-msgstr "貼圖質量"
+msgstr "貼圖品質"
 
 #: src/panel/PreferenceGraphicPanel.cpp:242
 msgid "Texture Filtering"
-msgstr "貼圖過濾"
+msgstr "貼圖篩選"
 
 #: src/panel/PreferenceGraphicPanel.cpp:245
 msgid "No Filtering"
-msgstr "無過濾"
+msgstr "無篩選"
 
 #: src/panel/PreferenceGraphicPanel.cpp:246
 msgid "Nearest Neighbor"
-msgstr "近鄰取樣"
+msgstr "最接近取樣"
 
 #: src/panel/PreferenceGraphicPanel.cpp:247
 msgid "Bilinear"
@@ -1392,7 +1392,7 @@ msgstr "各向異性"
 
 #: src/panel/PreferenceGraphicPanel.cpp:251
 msgid "Render Quality"
-msgstr "渲染質量"
+msgstr "渲染品質"
 
 #: src/panel/PreferenceGraphicPanel.cpp:255
 msgid "High Performance"
@@ -1404,11 +1404,11 @@ msgstr "平衡"
 
 #: src/panel/PreferenceGraphicPanel.cpp:257
 msgid "High Quality"
-msgstr "高質量"
+msgstr "高品質"
 
 #: src/panel/PreferenceGraphicPanel.cpp:260
 msgid "Anti-aliasing"
-msgstr "反鋸齒"
+msgstr "消除鋸齒"
 
 #: src/panel/PreferenceGraphicPanel.cpp:264
 msgid "FSAA"
@@ -1436,7 +1436,7 @@ msgstr "立體眼鏡"
 
 #: src/panel/PreferenceGraphicPanel.cpp:279
 msgid "Disable"
-msgstr "禁用"
+msgstr "停用"
 
 #: src/panel/PreferenceGraphicPanel.cpp:282
 msgid "Side by Side Stereo"
@@ -1452,15 +1452,15 @@ msgstr "立體模式"
 
 #: src/panel/PreferenceGraphicPanel.cpp:291
 msgid "Half Size (Cropped)"
-msgstr "一半尺寸 (裁剪)"
+msgstr "一半大小 (裁剪)"
 
 #: src/panel/PreferenceGraphicPanel.cpp:292
 msgid "Full Size (Squeezed)"
-msgstr "全尺寸 (壓縮)"
+msgstr "完整大小 (壓縮)"
 
 #: src/panel/PreferenceGraphicPanel.cpp:293
 msgid "Full Size (Black Bars)"
-msgstr "全尺寸 (黑邊)"
+msgstr "完整大小 (黑邊)"
 
 #: src/panel/PreferenceGraphicPanel.cpp:297
 msgid "Zero Parallax"
@@ -1495,11 +1495,11 @@ msgstr "否"
 
 #: src/panel/PreferencePluginPanel.cpp:174
 msgid "Enable Plug-ins"
-msgstr "啟用插件"
+msgstr "啟用外掛程式"
 
 #: src/panel/PreferencePluginPanel.cpp:177
 msgid "Get Updates"
-msgstr "獲取更新"
+msgstr "取得更新"
 
 #: src/panel/PreferencePluginPanel.cpp:180
 msgid "Install..."
@@ -1511,11 +1511,11 @@ msgstr "移除"
 
 #: src/panel/PreferencePluginPanel.cpp:188
 msgid "- Remove this plug-in. (Program restart required)"
-msgstr "- 移除該插件。（需要重新啟動程式）"
+msgstr "- 移除該外掛程式。（需要重新啟動程式）"
 
 #: src/panel/PreferencePluginPanel.cpp:192
 msgid "- Reset this plug-in's settings."
-msgstr "- 重置該插件的設置。"
+msgstr "- 重設該外掛程式的設定。"
 
 #: src/panel/PreferencePluginPanel.cpp:194
 #: src/panel/PreferencePluginPanel.cpp:215
@@ -1526,7 +1526,7 @@ msgstr "啟用"
 
 #: src/panel/PreferencePluginPanel.cpp:197
 msgid "Config"
-msgstr "配置"
+msgstr "設定"
 
 #: src/panel/PreferencePluginPanel.cpp:199
 msgid "Details..."
@@ -1538,7 +1538,7 @@ msgstr ""
 
 #: src/panel/PreferencePluginPanel.cpp:202
 msgid "- Read plug-in guideline."
-msgstr "- 查看插件使用說明。"
+msgstr "- 檢視外掛程式使用說明。"
 
 #: src/panel/PreferencePluginPanel.cpp:213
 msgid "Version"
@@ -1570,11 +1570,11 @@ msgstr "事件"
 
 #: src/panel/PreferenceSoundPanel.cpp:172
 msgid "Sound Files"
-msgstr "音效文件"
+msgstr "音效檔案"
 
 #: src/panel/PreferenceSoundPanel.cpp:179
 msgid "Program Start"
-msgstr "程序啟動"
+msgstr "程式啟動"
 
 #: src/panel/PreferenceSoundPanel.cpp:182
 msgid "Program Ready"
@@ -1582,7 +1582,7 @@ msgstr "準備就緒"
 
 #: src/panel/PreferenceSoundPanel.cpp:185
 msgid "Launcher Show"
-msgstr "呼出啟動器"
+msgstr "顯示啟動器"
 
 #: src/panel/PreferenceSoundPanel.cpp:188
 msgid "Launcher Hide"
@@ -1590,15 +1590,15 @@ msgstr "隱藏啟動器"
 
 #: src/panel/PreferenceSoundPanel.cpp:191
 msgid "Message Show"
-msgstr "彈出信息"
+msgstr "彈出資訊"
 
 #: src/panel/PreferenceSoundPanel.cpp:194
 msgid "Message Hide"
-msgstr "關閉信息"
+msgstr "關閉資訊"
 
 #: src/panel/PreferenceSoundPanel.cpp:197
 msgid "Menu Popup"
-msgstr "彈出菜單"
+msgstr "彈出選單"
 
 #: src/panel/PreferenceSoundPanel.cpp:203
 msgid "Panel Popup"
@@ -1610,7 +1610,7 @@ msgstr "選擇項目"
 
 #: src/panel/PreferenceSoundPanel.cpp:209
 msgid "Message Notify"
-msgstr "消息通知"
+msgstr "訊息通知"
 
 #: src/panel/PreferenceSoundPanel.cpp:212
 msgid "System Notify"
@@ -1626,24 +1626,24 @@ msgstr "系統警告"
 
 #: src/panel/PreferenceSoundPanel.cpp:389
 msgid "Wave files (*.WAV)|*.WAV"
-msgstr "音頻文件 (*.WAV)|*.WAV"
+msgstr "音訊檔案 (*.WAV)|*.WAV"
 
 #: src/panel/PreferenceSoundPanel.cpp:445
 msgid "&Default Settings"
-msgstr "默認設置(&D)"
+msgstr "預設設定(&D)"
 
 #: src/panel/PreferenceSoundPanel.cpp:460
 msgid "&Import Presets..."
-msgstr "導入預置(&I)..."
+msgstr "匯入預置(&I)..."
 
 #: src/panel/PreferenceSoundPanel.cpp:461
 msgid "&Export Presets..."
-msgstr "導出預置(&E)..."
+msgstr "匯出預置(&E)..."
 
 #: src/panel/PreferenceSoundPanel.cpp:488
 #: src/panel/PreferenceSoundPanel.cpp:501
 msgid "Preset files (*.PRESET)|*.PRESET"
-msgstr "預置文件 (*.PRESET)|*.PRESET"
+msgstr "預置檔案 (*.PRESET)|*.PRESET"
 
 #: src/panel/WorkshopFrame.cpp:228
 msgid "Warning"
@@ -1661,11 +1661,11 @@ msgstr "敬請期待！"
 #: src/panel/WorkshopFrame.cpp:261 src/panel/WorkshopFrame.cpp:274
 #: src/panel/WorkshopFrame.cpp:287
 msgid "View on Steam"
-msgstr "在 Steam 上查看"
+msgstr "在 Steam 上檢視"
 
 #: src/panel/WorkshopFrame.cpp:299
 msgid "Create"
-msgstr "創建"
+msgstr "建立"
 
 #: src/panel/WorkshopFrame.cpp:303
 msgid "Delete"
@@ -1673,15 +1673,15 @@ msgstr "刪除"
 
 #: src/panel/WorkshopFrame.cpp:305
 msgid "View"
-msgstr "查看"
+msgstr "檢視"
 
 #: src/panel/WorkshopFrame.cpp:308
 msgid "Refresh List"
-msgstr "刷新列表"
+msgstr "重新整理清單"
 
 #: src/panel/WorkshopFrame.cpp:314
 msgid "Online Shop"
-msgstr "在線商城"
+msgstr "線上商城"
 
 #: src/panel/WorkshopFrame.cpp:315
 msgid "Subscribed Items"
@@ -1701,7 +1701,7 @@ msgstr "少女祈禱中……"
 
 #: src/panel/WorkshopFrame.cpp:485
 msgid "Failed to create the workshop item."
-msgstr "工坊物品創建失敗。"
+msgstr "工坊物品建立失敗。"
 
 #: src/panel/WorkshopFrame.cpp:486 src/panel/WorkshopFrame.cpp:502
 #: src/panel/WorkshopPublishDialog.cpp:336
@@ -1714,7 +1714,7 @@ msgstr "工坊物品刪除失敗。"
 
 #: src/panel/WorkshopFrame.cpp:532
 msgid "Creating workshop item..."
-msgstr "正在創建工坊物品……"
+msgstr "正在建立工坊物品……"
 
 #: src/panel/WorkshopFrame.cpp:548
 msgid "Deleting workshop item..."
@@ -1734,7 +1734,7 @@ msgstr "類型"
 
 #: src/panel/WorkshopPublishDialog.cpp:202
 msgid "Icon Set"
-msgstr "圖標集"
+msgstr "圖示集"
 
 #: src/panel/WorkshopPublishDialog.cpp:205
 msgid "Cover Image: (< 1 MB, Recommended Aspect 16:9)"
@@ -1754,7 +1754,7 @@ msgstr "提交"
 
 #: src/panel/WorkshopPublishDialog.cpp:241
 msgid "Leave it blank to keep original data"
-msgstr "留空則保留原有數據"
+msgstr "留空則保留原有資料"
 
 #: src/panel/WorkshopPublishDialog.cpp:321
 msgid ""
@@ -1762,7 +1762,7 @@ msgid ""
 "Error Code: "
 msgstr ""
 "工坊物品更新失敗。\n"
-"錯誤代碼："
+"錯誤碼："
 
 #: src/panel/WorkshopPublishDialog.cpp:378
 msgid "Updating workshop item..."
@@ -1770,7 +1770,7 @@ msgstr "正在更新工坊物品……"
 
 #: src/panel/WorkshopPublishDialog.cpp:391
 msgid "Image files (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
-msgstr "圖片文件 (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
+msgstr "圖片檔案 (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
 
 #: include/utils/preference.h:22
 #, c-format
@@ -1779,4 +1779,4 @@ msgid ""
 "(Please disable responding plug-in manually)"
 msgstr ""
 "確認移除 [ %s ] ？\n"
-"（請在插件配置面板禁用對應插件）"
+"（請在外掛程式設定面板停用對應外掛程式）"

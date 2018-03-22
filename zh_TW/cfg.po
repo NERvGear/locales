@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-25 18:06+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: src/ConfigManager.cpp:55
@@ -18,8 +18,8 @@ msgid ""
 "An instance of SAO Utils is already running,\n"
 "please close the program before you continue any operations."
 msgstr ""
-"SAO Utils 實例正在運行，\n"
-"請先退出該程序後再繼續配置操作。"
+"SAO Utils 執行個體已在執行，\n"
+"請先結束該程式後再繼續設定動作。"
 
 #: src/ConfigManager.cpp:57 src/panel/ConfigDialog.cpp:277
 msgid "Warning"
@@ -27,50 +27,50 @@ msgstr "警告"
 
 #: src/panel/ConfigDialog.cpp:52
 msgid "SAO Utils Configuration Manager"
-msgstr "SAO Utils 配置管理工具"
+msgstr "SAO Utils 設定管理工具"
 
 #: src/panel/ConfigDialog.cpp:60
 msgid "Import"
-msgstr "導入"
+msgstr "匯入"
 
 #: src/panel/ConfigDialog.cpp:62
 msgid "Export"
-msgstr "導出"
+msgstr "匯出"
 
 #: src/panel/ConfigDialog.cpp:65
 msgid "Migrate from another version"
-msgstr "從過往版本遷移"
+msgstr "從其他版本轉移"
 
 #: src/panel/ConfigDialog.cpp:79
 msgid "Current Version: "
-msgstr "當前版本："
+msgstr "目前版本："
 
 #: src/panel/ConfigDialog.cpp:172 src/panel/ConfigDialog.cpp:187
 #: src/panel/ConfigDialog.cpp:388 src/panel/ConfigDialog.cpp:404
 #: src/panel/ConfigDialog.cpp:419 src/panel/ConfigDialog.cpp:435
 msgid "Migrate: "
-msgstr "遷移："
+msgstr "轉移："
 
 #: src/panel/ConfigDialog.cpp:208 src/panel/ConfigDialog.cpp:217
 #: src/panel/ConfigDialog.cpp:328
 msgid "Export: "
-msgstr "導出："
+msgstr "匯出："
 
 #: src/panel/ConfigDialog.cpp:256
 msgid "Import: "
-msgstr "導入："
+msgstr "匯入："
 
 #: src/panel/ConfigDialog.cpp:277
 msgid "Are you sure to override current configuration?"
-msgstr "是否確認覆蓋當前配置？"
+msgstr "是否確認覆寫目前設定？"
 
 #: src/panel/ConfigDialog.cpp:286 src/panel/ConfigDialog.cpp:310
 msgid "Zip File (*.ZIP)|*.ZIP"
-msgstr "壓縮文件 (*.ZIP)|*.ZIP"
+msgstr "壓縮檔案 (*.ZIP)|*.ZIP"
 
 #: src/panel/ConfigDialog.cpp:298
 msgid "Configuration import finished."
-msgstr "配置導入完成。"
+msgstr "設定匯入完成。"
 
 #: src/panel/ConfigDialog.cpp:309
 msgid "Save As"
@@ -78,17 +78,17 @@ msgstr "另存為"
 
 #: src/panel/ConfigDialog.cpp:335
 msgid "Configuration export finished."
-msgstr "配置導出完成。"
+msgstr "設定匯出完成。"
 
 #: src/panel/ConfigDialog.cpp:355
 msgid "Please choose a configuration source"
-msgstr "請選擇配置來源"
+msgstr "請選擇設定來源"
 
 #: src/panel/ConfigDialog.cpp:356
 #, c-format
 msgid "Executable (%s)|%s"
-msgstr "可執行文件 (%s)|%s"
+msgstr "可執行檔案 (%s)|%s"
 
 #: src/panel/ConfigDialog.cpp:440
 msgid "Configuration migration finished."
-msgstr "配置遷移完成。"
+msgstr "設定轉移完成。"
