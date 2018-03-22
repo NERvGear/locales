@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-01 22:13+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: StudioGPBeta <studiocghibli@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,15 +12,15 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/CoreTempDataSource_info.cpp:59
 msgid "Processor Information"
-msgstr "處理器信息"
+msgstr "處理器資訊"
 
 #: src/CoreTempDataSource_info.cpp:64
 msgid "Processor Information Data"
-msgstr "處理器信息數據"
+msgstr "處理器資訊資料"
 
 #: src/CoreTempDataSource_info.cpp:172
 msgid "Model"
@@ -28,7 +28,7 @@ msgstr "型號"
 
 #: src/CoreTempDataSource_info.cpp:173
 msgid "CPU Speed"
-msgstr "主頻"
+msgstr "時脈"
 
 #: src/CoreTempDataSource_info.cpp:174
 msgid "Bus Speed"
@@ -48,7 +48,7 @@ msgstr "CPU 負載"
 
 #: src/CoreTempDataSource_load.cpp:58
 msgid "CPU Load Data"
-msgstr "CPU 負載數據"
+msgstr "CPU 負載資料"
 
 #: src/CoreTempDataSource_mtpr.cpp:53
 msgid "CPU Multiplier"
@@ -56,7 +56,7 @@ msgstr "CPU 倍頻"
 
 #: src/CoreTempDataSource_mtpr.cpp:58
 msgid "CPU Multiplier Data"
-msgstr "CPU 倍頻數據"
+msgstr "CPU 倍頻資料"
 
 #: src/CoreTempDataSource_power.cpp:53
 msgid "CPU Power"
@@ -64,7 +64,7 @@ msgstr "CPU 功耗"
 
 #: src/CoreTempDataSource_power.cpp:58
 msgid "CPU Power Consumption Data"
-msgstr "CPU 功耗數據"
+msgstr "CPU 功耗資料"
 
 #: src/CoreTempDataSource_temp.cpp:53
 msgid "CPU Temperature"
@@ -72,74 +72,74 @@ msgstr "CPU 溫度"
 
 #: src/CoreTempDataSource_temp.cpp:58
 msgid "CPU Temperature Data"
-msgstr "CPU 溫度數據"
+msgstr "CPU 溫度資料"
 
 #: src/GPUZDataSource_info.cpp:53
 msgid "GPU Information Data"
-msgstr "GPU 信息數據"
+msgstr "GPU 資訊資料"
 
 #: src/GPUZDataSource_info.cpp:58
 msgid "Graphic Card Information Data"
-msgstr "圖形卡信息數據"
+msgstr "顯示卡資訊資料"
 
 #: src/GPUZDataSource_sens.cpp:54
 msgid "GPU Sensor Data"
-msgstr "GPU 傳感器數據"
+msgstr "GPU 感應器資料"
 
 #: src/GPUZDataSource_sens.cpp:59
 msgid "Graphic Card Sensor Data"
-msgstr "圖形卡傳感器數據"
+msgstr "顯示卡感應器資料"
 
 #: src/GPUZDataSource_sens.cpp:162
 msgid ""
 "The update parameter takes '[{min}, {max}]' string to define minimum and maximum values.\n"
 "Example: [0.0, 100.0]"
 msgstr ""
-"更新參數以“[{最小值}, {最大值}]”字符串定義最小值和最大值。\n"
+"更新參數以“[{最小值}, {最大值}]”字串自訂最小值與最大值。\n"
 "例子：[0.0, 100.0]"
 
 #: src/HWiNFODataSource_data.cpp:80 src/HWiNFODataSource_data.cpp:89
 #: src/SpeedFanDataSource_temp.cpp:53 src/SpeedFanDataSource_temp.cpp:58
 msgid "Temperature Data"
-msgstr "溫度數據"
+msgstr "溫度資料"
 
 #: src/HWiNFODataSource_data.cpp:81 src/HWiNFODataSource_data.cpp:90
 #: src/SpeedFanDataSource_volt.cpp:58 src/SpeedFanDataSource_volt.cpp:63
 msgid "Voltage Data"
-msgstr "電壓數據"
+msgstr "電壓資料"
 
 #: src/HWiNFODataSource_data.cpp:82 src/HWiNFODataSource_data.cpp:91
 #: src/SpeedFanDataSource_fan.cpp:53 src/SpeedFanDataSource_fan.cpp:58
 msgid "Fan Speed Data"
-msgstr "風扇轉速數據"
+msgstr "風扇轉速資料"
 
 #: src/HWiNFODataSource_data.cpp:83 src/HWiNFODataSource_data.cpp:92
 msgid "Ammeter Data"
-msgstr "電流數據"
+msgstr "電流資料"
 
 #: src/HWiNFODataSource_data.cpp:84 src/HWiNFODataSource_data.cpp:93
 msgid "Power Consumption Data"
-msgstr "功耗數據"
+msgstr "功耗資料"
 
 #: src/HWiNFODataSource_data.cpp:85 src/HWiNFODataSource_data.cpp:94
 msgid "Clock Frequency Data"
-msgstr "時鐘頻率數據"
+msgstr "時脈頻率資料"
 
 #: src/HWiNFODataSource_data.cpp:86 src/HWiNFODataSource_data.cpp:95
 msgid "Usage Data"
-msgstr "使用量數據"
+msgstr "使用量資料"
 
 #: src/HWiNFODataSource_data.cpp:87 src/HWiNFODataSource_data.cpp:96
 msgid "Miscellaneous Data"
-msgstr "雜項數據"
+msgstr "雜項資料"
 
 #: src/XmlDataSourceT_data.cpp:103 src/XmlDataSourceT_data.cpp:119
 msgid "System Data"
-msgstr "系統數據"
+msgstr "系統資料"
 
 #: include/defs.h:9
 msgid "Sensor Data Extension"
-msgstr "傳感器數據擴展"
+msgstr "感應器資料擴充"
 
 #: include/defs.h:10
 msgid "Sensor Data Extension for SAO Utils"
@@ -152,12 +152,12 @@ msgstr ""
 #: include/strs.h:9
 #, c-format
 msgid "%s Data Proxy"
-msgstr "%s 數據代理"
+msgstr "%s 資料代理"
 
 #: include/strs.h:14
 #, c-format
 msgid "Data available when %s is running and the 'Shared Memory' function is enabled."
-msgstr "僅當  %s 運行且啟用共享內存功能時數據可用。"
+msgstr "僅當  %s 執行且啟用共享記憶體功能時資料可用。"
 
 #~ msgid "Core Temp Data Proxy"
 #~ msgstr "Core Temp 數據代理"

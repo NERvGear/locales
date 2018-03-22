@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-10 22:24+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,19 +12,19 @@ msgstr ""
 "X-Poedit-KeywordsList: \n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "Language: zh_TW\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: src/ContextMenu.cpp:66
 msgid "Always on &Top"
-msgstr "置頂顯示(&T)"
+msgstr "最上層顯示(&T)"
 
 #: src/WidgetObject.cpp:135
 msgid "- Click or drag files to launch main menu."
-msgstr "-  點擊或拖拽文件到此處以啟動主菜單。"
+msgstr "-  點選或拖曳檔案到此處以啟動主選單。"
 
 #: include/defs.h:9
 msgid "Quick Launch"
-msgstr "快速啟動掛件"
+msgstr "快速啟動小工具"
 
 #: include/defs.h:10
 msgid "Quick Launch Widget for SAO Utils"

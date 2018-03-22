@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-03 23:27+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: src/GGO/LauncherMenu.cpp:345 src/SAO/LauncherMenu.cpp:292
@@ -18,8 +18,8 @@ msgid ""
 "- Click to expand menu,\n"
 "long press or right click to edit current item."
 msgstr ""
-"- 點擊展開菜單，\n"
-"長按或右鍵編輯當前項目。"
+"- 點選展開選單，\n"
+"長按或右鍵編輯目前項目。"
 
 #: src/GGO/ListMenu.cpp:524 src/SAO/ListMenu.cpp:296
 msgid "- Modify this item."
@@ -27,11 +27,11 @@ msgstr "- 編輯此項目。"
 
 #: src/GGO/ListMenu.cpp:531 src/SAO/ListMenu.cpp:304
 msgid "- Add new item."
-msgstr "- 添加新項目。"
+msgstr "- 加入新的項目。"
 
 #: src/GGO/ListMenu.cpp:538 src/SAO/ListMenu.cpp:312
 msgid "- Drag to move item."
-msgstr "- 拖拽移動項目。"
+msgstr "- 拖曳移動項目。"
 
 #: src/GGO/ListMenu.cpp:545 src/SAO/ListMenu.cpp:320
 msgid "- Remove this item."
@@ -51,7 +51,7 @@ msgstr "切換主題"
 
 #: src/share/theme/OptionMenu.cpp:88
 msgid "General"
-msgstr "常規"
+msgstr "一般"
 
 #: src/share/theme/OptionMenu.cpp:98
 msgid "Appearance"
@@ -67,21 +67,21 @@ msgstr "音效"
 
 #: src/share/theme/OptionMenu.cpp:128
 msgid "Plug-ins"
-msgstr "插件"
+msgstr "外掛程式"
 
 #: src/share/theme/PluginMenu.cpp:90
 msgid "Manage Plug-ins"
-msgstr "管理插件"
+msgstr "管理外掛程式"
 
 #: src/share/theme/PluginMenu.cpp:230
 #, c-format
 msgid "Enable plug-in [ %s ] ?"
-msgstr "確認啟用插件 [ %s ] ?"
+msgstr "確認啟用外掛程式 [ %s ] ?"
 
 #: src/share/theme/PluginMenu.cpp:230
 #, c-format
 msgid "Disable plug-in [ %s ] ?"
-msgstr "確認禁用插件 [ %s ] ?"
+msgstr "確認停用外掛程式 [ %s ] ?"
 
 #: src/share/theme/SettingMenu.cpp:75
 msgid "- Settings for SAO Utils."
@@ -89,12 +89,12 @@ msgstr "- SAO Utils 設定。"
 
 #: src/share/theme/SettingMenu.cpp:86
 msgid "- Workshop of SAO Utils."
-msgstr "- SAO Utils 创意工坊。"
+msgstr "- SAO Utils 工作坊。"
 
 #: src/share/theme/SettingMenu.cpp:97
 msgid "- Information of SAO Utils."
-msgstr "- SAO Utils 詳情。"
+msgstr "- SAO Utils 資訊。"
 
 #: src/share/theme/SettingMenu.cpp:107
 msgid "- Shut down SAO Utils."
-msgstr "- 退出 SAO Utils。"
+msgstr "- 結束 SAO Utils。"
