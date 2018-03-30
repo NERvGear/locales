@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SAO Utils\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-05 17:19+0800\n"
+"POT-Creation-Date: 2018-03-25 20:53+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: zhtw <zhtw2013@gmail.com>\n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
 "Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: \n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: src/Core.cpp:15
 msgid "Oops!"
@@ -34,23 +34,23 @@ msgstr ""
 msgid "Execute item [ %s ] ?"
 msgstr "確定要執行 [ %s ] ?"
 
-#: src/NERvAPI/private.cpp:569
+#: src/NERvAPI/private.cpp:511
 msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
 msgstr "刀劍神域外觀風格的啟動器及各種功能的小工具合輯."
 
-#: src/NERvAPI/private.cpp:621
+#: src/NERvAPI/private.cpp:563
 msgid "Please input file or folder name:"
 msgstr "請輸入檔案名稱或目錄名稱："
 
-#: src/NERvAPI/private.cpp:635
+#: src/NERvAPI/private.cpp:577
 msgid "Create File"
 msgstr "建立檔案"
 
-#: src/NERvAPI/private.cpp:660
+#: src/NERvAPI/private.cpp:602
 msgid "Rename File"
 msgstr "重新命名檔案"
 
-#: src/NERvAPI/private.cpp:770
+#: src/NERvAPI/private.cpp:712
 msgid "Are you sure to drop the old menu ?"
 msgstr "確定要拋棄舊選單?"
 
@@ -88,7 +88,7 @@ msgstr ""
 "SAO Utils 已在背景運作，\n"
 "請等待該程式完全結束後再重試。"
 
-#: src/SteamManager.cpp:321
+#: src/SteamManager.cpp:355
 msgid "Workshop item(s) installed"
 msgstr "工作坊物品安裝完畢"
 
@@ -100,15 +100,15 @@ msgstr "是否確認結束?"
 msgid "Always on &Top"
 msgstr "最上層顯示(&T)"
 
-#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:101
+#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:103
 msgid "&Lock Launcher"
 msgstr "鎖定啟動器(&L)"
 
-#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:106
+#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:109
 msgid "&Preference"
 msgstr "偏好設定(&P)"
 
-#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:108
+#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:111
 msgid "&Exit"
 msgstr "結束(&E)"
 
@@ -121,15 +121,20 @@ msgstr "<預覽無法使用>"
 msgid "<No Themes Available>"
 msgstr "<無可用主題>"
 
-#: src/UI/TrayIcon.cpp:100
+#: src/UI/TrayIcon.cpp:102
 msgid "&Disable Hotkeys"
 msgstr "停用所有熱鍵(&D)"
 
-#: src/UI/TrayIcon.cpp:103
+#: src/UI/TrayIcon.cpp:105
 msgid "&Switch Theme"
 msgstr "切換主題(&S)"
 
-#: src/UI/TrayIcon.cpp:105
+#: src/UI/TrayIcon.cpp:107
+#, fuzzy
+msgid "User Guide"
+msgstr "使用指南"
+
+#: src/UI/TrayIcon.cpp:108
 msgid "&Workshop"
 msgstr "工作坊(&W)"
 
@@ -141,7 +146,7 @@ msgstr "歡迎使用 SAO Utils！"
 msgid "Would you like to take a tutorial?"
 msgstr "是否需要查閱「使用者指南」?"
 
-#: src/UIManager.cpp:153
+#: src/UIManager.cpp:158
 msgid "SAO Utils Starts Successfully."
 msgstr "SAO Utils 啟動成功."
 
@@ -471,9 +476,14 @@ msgstr "選項"
 msgid "Update value every"
 msgstr "更新數值每"
 
-#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:371
+#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:381
+#, fuzzy
 msgid "1"
 msgstr ""
+"更新參數以城市名字拼音或代碼查詢天氣數據. \n"
+"例子1: Guangzhou\n"
+"例子2: CHXX0037\n"
+"參考: http://www.weather.com/weather/today/l/CHXX0037:1:CH"
 
 #: src/panel/DataPickerDialog.cpp:318
 msgid "Milliseconds"
@@ -798,8 +808,9 @@ msgid "2D"
 msgstr ""
 
 #: src/panel/PreferenceAppearancePanel.cpp:209
+#, fuzzy
 msgid "3D"
-msgstr ""
+msgstr "- 啟動時播放 3D 準備動畫."
 
 #: src/panel/PreferenceAppearancePanel.cpp:213
 msgid "Launcher Position"
@@ -983,7 +994,7 @@ msgstr "還原設定"
 msgid "General"
 msgstr "一般"
 
-#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:248
+#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:258
 msgid "General Settings"
 msgstr "一般設定"
 
@@ -1023,312 +1034,321 @@ msgstr "關於"
 msgid "Are you sure to reset all the settings?"
 msgstr "確定要重設所有設定?"
 
-#: src/panel/PreferenceGeneralPanel.cpp:260
+#: src/panel/PreferenceGeneralPanel.cpp:270
 msgid "DPI Scaling"
 msgstr "DPI 縮放比例"
 
-#: src/panel/PreferenceGeneralPanel.cpp:263
+#: src/panel/PreferenceGeneralPanel.cpp:273
 msgid "Auto"
 msgstr "自動"
 
-#: src/panel/PreferenceGeneralPanel.cpp:266
+#: src/panel/PreferenceGeneralPanel.cpp:276
 msgid "100%"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:268
+#: src/panel/PreferenceGeneralPanel.cpp:278
 msgid "125%"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:270
+#: src/panel/PreferenceGeneralPanel.cpp:280
 msgid "150%"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:272
+#: src/panel/PreferenceGeneralPanel.cpp:282
 msgid "200%"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:276
+#: src/panel/PreferenceGeneralPanel.cpp:286
 msgid "Lock Launcher"
 msgstr "鎖定啟動器"
 
-#: src/panel/PreferenceGeneralPanel.cpp:278
+#: src/panel/PreferenceGeneralPanel.cpp:288
 msgid "- Disable editing launcher items."
 msgstr "- 禁止編輯啟動器項目."
 
-#: src/panel/PreferenceGeneralPanel.cpp:280
+#: src/panel/PreferenceGeneralPanel.cpp:290
 msgid "Show Tooltips"
 msgstr "顯示動作提示"
 
-#: src/panel/PreferenceGeneralPanel.cpp:283
+#: src/panel/PreferenceGeneralPanel.cpp:293
 msgid "Touch Friendly"
 msgstr "觸控最佳化"
 
-#: src/panel/PreferenceGeneralPanel.cpp:285
+#: src/panel/PreferenceGeneralPanel.cpp:295
 msgid "- Provide better user experience for tablet devices."
 msgstr "- 針對觸控裝置最佳化動作."
 
-#: src/panel/PreferenceGeneralPanel.cpp:289
+#: src/panel/PreferenceGeneralPanel.cpp:299
 msgid "Hotkeys"
 msgstr "熱鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:295
+#: src/panel/PreferenceGeneralPanel.cpp:305
 msgid "Enable Mouse Gesture"
 msgstr "啟用滑鼠手勢"
 
-#: src/panel/PreferenceGeneralPanel.cpp:298
+#: src/panel/PreferenceGeneralPanel.cpp:308
 msgid "&Exclusions..."
 msgstr "例外(&E)..."
 
-#: src/panel/PreferenceGeneralPanel.cpp:299
+#: src/panel/PreferenceGeneralPanel.cpp:309
 msgid "- Manage mouse gesture exclusions."
 msgstr "- 管理滑鼠手勢例外。"
 
-#: src/panel/PreferenceGeneralPanel.cpp:304
+#: src/panel/PreferenceGeneralPanel.cpp:314
 msgid "LMB + RMB"
 msgstr "左鍵 + 右鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:305
+#: src/panel/PreferenceGeneralPanel.cpp:315
 msgid "LMB"
 msgstr "左鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:306
+#: src/panel/PreferenceGeneralPanel.cpp:316
 msgid "MMB"
 msgstr "中鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:307
+#: src/panel/PreferenceGeneralPanel.cpp:317
 msgid "RMB"
 msgstr "右鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:308
+#: src/panel/PreferenceGeneralPanel.cpp:318
 msgid "XBUTTON1"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:309
+#: src/panel/PreferenceGeneralPanel.cpp:319
 msgid "XBUTTON2"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:311
+#: src/panel/PreferenceGeneralPanel.cpp:321
 msgid "+ Slide Down"
 msgstr "+ 向下滑動"
 
-#: src/panel/PreferenceGeneralPanel.cpp:314
+#: src/panel/PreferenceGeneralPanel.cpp:324
 msgid "Sensitive"
 msgstr "靈敏度"
 
-#: src/panel/PreferenceGeneralPanel.cpp:317
+#: src/panel/PreferenceGeneralPanel.cpp:327
 #: src/panel/PreferenceGraphicPanel.cpp:237
 msgid "Low"
 msgstr "低"
 
-#: src/panel/PreferenceGeneralPanel.cpp:318
+#: src/panel/PreferenceGeneralPanel.cpp:328
 msgid "Normal"
 msgstr "普通"
 
-#: src/panel/PreferenceGeneralPanel.cpp:319
+#: src/panel/PreferenceGeneralPanel.cpp:329
 #: src/panel/PreferenceGraphicPanel.cpp:239
 msgid "High"
 msgstr "高"
 
-#: src/panel/PreferenceGeneralPanel.cpp:323
+#: src/panel/PreferenceGeneralPanel.cpp:333
 msgid "Enable Hotkey"
 msgstr "啟用熱鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:328
+#: src/panel/PreferenceGeneralPanel.cpp:338
 msgid "Ctrl"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:331
+#: src/panel/PreferenceGeneralPanel.cpp:341
 msgid "Shift"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:334
+#: src/panel/PreferenceGeneralPanel.cpp:344
 msgid "Alt"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:337
+#: src/panel/PreferenceGeneralPanel.cpp:347
 msgid "Win"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:341
+#: src/panel/PreferenceGeneralPanel.cpp:351
 msgid "+ Key"
 msgstr "+ 按鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:344
+#: src/panel/PreferenceGeneralPanel.cpp:354
 msgid "A"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:345
+#: src/panel/PreferenceGeneralPanel.cpp:355
 msgid "B"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:346
+#: src/panel/PreferenceGeneralPanel.cpp:356
 msgid "C"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:347
+#: src/panel/PreferenceGeneralPanel.cpp:357
+#, fuzzy
 msgid "D"
 msgstr ""
+"%s\n"
+"%d 未讀信息"
 
-#: src/panel/PreferenceGeneralPanel.cpp:348
+#: src/panel/PreferenceGeneralPanel.cpp:358
+#, fuzzy
 msgid "E"
-msgstr ""
+msgstr "預置 E(小)"
 
-#: src/panel/PreferenceGeneralPanel.cpp:349
+#: src/panel/PreferenceGeneralPanel.cpp:359
 msgid "F"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:350
+#: src/panel/PreferenceGeneralPanel.cpp:360
 msgid "G"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:351
+#: src/panel/PreferenceGeneralPanel.cpp:361
 msgid "H"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:352
+#: src/panel/PreferenceGeneralPanel.cpp:362
 msgid "I"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:353
+#: src/panel/PreferenceGeneralPanel.cpp:363
 msgid "J"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:354
+#: src/panel/PreferenceGeneralPanel.cpp:364
 msgid "K"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:355
+#: src/panel/PreferenceGeneralPanel.cpp:365
 msgid "L"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:356
+#: src/panel/PreferenceGeneralPanel.cpp:366
 msgid "M"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:357
+#: src/panel/PreferenceGeneralPanel.cpp:367
 msgid "N"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:358
+#: src/panel/PreferenceGeneralPanel.cpp:368
 msgid "O"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:359
+#: src/panel/PreferenceGeneralPanel.cpp:369
 msgid "P"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:360
+#: src/panel/PreferenceGeneralPanel.cpp:370
 msgid "Q"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:361
+#: src/panel/PreferenceGeneralPanel.cpp:371
 msgid "R"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:362
+#: src/panel/PreferenceGeneralPanel.cpp:372
+#, fuzzy
 msgid "S"
-msgstr ""
+msgstr "轉到 %s"
 
-#: src/panel/PreferenceGeneralPanel.cpp:363
+#: src/panel/PreferenceGeneralPanel.cpp:373
 msgid "T"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:364
+#: src/panel/PreferenceGeneralPanel.cpp:374
 msgid "U"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:365
+#: src/panel/PreferenceGeneralPanel.cpp:375
 msgid "V"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:366
+#: src/panel/PreferenceGeneralPanel.cpp:376
 msgid "W"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:367
+#: src/panel/PreferenceGeneralPanel.cpp:377
 msgid "X"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:368
+#: src/panel/PreferenceGeneralPanel.cpp:378
 msgid "Y"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:369
+#: src/panel/PreferenceGeneralPanel.cpp:379
 msgid "Z"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:370
+#: src/panel/PreferenceGeneralPanel.cpp:380
 msgid "`"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:372
+#: src/panel/PreferenceGeneralPanel.cpp:382
 msgid "2"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:373
+#: src/panel/PreferenceGeneralPanel.cpp:383
 msgid "3"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:374
+#: src/panel/PreferenceGeneralPanel.cpp:384
 msgid "4"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:375
+#: src/panel/PreferenceGeneralPanel.cpp:385
 msgid "5"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:376
+#: src/panel/PreferenceGeneralPanel.cpp:386
 msgid "6"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:377
+#: src/panel/PreferenceGeneralPanel.cpp:387
 msgid "7"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:378
+#: src/panel/PreferenceGeneralPanel.cpp:388
 msgid "8"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:379
+#: src/panel/PreferenceGeneralPanel.cpp:389
 msgid "9"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:380
-#: src/panel/PreferenceGeneralPanel.cpp:404
+#: src/panel/PreferenceGeneralPanel.cpp:390
+#: src/panel/PreferenceGeneralPanel.cpp:414
 msgid "0"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:381
+#: src/panel/PreferenceGeneralPanel.cpp:391
 msgid "-"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:382
+#: src/panel/PreferenceGeneralPanel.cpp:392
 msgid "="
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:383
+#: src/panel/PreferenceGeneralPanel.cpp:393
 msgid "\\"
 msgstr ""
 
-#: src/panel/PreferenceGeneralPanel.cpp:387
+#: src/panel/PreferenceGeneralPanel.cpp:397
 msgid "Remap Win-Key"
 msgstr "覆蓋 Win 鍵"
 
-#: src/panel/PreferenceGeneralPanel.cpp:394
+#: src/panel/PreferenceGeneralPanel.cpp:404
 msgid "MISC."
 msgstr "雜項"
 
-#: src/panel/PreferenceGeneralPanel.cpp:401
+#: src/panel/PreferenceGeneralPanel.cpp:411
 msgid "Start with Windows, delay for"
 msgstr "隨系統啟動，延遲"
 
-#: src/panel/PreferenceGeneralPanel.cpp:407
+#: src/panel/PreferenceGeneralPanel.cpp:417
 msgid "seconds"
 msgstr "秒"
 
-#: src/panel/PreferenceGeneralPanel.cpp:410
+#: src/panel/PreferenceGeneralPanel.cpp:420
 msgid "Verbose Mode"
 msgstr "診斷模式"
+
+#: src/panel/PreferenceGeneralPanel.cpp:425
+msgid "Enable Steam Features (Program restart required)"
+msgstr "啟用 Steam 特性（需要重新開機程式）"
 
 #: src/panel/PreferenceGraphicPanel.cpp:213
 msgid "Video Adapter"
@@ -1644,6 +1664,10 @@ msgstr "匯出預置(&E)..."
 #: src/panel/PreferenceSoundPanel.cpp:501
 msgid "Preset files (*.PRESET)|*.PRESET"
 msgstr "預置檔案 (*.PRESET)|*.PRESET"
+
+#: src/panel/WorkshopFrame.cpp:227
+msgid "Workshop is unavailable when Steam is not running or in offline mode."
+msgstr "當 Steam 未運作或在離線模式時無法使用工作坊。"
 
 #: src/panel/WorkshopFrame.cpp:228
 msgid "Warning"
