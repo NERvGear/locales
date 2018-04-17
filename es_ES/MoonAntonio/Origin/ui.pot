@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils Beta1 V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:13+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _uiT\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Beta 1\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/GGO/LauncherMenu.cpp:315
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+
+#: src/GGO/ListMenu.cpp:517
+msgid "- Modify this item."
+msgstr ""
+
+#: src/GGO/ListMenu.cpp:524
+msgid "- Add new item."
+msgstr ""
+
+#: src/GGO/ListMenu.cpp:531
+msgid "- Drag to move item."
+msgstr ""
+
+#: src/GGO/ListMenu.cpp:538
+msgid "- Remove this item."
+msgstr ""
+
+#: src/share/theme/HelpMenu.cpp:74
+msgid "User Guide"
+msgstr ""
+
+#: src/share/theme/HelpMenu.cpp:84
+msgid "About"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:78
+msgid "Switch Theme"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:88
+msgid "General"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:98
+msgid "Appearance"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:108
+msgid "Graphics"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:118
+msgid "Sounds"
+msgstr ""
+
+#: src/share/theme/OptionMenu.cpp:128
+msgid "Plug-ins"
+msgstr ""
+
+#: src/share/theme/PluginMenu.cpp:90
+msgid "Manage Plug-ins"
+msgstr ""
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Enable plug-in [ %s ] ?"
+msgstr ""
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Disable plug-in [ %s ] ?"
+msgstr ""
+
+#: src/share/theme/SettingMenu.cpp:74
+msgid "- Settings for SAO Utils."
+msgstr ""
+
+#: src/share/theme/SettingMenu.cpp:85
+msgid "- Information of SAO Utils."
+msgstr ""
+
+#: src/share/theme/SettingMenu.cpp:95
+msgid "- Shut down SAO Utils."
+msgstr ""
+

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Launch for SAO Utils V0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-05 00:14+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/Quick Launch\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/WidgetObject.cpp:124
+msgid "- Click to launch main menu."
+msgstr "- Haz clic para abrir el menú principal."
+
+#: include/defs.h:9
+msgid "Quick Launch"
+msgstr "Inicio Rápido"
+
+#: include/defs.h:10
+msgid "Quick Launch Widget for SAO Utils"
+msgstr "Quick Launch Widget para SAO Utils"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "El proyecto SAO Utils de Joshua"

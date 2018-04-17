@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GGO Widget for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 21:57+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/GGO Widget\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/ContextMenu.cpp:62
+msgid "Left Shift"
+msgstr "Shift Izquierdo"
+
+#: src/ContextMenu.cpp:63
+msgid "Right Shift"
+msgstr "Shift Derecho"
+
+#: src/ContextMenu.cpp:64
+msgid "Row Up"
+msgstr "Fila Arriba"
+
+#: src/ContextMenu.cpp:65
+msgid "Row Down"
+msgstr "Fila Abajo"
+
+#: src/ContextMenu.cpp:66
+msgid "Reorder"
+msgstr "Reordenar"
+
+#: src/ContextMenu.cpp:69
+msgid "Preset A (Large)"
+msgstr "Preset A (Grande)"
+
+#: src/ContextMenu.cpp:70
+msgid "Preset B (Large)"
+msgstr "Preset B (Grande)"
+
+#: src/ContextMenu.cpp:71
+msgid "Preset C (Medium)"
+msgstr "Preset C (Medio)"
+
+#: src/ContextMenu.cpp:72
+msgid "Preset D (Medium)"
+msgstr "Preset D (Medio)"
+
+#: src/ContextMenu.cpp:73
+msgid "Preset E (Small)"
+msgstr "Preset E (Pequeño)"
+
+#: src/ContextMenu.cpp:74
+msgid "Preset F (Small)"
+msgstr "Preset F (Pequeño)"
+
+#: src/ContextMenu.cpp:75
+msgid "Customize..."
+msgstr "Personalizar..."
+
+#: src/ContextMenu.cpp:76
+msgid "Resize"
+msgstr "Rescalar"
+
+#: src/ContextMenu.cpp:79
+msgid "&New Item..."
+msgstr "&Nuevo Elemento..."
+
+#: src/ContextMenu.cpp:80
+msgid "&Edit Item..."
+msgstr "&Editar Elemento..."
+
+#: src/ContextMenu.cpp:81
+msgid "&Remove Item"
+msgstr "&Quitar Elemento"
+
+#: src/ContextMenu.cpp:83
+msgid "New Row..."
+msgstr "Nueva Fila..."
+
+#: src/ContextMenu.cpp:84
+msgid "Remove Row"
+msgstr "Quitar Fila"
+
+#: src/ContextMenu.cpp:86
+msgid "New Widget"
+msgstr "Nuevo Widget"
+
+#: src/ContextMenu.cpp:87
+msgid "Remove Widget"
+msgstr "Quitar Widget"
+
+#: src/ContextMenu.cpp:89
+msgid "Always on &Top"
+msgstr "Siempre Arriba"
+
+#: src/ContextMenu.cpp:90
+msgid "&Lock all Widgets"
+msgstr "&Bloquear Todos los Widgets"
+
+#: src/ContextMenu.cpp:92
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: src/ContextMenu.cpp:93
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: src/ContextMenu.cpp:94
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: src/ContextMenu.cpp:95
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: src/ContextMenu.cpp:96
+msgid "&Align To"
+msgstr "&Alinear con"
+
+#: src/GGOWidget.cpp:102
+msgid "Are you sure to drop this widget ?"
+msgstr "¿Estás seguro de dejar caer este widget?"
+
+#: src/WidgetObject.cpp:725
+#, c-format
+msgid "Please input item size (%d-%d):"
+msgstr "Ingrese el tamaño del elemento (%d-%d):"
+
+#: src/WidgetObject.cpp:726
+msgid "Resize Item"
+msgstr "Cambiar el tamaño del elemento"
+
+#: src/panel/EditItemDialog.cpp:136
+msgid "Item Settings"
+msgstr "Configuración del elemento"
+
+#: src/panel/EditItemDialog.cpp:139
+msgid "Name"
+msgstr "Nombre"
+
+#: src/panel/EditItemDialog.cpp:145
+msgid "Type Options"
+msgstr "Tipo de opciones"
+
+#: src/panel/EditItemDialog.cpp:151
+msgid "Empty Space"
+msgstr "Espacio vacío"
+
+#: src/panel/EditItemDialog.cpp:153
+msgid "Static Image"
+msgstr "Imagen estática"
+
+#: src/panel/EditItemDialog.cpp:158
+msgid "Numeric or Text"
+msgstr "Numérico o Texto"
+
+#: src/panel/EditItemDialog.cpp:160
+msgid "Bar Chart"
+msgstr "Gráfico de barras"
+
+#: src/panel/EditItemDialog.cpp:162
+msgid "Histogram"
+msgstr "Histograma"
+
+#: src/panel/EditItemDialog.cpp:165
+msgid "..."
+msgstr "..."
+
+#: src/panel/EditItemDialog.cpp:173
+msgid "OK"
+msgstr "OK"
+
+#: src/panel/EditItemDialog.cpp:175
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/panel/EditItemDialog.cpp:220
+msgid "Click to choose an image"
+msgstr "Haga clic para elegir una imagen"
+
+#: src/panel/EditItemDialog.cpp:226
+msgid "Click to choose a data"
+msgstr "Haga clic para elegir una información"
+
+#: src/panel/EditItemDialog.cpp:262
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "Todos los archivos compatibles|*.PNG;*.JPG;*.BMP;*.ICO"
+
+#: src/panel/EditItemDialog.cpp:263
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "Imagenes (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+#: src/panel/EditItemDialog.cpp:264
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "Iconos (*.ICO)|*.ICO"
+
+#: include/defs.h:9
+msgid "GGO Widget"
+msgstr "GGO Widget"
+
+#: include/defs.h:10
+msgid "Gun Gale Online Status Widget for SAO Utils"
+msgstr "Gun Gale Online Status Widget para SAO Utils"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "El proyecto SAO Utils de Joshua"
