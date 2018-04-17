@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Browser Engine for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-03 17:23+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Beta 1\\plugin\\Web Browser Engine\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/BrowserObject.cpp:543
+msgid "Please input URL:"
+msgstr ""
+
+#: src/BrowserObject.cpp:543
+msgid "Go to..."
+msgstr ""
+
+#: src/CefBrowserClient.cpp:548
+#, c-format
+msgid "Go to %s"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:553
+msgid "Open link in new tab"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:554
+msgid "Open link in external browser"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:555
+msgid "Copy link address"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:558
+msgid "Refresh"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:560
+msgid "Developer tools"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:562
+msgid "Open external browser"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:700
+msgid "This page is not available"
+msgstr ""
+
+#: src/CefBrowserClient.cpp:707
+msgid "Reload"
+msgstr ""
+
+#: src/WebBrowserEngine.cpp:168
+msgid "Chromium command line switches:"
+msgstr ""
+
+#: include/defs.h:9
+msgid "Web Browser Engine"
+msgstr ""
+
+#: include/defs.h:10
+msgid "Web Browser Engine Plug-in for SAO Utils"
+msgstr ""
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr ""
+

@@ -1,0 +1,1600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SAO Utils Beta1 V0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 16:54+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Beta 1\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/Core.cpp:15
+msgid "Oops!"
+msgstr ""
+
+#: src/Core.cpp:16
+msgid ""
+"NERvGear was already stopped :(\n"
+"Debugging information has been saved as files in the program folder.\n"
+"For more information, please enable 'Verbose Mode' to generate a complete log file."
+msgstr ""
+
+#: src/PluginManager.cpp:255
+#, c-format
+msgid "Plug-in [%s] already installed, do you want to replace it ?"
+msgstr ""
+
+#: src/PluginManager.cpp:256
+msgid "Replace Plug-in"
+msgstr ""
+
+#: src/PluginManager.cpp:302
+msgid "Plug-in installed, please restart program to enable it."
+msgstr ""
+
+#: src/PluginManager.cpp:303
+#: src/PluginManager.cpp:313
+#: src/PluginManager.cpp:337
+msgid "Install Plug-in"
+msgstr ""
+
+#: src/PluginManager.cpp:313
+msgid "Plug-in installed successfully."
+msgstr ""
+
+#: src/PluginManager.cpp:337
+msgid "Failed to install plug-in."
+msgstr ""
+
+#: src/UIManager.cpp:153
+msgid "SAO Utils Starts Successfully."
+msgstr ""
+
+#: src/component/DataSource.cpp:70
+msgid "NERvGear Data Collection"
+msgstr ""
+
+#: src/component/DataSource.cpp:75
+msgid "Nerve Gear Data Collection"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:68
+msgid "Core Data"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:73
+msgid "Nerve Gear Core Data"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:205
+msgid "Total Component Service"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:206
+msgid "Total Object Service"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:207
+msgid "Total Lock Service"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:208
+msgid "Total Component Usage"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:209
+msgid "Total Object Usage"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:210
+msgid "Total Private Object"
+msgstr ""
+
+#: src/component/DataSource_core.cpp:220
+msgid ""
+"The update parameter takes UID of a plug-in to query module data, returning NERvGear module data as default.\n"
+"Example: 00000000-0000-0000-0000-000000000000"
+msgstr ""
+
+#: src/component/DataSource_cpu.cpp:71
+msgid "CPU Usage"
+msgstr ""
+
+#: src/component/DataSource_cpu.cpp:76
+msgid "CPU Performance Count"
+msgstr ""
+
+#: src/component/DataSource_cpu.cpp:188
+msgid "Overall"
+msgstr ""
+
+#: src/component/DataSource_disk.cpp:56
+msgid "Hard Disk Usage"
+msgstr ""
+
+#: src/component/DataSource_disk.cpp:61
+msgid "Free Disk Space Count"
+msgstr ""
+
+#: src/component/DataSource_disk.cpp:179
+msgid "Driver Space"
+msgstr ""
+
+#: src/component/DataSource_disk.cpp:180
+msgid "Driver Cluster"
+msgstr ""
+
+#: src/component/DataSource_disk.cpp:190
+msgid ""
+"The update parameter takes a path to count free space of a disk drive, returning current disk drive data as default.\n"
+"Example: C:\\"
+msgstr ""
+
+#: src/component/DataSource_misc.cpp:49
+msgid "Miscellaneous Data"
+msgstr ""
+
+#: src/component/DataSource_misc.cpp:54
+msgid "Useful Utilities Data"
+msgstr ""
+
+#: src/component/DataSource_misc.cpp:127
+msgid "Custom Text"
+msgstr ""
+
+#: src/component/DataSource_misc.cpp:137
+msgid ""
+"The update parameter takes a custom text to return a string.\n"
+"Example: Welcome to Sword Art Online!"
+msgstr ""
+
+#: src/component/DataSource_power.cpp:59
+msgid "Power Data"
+msgstr ""
+
+#: src/component/DataSource_power.cpp:64
+msgid "System Power Status"
+msgstr ""
+
+#: src/component/DataSource_power.cpp:199
+msgid "AC Line Status"
+msgstr ""
+
+#: src/component/DataSource_power.cpp:200
+msgid "Battery Status"
+msgstr ""
+
+#: src/component/DataSource_power.cpp:201
+msgid "Life Time"
+msgstr ""
+
+#: src/component/DataSource_ram.cpp:68
+msgid "RAM Usage"
+msgstr ""
+
+#: src/component/DataSource_ram.cpp:73
+msgid "Available Memory Count"
+msgstr ""
+
+#: src/component/DataSource_ram.cpp:196
+msgid "Physical Memory"
+msgstr ""
+
+#: src/component/DataSource_ram.cpp:197
+msgid "Virtual Memory"
+msgstr ""
+
+#: src/component/DataSource_ram.cpp:198
+msgid "Page File"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:79
+msgid "System Data"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:84
+msgid "Operator System Data"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:189
+msgid "OS Name"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:190
+msgid "OS Version"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:191
+msgid "OS Description"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:192
+msgid "OS Directory"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:193
+msgid "Processor"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:194
+msgid "Installed Memory"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:195
+msgid "Computer Name"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:196
+msgid "Account Name"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:197
+msgid "Current Date"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:198
+msgid "Current Time"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:199
+msgid "Device Uptime"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:200
+msgid "Program Uptime"
+msgstr ""
+
+#: src/component/DataSource_system.cpp:213
+msgid ""
+"The update parameter takes ANSI C strftime() format string to format date or time.\n"
+"Example: %Y-%m-%d\n"
+"Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+msgstr ""
+
+#: src/NERvAPI/private.cpp:547
+msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
+msgstr ""
+
+#: src/NERvAPI/private.cpp:594
+msgid "Please input file or folder name:"
+msgstr ""
+
+#: src/NERvAPI/private.cpp:608
+msgid "Create File"
+msgstr ""
+
+#: src/NERvAPI/private.cpp:633
+msgid "Rename File"
+msgstr ""
+
+#: src/NERvAPI/private.cpp:735
+msgid "Are you sure to drop the old menu ?"
+msgstr ""
+
+#: src/NERvAPI/UI/MenuBase.cpp:230
+#, c-format
+msgid "Execute item [ %s ] ?"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:155
+msgid "Action"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:162
+msgid "Program"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:165
+msgid "Execute an existed program."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:167
+msgid "File"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:169
+msgid "Open a file with associated program."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:171
+msgid "Folder"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:173
+msgid "Open a folder in exlporer."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:175
+#: src/panel/ActionOptionPanel.cpp:252
+msgid "URL"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:177
+msgid "Open a web, file or e-mail address. "
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:179
+msgid "Command"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:181
+msgid "Run a command or program with parameters."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:183
+msgid "Extension"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:190
+#: src/panel/DataPickerDialog.cpp:329
+#: src/panel/DataPickerDialog.cpp:337
+msgid "..."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:195
+msgid "Confirm before action"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:200
+msgid "Keep launcher after action"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:234
+msgid "Programs (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:234
+#: src/panel/ActionOptionPanel.cpp:240
+msgid "All files (*.*)|*.*"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:252
+msgid "Please input a url with http:/file:/mailto: prefix."
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:252
+msgid "http://"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:259
+msgid "Please input a shell command"
+msgstr ""
+
+#: src/panel/ActionOptionPanel.cpp:259
+msgid "Action Command"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:289
+msgid "Choose a value..."
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:296
+msgid "Preview"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:297
+#: src/panel/DataPickerDialog.cpp:587
+msgid "<Preview Not Available>"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:302
+msgid "Cur. Value"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:303
+msgid "Inv. Value"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:304
+msgid "Max. Value"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:305
+msgid "Min. Value"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:307
+msgid "Options"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:313
+msgid "Update value every"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:315
+msgid "1"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:318
+msgid "Milliseconds"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:319
+msgid "Seconds"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:320
+msgid "Minutes"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:321
+msgid "Hours"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:322
+msgid "Days"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:327
+msgid "Update Parameter"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:335
+msgid "Invoke Parameter"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:342
+msgid "Value Unit:"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:348
+msgid "Display as"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:362
+msgid "OK"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:365
+msgid "Cancel"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:385
+msgid "<Unknown Data Source>"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:396
+msgid "<Unknown Data>"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:403
+msgid "<Unknown Value>"
+msgstr ""
+
+#: src/panel/DataPickerDialog.cpp:586
+msgid "<Loading Data...>"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:105
+msgid "Gesture Exclusions"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:107
+msgid "Disable if following processes are running:"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:111
+msgid "Process Name"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:114
+msgid "Only detect processes running in foreground"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:117
+msgid "Other Exclusions"
+msgstr ""
+
+#: src/panel/GestureExcludeDialog.cpp:118
+msgid "Disable mouse gesture in fullscreen mode"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:27
+msgid "Browse"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:57
+msgid "Icon Picker"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:60
+#: src/panel/IconShopDialog.cpp:152
+msgid "Normal:"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:62
+msgid "Select an icon"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:66
+#: src/panel/IconShopDialog.cpp:158
+msgid "Hover:"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:68
+msgid "Select the hover icon"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:72
+#: src/panel/IconShopDialog.cpp:164
+msgid "Press:"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:74
+msgid "Select the press icon"
+msgstr ""
+
+#: src/panel/IconPickerDialog.cpp:77
+msgid "* Leave 'Press' icon blank to use same icon as Hover state."
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:331
+msgid "Icon Settings"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:335
+msgid "Icon Setting"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:351
+#: src/panel/IconShopDialog.cpp:145
+msgid "Icon"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:356
+msgid "Edit"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:361
+#: src/panel/PreferencePluginPanel.cpp:194
+msgid "Name"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:368
+msgid "Sub-Menu"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:375
+msgid "Virtual Folder"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:376
+msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:378
+msgid "Real Folder"
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:380
+msgid "A 'Real Folder' sub-menu enables you to manage the files inside a folder."
+msgstr ""
+
+#: src/panel/IconSettingDialog.cpp:383
+msgid "Click to choose a folder"
+msgstr ""
+
+#: src/panel/IconShopDialog.cpp:99
+#: src/panel/IconShopDialog.cpp:100
+#: src/panel/IconShopDialog.cpp:101
+#: src/panel/IconShopDialog.cpp:154
+#: src/panel/IconShopDialog.cpp:160
+#: src/panel/IconShopDialog.cpp:166
+#: src/panel/IconShopDialog.cpp:399
+#: src/panel/PluginInfoDialog.cpp:101
+#: src/panel/PluginInfoDialog.cpp:108
+#: src/panel/PluginInfoDialog.cpp:113
+#: src/panel/PluginInfoDialog.cpp:119
+#: src/panel/PluginInfoDialog.cpp:125
+#: src/panel/PluginInfoDialog.cpp:131
+#: src/panel/PluginInfoDialog.cpp:137
+#: src/panel/PluginInfoDialog.cpp:143
+#: src/panel/PluginInfoDialog.cpp:152
+#: src/panel/PluginInfoDialog.cpp:157
+#: src/panel/PluginInfoDialog.cpp:163
+msgid "<N/A>"
+msgstr ""
+
+#: src/panel/IconShopDialog.cpp:124
+msgid "Icon Shop"
+msgstr ""
+
+#: src/panel/IconShopDialog.cpp:170
+msgid "Custom..."
+msgstr ""
+
+#: src/panel/IconShopDialog.cpp:268
+#: src/panel/PreferenceGraphicPanel.cpp:263
+#: src/panel/PreferenceSoundPanel.cpp:254
+#: src/panel/PreferenceSoundPanel.cpp:284
+#: src/panel/PreferenceSoundPanel.cpp:332
+#: src/panel/PreferenceSoundPanel.cpp:482
+msgid "<Default>"
+msgstr ""
+
+#: src/panel/InfoOptionPanel.cpp:63
+msgid "Info Panel"
+msgstr ""
+
+#: src/panel/InfoOptionPanel.cpp:85
+msgid "Static Image"
+msgstr ""
+
+#: src/panel/InfoOptionPanel.cpp:89
+msgid "Select a background image"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:99
+msgid "Plug-in Information"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:111
+msgid "Module Name:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:117
+msgid "Original Name:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:123
+#: src/panel/PreferenceAboutPanel.cpp:125
+msgid "Developer:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:129
+#: src/panel/PreferenceAboutPanel.cpp:137
+msgid "Website:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:135
+#: src/panel/PreferenceAboutPanel.cpp:131
+msgid "E-Mail:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:141
+msgid "NERvSDK Version:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:147
+msgid "UUID:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:149
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:155
+msgid "Description:"
+msgstr ""
+
+#: src/panel/PluginInfoDialog.cpp:161
+msgid "Comment:"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:89
+#: src/panel/PreferenceFrame.cpp:227
+msgid "About SAO Utils"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:102
+msgid ""
+"The SAO Utils program is a Sword Art Online Look'n'Feel launcher with variety of powerful utilities.\n"
+"Its pluggable architecture allows you, the developer, to add any kind of plug-ins to the core program.\n"
+"That's the reason why it was named as \"SAO Utils\" :)"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:105
+msgid "Information"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:111
+msgid "Program Name:"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:118
+msgid "Version:"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:127
+msgid "Joshua (GPBeta)"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "studiocghibli@gmail.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "mailto:studiocghibli@gmail.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com"
+msgstr ""
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com/post/develop/sao-utils/"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:193
+#: src/panel/PreferenceFrame.cpp:223
+msgid "Appearance Settings"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:205
+msgid "Launcher Mode"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:207
+msgid "2D"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:209
+msgid "3D"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:213
+msgid "Launcher Position"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:216
+msgid "Follow Cursor"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:219
+msgid "Fixed:"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:222
+msgid "Left"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:223
+msgid "Central"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:224
+msgid "Right"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:229
+msgid "Background Density"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:232
+msgid "Thin"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:236
+msgid "Thick"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:241
+msgid "Notification Icon Position"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:243
+msgid "Cross Screen"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:248
+msgid "Top Left"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:249
+msgid "Top Centre"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:250
+msgid "Top Right"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:251
+msgid "Centre Left"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:252
+msgid "Centre"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:253
+msgid "Centre Right"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:254
+msgid "Bottom Left"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:255
+msgid "Bottom Centre"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:256
+msgid "Bottom Right"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:260
+msgid "Startup Animation"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:262
+msgid "- Play 3D startup animation."
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:264
+msgid "Show Splash"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:266
+msgid "- Show splash screen on start-up."
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:270
+msgid "3D FX"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:276
+msgid "Magnification Ratio"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:279
+msgid "x0.5"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:284
+msgid "x2.0"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:289
+msgid "Camera Following Mouse"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:292
+msgid "Breathing Camera Effect"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:297
+msgid "Analog TV"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:300
+#: src/panel/PreferenceAppearancePanel.cpp:309
+#: src/panel/PreferenceGeneralPanel.cpp:257
+#: src/panel/PreferenceGraphicPanel.cpp:201
+msgid "Off"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:301
+#: src/panel/PreferenceAppearancePanel.cpp:310
+msgid "Light"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:302
+#: src/panel/PreferenceAppearancePanel.cpp:311
+#: src/panel/PreferenceGraphicPanel.cpp:176
+msgid "Medium"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:303
+#: src/panel/PreferenceAppearancePanel.cpp:312
+msgid "Strong"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:304
+msgid "Zoom"
+msgstr ""
+
+#: src/panel/PreferenceAppearancePanel.cpp:306
+msgid "Motion Blur"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:198
+msgid "Preferences"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:207
+msgid "Reset"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:207
+msgid "Reset all settings"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:212
+msgid "Save"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:212
+msgid "Save changes"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:213
+msgid "Revert changes"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:222
+msgid "General"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:222
+#: src/panel/PreferenceGeneralPanel.cpp:242
+msgid "General Settings"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:223
+msgid "Appearance"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:224
+msgid "Graphics"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:224
+#: src/panel/PreferenceGraphicPanel.cpp:139
+msgid "Graphics Settings"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:225
+msgid "Sounds"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:225
+#: src/panel/PreferenceSoundPanel.cpp:133
+msgid "Sound Settings"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:226
+msgid "Plug-ins"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:226
+#: src/panel/PreferencePluginPanel.cpp:148
+msgid "Plug-in Settings"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:227
+msgid "About"
+msgstr ""
+
+#: src/panel/PreferenceFrame.cpp:269
+msgid "Are you sure to reset all the settings?"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:254
+msgid "Long-press Timeout"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:259
+msgid "Short"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:261
+#: src/panel/PreferenceGeneralPanel.cpp:310
+msgid "Normal"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:264
+msgid "Long"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:268
+msgid "Lock Launcher"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:270
+msgid "- Disable editing launcher items."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:272
+msgid "Show Tooltips"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:275
+msgid "Touch Friendly"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:277
+msgid "- Provide better user experience for tablet devices."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:281
+msgid "Hotkeys"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:287
+msgid "Enable Mouse Gesture"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:290
+msgid "&Exclusions..."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:291
+msgid "- Manage mouse gesture exclusions."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:296
+msgid "LMB + RMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:297
+msgid "LMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:298
+msgid "MMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:299
+msgid "RMB"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:300
+msgid "XBUTTON1"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:301
+msgid "XBUTTON2"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:303
+msgid "+ Slide Down"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:306
+msgid "Sensitive"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:309
+#: src/panel/PreferenceGraphicPanel.cpp:175
+msgid "Low"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:311
+#: src/panel/PreferenceGraphicPanel.cpp:177
+msgid "High"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:315
+msgid "Enable Hotkey"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:320
+msgid "Ctrl"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:323
+msgid "Shift"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:326
+msgid "Alt"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:329
+msgid "Win"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:333
+msgid "+ Key"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:336
+msgid "A"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:337
+msgid "B"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:338
+msgid "C"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:339
+msgid "D"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:340
+msgid "E"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:341
+msgid "F"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:342
+msgid "G"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:343
+msgid "H"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:344
+msgid "I"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:345
+msgid "J"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:346
+msgid "K"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:347
+msgid "L"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:348
+msgid "M"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:349
+msgid "N"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:350
+msgid "O"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:351
+msgid "P"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:352
+msgid "Q"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:353
+msgid "R"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:354
+msgid "S"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:355
+msgid "T"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:356
+msgid "U"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:357
+msgid "V"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:358
+msgid "W"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:359
+msgid "X"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:360
+msgid "Y"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:361
+msgid "Z"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:362
+msgid "`"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:364
+msgid "2"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:365
+msgid "3"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:366
+msgid "4"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:367
+msgid "5"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:368
+msgid "6"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:369
+msgid "7"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:370
+msgid "8"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:371
+msgid "9"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:372
+msgid "0"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:373
+msgid "-"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:374
+msgid "="
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:375
+msgid "\\"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:379
+msgid "Remap Win-Key"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:386
+msgid "MISC."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:392
+msgid "Start with Windows"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:395
+msgid "Disable Action Filters"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:397
+msgid "- Forbid plug-ins from filtering launcher actions."
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:399
+msgid "Verbose Mode"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:404
+msgid "Check for Updates"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:407
+msgid "Plug-in Updates"
+msgstr ""
+
+#: src/panel/PreferenceGeneralPanel.cpp:410
+msgid "Available Plug-ins"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:151
+msgid "Video Adapter"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:157
+msgid "Display Mode"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:160
+msgid "Direct3D 9"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:162
+msgid "Layered"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:164
+msgid "- Recommended option with transparent background support."
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:166
+msgid "Compatible"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:167
+msgid "- Choose this option if you have any 3D graphic problems."
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:171
+msgid "Texture Quality"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:180
+msgid "Texture Filtering"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:183
+msgid "No Filtering"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:184
+msgid "Nearest Neighbor"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:185
+msgid "Bilinear"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:186
+msgid "Trilinear"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:187
+msgid "Anisotropic"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:189
+msgid "Render Quality"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:193
+msgid "High Performance"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:194
+msgid "Balance"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:195
+msgid "High Quality"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:198
+msgid "Anti-aliasing"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:202
+msgid "FSAA"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:203
+msgid "MSAA 2X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:204
+msgid "MSAA 4X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:205
+msgid "MSAA 8X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:206
+msgid "MSAA 16X"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:210
+msgid "Stereo"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:217
+msgid "Disable"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:219
+msgid "<Not implemented yet!>"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:221
+msgid "Oculus Rift VR"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:224
+msgid "Anaglyph Stereo"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:229
+msgid "Anaglyph Filter"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:237
+msgid "Zero Parallax"
+msgstr ""
+
+#: src/panel/PreferenceGraphicPanel.cpp:245
+msgid "Interaxial Separation"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:94
+#: src/panel/PreferencePluginPanel.cpp:320
+#: src/panel/PreferencePluginPanel.cpp:361
+#: src/panel/PreferenceSoundPanel.cpp:255
+#: src/panel/PreferenceSoundPanel.cpp:373
+#: src/panel/PreferenceSoundPanel.cpp:483
+msgid "Yes"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:95
+#: src/panel/PreferencePluginPanel.cpp:320
+#: src/panel/PreferencePluginPanel.cpp:361
+#: src/panel/PreferenceSoundPanel.cpp:256
+#: src/panel/PreferenceSoundPanel.cpp:373
+msgid "No"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:160
+msgid "Enable Plug-ins"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:163
+msgid "Get Updates"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:166
+msgid "Install..."
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:172
+#: src/panel/PreferencePluginPanel.cpp:197
+#: src/panel/PreferenceSoundPanel.cpp:154
+#: src/panel/PreferenceSoundPanel.cpp:173
+msgid "Enable"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:175
+msgid "Config"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:178
+msgid "Remove"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:181
+msgid "Details..."
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:183
+msgid "?"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:184
+msgid "- Read plug-in guideline."
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:195
+msgid "Version"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:196
+msgid "Author"
+msgstr ""
+
+#: src/panel/PreferencePluginPanel.cpp:357
+msgid "Nerve Gear Package (*.NVG)|*.NVG"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:145
+msgid "Enable Sounds"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:148
+msgid "Presets..."
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:159
+msgid "Playback"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:171
+msgid "Events"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:172
+msgid "Sound Files"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:179
+msgid "Program Start"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:182
+msgid "Program Ready"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:185
+msgid "Launcher Show"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:188
+msgid "Launcher Hide"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:191
+msgid "Message Show"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:194
+msgid "Message Hide"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:197
+msgid "Menu Popup"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:203
+msgid "Panel Popup"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:206
+msgid "Item Select"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:209
+msgid "Message Notify"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:212
+msgid "System Notify"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:215
+msgid "System Forbid"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:218
+msgid "System Alert"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:389
+msgid "Wave files (*.WAV)|*.WAV"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:445
+msgid "&Default Settings"
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:463
+msgid "&Import Presets..."
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:464
+msgid "&Export Presets..."
+msgstr ""
+
+#: src/panel/PreferenceSoundPanel.cpp:491
+#: src/panel/PreferenceSoundPanel.cpp:504
+msgid "Preset files (*.PRESET)|*.PRESET"
+msgstr ""
+
+#: src/UI/Launcher.cpp:859
+msgid "Are you sure to exit ?"
+msgstr ""
+
+#: src/UI/Launcher_widget.cpp:280
+msgid "Always on &Top"
+msgstr ""
+
+#: src/UI/Launcher_widget.cpp:283
+msgid "&Lock Launcher"
+msgstr ""
+
+#: src/UI/Launcher_widget.cpp:287
+msgid "&Preference"
+msgstr ""
+
+#: src/UI/Launcher_widget.cpp:289
+msgid "&Exit"
+msgstr ""
+
+#: src/UI/ThemeBox.cpp:305
+msgid "<No Themes Available>"
+msgstr ""
+
+#: src/UI/TrayIcon.cpp:97
+msgid "&Disable Hotkeys"
+msgstr ""
+
+#: src/UI/TrayIcon.cpp:100
+msgid "&Switch Theme"
+msgstr ""
+

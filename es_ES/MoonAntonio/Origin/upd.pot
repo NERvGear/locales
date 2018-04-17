@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Updater for SAO Utils Beta 1 V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-05 12:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Beta 1\\tool\\Updater\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/panel/UpdateDialog.cpp:44
+msgid "New Version Available"
+msgstr ""
+
+#: src/panel/UpdateDialog.cpp:65
+msgid "&Details"
+msgstr ""
+
+#: src/panel/UpdateDialog.cpp:73
+msgid "Visit Develop Page"
+msgstr ""
+
+#: src/panel/UpdateDialog.cpp:84
+msgid "Update Date: "
+msgstr ""
+
+#: src/panel/UpdateDialog.cpp:85
+msgid "Current Version: "
+msgstr ""
+
