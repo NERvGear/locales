@@ -16,3 +16,7 @@
 - ほーしょー
 - ZOE
 - 時雨月
+
+### Spanish
+- [MoonAntonio](https://github.com/MoonAntonio)
+
