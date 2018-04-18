@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Widget for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 17:02+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/Web Widget\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/WebObject.cpp:459
+msgid "All files|*.*"
+msgstr "Todos los archivos|*.*"
+
+#: src/WebObject.cpp:475
+msgid "Please input URL:"
+msgstr "Por favor ingrese la URL:"
+
+#: src/WebObject.cpp:475
+msgid "Go to..."
+msgstr "Ir a..."
+
+#: src/WebObject.cpp:703
+msgid "&Show widget menu"
+msgstr "&Mostrar widget menu"
+
+#: include/defs.h:9
+msgid "Web Widget"
+msgstr "Web Widget"
+
+#: include/defs.h:10
+msgid "Web Widget for SAO Utils"
+msgstr "Web Widget para SAO Utils"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "El proyecto SAO Utils de Joshua"
