@@ -4,7 +4,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-04 23:44+0800\n"
 "PO-Revision-Date: \n"
+"Last-Translator: Antonio Moon <antoniomt@gmail.com>\n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,9 +14,7 @@ msgstr ""
 "X-Poedit-KeywordsList: _;_TRANSLATE\n"
 "X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/Mail Box\n"
 "X-Generator: Poedit 2.0.6\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es_ES\n"
 "X-Poedit-SearchPath-0: include\n"
 "X-Poedit-SearchPath-1: src\n"
 
@@ -29,7 +29,7 @@ msgid ""
 "%d Unread Messages"
 msgstr ""
 "%s\n"
-"%d mensajes no leídos"
+"%d Mensajes no leídos"
 
 #: src/MsgBox.cpp:180
 msgid "<Click 'Open HTML' to read HTML content>"
@@ -80,7 +80,7 @@ msgstr "usuario o contraseña invalido"
 
 #: src/task.cpp:207 src/panel/ComposeDialog.cpp:298
 msgid "Failed to send message."
-msgstr "Error al enviar el mensaje"
+msgstr "Error al enviar el mensaje."
 
 #: src/task.cpp:257
 msgid "Message rejected by server."
@@ -88,7 +88,7 @@ msgstr "Mensaje rechazado por el servidor."
 
 #: src/task.cpp:345
 msgid "Failed to receive message."
-msgstr "Error al recibir el mensaje"
+msgstr "Error al recibir el mensaje."
 
 #: src/task.cpp:378
 msgid "Cannot download message."

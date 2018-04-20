@@ -2,9 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GGO Widget for SAO Utils V0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-04 21:57+0800\n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
 "PO-Revision-Date: \n"
+"Last-Translator: Antonio Moon <antoniomt@gmail.com>\n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,9 +14,7 @@ msgstr ""
 "X-Poedit-KeywordsList: _;_TRANSLATE\n"
 "X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/GGO Widget\n"
 "X-Generator: Poedit 2.0.6\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es_ES\n"
 "X-Poedit-SearchPath-0: include\n"
 "X-Poedit-SearchPath-1: src\n"
 
@@ -103,103 +103,107 @@ msgid "Always on &Top"
 msgstr "Siempre Arriba"
 
 #: src/ContextMenu.cpp:90
-msgid "&Lock all Widgets"
-msgstr "&Bloquear Todos los Widgets"
+msgid "&Lock Widget"
+msgstr "&Bloquear Widgets"
 
-#: src/ContextMenu.cpp:92
+#: src/ContextMenu.cpp:91
+msgid "&Transparent all Widgets"
+msgstr "&Transparentes todos los widgets"
+
+#: src/ContextMenu.cpp:93
 msgid "Top Left"
 msgstr "Arriba a la izquierda"
 
-#: src/ContextMenu.cpp:93
+#: src/ContextMenu.cpp:94
 msgid "Top Right"
 msgstr "Arriba a la derecha"
 
-#: src/ContextMenu.cpp:94
+#: src/ContextMenu.cpp:95
 msgid "Bottom Left"
 msgstr "Abajo a la izquierda"
 
-#: src/ContextMenu.cpp:95
+#: src/ContextMenu.cpp:96
 msgid "Bottom Right"
 msgstr "Abajo a la derecha"
 
-#: src/ContextMenu.cpp:96
+#: src/ContextMenu.cpp:97
 msgid "&Align To"
 msgstr "&Alinear con"
 
-#: src/GGOWidget.cpp:102
+#: src/GGOWidget.cpp:103
 msgid "Are you sure to drop this widget ?"
 msgstr "¿Estás seguro de dejar caer este widget?"
 
-#: src/WidgetObject.cpp:725
+#: src/WidgetObject.cpp:751
 #, c-format
 msgid "Please input item size (%d-%d):"
 msgstr "Ingrese el tamaño del elemento (%d-%d):"
 
-#: src/WidgetObject.cpp:726
+#: src/WidgetObject.cpp:752
 msgid "Resize Item"
 msgstr "Cambiar el tamaño del elemento"
 
-#: src/panel/EditItemDialog.cpp:136
+#: src/panel/EditItemDialog.cpp:137
 msgid "Item Settings"
 msgstr "Configuración del elemento"
 
-#: src/panel/EditItemDialog.cpp:139
+#: src/panel/EditItemDialog.cpp:140
 msgid "Name"
 msgstr "Nombre"
 
-#: src/panel/EditItemDialog.cpp:145
+#: src/panel/EditItemDialog.cpp:146
 msgid "Type Options"
 msgstr "Tipo de opciones"
 
-#: src/panel/EditItemDialog.cpp:151
+#: src/panel/EditItemDialog.cpp:152
 msgid "Empty Space"
 msgstr "Espacio vacío"
 
-#: src/panel/EditItemDialog.cpp:153
+#: src/panel/EditItemDialog.cpp:154
 msgid "Static Image"
 msgstr "Imagen estática"
 
-#: src/panel/EditItemDialog.cpp:158
+#: src/panel/EditItemDialog.cpp:159
 msgid "Numeric or Text"
 msgstr "Numérico o Texto"
 
-#: src/panel/EditItemDialog.cpp:160
+#: src/panel/EditItemDialog.cpp:161
 msgid "Bar Chart"
 msgstr "Gráfico de barras"
 
-#: src/panel/EditItemDialog.cpp:162
+#: src/panel/EditItemDialog.cpp:163
 msgid "Histogram"
 msgstr "Histograma"
 
-#: src/panel/EditItemDialog.cpp:165
+#: src/panel/EditItemDialog.cpp:166
 msgid "..."
 msgstr "..."
 
-#: src/panel/EditItemDialog.cpp:173
+#: src/panel/EditItemDialog.cpp:174
 msgid "OK"
 msgstr "OK"
 
-#: src/panel/EditItemDialog.cpp:175
+#: src/panel/EditItemDialog.cpp:176
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: src/panel/EditItemDialog.cpp:220
+#: src/panel/EditItemDialog.cpp:223
 msgid "Click to choose an image"
 msgstr "Haga clic para elegir una imagen"
 
-#: src/panel/EditItemDialog.cpp:226
+#: src/panel/EditItemDialog.cpp:229
 msgid "Click to choose a data"
 msgstr "Haga clic para elegir una información"
 
-#: src/panel/EditItemDialog.cpp:262
+#: src/panel/EditItemDialog.cpp:265
 msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
 msgstr "Todos los archivos compatibles|*.PNG;*.JPG;*.BMP;*.ICO"
 
-#: src/panel/EditItemDialog.cpp:263
+#: src/panel/EditItemDialog.cpp:266
 msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
 msgstr "Imagenes (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
 
-#: src/panel/EditItemDialog.cpp:264
+#: src/panel/EditItemDialog.cpp:267
 msgid "Icon files (*.ICO)|*.ICO"
 msgstr "Iconos (*.ICO)|*.ICO"
 
