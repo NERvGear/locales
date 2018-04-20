@@ -2,9 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HP-Bar for SAO Utils V0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-08-04 22:04+0800\n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
 "PO-Revision-Date: \n"
+"Last-Translator: Antonio Moon <antoniomt@gmail.com>\n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,9 +14,7 @@ msgstr ""
 "X-Poedit-KeywordsList: _;_TRANSLATE\n"
 "X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/HP-Bar\n"
 "X-Generator: Poedit 2.0.6\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: es_ES\n"
 "X-Poedit-SearchPath-0: include\n"
 "X-Poedit-SearchPath-1: src\n"
 
@@ -54,26 +54,30 @@ msgstr "&Adjuntar al Launcher"
 msgid "&Lock Widget"
 msgstr "&Bloquear Widget"
 
-#: src/panel/EditBarDialog.cpp:119
+#: src/ContextMenu.cpp:77
+msgid "&Transparent Widget"
+msgstr "&Widget transparente"
+
+#: src/panel/EditBarDialog.cpp:120
 msgid "Bar Settings"
 msgstr "Ajustes de Barra"
 
 # ignore
-#: src/panel/EditBarDialog.cpp:122
+#: src/panel/EditBarDialog.cpp:123
 msgid "Name"
 msgstr ""
 
-#: src/panel/EditBarDialog.cpp:127
+#: src/panel/EditBarDialog.cpp:128
 msgid "Click to choose a data"
 msgstr "Haga clic para elegir una información"
 
 # ignore
-#: src/panel/EditBarDialog.cpp:135
+#: src/panel/EditBarDialog.cpp:136
 msgid "OK"
 msgstr ""
 
 # ignore
-#: src/panel/EditBarDialog.cpp:137
+#: src/panel/EditBarDialog.cpp:138
 msgid "Cancel"
 msgstr ""
 
