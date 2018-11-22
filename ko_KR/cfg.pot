@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Config for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:01+0800\n"
+"PO-Revision-Date: 2018-11-22 20:12+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/tool/Config\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/ConfigManager.cpp:55
+msgid ""
+"An instance of SAO Utils is already running,\n"
+"please close the program before you continue any operations."
+msgstr ""
+"SAO Utils가 이미 실행되고 있습니다.\n"
+"작업을 계속하기전에 프로그램을 닫아주세요"
+
+#: src/ConfigManager.cpp:57 src/panel/ConfigDialog.cpp:277
+msgid "Warning"
+msgstr "경고"
+
+#: src/panel/ConfigDialog.cpp:52
+msgid "SAO Utils Configuration Manager"
+msgstr "SAO Utils 설정 관리자"
+
+#: src/panel/ConfigDialog.cpp:60
+msgid "Import"
+msgstr "가져오기"
+
+#: src/panel/ConfigDialog.cpp:62
+msgid "Export"
+msgstr "내보내기"
+
+#: src/panel/ConfigDialog.cpp:65
+msgid "Migrate from another version"
+msgstr "다른 버전에서 이전하기"
+
+#: src/panel/ConfigDialog.cpp:79
+msgid "Current Version: "
+msgstr "현재 버전"
+
+#: src/panel/ConfigDialog.cpp:172 src/panel/ConfigDialog.cpp:187
+#: src/panel/ConfigDialog.cpp:388 src/panel/ConfigDialog.cpp:404
+#: src/panel/ConfigDialog.cpp:419 src/panel/ConfigDialog.cpp:435
+msgid "Migrate: "
+msgstr "이전"
+
+#: src/panel/ConfigDialog.cpp:208 src/panel/ConfigDialog.cpp:217
+#: src/panel/ConfigDialog.cpp:328
+msgid "Export: "
+msgstr "내보내기"
+
+#: src/panel/ConfigDialog.cpp:256
+msgid "Import: "
+msgstr "가져오기"
+
+#: src/panel/ConfigDialog.cpp:277
+msgid "Are you sure to override current configuration?"
+msgstr "현재 설정을 덮어 쓰시겠습니까?"
+
+#: src/panel/ConfigDialog.cpp:286 src/panel/ConfigDialog.cpp:310
+msgid "Zip File (*.ZIP)|*.ZIP"
+msgstr "Zip 압축 파일 (*.ZIP)|*.ZIP"
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Configuration import finished."
+msgstr "설정의 가져오기가 완료되었습니다."
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "Save As"
+msgstr "다른 이름으로 저장"
+
+#: src/panel/ConfigDialog.cpp:335
+msgid "Configuration export finished."
+msgstr "설정의 내보내기가 완료되었습니다."
+
+#: src/panel/ConfigDialog.cpp:355
+msgid "Please choose a configuration source"
+msgstr "설정 소스를 선택하십시오."
+
+#: src/panel/ConfigDialog.cpp:356
+#, c-format
+msgid "Executable (%s)|%s"
+msgstr "실행 파일 (%s)|%s"
+
+#: src/panel/ConfigDialog.cpp:440
+msgid "Configuration migration finished."
+msgstr "설정 이전이 완료되었습니다."

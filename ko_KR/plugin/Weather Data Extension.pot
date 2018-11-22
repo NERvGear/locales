@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather Data Extension for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:08+0800\n"
+"PO-Revision-Date: 2018-11-22 23:39+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Weather Data Extension\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/WeatherDataSource.cpp:74
+msgid "Weather Data Collection"
+msgstr "날씨 데이터 수집"
+
+#: src/WeatherDataSource.cpp:79
+msgid "Weather Forecast Data Collection"
+msgstr "일기 예보 데이터 수집"
+
+#: src/WeatherDataSource.cpp:274
+msgid ""
+"The update parameter takes a city name or code to query weather data.\n"
+"Example 1: New York\n"
+"Example 2: USNY0996\n"
+"Reference: http://www.weather.com/weather/today/l/USNY0996:1:US"
+msgstr ""
+"업데이트 매개 변수는 날씨 데이터를 쿼리하기 위해 도시 이름 또는 코드를 사용합니다.\n"
+"예 1: 도쿄\n"
+"예 2: CHXX0037\n"
+"참조: http://www.weather.com/weather/today/l/CHXX0037:1:CH"
+
+#: src/WeatherDataSource_bar.cpp:53
+msgid "Pressure Data"
+msgstr "기압 데이터"
+
+#: src/WeatherDataSource_bar.cpp:58
+msgid "Atmospheric Pressure Data"
+msgstr "대기압 데이터"
+
+#: src/WeatherDataSource_bar.cpp:148
+msgid "Pressure Trend"
+msgstr "기압 경향"
+
+#: src/WeatherDataSource_bar.cpp:149
+msgid "Barometric Pressure"
+msgstr "큰 기압"
+
+#: src/WeatherDataSource_general.cpp:59
+msgid "General Data"
+msgstr "일반 데이터"
+
+#: src/WeatherDataSource_general.cpp:64
+msgid "General Weather Data"
+msgstr "일반 날씨 데이터"
+
+#: src/WeatherDataSource_general.cpp:176
+msgid "Weather Forecast"
+msgstr "일기 예보"
+
+#: src/WeatherDataSource_general.cpp:177
+msgid "Current Temperature"
+msgstr "현재 온도"
+
+#: src/WeatherDataSource_general.cpp:178
+msgid "Feels Like Temperature"
+msgstr "체감 온도"
+
+#: src/WeatherDataSource_general.cpp:179
+msgid "Dew Point"
+msgstr "노출 지점 온도"
+
+#: src/WeatherDataSource_general.cpp:180
+msgid "Relative Humidity"
+msgstr "상대 습도"
+
+#: src/WeatherDataSource_general.cpp:181
+msgid "Visibility"
+msgstr "가시성"
+
+#: src/WeatherDataSource_uv.cpp:50
+msgid "UV Data"
+msgstr "UV 데이터"
+
+#: src/WeatherDataSource_uv.cpp:55
+msgid "Ultraviolet Radiation Data"
+msgstr "자외선 방사 데이터"
+
+#: src/WeatherDataSource_uv.cpp:142
+msgid "UV Level"
+msgstr "UV 레벨"
+
+#: src/WeatherDataSource_uv.cpp:143
+msgid "UV Index"
+msgstr "UV 인덱스"
+
+#: src/WeatherDataSource_wind.cpp:56
+msgid "Wind Data"
+msgstr "풍력 데이터"
+
+#: src/WeatherDataSource_wind.cpp:61
+msgid "Wind Speed and Direction Data"
+msgstr "풍속 및 풍향 데이터"
+
+#: src/WeatherDataSource_wind.cpp:165
+msgid "Wind Direction"
+msgstr "바람의 방향"
+
+#: src/WeatherDataSource_wind.cpp:166
+msgid "Wind Degrees"
+msgstr "바람의 각도"
+
+#: src/WeatherDataSource_wind.cpp:167
+msgid "Wind Speed"
+msgstr "풍속"
+
+#: src/WeatherDataSource_wind.cpp:168
+msgid "Wind Gust"
+msgstr "돌풍"
+
+#: include/defs.h:9
+msgid "Weather Data Extension"
+msgstr "날씨 데이터 확장 기능"
+
+#: include/defs.h:10
+msgid "Weather Data Extension for SAO Utils"
+msgstr "SAO Utils의 날씨 데이터 확장 입니다"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua."
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
+

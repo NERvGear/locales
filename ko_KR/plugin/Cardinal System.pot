@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cardinal System for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:05+0800\n"
+"PO-Revision-Date: 2018-11-22 22:14+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Cardinal System\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/CardinalSystem.cpp:83
+msgid "New version available, I think it's time to update."
+msgstr "새 버전을 사용할 수 있습니다. 업데이트를 할수 있습니다."
+
+#: src/CardinalSystem.cpp:170
+msgid "Good night,"
+msgstr "안녕히주무세요"
+
+#: src/CardinalSystem.cpp:171
+msgid "Good morning,"
+msgstr "좋은 아침이에요,"
+
+#: src/CardinalSystem.cpp:172
+msgid "Good afternoon,"
+msgstr "좋은 하루에요"
+
+#: src/CardinalSystem.cpp:173
+msgid "Good evening,"
+msgstr "좋은날 보내세요"
+
+#: src/CardinalSystem.cpp:175
+msgid "I'm YUI."
+msgstr "저는 유이에요"
+
+#: src/CardinalSystem.cpp:176
+msgid "please call me YUI."
+msgstr "유이라고 불러주세요"
+
+#: src/CardinalSystem.cpp:177
+msgid "it's me, YUI!"
+msgstr "유이에요（<ゝω·）~☆"
+
+#: src/CardinalSystem.cpp:178
+msgid "may I help you?"
+msgstr "도움이 필요하신가요?"
+
+#: src/CardinalSystem.cpp:179
+msgid "welcome back!"
+msgstr "다시 오신것을 환영해요!"
+
+#: src/CardinalSystem.cpp:180
+msgid "long time no see."
+msgstr "오랜만이에요"
+
+#: src/CardinalSystem.cpp:224
+msgid "Gesture functions have recovered."
+msgstr "제스처 기능이 복구되었습니다."
+
+#: src/CardinalSystem.cpp:225
+msgid "Gesture functions have disabled."
+msgstr "제스처 기능이 비활성화되었습니다."
+
+#: include/defs.h:9
+msgid "YUI-MHCP001"
+msgstr "YUI-MHCP001"
+
+#: include/defs.h:10
+msgid "Mental Health Counseling Program 001(YUI) for SAO Utils"
+msgstr "SAO Utils를 위한 정신 건강 상담 프로그램 MHCP001(유이)"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
