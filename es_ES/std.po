@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SAO Utils Beta1 V0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-21 22:01+0800\n"
+"POT-Creation-Date: 2018-08-29 01:29+0800\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Antonio Moon <antoniomt@gmail.com>\n"
+"Last-Translator: Joshua GPBeta <studiocghibli@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: include\n"
 "X-Poedit-SearchPath-1: src\n"
@@ -40,51 +40,51 @@ msgstr ""
 msgid "Execute item [ %s ] ?"
 msgstr "¿ Ejecutar elemento [ %s ] ?"
 
-#: src/NERvAPI/private.cpp:569
+#: src/NERvAPI/private.cpp:511
 msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
 msgstr ""
 "Mira y siente este maravilloso launcher de Sword Art Online con poderosas "
 "utilidades."
 
-#: src/NERvAPI/private.cpp:621
+#: src/NERvAPI/private.cpp:566
 msgid "Please input file or folder name:"
 msgstr "Ingrese el nombre del archivo o la carpeta:"
 
-#: src/NERvAPI/private.cpp:635
+#: src/NERvAPI/private.cpp:580
 msgid "Create File"
 msgstr "Crea un archivo"
 
-#: src/NERvAPI/private.cpp:660
+#: src/NERvAPI/private.cpp:605
 msgid "Rename File"
 msgstr "Renombrar archivo"
 
-#: src/NERvAPI/private.cpp:770
+#: src/NERvAPI/private.cpp:715
 msgid "Are you sure to drop the old menu ?"
 msgstr "¿Estás seguro de abandonar el menú anterior?"
 
-#: src/PluginManager.cpp:361
+#: src/PluginManager.cpp:363
 #, c-format
 msgid "Plug-in [%s] already installed, do you want to replace it ?"
 msgstr "El plug-in [% s] ya está instalado, ¿desea reemplazarlo?"
 
-#: src/PluginManager.cpp:362
+#: src/PluginManager.cpp:364
 msgid "Replace Plug-in"
 msgstr "Reemplazar Plug-in"
 
-#: src/PluginManager.cpp:411
+#: src/PluginManager.cpp:413
 msgid "Plug-in installed, please restart program to enable it."
 msgstr "Plug-in instalado, reinicie el programa para habilitarlo."
 
-#: src/PluginManager.cpp:412 src/PluginManager.cpp:422
-#: src/PluginManager.cpp:446
+#: src/PluginManager.cpp:414 src/PluginManager.cpp:424
+#: src/PluginManager.cpp:448
 msgid "Install Plug-in"
 msgstr "Instalar Plug-in"
 
-#: src/PluginManager.cpp:422
+#: src/PluginManager.cpp:424
 msgid "Plug-in installed successfully."
 msgstr "Plug-in instalado correctamente."
 
-#: src/PluginManager.cpp:446
+#: src/PluginManager.cpp:448
 msgid "Failed to install plug-in."
 msgstr "Fallo en la instalación del plug-in."
 
@@ -96,10 +96,6 @@ msgstr ""
 "Una instancia de SAO Utils ya se está ejecutando en segundo plano,\n"
 "por favor, vuelva a intentarlo después de que se haya detenido por completo."
 
-#: src/SteamManager.cpp:321
-msgid "Workshop item(s) installed"
-msgstr "Elemento(s) de Workshop instalados"
-
 #: src/UI/Launcher.cpp:913
 msgid "Are you sure to exit ?"
 msgstr "¿Estás seguro de salir ?"
@@ -108,15 +104,15 @@ msgstr "¿Estás seguro de salir ?"
 msgid "Always on &Top"
 msgstr "Siempre arriba"
 
-#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:101
+#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:103
 msgid "&Lock Launcher"
 msgstr "&Bloquear Launcher"
 
-#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:106
+#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:109
 msgid "&Preference"
 msgstr "&Preferencias"
 
-#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:108
+#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:111
 msgid "&Exit"
 msgstr "&Salir"
 
@@ -129,15 +125,19 @@ msgstr "<Avance no disponible>"
 msgid "<No Themes Available>"
 msgstr "<No hay temas disponibles>"
 
-#: src/UI/TrayIcon.cpp:100
+#: src/UI/TrayIcon.cpp:102
 msgid "&Disable Hotkeys"
 msgstr "&Desactivar Hotkeys"
 
-#: src/UI/TrayIcon.cpp:103
+#: src/UI/TrayIcon.cpp:105
 msgid "&Switch Theme"
 msgstr "&Cambiar Temas"
 
-#: src/UI/TrayIcon.cpp:105
+#: src/UI/TrayIcon.cpp:107
+msgid "User Guide"
+msgstr "Guía del usuario"
+
+#: src/UI/TrayIcon.cpp:108
 msgid "&Workshop"
 msgstr "&Workshop"
 
@@ -149,7 +149,7 @@ msgstr "Bienvenido a SAO Utils!"
 msgid "Would you like to take a tutorial?"
 msgstr "¿Te gustaría realizar un tutorial?"
 
-#: src/UIManager.cpp:153
+#: src/UIManager.cpp:158
 msgid "SAO Utils Starts Successfully."
 msgstr "SAO Utils Iniciado Correctamente."
 
@@ -251,7 +251,7 @@ msgstr "Datos misceláneos"
 msgid "Useful Utilities Data"
 msgstr "Datos útiles de utilidades"
 
-#: src/component/DataSource_misc.cpp:127 src/panel/InfoOptionPanel.cpp:70
+#: src/component/DataSource_misc.cpp:127 src/panel/InfoOptionPanel.cpp:81
 msgid "Custom Text"
 msgstr "Texto personalizado"
 
@@ -392,7 +392,8 @@ msgstr "Archivo"
 msgid "Open a file with associated program."
 msgstr "Abre un archivo con el programa asociado."
 
-#: src/panel/ActionOptionPanel.cpp:171 src/panel/IconShopDialog.cpp:216
+#: src/panel/ActionOptionPanel.cpp:171 src/panel/IconShopDialog.cpp:147
+#: src/panel/ImageShopDialog.cpp:133
 msgid "Folder"
 msgstr "Carpeta"
 
@@ -416,7 +417,7 @@ msgstr "Comando"
 msgid "Run a command or program with parameters."
 msgstr "Ejecuta un comando o programa con parámetros."
 
-#: src/panel/ActionOptionPanel.cpp:183 src/panel/InfoOptionPanel.cpp:74
+#: src/panel/ActionOptionPanel.cpp:183 src/panel/InfoOptionPanel.cpp:85
 msgid "Extension"
 msgstr "Extensión"
 
@@ -458,7 +459,7 @@ msgstr "Comando de acción"
 msgid "Choose a value..."
 msgstr "Elige un valor ..."
 
-#: src/panel/DataPickerDialog.cpp:296 src/panel/IconShopDialog.cpp:221
+#: src/panel/DataPickerDialog.cpp:296 src/panel/IconShopDialog.cpp:152
 msgid "Preview"
 msgstr "Avance"
 
@@ -486,7 +487,7 @@ msgstr "Opciones"
 msgid "Update value every"
 msgstr "Actualizar el valor cada"
 
-#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:371
+#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:388
 msgid "1"
 msgstr "1"
 
@@ -526,12 +527,12 @@ msgstr "Unidad de valor:"
 msgid "Display as"
 msgstr "Mostrar como"
 
-#: src/panel/DataPickerDialog.cpp:362 src/panel/IconSettingDialog.cpp:449
+#: src/panel/DataPickerDialog.cpp:362 src/panel/IconSettingDialog.cpp:448
 msgid "OK"
 msgstr "OK"
 
-#: src/panel/DataPickerDialog.cpp:365 src/panel/IconSettingDialog.cpp:450
-#: src/panel/PreferenceFrame.cpp:215 src/panel/WorkshopPublishDialog.cpp:232
+#: src/panel/DataPickerDialog.cpp:365 src/panel/IconSettingDialog.cpp:449
+#: src/panel/PreferenceFrame.cpp:215
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -575,8 +576,7 @@ msgstr "Otras exclusiones"
 msgid "Disable mouse gesture in fullscreen mode"
 msgstr "Deshabilitar el gesto del mouse en modo pantalla completa"
 
-#: src/panel/IconPickerDialog.cpp:27 src/panel/WorkshopPublishDialog.cpp:210
-#: src/panel/WorkshopPublishDialog.cpp:218
+#: src/panel/IconPickerDialog.cpp:27 src/panel/InfoOptionPanel.cpp:103
 msgid "Browse"
 msgstr "Vistazo"
 
@@ -584,7 +584,7 @@ msgstr "Vistazo"
 msgid "Icon Picker"
 msgstr "Selector de icono"
 
-#: src/panel/IconPickerDialog.cpp:60 src/panel/IconShopDialog.cpp:238
+#: src/panel/IconPickerDialog.cpp:60 src/panel/IconShopDialog.cpp:169
 msgid "Normal:"
 msgstr "Normal:"
 
@@ -592,7 +592,7 @@ msgstr "Normal:"
 msgid "Select an icon"
 msgstr "Seleccione un ícono"
 
-#: src/panel/IconPickerDialog.cpp:66 src/panel/IconShopDialog.cpp:244
+#: src/panel/IconPickerDialog.cpp:66 src/panel/IconShopDialog.cpp:175
 msgid "Hover:"
 msgstr "Desplazamiento Sobre:"
 
@@ -600,7 +600,7 @@ msgstr "Desplazamiento Sobre:"
 msgid "Select the hover icon"
 msgstr "Seleccione el ícono de desplazamiento sobre"
 
-#: src/panel/IconPickerDialog.cpp:72 src/panel/IconShopDialog.cpp:250
+#: src/panel/IconPickerDialog.cpp:72 src/panel/IconShopDialog.cpp:181
 msgid "Press:"
 msgstr "Presionado:"
 
@@ -614,84 +614,86 @@ msgstr ""
 "* Deje el ícono 'Presionar' en blanco para usar el mismo ícono que el estado "
 "Desplazamiento."
 
-#: src/panel/IconSettingDialog.cpp:360
+#: src/panel/IconSettingDialog.cpp:359
 msgid "Icon Settings"
 msgstr "Configuraciones de icono"
 
-#: src/panel/IconSettingDialog.cpp:364
+#: src/panel/IconSettingDialog.cpp:363
 msgid "Icon Setting"
 msgstr "Configuración de icono"
 
-#: src/panel/IconSettingDialog.cpp:380 src/panel/IconShopDialog.cpp:231
+#: src/panel/IconSettingDialog.cpp:379 src/panel/IconShopDialog.cpp:162
 msgid "Icon"
 msgstr "Icono"
 
-#: src/panel/IconSettingDialog.cpp:385 src/panel/WorkshopFrame.cpp:301
+#: src/panel/IconSettingDialog.cpp:384
 msgid "Edit"
 msgstr "Editar"
 
-#: src/panel/IconSettingDialog.cpp:390 src/panel/PreferencePluginPanel.cpp:212
+#: src/panel/IconSettingDialog.cpp:389 src/panel/PreferencePluginPanel.cpp:212
 msgid "Name"
 msgstr "Nombre"
 
-#: src/panel/IconSettingDialog.cpp:397
+#: src/panel/IconSettingDialog.cpp:396
 msgid "Sub-Menu"
 msgstr "Sub-Menu"
 
-#: src/panel/IconSettingDialog.cpp:404
+#: src/panel/IconSettingDialog.cpp:403
 msgid "Virtual Folder"
 msgstr "Carpeta Virtual"
 
-#: src/panel/IconSettingDialog.cpp:405
+#: src/panel/IconSettingDialog.cpp:404
 msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
 msgstr ""
 "El sub-menú 'Carpeta virtual' le permite organizar elementos de menú "
 "personalizados."
 
-#: src/panel/IconSettingDialog.cpp:407
+#: src/panel/IconSettingDialog.cpp:406
 msgid "Real Folder"
 msgstr "Carpeta real"
 
-#: src/panel/IconSettingDialog.cpp:409
+#: src/panel/IconSettingDialog.cpp:408
 msgid ""
 "A 'Real Folder' sub-menu enables you to manage the files inside a folder."
 msgstr ""
 "El sub-menú \"Carpeta real\" le permite administrar los archivos dentro de "
 "una carpeta."
 
-#: src/panel/IconSettingDialog.cpp:413
+#: src/panel/IconSettingDialog.cpp:412
 msgid "Show File Icon"
 msgstr "Mostrar icono de archivo"
 
-#: src/panel/IconSettingDialog.cpp:416
+#: src/panel/IconSettingDialog.cpp:415
 msgid "Show File Extension"
 msgstr "Mostrar Extensiones"
 
-#: src/panel/IconSettingDialog.cpp:420
+#: src/panel/IconSettingDialog.cpp:419
 msgid "Click to choose a folder"
 msgstr "Haga clic para elegir una carpeta"
 
-#: src/panel/IconShopDialog.cpp:182 src/panel/IconShopDialog.cpp:183
-#: src/panel/IconShopDialog.cpp:184 src/panel/IconShopDialog.cpp:240
-#: src/panel/IconShopDialog.cpp:246 src/panel/IconShopDialog.cpp:252
-#: src/panel/IconShopDialog.cpp:537 src/panel/PluginInfoDialog.cpp:101
-#: src/panel/PluginInfoDialog.cpp:108 src/panel/PluginInfoDialog.cpp:113
-#: src/panel/PluginInfoDialog.cpp:119 src/panel/PluginInfoDialog.cpp:125
-#: src/panel/PluginInfoDialog.cpp:131 src/panel/PluginInfoDialog.cpp:137
-#: src/panel/PluginInfoDialog.cpp:143 src/panel/PluginInfoDialog.cpp:152
-#: src/panel/PluginInfoDialog.cpp:157 src/panel/PluginInfoDialog.cpp:163
+#: src/panel/IconShopDialog.cpp:114 src/panel/IconShopDialog.cpp:115
+#: src/panel/IconShopDialog.cpp:116 src/panel/IconShopDialog.cpp:171
+#: src/panel/IconShopDialog.cpp:177 src/panel/IconShopDialog.cpp:183
+#: src/panel/IconShopDialog.cpp:449 src/panel/ImageShopDialog.cpp:105
+#: src/panel/ImageShopDialog.cpp:152 src/panel/ImageShopDialog.cpp:329
+#: src/panel/PluginInfoDialog.cpp:101 src/panel/PluginInfoDialog.cpp:108
+#: src/panel/PluginInfoDialog.cpp:113 src/panel/PluginInfoDialog.cpp:119
+#: src/panel/PluginInfoDialog.cpp:125 src/panel/PluginInfoDialog.cpp:131
+#: src/panel/PluginInfoDialog.cpp:137 src/panel/PluginInfoDialog.cpp:143
+#: src/panel/PluginInfoDialog.cpp:152 src/panel/PluginInfoDialog.cpp:157
+#: src/panel/PluginInfoDialog.cpp:163
 msgid "<N/A>"
 msgstr "<N/A>"
 
-#: src/panel/IconShopDialog.cpp:210
+#: src/panel/IconShopDialog.cpp:141
 msgid "Icon Shop"
 msgstr "Tienda de Objetos"
 
-#: src/panel/IconShopDialog.cpp:256
+#: src/panel/IconShopDialog.cpp:187 src/panel/ImageShopDialog.cpp:156
 msgid "Custom..."
 msgstr "Personalizado..."
 
-#: src/panel/IconShopDialog.cpp:381 src/panel/PreferenceGraphicPanel.cpp:333
+#: src/panel/IconShopDialog.cpp:313 src/panel/PreferenceGraphicPanel.cpp:333
 #: src/panel/PreferenceSoundPanel.cpp:254
 #: src/panel/PreferenceSoundPanel.cpp:284
 #: src/panel/PreferenceSoundPanel.cpp:332
@@ -699,17 +701,37 @@ msgstr "Personalizado..."
 msgid "<Default>"
 msgstr "<Default>"
 
-#: src/panel/InfoOptionPanel.cpp:63
+#: src/panel/ImageShopDialog.cpp:127
+msgid "Image Shop"
+msgstr "Configuración de imagen"
+
+#: src/panel/ImageShopDialog.cpp:143
+msgid "Image"
+msgstr "Imagen"
+
+#: src/panel/ImageShopDialog.cpp:150
+msgid "Path:"
+msgstr "Camino:"
+
+#: src/panel/InfoOptionPanel.cpp:74
 msgid "Info Panel"
 msgstr "Info Panel"
 
-#: src/panel/InfoOptionPanel.cpp:85
+#: src/panel/InfoOptionPanel.cpp:96
 msgid "Static Image"
 msgstr "Imagen estática"
 
-#: src/panel/InfoOptionPanel.cpp:89
-msgid "Select a background image"
-msgstr "Seleccione una imagen de fondo"
+#: src/panel/InfoOptionPanel.cpp:138
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "Todos los archivos compatibles|*.PNG;*.JPG;*.BMP;*.ICO"
+
+#: src/panel/InfoOptionPanel.cpp:139
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "Imagenes (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+#: src/panel/InfoOptionPanel.cpp:140
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "Iconos (*.ICO)|*.ICO"
 
 #: src/panel/PluginInfoDialog.cpp:99
 msgid "Plug-in Information"
@@ -747,7 +769,7 @@ msgstr "UUID:"
 msgid "Copy to Clipboard"
 msgstr "Copiar al portapapeles"
 
-#: src/panel/PluginInfoDialog.cpp:155 src/panel/WorkshopPublishDialog.cpp:221
+#: src/panel/PluginInfoDialog.cpp:155
 msgid "Description:"
 msgstr "Descripción:"
 
@@ -1004,7 +1026,7 @@ msgstr "Revertir cambios"
 msgid "General"
 msgstr "General"
 
-#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:248
+#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:259
 msgid "General Settings"
 msgstr "Ajustes Generales"
 
@@ -1044,311 +1066,323 @@ msgstr "Acerca de"
 msgid "Are you sure to reset all the settings?"
 msgstr "¿Estás seguro de restablecer todas las configuraciones?"
 
-#: src/panel/PreferenceGeneralPanel.cpp:260
+#: src/panel/PreferenceGeneralPanel.cpp:271
 msgid "DPI Scaling"
 msgstr "Escalada DPI"
 
-#: src/panel/PreferenceGeneralPanel.cpp:263
+#: src/panel/PreferenceGeneralPanel.cpp:274
 msgid "Auto"
 msgstr "Auto"
 
-#: src/panel/PreferenceGeneralPanel.cpp:266
+#: src/panel/PreferenceGeneralPanel.cpp:277
 msgid "100%"
 msgstr "100%"
 
-#: src/panel/PreferenceGeneralPanel.cpp:268
+#: src/panel/PreferenceGeneralPanel.cpp:279
 msgid "125%"
 msgstr "125%"
 
-#: src/panel/PreferenceGeneralPanel.cpp:270
+#: src/panel/PreferenceGeneralPanel.cpp:281
 msgid "150%"
 msgstr "150%"
 
-#: src/panel/PreferenceGeneralPanel.cpp:272
+#: src/panel/PreferenceGeneralPanel.cpp:283
 msgid "200%"
 msgstr "200%"
 
-#: src/panel/PreferenceGeneralPanel.cpp:276
+#: src/panel/PreferenceGeneralPanel.cpp:287
+msgid "Enable Steam Features"
+msgstr "Habilitar las funciones de Steam"
+
+#: src/panel/PreferenceGeneralPanel.cpp:289
+msgid "- Enable Steam \"In-Game\" status and level."
+msgstr "- Habilita el estado y el nivel de Steam \"en el juego\"."
+
+#: src/panel/PreferenceGeneralPanel.cpp:291
 msgid "Lock Launcher"
 msgstr "Bloquear Launcher"
 
-#: src/panel/PreferenceGeneralPanel.cpp:278
+#: src/panel/PreferenceGeneralPanel.cpp:295
 msgid "- Disable editing launcher items."
 msgstr "- Deshabilita la edición de elementos del launcher."
 
-#: src/panel/PreferenceGeneralPanel.cpp:280
+#: src/panel/PreferenceGeneralPanel.cpp:297
 msgid "Show Tooltips"
 msgstr "Mostrar información sobre herramientas"
 
-#: src/panel/PreferenceGeneralPanel.cpp:283
+#: src/panel/PreferenceGeneralPanel.cpp:300
 msgid "Touch Friendly"
 msgstr "Touch Friendly"
 
-#: src/panel/PreferenceGeneralPanel.cpp:285
+#: src/panel/PreferenceGeneralPanel.cpp:302
 msgid "- Provide better user experience for tablet devices."
 msgstr ""
 "- Proporcionar una mejor experiencia de usuario para dispositivos de tableta."
 
-#: src/panel/PreferenceGeneralPanel.cpp:289
+#: src/panel/PreferenceGeneralPanel.cpp:306
 msgid "Hotkeys"
 msgstr "Teclas de acceso rápido"
 
-#: src/panel/PreferenceGeneralPanel.cpp:295
+#: src/panel/PreferenceGeneralPanel.cpp:312
 msgid "Enable Mouse Gesture"
 msgstr "Activar el gesto del mouse"
 
-#: src/panel/PreferenceGeneralPanel.cpp:298
+#: src/panel/PreferenceGeneralPanel.cpp:315
 msgid "&Exclusions..."
 msgstr "&Exclusiones..."
 
-#: src/panel/PreferenceGeneralPanel.cpp:299
+#: src/panel/PreferenceGeneralPanel.cpp:316
 msgid "- Manage mouse gesture exclusions."
 msgstr "- Administrar exclusiones de gestos de mouse."
 
-#: src/panel/PreferenceGeneralPanel.cpp:304
+#: src/panel/PreferenceGeneralPanel.cpp:321
 msgid "LMB + RMB"
 msgstr "LMB + RMB"
 
-#: src/panel/PreferenceGeneralPanel.cpp:305
+#: src/panel/PreferenceGeneralPanel.cpp:322
 msgid "LMB"
 msgstr "LMB"
 
-#: src/panel/PreferenceGeneralPanel.cpp:306
+#: src/panel/PreferenceGeneralPanel.cpp:323
 msgid "MMB"
 msgstr "MMB"
 
-#: src/panel/PreferenceGeneralPanel.cpp:307
+#: src/panel/PreferenceGeneralPanel.cpp:324
 msgid "RMB"
 msgstr "RMB"
 
-#: src/panel/PreferenceGeneralPanel.cpp:308
+#: src/panel/PreferenceGeneralPanel.cpp:325
 msgid "XBUTTON1"
 msgstr "XBUTTON1"
 
-#: src/panel/PreferenceGeneralPanel.cpp:309
+#: src/panel/PreferenceGeneralPanel.cpp:326
 msgid "XBUTTON2"
 msgstr "XBUTTON2"
 
-#: src/panel/PreferenceGeneralPanel.cpp:311
+#: src/panel/PreferenceGeneralPanel.cpp:328
 msgid "+ Slide Down"
 msgstr "+ Deslizar hacia abajo"
 
-#: src/panel/PreferenceGeneralPanel.cpp:314
+#: src/panel/PreferenceGeneralPanel.cpp:331
 msgid "Sensitive"
 msgstr "Sensibilidad"
 
-#: src/panel/PreferenceGeneralPanel.cpp:317
+#: src/panel/PreferenceGeneralPanel.cpp:334
 #: src/panel/PreferenceGraphicPanel.cpp:237
 msgid "Low"
 msgstr "Baja"
 
-#: src/panel/PreferenceGeneralPanel.cpp:318
+#: src/panel/PreferenceGeneralPanel.cpp:335
 msgid "Normal"
 msgstr "Normal"
 
-#: src/panel/PreferenceGeneralPanel.cpp:319
+#: src/panel/PreferenceGeneralPanel.cpp:336
 #: src/panel/PreferenceGraphicPanel.cpp:239
 msgid "High"
 msgstr "Alta"
 
-#: src/panel/PreferenceGeneralPanel.cpp:323
+#: src/panel/PreferenceGeneralPanel.cpp:340
 msgid "Enable Hotkey"
 msgstr "Habilitar Hotkey"
 
-#: src/panel/PreferenceGeneralPanel.cpp:328
+#: src/panel/PreferenceGeneralPanel.cpp:345
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: src/panel/PreferenceGeneralPanel.cpp:331
+#: src/panel/PreferenceGeneralPanel.cpp:348
 msgid "Shift"
 msgstr "Shift"
 
-#: src/panel/PreferenceGeneralPanel.cpp:334
+#: src/panel/PreferenceGeneralPanel.cpp:351
 msgid "Alt"
 msgstr "Alt"
 
-#: src/panel/PreferenceGeneralPanel.cpp:337
+#: src/panel/PreferenceGeneralPanel.cpp:354
 msgid "Win"
 msgstr "Win"
 
-#: src/panel/PreferenceGeneralPanel.cpp:341
+#: src/panel/PreferenceGeneralPanel.cpp:358
 msgid "+ Key"
 msgstr "+ Tecla"
 
-#: src/panel/PreferenceGeneralPanel.cpp:344
+#: src/panel/PreferenceGeneralPanel.cpp:361
 msgid "A"
 msgstr "A"
 
-#: src/panel/PreferenceGeneralPanel.cpp:345
+#: src/panel/PreferenceGeneralPanel.cpp:362
 msgid "B"
 msgstr "B"
 
-#: src/panel/PreferenceGeneralPanel.cpp:346
+#: src/panel/PreferenceGeneralPanel.cpp:363
 msgid "C"
 msgstr "C"
 
-#: src/panel/PreferenceGeneralPanel.cpp:347
+#: src/panel/PreferenceGeneralPanel.cpp:364
 msgid "D"
 msgstr "D"
 
-#: src/panel/PreferenceGeneralPanel.cpp:348
+#: src/panel/PreferenceGeneralPanel.cpp:365
 msgid "E"
 msgstr "E"
 
-#: src/panel/PreferenceGeneralPanel.cpp:349
+#: src/panel/PreferenceGeneralPanel.cpp:366
 msgid "F"
 msgstr "F"
 
-#: src/panel/PreferenceGeneralPanel.cpp:350
+#: src/panel/PreferenceGeneralPanel.cpp:367
 msgid "G"
 msgstr "G"
 
-#: src/panel/PreferenceGeneralPanel.cpp:351
+#: src/panel/PreferenceGeneralPanel.cpp:368
 msgid "H"
 msgstr "H"
 
-#: src/panel/PreferenceGeneralPanel.cpp:352
+#: src/panel/PreferenceGeneralPanel.cpp:369
 msgid "I"
 msgstr "I"
 
-#: src/panel/PreferenceGeneralPanel.cpp:353
+#: src/panel/PreferenceGeneralPanel.cpp:370
 msgid "J"
 msgstr "J"
 
-#: src/panel/PreferenceGeneralPanel.cpp:354
+#: src/panel/PreferenceGeneralPanel.cpp:371
 msgid "K"
 msgstr "K"
 
-#: src/panel/PreferenceGeneralPanel.cpp:355
+#: src/panel/PreferenceGeneralPanel.cpp:372
 msgid "L"
 msgstr "L"
 
-#: src/panel/PreferenceGeneralPanel.cpp:356
+#: src/panel/PreferenceGeneralPanel.cpp:373
 msgid "M"
 msgstr "M"
 
-#: src/panel/PreferenceGeneralPanel.cpp:357
+#: src/panel/PreferenceGeneralPanel.cpp:374
 msgid "N"
 msgstr "N"
 
-#: src/panel/PreferenceGeneralPanel.cpp:358
+#: src/panel/PreferenceGeneralPanel.cpp:375
 msgid "O"
 msgstr "O"
 
-#: src/panel/PreferenceGeneralPanel.cpp:359
+#: src/panel/PreferenceGeneralPanel.cpp:376
 msgid "P"
 msgstr "P"
 
-#: src/panel/PreferenceGeneralPanel.cpp:360
+#: src/panel/PreferenceGeneralPanel.cpp:377
 msgid "Q"
 msgstr "Q"
 
-#: src/panel/PreferenceGeneralPanel.cpp:361
+#: src/panel/PreferenceGeneralPanel.cpp:378
 msgid "R"
 msgstr "R"
 
-#: src/panel/PreferenceGeneralPanel.cpp:362
+#: src/panel/PreferenceGeneralPanel.cpp:379
 msgid "S"
 msgstr "S"
 
-#: src/panel/PreferenceGeneralPanel.cpp:363
+#: src/panel/PreferenceGeneralPanel.cpp:380
 msgid "T"
 msgstr "T"
 
-#: src/panel/PreferenceGeneralPanel.cpp:364
+#: src/panel/PreferenceGeneralPanel.cpp:381
 msgid "U"
 msgstr "U"
 
-#: src/panel/PreferenceGeneralPanel.cpp:365
+#: src/panel/PreferenceGeneralPanel.cpp:382
 msgid "V"
 msgstr "V"
 
-#: src/panel/PreferenceGeneralPanel.cpp:366
+#: src/panel/PreferenceGeneralPanel.cpp:383
 msgid "W"
 msgstr "W"
 
-#: src/panel/PreferenceGeneralPanel.cpp:367
+#: src/panel/PreferenceGeneralPanel.cpp:384
 msgid "X"
 msgstr "X"
 
-#: src/panel/PreferenceGeneralPanel.cpp:368
+#: src/panel/PreferenceGeneralPanel.cpp:385
 msgid "Y"
 msgstr "Y"
 
-#: src/panel/PreferenceGeneralPanel.cpp:369
+#: src/panel/PreferenceGeneralPanel.cpp:386
 msgid "Z"
 msgstr "Z"
 
-#: src/panel/PreferenceGeneralPanel.cpp:370
+#: src/panel/PreferenceGeneralPanel.cpp:387
 msgid "`"
 msgstr "`"
 
-#: src/panel/PreferenceGeneralPanel.cpp:372
+#: src/panel/PreferenceGeneralPanel.cpp:389
 msgid "2"
 msgstr "2"
 
-#: src/panel/PreferenceGeneralPanel.cpp:373
+#: src/panel/PreferenceGeneralPanel.cpp:390
 msgid "3"
 msgstr "3"
 
-#: src/panel/PreferenceGeneralPanel.cpp:374
+#: src/panel/PreferenceGeneralPanel.cpp:391
 msgid "4"
 msgstr "4"
 
-#: src/panel/PreferenceGeneralPanel.cpp:375
+#: src/panel/PreferenceGeneralPanel.cpp:392
 msgid "5"
 msgstr "5"
 
-#: src/panel/PreferenceGeneralPanel.cpp:376
+#: src/panel/PreferenceGeneralPanel.cpp:393
 msgid "6"
 msgstr "6"
 
-#: src/panel/PreferenceGeneralPanel.cpp:377
+#: src/panel/PreferenceGeneralPanel.cpp:394
 msgid "7"
 msgstr "7"
 
-#: src/panel/PreferenceGeneralPanel.cpp:378
+#: src/panel/PreferenceGeneralPanel.cpp:395
 msgid "8"
 msgstr "8"
 
-#: src/panel/PreferenceGeneralPanel.cpp:379
+#: src/panel/PreferenceGeneralPanel.cpp:396
 msgid "9"
 msgstr "9"
 
-#: src/panel/PreferenceGeneralPanel.cpp:380
-#: src/panel/PreferenceGeneralPanel.cpp:404
+#: src/panel/PreferenceGeneralPanel.cpp:397
+#: src/panel/PreferenceGeneralPanel.cpp:426
 msgid "0"
 msgstr "0"
 
-#: src/panel/PreferenceGeneralPanel.cpp:381
+#: src/panel/PreferenceGeneralPanel.cpp:398
 msgid "-"
 msgstr "-"
 
-#: src/panel/PreferenceGeneralPanel.cpp:382
+#: src/panel/PreferenceGeneralPanel.cpp:399
 msgid "="
 msgstr "="
 
-#: src/panel/PreferenceGeneralPanel.cpp:383
+#: src/panel/PreferenceGeneralPanel.cpp:400
 msgid "\\"
 msgstr "\\"
 
-#: src/panel/PreferenceGeneralPanel.cpp:387
+#: src/panel/PreferenceGeneralPanel.cpp:404
+msgid "Enable Touch Gesture"
+msgstr "Activar el gesto del táctil"
+
+#: src/panel/PreferenceGeneralPanel.cpp:409
 msgid "Remap Win-Key"
 msgstr "Remapear Win-Key"
 
-#: src/panel/PreferenceGeneralPanel.cpp:394
+#: src/panel/PreferenceGeneralPanel.cpp:416
 msgid "MISC."
 msgstr "MISC."
 
-#: src/panel/PreferenceGeneralPanel.cpp:401
+#: src/panel/PreferenceGeneralPanel.cpp:423
 msgid "Start with Windows, delay for"
 msgstr "Iniciar con Windows, retraso de"
 
-#: src/panel/PreferenceGeneralPanel.cpp:407
+#: src/panel/PreferenceGeneralPanel.cpp:429
 msgid "seconds"
 msgstr "segundos"
 
-#: src/panel/PreferenceGeneralPanel.cpp:410
+#: src/panel/PreferenceGeneralPanel.cpp:432
 msgid "Verbose Mode"
 msgstr "Modo detallado"
 
@@ -1667,133 +1701,6 @@ msgstr "&Exportar Prestablecidos..."
 msgid "Preset files (*.PRESET)|*.PRESET"
 msgstr "Preset files (*.PRESET)|*.PRESET"
 
-#: src/panel/WorkshopFrame.cpp:228
-msgid "Warning"
-msgstr "Advertencia"
-
-#: src/panel/WorkshopFrame.cpp:252
-msgid "Aincrad Workshop"
-msgstr "Aincrad Workshop"
-
-#: src/panel/WorkshopFrame.cpp:259 src/panel/WorkshopFrame.cpp:272
-#: src/panel/WorkshopFrame.cpp:285
-msgid "Comming soon!"
-msgstr "¡Próximamente!"
-
-#: src/panel/WorkshopFrame.cpp:261 src/panel/WorkshopFrame.cpp:274
-#: src/panel/WorkshopFrame.cpp:287
-msgid "View on Steam"
-msgstr "Ver en Steam"
-
-#: src/panel/WorkshopFrame.cpp:299
-msgid "Create"
-msgstr "Crear"
-
-#: src/panel/WorkshopFrame.cpp:303
-msgid "Delete"
-msgstr "Eliminar"
-
-#: src/panel/WorkshopFrame.cpp:305
-msgid "View"
-msgstr "Vista"
-
-#: src/panel/WorkshopFrame.cpp:308
-msgid "Refresh List"
-msgstr "Actualizar Lista"
-
-#: src/panel/WorkshopFrame.cpp:314
-msgid "Online Shop"
-msgstr "Tienda Online"
-
-#: src/panel/WorkshopFrame.cpp:315
-msgid "Subscribed Items"
-msgstr "Elementos Suscrito"
-
-#: src/panel/WorkshopFrame.cpp:316
-msgid "Favorited Items"
-msgstr "Elementos Favoritos"
-
-#: src/panel/WorkshopFrame.cpp:317
-msgid "My Items"
-msgstr "Mis elementos"
-
-#: src/panel/WorkshopFrame.cpp:388
-msgid "Now Loading..."
-msgstr "Cargando..."
-
-#: src/panel/WorkshopFrame.cpp:485
-msgid "Failed to create the workshop item."
-msgstr "Error al crear el elemento del workshop."
-
-#: src/panel/WorkshopFrame.cpp:486 src/panel/WorkshopFrame.cpp:502
-#: src/panel/WorkshopPublishDialog.cpp:336
-msgid "Error"
-msgstr "Error"
-
-#: src/panel/WorkshopFrame.cpp:501
-msgid "Failed to delete the workshop item."
-msgstr "Error al eliminar el elemento del workshop."
-
-#: src/panel/WorkshopFrame.cpp:532
-msgid "Creating workshop item..."
-msgstr "Creando elemento workshop..."
-
-#: src/panel/WorkshopFrame.cpp:548
-msgid "Deleting workshop item..."
-msgstr "Eliminando elemento workshop..."
-
-#: src/panel/WorkshopPublishDialog.cpp:192
-msgid "Publish Workshop Item"
-msgstr "Publicar Elemento Workshop"
-
-#: src/panel/WorkshopPublishDialog.cpp:195
-msgid "Title"
-msgstr "Titulo"
-
-#: src/panel/WorkshopPublishDialog.cpp:199
-msgid "Type"
-msgstr "Tipo"
-
-#: src/panel/WorkshopPublishDialog.cpp:202
-msgid "Icon Set"
-msgstr "Establecer Icono"
-
-#: src/panel/WorkshopPublishDialog.cpp:205
-msgid "Cover Image: (< 1 MB, Recommended Aspect 16:9)"
-msgstr "Imagen de portada: (<1 MB, Aspecto Recomendado 16:9)"
-
-#: src/panel/WorkshopPublishDialog.cpp:213
-msgid "Resource Folder:"
-msgstr "Carpeta de recursos:"
-
-#: src/panel/WorkshopPublishDialog.cpp:225
-msgid "Change Note:"
-msgstr "Nota de cambio:"
-
-#: src/panel/WorkshopPublishDialog.cpp:230
-msgid "Submit"
-msgstr "Enviar"
-
-#: src/panel/WorkshopPublishDialog.cpp:241
-msgid "Leave it blank to keep original data"
-msgstr "Déjelo en blanco para mantener los datos originales"
-
-#: src/panel/WorkshopPublishDialog.cpp:321
-msgid ""
-"Failed to update the workshop item.\n"
-"Error Code: "
-msgstr ""
-"Error al actualizar el elemento del workshop.\n"
-"Código de error: "
-
-#: src/panel/WorkshopPublishDialog.cpp:378
-msgid "Updating workshop item..."
-msgstr "Actualizando el artículo del workshop..."
-
-#: src/panel/WorkshopPublishDialog.cpp:391
-msgid "Image files (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
-msgstr "Archivos de imagen (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
-
 #: include/utils/preference.h:22
 #, c-format
 msgid ""
@@ -1802,45 +1709,3 @@ msgid ""
 msgstr ""
 "Elimina  [ %s ]?\n"
 "(Desactive el plug-in que responde de forma manual)"
-
-#~ msgid "http://"
-#~ msgstr "http://"
-
-#~ msgid "Long-press Timeout"
-#~ msgstr "Tiempo de espera prolongado"
-
-#~ msgid "Short"
-#~ msgstr "Corto"
-
-#~ msgid "Long"
-#~ msgstr "Largo"
-
-#~ msgid "Disable Action Filters"
-#~ msgstr "Deshabilitar filtros de acción"
-
-#~ msgid "- Forbid plug-ins from filtering launcher actions."
-#~ msgstr "- Prohibir los plug-ins de las acciones del launcher  de filtrado."
-
-#~ msgid "Check for Updates"
-#~ msgstr "Buscar actualizaciones"
-
-#~ msgid "Plug-in Updates"
-#~ msgstr "Actualizaciones de Plug-in"
-
-#~ msgid "Available Plug-ins"
-#~ msgstr "Plug-in Disponibles"
-
-#~ msgid "Compatible"
-#~ msgstr "Compatible"
-
-#~ msgid "- Choose this option if you have any 3D graphic problems."
-#~ msgstr "- Elija esta opción si tiene problemas gráficos en 3D."
-
-#~ msgid "<Not implemented yet!>"
-#~ msgstr "<¡No implementado todavía!>"
-
-#~ msgid "Oculus Rift VR"
-#~ msgstr "Oculus Rift VR"
-
-#~ msgid "Anaglyph Filter"
-#~ msgstr "Stereo Filtrado"
