@@ -1,5 +1,10 @@
 # Translation sources for SAO Utils
 
+## Tools
+
+- *.MO Format: [poEdit](https://poedit.net)
+- *.TS Format: [Qt Linguist](https://github.com/thurask/Qt-Linguist/releases)
+
 ## Credits
 
 ### Simplified Chinese
