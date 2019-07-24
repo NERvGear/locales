@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 17:02+0800\n"
+"PO-Revision-Date: 2018-11-22 23:43+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Web Widget\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/WebObject.cpp:459
+msgid "All files|*.*"
+msgstr "모든 파일|*.*"
+
+#: src/WebObject.cpp:475
+msgid "Please input URL:"
+msgstr "URL을 입력하십시오:"
+
+#: src/WebObject.cpp:475
+msgid "Go to..."
+msgstr "이동..."
+
+#: src/WebObject.cpp:703
+msgid "&Show widget menu"
+msgstr "위젯 메뉴(&S)"
+
+#: include/defs.h:9
+msgid "Web Widget"
+msgstr "웹 위젯"
+
+#: include/defs.h:10
+msgid "Web Widget for SAO Utils"
+msgstr "SAO Utils를 위한 웹 위젯"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
+

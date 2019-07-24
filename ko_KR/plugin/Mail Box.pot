@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 23:44+0800\n"
+"PO-Revision-Date: 2018-11-22 23:20+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Mail Box\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/MailBox.cpp:139
+msgid "<Untitled>"
+msgstr "<무제>"
+
+#: src/MailBox.cpp:280
+#, c-format
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+"%s\n"
+"%d 읽지 않은 메세지"
+
+#: src/MsgBox.cpp:180
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr "<HTML을 열어 내용을 읽습니다>"
+
+#: src/MsgBox.cpp:295
+msgid "Reply"
+msgstr "답장"
+
+#: src/MsgBox.cpp:300
+msgid "Mark  Read"
+msgstr "기존 읽기"
+
+#: src/MsgBox.cpp:305
+msgid "Read  Later"
+msgstr "나중에 읽기"
+
+#: src/MsgBox.cpp:310
+msgid "Open  HTML"
+msgstr "HTML 열기"
+
+#: src/MsgBox.cpp:314
+msgid "Ignore  All"
+msgstr "모두 무시"
+
+#: src/task.cpp:21
+#, c-format
+msgid "Failed to test %s server."
+msgstr "서버 %s의 테스트에 실패했습니다."
+
+#: src/task.cpp:22
+#, c-format
+msgid "Cannot connect to server: %s:%d."
+msgstr "서버: %s:%d에 접속하지 못했습니다."
+
+#: src/task.cpp:23
+#, c-format
+msgid "Cannot login to %s server, %s."
+msgstr "서버: %s:%d에 로그인하지 못했습니다."
+
+#: src/task.cpp:24
+msgid "Cannot retrieve message list."
+msgstr "메시지 목록을 가져올 수 없습니다."
+
+#: src/task.cpp:27
+msgid "invalid user name or password"
+msgstr "잘못된 사용자 이름 또는 암호"
+
+#: src/task.cpp:207
+#: src/panel/ComposeDialog.cpp:298
+msgid "Failed to send message."
+msgstr "메세지를 보내지 못했습니다."
+
+#: src/task.cpp:257
+msgid "Message rejected by server."
+msgstr "서버가 메세지를 거부했습니다."
+
+#: src/task.cpp:345
+msgid "Failed to receive message."
+msgstr "메세지의 수신에 실패하였습니다"
+
+#: src/task.cpp:378
+msgid "Cannot download message."
+msgstr "메세지 다운로드를 할 수 없습니다."
+
+#: src/task.cpp:379
+msgid "Cannot find specified message."
+msgstr "지정된 메세지를 찾을 수 없습니다."
+
+#: src/task.cpp:402
+msgid "Failed to fetch message list."
+msgstr "메세지 목록을 가져 오지 못했습니다."
+
+#: src/WidgetObject.cpp:133
+#: src/panel/ComposeDialog.cpp:175
+msgid "Compose Message"
+msgstr "메세지 작성"
+
+#: src/WidgetObject.cpp:143
+msgid "Online User"
+msgstr "온라인 사용자"
+
+#: src/WidgetObject.cpp:153
+msgid "Inbox"
+msgstr "받은 편지함"
+
+#: src/WidgetObject.cpp:163
+msgid "Option"
+msgstr "옵션"
+
+#: src/panel/ComposeDialog.cpp:120
+msgid "- Hide original message."
+msgstr "- 원본 메세지 숨기기"
+
+#: src/panel/ComposeDialog.cpp:123
+msgid "- Show original message."
+msgstr "- 원본 메세지 표시하기"
+
+#: src/panel/ComposeDialog.cpp:180
+msgid "From"
+msgstr "보낸 사람"
+
+#: src/panel/ComposeDialog.cpp:185
+msgid "To"
+msgstr "수신자"
+
+#: src/panel/ComposeDialog.cpp:189
+msgid "Subject"
+msgstr "제목"
+
+#: src/panel/ComposeDialog.cpp:194
+msgid "Attachment"
+msgstr "첨부파일"
+
+#: src/panel/ComposeDialog.cpp:195
+msgid "<Not implemented yet!>"
+msgstr "<아직 구현되지 않았습니다!>"
+
+#: src/panel/ComposeDialog.cpp:215
+msgid "Original Message"
+msgstr "원본 메세지"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send"
+msgstr "보내기"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send message"
+msgstr "메세지 보내기"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard"
+msgstr "폐기"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard message"
+msgstr "메세지를 폐기합니다"
+
+#: src/panel/ComposeDialog.cpp:266
+msgid "Discard editing message ?"
+msgstr "편집중인 메세지를 폐기하시겠습니까?"
+
+#: src/panel/ComposeDialog.cpp:276
+msgid "Please input recipient."
+msgstr "수신자를 입력하십시오."
+
+#: src/panel/ComposeDialog.cpp:283
+msgid "Sending message......"
+msgstr "메세지를 보내는 중입니다....."
+
+#: src/panel/ComposeDialog.cpp:328
+msgid "Message sent."
+msgstr "메세지가 전송되었습니다."
+
+#: src/panel/ConfigDialog.cpp:226
+msgid "Mail Box"
+msgstr "메일 박스"
+
+#: src/panel/ConfigDialog.cpp:228
+msgid "Email Account Settings"
+msgstr "이메일 계정 설정"
+
+#: src/panel/ConfigDialog.cpp:230
+msgid "Email Address:"
+msgstr "이메일 주소:"
+
+#: src/panel/ConfigDialog.cpp:239
+msgid "Server Address"
+msgstr "서버 주소"
+
+#: src/panel/ConfigDialog.cpp:242
+msgid "Port"
+msgstr "포트"
+
+#: src/panel/ConfigDialog.cpp:245
+msgid "Secure"
+msgstr "보안"
+
+#: src/panel/ConfigDialog.cpp:251
+msgid "POP3 Server:"
+msgstr "POP3 서버:"
+
+#: src/panel/ConfigDialog.cpp:260
+#: src/panel/ConfigDialog.cpp:276
+msgid "None"
+msgstr "없음"
+
+#: src/panel/ConfigDialog.cpp:261
+#: src/panel/ConfigDialog.cpp:277
+msgid "SSL"
+msgstr "SSL"
+
+#: src/panel/ConfigDialog.cpp:262
+#: src/panel/ConfigDialog.cpp:278
+msgid "TLS"
+msgstr "TLS"
+
+#: src/panel/ConfigDialog.cpp:267
+msgid "SMTP Server:"
+msgstr "SMTP 서버:"
+
+#: src/panel/ConfigDialog.cpp:283
+msgid "Username:"
+msgstr "사용자네임:"
+
+#: src/panel/ConfigDialog.cpp:287
+msgid "Password:"
+msgstr "암호:"
+
+#: src/panel/ConfigDialog.cpp:292
+msgid "Click to test account setting"
+msgstr "계정 설정을 테스트합니다"
+
+#: src/panel/ConfigDialog.cpp:294
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr "* POP3 서버에 로그인 할 수 없다면 SSL을 시도하십시오."
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Do not contain chat history in reply messages"
+msgstr "답장 메세지에 채팅 내역을 포함하지 않습니다."
+
+#: src/panel/ConfigDialog.cpp:303
+msgid "Check for new messages every"
+msgstr "모든 새 메세지 확인"
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "minutes"
+msgstr "분"
+
+#: src/panel/ConfigDialog.cpp:313
+msgid "Display Name (in Online User list):"
+msgstr "표시 이름(온라인 사용자 목록):"
+
+#: src/panel/ConfigDialog.cpp:320
+msgid "Signature text:"
+msgstr "서명 텍스트:"
+
+# ignore
+#: src/panel/ConfigDialog.cpp:329
+msgid "OK"
+msgstr "OK"
+
+#: src/panel/ConfigDialog.cpp:411
+msgid "Please input email address!"
+msgstr "이메일 주소를 입력해주십시오!"
+
+#: src/panel/ConfigDialog.cpp:418
+msgid "Please input POP3 server!"
+msgstr "POP3 서버를 입력해주십시오!"
+
+#: src/panel/ConfigDialog.cpp:425
+msgid "Please input SMTP server!"
+msgstr "SMTP 서버를 입력해주십시오!"
+
+#: src/panel/ConfigDialog.cpp:432
+msgid "Please input user name!"
+msgstr "사용자 이름을 입력해주십시오!"
+
+#: src/panel/ConfigDialog.cpp:439
+msgid "Please input password!"
+msgstr "암호를 입력해주십시오!"
+
+#: src/panel/ConfigDialog.cpp:446
+msgid "Connecting to server......"
+msgstr "서버 연결중....."
+
+#: src/panel/ConfigDialog.cpp:482
+msgid "Test Passed!"
+msgstr "테스트 패스합니다!"
+
+#: src/panel/UserEditDialog.cpp:52
+msgid "Display Name:"
+msgstr "표시 이름:"
+
+#: src/panel/UserEditDialog.cpp:57
+msgid "Locale:"
+msgstr "언어:"
+
+#: src/panel/UserInfoPanel.cpp:116
+#: src/panel/UserInfoPanel.cpp:120
+#: src/panel/UserListDialog.cpp:143
+#: src/panel/UserListDialog.cpp:173
+msgid "<N/A>"
+msgstr "<N/A>"
+
+#: src/panel/UserListDialog.cpp:140
+#: src/panel/UserMenu.cpp:64
+msgid "Add Friend"
+msgstr "친구 추가"
+
+#: src/panel/UserListDialog.cpp:169
+#: src/panel/UserMenu.cpp:60
+msgid "Edit Friend"
+msgstr "친구 편집"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records match your search."
+msgstr "검색 결과와 일치하는 기록이 없습니다."
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records currently, please come back later!"
+msgstr "현재 기록이 없습니다. 나중에 다시 오십시오!"
+
+#: src/panel/UserListDialog.cpp:297
+#: src/panel/UserListDialog.cpp:300
+msgid "My Friends"
+msgstr "친구 목록"
+
+#: src/panel/UserListDialog.cpp:297
+#: src/panel/UserListDialog.cpp:300
+msgid "Online Users"
+msgstr "온라인 사용자"
+
+#: src/panel/UserListDialog.cpp:320
+msgid "User List"
+msgstr "사용자 목록"
+
+#: src/panel/UserListDialog.cpp:336
+msgid "Search user name or email address"
+msgstr "사용자 이름 또는 이메일 주소 검색"
+
+#: src/panel/UserListDialog.cpp:346
+msgid "Previous"
+msgstr "이전"
+
+#: src/panel/UserListDialog.cpp:354
+msgid "Next"
+msgstr "다음"
+
+#: src/panel/UserListDialog.cpp:387
+msgid "Loading online users, please wait..."
+msgstr "온라인 사용자를 검색 하고있습니다, 잠시만 기다려주세요..."
+
+#: src/panel/UserMenu.cpp:52
+msgid "Send Mail"
+msgstr "메일 보내기"
+
+#: src/panel/UserMenu.cpp:56
+msgid "New Friend"
+msgstr "새 친구"
+
+#: src/panel/UserMenu.cpp:61
+msgid "Remove Friend"
+msgstr "친구 삭제"
+
+#: include/defs.h:10
+msgid "Mail Box for SAO Utils"
+msgstr "SAO UTils를 위한 메일박스 입니다"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
+
+#: include/defs.h:27
+msgid "- Sent from SAO Utils Mail Box"
+msgstr "- SAO Utils 메일박스에서 전송되었습니다"
+
