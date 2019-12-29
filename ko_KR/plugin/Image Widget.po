@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 22:46+0800\n"
+"PO-Revision-Date: 2018-11-22 23:08+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Image Widget\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/ImageObject.cpp:345
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO;*.GIF"
+msgstr "지원되는 모든 파일|*.PNG;*.JPG;*.BMP;*.ICO;*.GIF"
+
+#: src/ImageObject.cpp:346
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "이미지 파일 (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+#: src/ImageObject.cpp:347
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "아이콘 파일 (*.ICO)|*.ICO"
+
+#: src/ImageObject.cpp:348
+msgid "Animation files (*.GIF)|*.GIF"
+msgstr "애니메이션 파일 (*.GIF)|*.GIF"
+
+#: include/defs.h:9
+msgid "Image Widget"
+msgstr "이미지 위젯"
+
+#: include/defs.h:10
+msgid "Image Widget for SAO Utils"
+msgstr "SAO Utils를 위한 이미지 위젯"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
+

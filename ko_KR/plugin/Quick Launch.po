@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Launch for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-10 22:16+0800\n"
+"PO-Revision-Date: 2018-11-22 23:22+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Quick Launch\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/ContextMenu.cpp:66
+msgid "Always on &Top"
+msgstr "최상위 고정(&T)"
+
+#: src/WidgetObject.cpp:135
+msgid "- Click or drag files to launch main menu."
+msgstr "- 파일을 클릭하거나 드래그하여 주 메뉴를 실행하십시오."
+
+#: include/defs.h:9
+msgid "Quick Launch"
+msgstr "빠른 실행"
+
+#: include/defs.h:10
+msgid "Quick Launch Widget for SAO Utils"
+msgstr "SAO Utils를 위한 빠른 실행 위젯"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"

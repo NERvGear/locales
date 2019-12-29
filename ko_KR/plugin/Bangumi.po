@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bangumi for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:05+0800\n"
+"PO-Revision-Date: 2018-11-22 22:09+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Bangumi\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/Bangumi.cpp:187
+msgid "Retrieving animation list..."
+msgstr "애니메이션 목록 가져 오는 중..."
+
+#: src/Bangumi.cpp:202 src/Bangumi.cpp:492
+msgid "Cannot retrieve animation list."
+msgstr "애니메이션 목록을 가져올 수 없습니다."
+
+#: src/Bangumi.cpp:486
+msgid "No records currently."
+msgstr "현재 기록이 없습니다."
+
+#: src/BangumiDataSource.cpp:76
+msgid "Bangumi Data Collection"
+msgstr "편성표 데이터 수집"
+
+#: src/BangumiDataSource.cpp:81
+msgid "Bangumi Daily Animation Data Collection"
+msgstr "편성표 일정 애니메이션 데이터 수집"
+
+#: src/BangumiDataSource.cpp:132
+msgid "Programme Schedule"
+msgstr "프로그램 일정"
+
+#: src/BangumiDataSource.cpp:137
+msgid "Animation Programme Schedule Data"
+msgstr "애니메이션 프로그램 일정 데이터"
+
+#: src/BangumiDataSource.cpp:260
+msgid "On-Air Animation"
+msgstr "방송 중 애니메이션"
+
+#: src/BangumiDataSource.cpp:261
+msgid "On-Air Animation Count"
+msgstr "방송 중의 애니메이션 갯수"
+
+#: src/BangumiDataSource.cpp:262
+msgid "Daily Animation Count"
+msgstr "매일 애니메이션 총 갯수"
+
+#: src/ConfigDialog.cpp:47
+msgid "Bangumi"
+msgstr "편성표"
+
+#: src/ConfigDialog.cpp:49
+msgid "Prefer local translation name"
+msgstr "현지 번역 이름 선호"
+
+#: src/ConfigDialog.cpp:52
+msgid "Prefer local  premiere time"
+msgstr "현지의 방송 시작일 선호"
+
+#: src/ConfigDialog.cpp:56
+msgid "Hide special programs"
+msgstr "특별한 프로그램 숨기기"
+
+#: src/ConfigDialog.cpp:60
+msgid "Treat midnight as another day"
+msgstr "자정을 다른 날로 취급하십시오."
+
+#: src/ConfigDialog.cpp:64
+msgid "Open web pages in external browser"
+msgstr "외부 브라우저에서 웹 페이지 열기"
+
+#: src/ConfigDialog.cpp:70
+msgid "Data sources supported by ACGDB.COM"
+msgstr "ACGDB.COM의 데이터를 사용하고 있습니다"
+
+#: src/ConfigDialog.cpp:73
+msgid "OK"
+msgstr "OK"
+
+#: src/InfoBox.cpp:198
+msgid "Spring"
+msgstr "봄"
+
+#: src/InfoBox.cpp:198
+msgid "Summer"
+msgstr "여름"
+
+#: src/InfoBox.cpp:198
+msgid "Autumn"
+msgstr "가을"
+
+#: src/InfoBox.cpp:198
+msgid "Winter"
+msgstr "겨울"
+
+#: src/InfoBox.cpp:250
+#, c-format
+msgid "Premiere :   %s"
+msgstr "방송 시작 날짜 :   %s"
+
+#: src/InfoBox.cpp:256
+#, c-format
+msgid "Episode :   %s"
+msgstr "에피소드 :   %s"
+
+#: src/InfoBox.cpp:262
+#, c-format
+msgid "Tags :   %s"
+msgstr "태그 :   %s"
+
+#: src/InfoBox.cpp:267
+msgid "Description :"
+msgstr "설명 :"
+
+#: src/InfoBox.cpp:289
+#, c-format
+msgid "Time :  %s"
+msgstr "시간 :   %s"
+
+#: src/InfoBox.cpp:295
+msgid "ON AIR"
+msgstr "방송 중"
+
+#: src/InfoBox.cpp:296
+msgid "OFF AIR"
+msgstr "방송 시간 외"
+
+#: src/InfoBox.cpp:297
+msgid "FIN"
+msgstr "방송 종료"
+
+#: src/InfoBox.cpp:299
+msgid "UNKNOWN"
+msgstr "알수없는"
+
+#: src/InfoBox.cpp:301
+#, c-format
+msgid "State :  %s"
+msgstr "상태 :   %s"
+
+#: include/defs.h:11
+msgid "Daily Animation Widget for SAO Utils"
+msgstr "SAO Utils를 위한 일일 애니메이션 위젯"
+
+#: include/defs.h:12
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"

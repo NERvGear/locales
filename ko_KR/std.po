@@ -1,0 +1,1788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-25 20:51+0800\n"
+"PO-Revision-Date: 2018-11-22 21:53+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/Core.cpp:15
+msgid "Oops!"
+msgstr "이런!"
+
+#: src/Core.cpp:16
+msgid ""
+"NERvGear was already stopped :(\n"
+"Debugging information has been saved as files in the program folder.\n"
+"For more information, please enable 'Verbose Mode' to generate a complete log file."
+msgstr ""
+"NERvGear는 예상치 못한 원인에 의해 작동이 중지되었습니다.\n"
+"디버그 정보는 프로그램 폴더에 저장되었습니다.\n"
+"더 많은 정보를 얻으려면 설정 내역보기 모드를 선택하여 로그 파일을 생성 하십시오"
+
+#: src/NERvAPI/UI/MenuBase.cpp:230
+#, c-format
+msgid "Execute item [ %s ] ?"
+msgstr "[ %s ]를 실행 하시겠습니까?"
+
+#: src/NERvAPI/private.cpp:511
+msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
+msgstr "소드 아트 온라인의 조작감을 경험할수있는 강력한 유틸리티 입니다."
+
+#: src/NERvAPI/private.cpp:563
+msgid "Please input file or folder name:"
+msgstr "파일 또는 폴더의 이름을 입력하십시오."
+
+#: src/NERvAPI/private.cpp:577
+msgid "Create File"
+msgstr "파일 새로 만들기"
+
+#: src/NERvAPI/private.cpp:602
+msgid "Rename File"
+msgstr "파일 이름 변경"
+
+#: src/NERvAPI/private.cpp:712
+msgid "Are you sure to drop the old menu ?"
+msgstr "해당 메뉴를 모두 파기하시겠습니까?"
+
+#: src/PluginManager.cpp:361
+#, c-format
+msgid "Plug-in [%s] already installed, do you want to replace it ?"
+msgstr "플러그인 [%s]가 설치되어있습니다. 교체하시겠습니까?"
+
+#: src/PluginManager.cpp:362
+msgid "Replace Plug-in"
+msgstr "플러그인을 교체"
+
+#: src/PluginManager.cpp:411
+msgid "Plug-in installed, please restart program to enable it."
+msgstr "플러그인을 설치했습니다, 플러그인을 적용하기 위해 프로그램을 다시 시작해주십시오."
+
+#: src/PluginManager.cpp:412 src/PluginManager.cpp:422
+#: src/PluginManager.cpp:446
+msgid "Install Plug-in"
+msgstr "플러그인 설치"
+
+#: src/PluginManager.cpp:422
+msgid "Plug-in installed successfully."
+msgstr "플러그인 설치가 성공적으로 완료했습니다."
+
+#: src/PluginManager.cpp:446
+msgid "Failed to install plug-in."
+msgstr "플러그인 설치가 실패했습니다."
+
+#: src/SAOUtils.cpp:15
+msgid ""
+"An instance of SAO Utils is already running in the background,\n"
+"please retry after it has stopped completely."
+msgstr ""
+"SAO Utils가 이미 실행되고 있습니다.\n"
+"프로그램을 닫고 다시 시작해보십시오."
+
+#: src/SteamManager.cpp:355
+msgid "Workshop item(s) installed"
+msgstr "워크샵 아이템을 설치했습니다."
+
+#: src/UI/Launcher.cpp:913
+msgid "Are you sure to exit ?"
+msgstr "정말 종료하시겠습니까?"
+
+#: src/UI/Launcher_widget.cpp:280
+msgid "Always on &Top"
+msgstr "최상위 고정(&T)"
+
+#: src/UI/Launcher_widget.cpp:283 src/UI/TrayIcon.cpp:103
+msgid "&Lock Launcher"
+msgstr "런처 잠금(&L)"
+
+#: src/UI/Launcher_widget.cpp:287 src/UI/TrayIcon.cpp:109
+msgid "&Preference"
+msgstr "설정(&P)"
+
+#: src/UI/Launcher_widget.cpp:289 src/UI/TrayIcon.cpp:111
+msgid "&Exit"
+msgstr "SAO Utils를 종료(&E)"
+
+#: src/UI/ThemeBox.cpp:151 src/UI/ThemeBox.cpp:305
+#: src/panel/DataPickerDialog.cpp:297 src/panel/DataPickerDialog.cpp:587
+msgid "<Preview Not Available>"
+msgstr "<미리보기가 없습니다>"
+
+#: src/UI/ThemeBox.cpp:309
+msgid "<No Themes Available>"
+msgstr "<테마를 찾을 수 없습니다>"
+
+#: src/UI/TrayIcon.cpp:102
+msgid "&Disable Hotkeys"
+msgstr "핫 키를 비활성화(&D)"
+
+#: src/UI/TrayIcon.cpp:105
+msgid "&Switch Theme"
+msgstr "테마 정렬(&S)"
+
+#: src/UI/TrayIcon.cpp:107
+msgid "User Guide"
+msgstr "설명서"
+
+#: src/UI/TrayIcon.cpp:108
+msgid "&Workshop"
+msgstr "워크샵(&W)"
+
+#: src/UI/Tutorial.cpp:52
+msgid "Welcome to SAO Utils!"
+msgstr "SAO Utils에 오신 것을 환영합니다!"
+
+#: src/UI/Tutorial.cpp:63
+msgid "Would you like to take a tutorial?"
+msgstr "튜토리얼을 하시겠습니까?"
+
+#: src/UIManager.cpp:158
+msgid "SAO Utils Starts Successfully."
+msgstr "SAO Utils에 구동 성공"
+
+#: src/component/DataSource.cpp:70
+msgid "NERvGear Data Collection"
+msgstr "너브 기어 데이터 수집"
+
+#: src/component/DataSource.cpp:75
+msgid "Nerve Gear Data Collection"
+msgstr "너브 기어 데이터 수집"
+
+#: src/component/DataSource_core.cpp:68
+msgid "Core Data"
+msgstr "코어 데이터"
+
+#: src/component/DataSource_core.cpp:73
+msgid "Nerve Gear Core Data"
+msgstr "너브 기어 코어 데이터"
+
+#: src/component/DataSource_core.cpp:205
+msgid "Total Component Service"
+msgstr "구성 요소 서비스"
+
+#: src/component/DataSource_core.cpp:206
+msgid "Total Object Service"
+msgstr "오브젝트의 서비스"
+
+#: src/component/DataSource_core.cpp:207
+msgid "Total Lock Service"
+msgstr "서비스 잠금"
+
+#: src/component/DataSource_core.cpp:208
+msgid "Total Component Usage"
+msgstr "구성 요소 사용"
+
+#: src/component/DataSource_core.cpp:209
+msgid "Total Object Usage"
+msgstr "오브젝트의 사용"
+
+#: src/component/DataSource_core.cpp:210
+msgid "Total Private Object"
+msgstr "비공개 오브젝트"
+
+#: src/component/DataSource_core.cpp:220
+msgid ""
+"The update parameter takes UID of a plug-in to query module data, returning NERvGear module data as default.\n"
+"Example: 00000000-0000-0000-0000-000000000000"
+msgstr ""
+"업데이트의 매개 변수는 플러그인의 UID로 데이터 모듈의 데이터를 검색합니다, 너브 기어의 데이터는 기본값으로 반환합니다.\n"
+"예: 00000000-0000-0000-0000-000000000000"
+
+#: src/component/DataSource_cpu.cpp:81
+msgid "CPU Usage"
+msgstr "CPU 사용량"
+
+#: src/component/DataSource_cpu.cpp:86
+msgid "CPU Performance Count"
+msgstr "CPU 성능 측정"
+
+#: src/component/DataSource_cpu.cpp:197
+msgid "Overall"
+msgstr "전체"
+
+#: src/component/DataSource_disk.cpp:56
+msgid "Hard Disk Usage"
+msgstr "하드 디스크 사용 상황"
+
+#: src/component/DataSource_disk.cpp:61
+msgid "Free Disk Space Count"
+msgstr "사용 가능한 비어있는 디스크 용량"
+
+#: src/component/DataSource_disk.cpp:179
+msgid "Driver Space"
+msgstr "드라이브 빈 용량"
+
+#: src/component/DataSource_disk.cpp:180
+msgid "Driver Cluster"
+msgstr "드라이브 클러스터"
+
+#: src/component/DataSource_disk.cpp:190
+msgid ""
+"The update parameter takes a path to count free space of a disk drive, returning current disk drive data as default.\n"
+"Example: C:\\"
+msgstr ""
+"업데이트 매개 변수는 디스크 드라이브의 여유 공간을 계산하는 경로를 사용합니다, 현재 디스크 드라이브 데이터를 기본값으로 반환합니다\n"
+"예: C:\\"
+
+#: src/component/DataSource_misc.cpp:49
+msgid "Miscellaneous Data"
+msgstr "기타 데이터"
+
+#: src/component/DataSource_misc.cpp:54
+msgid "Useful Utilities Data"
+msgstr "유용한 유틸리티 데이터"
+
+#: src/component/DataSource_misc.cpp:127 src/panel/InfoOptionPanel.cpp:70
+msgid "Custom Text"
+msgstr "사용자 정의 텍스트"
+
+#: src/component/DataSource_misc.cpp:137
+msgid ""
+"The update parameter takes a custom text to return a string.\n"
+"Example: Welcome to Sword Art Online!"
+msgstr ""
+"업데이트 매개 변수는 사용자 정의 텍스트를 사용하여 문자열을 반환합니다.\n"
+"예: 소드 아트 온라인에 오신 것을 환영합니다!"
+
+#: src/component/DataSource_power.cpp:59
+msgid "Power Data"
+msgstr "전원 데이터"
+
+#: src/component/DataSource_power.cpp:64
+msgid "System Power Status"
+msgstr "시스템 전원 상태"
+
+#: src/component/DataSource_power.cpp:199
+msgid "AC Line Status"
+msgstr "전원 라인 상태"
+
+#: src/component/DataSource_power.cpp:200
+msgid "Battery Status"
+msgstr "배터리 상태"
+
+#: src/component/DataSource_power.cpp:201
+msgid "Life Time"
+msgstr "움직이는 시간"
+
+#: src/component/DataSource_ram.cpp:68
+msgid "RAM Usage"
+msgstr "RAM 사용 상황"
+
+#: src/component/DataSource_ram.cpp:73
+msgid "Available Memory Count"
+msgstr "사용 가능한 메모리 용량"
+
+#: src/component/DataSource_ram.cpp:196
+msgid "Physical Memory"
+msgstr "물리 메모리"
+
+#: src/component/DataSource_ram.cpp:197
+msgid "Virtual Memory"
+msgstr "가상 메모리"
+
+#: src/component/DataSource_ram.cpp:198
+msgid "Page File"
+msgstr "페이지 파일"
+
+#: src/component/DataSource_system.cpp:99
+msgid "System Data"
+msgstr "시스템 데이터"
+
+#: src/component/DataSource_system.cpp:104
+msgid "Operator System Data"
+msgstr "운영자 시스템 데이터"
+
+#: src/component/DataSource_system.cpp:209
+msgid "OS Name"
+msgstr "OS 이름"
+
+#: src/component/DataSource_system.cpp:210
+msgid "OS Version"
+msgstr "OS 버전"
+
+#: src/component/DataSource_system.cpp:211
+msgid "OS Description"
+msgstr "OS 설명"
+
+#: src/component/DataSource_system.cpp:212
+msgid "OS Directory"
+msgstr "OS 디렉토리"
+
+#: src/component/DataSource_system.cpp:213
+msgid "Processor"
+msgstr "프로세서"
+
+#: src/component/DataSource_system.cpp:214
+msgid "Installed Memory"
+msgstr "탑재된 메모리"
+
+#: src/component/DataSource_system.cpp:215
+msgid "Computer Name"
+msgstr "컴퓨터 이름"
+
+#: src/component/DataSource_system.cpp:216
+msgid "Account Name"
+msgstr "계정 이름"
+
+#: src/component/DataSource_system.cpp:217
+msgid "Current Date"
+msgstr "현재 날짜"
+
+#: src/component/DataSource_system.cpp:218
+msgid "Current Time"
+msgstr "현재 시간"
+
+#: src/component/DataSource_system.cpp:219
+msgid "Device Uptime"
+msgstr "장비 가동 시간"
+
+#: src/component/DataSource_system.cpp:220
+msgid "Program Uptime"
+msgstr "프로그램 가동 시간"
+
+#: src/component/DataSource_system.cpp:233
+msgid ""
+"The update parameter takes ANSI C strftime() format string to format date or time.\n"
+"Example: %Y-%m-%d\n"
+"Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+msgstr ""
+"업데이트 매개 변수는 ANSI C strftime() 형식 문자열을 날짜 혹은 시간 형식으로 사용합니다.\n"
+"예: %Y-%m-%d\n"
+"Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+
+#: src/panel/ActionOptionPanel.cpp:155
+msgid "Action"
+msgstr "작업"
+
+#: src/panel/ActionOptionPanel.cpp:162
+msgid "Program"
+msgstr "프로그램"
+
+#: src/panel/ActionOptionPanel.cpp:165
+msgid "Execute an existed program."
+msgstr "프로그램을 실행하십시오."
+
+#: src/panel/ActionOptionPanel.cpp:167
+msgid "File"
+msgstr "파일"
+
+#: src/panel/ActionOptionPanel.cpp:169
+msgid "Open a file with associated program."
+msgstr "지정된 파일을 특정 프로그램에서 여십시오."
+
+#: src/panel/ActionOptionPanel.cpp:171 src/panel/IconShopDialog.cpp:216
+msgid "Folder"
+msgstr "폴더"
+
+#: src/panel/ActionOptionPanel.cpp:173
+msgid "Open a folder in exlporer."
+msgstr "탐색기에서 폴더 열기"
+
+#: src/panel/ActionOptionPanel.cpp:175 src/panel/ActionOptionPanel.cpp:255
+msgid "URL"
+msgstr "URL"
+
+#: src/panel/ActionOptionPanel.cpp:177
+msgid "Open a web, file or e-mail address. "
+msgstr "웹, 파일 혹은 이메일 주소을 여십시오."
+
+#: src/panel/ActionOptionPanel.cpp:179
+msgid "Command"
+msgstr "명령"
+
+#: src/panel/ActionOptionPanel.cpp:181
+msgid "Run a command or program with parameters."
+msgstr "매개 변수가 있는 명령이나 프로그램을 실행하십시오."
+
+#: src/panel/ActionOptionPanel.cpp:183 src/panel/InfoOptionPanel.cpp:74
+msgid "Extension"
+msgstr "확장 기능"
+
+#: src/panel/ActionOptionPanel.cpp:190 src/panel/DataPickerDialog.cpp:329
+#: src/panel/DataPickerDialog.cpp:337 src/panel/PreferenceSoundPanel.cpp:161
+msgid "..."
+msgstr "..."
+
+#: src/panel/ActionOptionPanel.cpp:195
+msgid "Confirm before action"
+msgstr "실행 전 확인"
+
+#: src/panel/ActionOptionPanel.cpp:200
+msgid "Keep launcher after action"
+msgstr "실행 후 실행 유지"
+
+#: src/panel/ActionOptionPanel.cpp:234
+msgid "Programs (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+msgstr "프로그램 (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+
+#: src/panel/ActionOptionPanel.cpp:234 src/panel/ActionOptionPanel.cpp:240
+msgid "All files (*.*)|*.*"
+msgstr "모든 파일 (*.*)|*.*"
+
+#: src/panel/ActionOptionPanel.cpp:255
+msgid "Please input a url with http:/file:/mailto: prefix."
+msgstr "http:/file:/mailto: 그 뒤에 URL을 입력하십시오"
+
+#: src/panel/ActionOptionPanel.cpp:262
+msgid "Please input a shell command"
+msgstr "쉘 명령을 입력하십시오."
+
+#: src/panel/ActionOptionPanel.cpp:262
+msgid "Action Command"
+msgstr "작업 명령"
+
+#: src/panel/DataPickerDialog.cpp:289
+msgid "Choose a value..."
+msgstr "값을 선택하십시오..."
+
+#: src/panel/DataPickerDialog.cpp:296 src/panel/IconShopDialog.cpp:221
+msgid "Preview"
+msgstr "미리보기"
+
+#: src/panel/DataPickerDialog.cpp:302
+msgid "Cur. Value"
+msgstr "현재 값"
+
+#: src/panel/DataPickerDialog.cpp:303
+msgid "Inv. Value"
+msgstr "역수"
+
+#: src/panel/DataPickerDialog.cpp:304
+msgid "Max. Value"
+msgstr "최대 값"
+
+#: src/panel/DataPickerDialog.cpp:305
+msgid "Min. Value"
+msgstr "최소 값"
+
+#: src/panel/DataPickerDialog.cpp:307
+msgid "Options"
+msgstr "옵션"
+
+#: src/panel/DataPickerDialog.cpp:313
+msgid "Update value every"
+msgstr "모든 값을 갱신"
+
+#: src/panel/DataPickerDialog.cpp:315 src/panel/PreferenceGeneralPanel.cpp:381
+msgid "1"
+msgstr "1"
+
+#: src/panel/DataPickerDialog.cpp:318
+msgid "Milliseconds"
+msgstr "밀리 초"
+
+#: src/panel/DataPickerDialog.cpp:319
+msgid "Seconds"
+msgstr "초"
+
+#: src/panel/DataPickerDialog.cpp:320
+msgid "Minutes"
+msgstr "분"
+
+#: src/panel/DataPickerDialog.cpp:321
+msgid "Hours"
+msgstr "시"
+
+#: src/panel/DataPickerDialog.cpp:322
+msgid "Days"
+msgstr "일"
+
+#: src/panel/DataPickerDialog.cpp:327
+msgid "Update Parameter"
+msgstr "업데이트 매개 변수"
+
+#: src/panel/DataPickerDialog.cpp:335
+msgid "Invoke Parameter"
+msgstr "매개 변수 호출"
+
+#: src/panel/DataPickerDialog.cpp:342
+msgid "Value Unit:"
+msgstr "값 단위"
+
+#: src/panel/DataPickerDialog.cpp:348
+msgid "Display as"
+msgstr "표시하고 있습니다"
+
+#: src/panel/DataPickerDialog.cpp:362 src/panel/IconSettingDialog.cpp:449
+msgid "OK"
+msgstr "확인"
+
+#: src/panel/DataPickerDialog.cpp:365 src/panel/IconSettingDialog.cpp:450
+#: src/panel/PreferenceFrame.cpp:215 src/panel/WorkshopPublishDialog.cpp:232
+msgid "Cancel"
+msgstr "취소"
+
+#: src/panel/DataPickerDialog.cpp:385
+msgid "<Unknown Data Source>"
+msgstr "<알수없는 데이터 소스>"
+
+#: src/panel/DataPickerDialog.cpp:396
+msgid "<Unknown Data>"
+msgstr "<알수없는 데이터>"
+
+#: src/panel/DataPickerDialog.cpp:403
+msgid "<Unknown Value>"
+msgstr "<알수없는 값>"
+
+#: src/panel/DataPickerDialog.cpp:586
+msgid "<Loading Data...>"
+msgstr "<로딩 데이터>"
+
+#: src/panel/GestureExcludeDialog.cpp:107
+msgid "Gesture Exclusions"
+msgstr "제스처 제외"
+
+#: src/panel/GestureExcludeDialog.cpp:109
+msgid "Disable if following processes are running:"
+msgstr "다음 프로세스가 실행중인 경우 비활성화:"
+
+#: src/panel/GestureExcludeDialog.cpp:113
+msgid "Process Name"
+msgstr "프로세스 이름"
+
+#: src/panel/GestureExcludeDialog.cpp:116
+msgid "Only detect processes running in foreground"
+msgstr "활성화된 프로세스만 탐지합니다."
+
+#: src/panel/GestureExcludeDialog.cpp:119
+msgid "Other Exclusions"
+msgstr "그 외의 예외"
+
+#: src/panel/GestureExcludeDialog.cpp:120
+msgid "Disable mouse gesture in fullscreen mode"
+msgstr "전체 화면에서 마우스 제스처 사용 안함"
+
+#: src/panel/IconPickerDialog.cpp:27 src/panel/WorkshopPublishDialog.cpp:210
+#: src/panel/WorkshopPublishDialog.cpp:218
+msgid "Browse"
+msgstr "찾아보기"
+
+#: src/panel/IconPickerDialog.cpp:57
+msgid "Icon Picker"
+msgstr "아이콘 선택"
+
+#: src/panel/IconPickerDialog.cpp:60 src/panel/IconShopDialog.cpp:238
+msgid "Normal:"
+msgstr "일반"
+
+#: src/panel/IconPickerDialog.cpp:62
+msgid "Select an icon"
+msgstr "아이콘 선택"
+
+#: src/panel/IconPickerDialog.cpp:66 src/panel/IconShopDialog.cpp:244
+msgid "Hover:"
+msgstr "마우스를 올리십시오: "
+
+#: src/panel/IconPickerDialog.cpp:68
+msgid "Select the hover icon"
+msgstr "마우스를 올렸을때 아이콘을 선택하십시오 "
+
+#: src/panel/IconPickerDialog.cpp:72 src/panel/IconShopDialog.cpp:250
+msgid "Press:"
+msgstr "클릭: "
+
+#: src/panel/IconPickerDialog.cpp:74
+msgid "Select the press icon"
+msgstr "클릭했을때 아이콘을 선택하십시오"
+
+#: src/panel/IconPickerDialog.cpp:77
+msgid "* Leave 'Press' icon blank to use same icon as Hover state."
+msgstr "* 마우스를 올렸을때 동일한 아이콘을 사용하려면 '클릭' 아이콘을 비워 두십시오."
+
+#: src/panel/IconSettingDialog.cpp:360
+msgid "Icon Settings"
+msgstr "아이콘 설정"
+
+#: src/panel/IconSettingDialog.cpp:364
+msgid "Icon Setting"
+msgstr "아이콘 설정"
+
+#: src/panel/IconSettingDialog.cpp:380 src/panel/IconShopDialog.cpp:231
+msgid "Icon"
+msgstr "아이콘"
+
+#: src/panel/IconSettingDialog.cpp:385 src/panel/WorkshopFrame.cpp:301
+msgid "Edit"
+msgstr "편집"
+
+#: src/panel/IconSettingDialog.cpp:390 src/panel/PreferencePluginPanel.cpp:212
+msgid "Name"
+msgstr "이름"
+
+#: src/panel/IconSettingDialog.cpp:397
+msgid "Sub-Menu"
+msgstr "하위 메뉴"
+
+#: src/panel/IconSettingDialog.cpp:404
+msgid "Virtual Folder"
+msgstr "가상 폴더"
+
+#: src/panel/IconSettingDialog.cpp:405
+msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
+msgstr "'가상 폴더'는 하위 메뉴를 사용하여 사용자 정의 메뉴 항목을 구성 할 수 있습니다."
+
+#: src/panel/IconSettingDialog.cpp:407
+msgid "Real Folder"
+msgstr "실제 폴더"
+
+#: src/panel/IconSettingDialog.cpp:409
+msgid "A 'Real Folder' sub-menu enables you to manage the files inside a folder."
+msgstr "'실제 폴더' 하위 메뉴를 사용하면 폴더 안의 파일을 관리 할 수 있습니다."
+
+#: src/panel/IconSettingDialog.cpp:413
+msgid "Show File Icon"
+msgstr "파일 아이콘 보이기"
+
+#: src/panel/IconSettingDialog.cpp:416
+msgid "Show File Extension"
+msgstr "파일 확장자 표시"
+
+#: src/panel/IconSettingDialog.cpp:420
+msgid "Click to choose a folder"
+msgstr "폴더를 선택하십시오"
+
+#: src/panel/IconShopDialog.cpp:182 src/panel/IconShopDialog.cpp:183
+#: src/panel/IconShopDialog.cpp:184 src/panel/IconShopDialog.cpp:240
+#: src/panel/IconShopDialog.cpp:246 src/panel/IconShopDialog.cpp:252
+#: src/panel/IconShopDialog.cpp:537 src/panel/PluginInfoDialog.cpp:101
+#: src/panel/PluginInfoDialog.cpp:108 src/panel/PluginInfoDialog.cpp:113
+#: src/panel/PluginInfoDialog.cpp:119 src/panel/PluginInfoDialog.cpp:125
+#: src/panel/PluginInfoDialog.cpp:131 src/panel/PluginInfoDialog.cpp:137
+#: src/panel/PluginInfoDialog.cpp:143 src/panel/PluginInfoDialog.cpp:152
+#: src/panel/PluginInfoDialog.cpp:157 src/panel/PluginInfoDialog.cpp:163
+msgid "<N/A>"
+msgstr "<N/A>"
+
+#: src/panel/IconShopDialog.cpp:210
+msgid "Icon Shop"
+msgstr "아이콘 샵"
+
+#: src/panel/IconShopDialog.cpp:256
+msgid "Custom..."
+msgstr "사용자 정의..."
+
+#: src/panel/IconShopDialog.cpp:381 src/panel/PreferenceGraphicPanel.cpp:333
+#: src/panel/PreferenceSoundPanel.cpp:254
+#: src/panel/PreferenceSoundPanel.cpp:284
+#: src/panel/PreferenceSoundPanel.cpp:332
+#: src/panel/PreferenceSoundPanel.cpp:479
+msgid "<Default>"
+msgstr "<기본값>"
+
+#: src/panel/InfoOptionPanel.cpp:63
+msgid "Info Panel"
+msgstr "판낼 정보"
+
+#: src/panel/InfoOptionPanel.cpp:85
+msgid "Static Image"
+msgstr "정적 이미지"
+
+#: src/panel/InfoOptionPanel.cpp:89
+msgid "Select a background image"
+msgstr "백그라운드 이미지를 선택하십시오"
+
+#: src/panel/PluginInfoDialog.cpp:99
+msgid "Plug-in Information"
+msgstr "플러그인 정보"
+
+#: src/panel/PluginInfoDialog.cpp:111
+msgid "Module Name:"
+msgstr "모듈 이름:"
+
+#: src/panel/PluginInfoDialog.cpp:117
+msgid "Original Name:"
+msgstr "원본 이름:"
+
+#: src/panel/PluginInfoDialog.cpp:123 src/panel/PreferenceAboutPanel.cpp:125
+msgid "Developer:"
+msgstr "개발자:"
+
+#: src/panel/PluginInfoDialog.cpp:129 src/panel/PreferenceAboutPanel.cpp:137
+msgid "Website:"
+msgstr "웹사이트:"
+
+#: src/panel/PluginInfoDialog.cpp:135 src/panel/PreferenceAboutPanel.cpp:131
+msgid "E-Mail:"
+msgstr "이메일주소:"
+
+#: src/panel/PluginInfoDialog.cpp:141
+msgid "NERvSDK Version:"
+msgstr "NERvSDK 버전:"
+
+#: src/panel/PluginInfoDialog.cpp:147
+msgid "UUID:"
+msgstr "UUID:"
+
+#: src/panel/PluginInfoDialog.cpp:149
+msgid "Copy to Clipboard"
+msgstr "클립 보드에 복사"
+
+#: src/panel/PluginInfoDialog.cpp:155 src/panel/WorkshopPublishDialog.cpp:221
+msgid "Description:"
+msgstr "설명:"
+
+#: src/panel/PluginInfoDialog.cpp:161
+msgid "Comment:"
+msgstr "댓글:"
+
+#: src/panel/PreferenceAboutPanel.cpp:89 src/panel/PreferenceFrame.cpp:235
+msgid "About SAO Utils"
+msgstr "SAO Utils에 관해서"
+
+#: src/panel/PreferenceAboutPanel.cpp:102
+msgid ""
+"SAO Utils provides you a customizable 3D app launcher with varieties of themes, desktop widgets and powerful utilities.\n"
+"Its pluggable architecture allows you, the developer, to add any kinds of plug-ins to the core program.\n"
+"That's the reason why it was named as \"SAO Utils\" :)"
+msgstr ""
+"SAO Utils는 사용자에게 다양한 3D 응용 프로그램 실행 프로그램을 제공합니다, 테마 데스크탑 위젯 및 강력한 유틸리티.\n"
+"플러그형 아키텍처를 사용하면 개발자가 모든 종류의 핵심 플러그인을 추가할수있습니다.\n"
+"이것이 \"SAO Utils\"로 이름을 정한 이유입니다 :)"
+
+#: src/panel/PreferenceAboutPanel.cpp:105
+msgid "Information"
+msgstr "정보"
+
+#: src/panel/PreferenceAboutPanel.cpp:111
+msgid "Program Name:"
+msgstr "프로그램 이름"
+
+#: src/panel/PreferenceAboutPanel.cpp:118
+msgid "Version:"
+msgstr "버전"
+
+#: src/panel/PreferenceAboutPanel.cpp:127
+msgid "Joshua (GPBeta)"
+msgstr "Joshua (GPBeta)"
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "studiocghibli@gmail.com"
+msgstr "studiocghibli@gmail.com"
+
+#: src/panel/PreferenceAboutPanel.cpp:133
+msgid "mailto:studiocghibli@gmail.com"
+msgstr "mailto:studiocghibli@gmail.com"
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com"
+msgstr "http://www.gpbeta.com"
+
+#: src/panel/PreferenceAboutPanel.cpp:139
+msgid "http://www.gpbeta.com/post/develop/sao-utils/"
+msgstr "http://www.gpbeta.com/post/develop/sao-utils/"
+
+#: src/panel/PreferenceAppearancePanel.cpp:193
+#: src/panel/PreferenceFrame.cpp:231
+msgid "Appearance Settings"
+msgstr "모양 설정"
+
+#: src/panel/PreferenceAppearancePanel.cpp:205
+msgid "Launcher Mode"
+msgstr "런처 모드"
+
+#: src/panel/PreferenceAppearancePanel.cpp:207
+msgid "2D"
+msgstr "2D"
+
+#: src/panel/PreferenceAppearancePanel.cpp:209
+msgid "3D"
+msgstr "3D"
+
+#: src/panel/PreferenceAppearancePanel.cpp:213
+msgid "Launcher Position"
+msgstr "런처 위치"
+
+#: src/panel/PreferenceAppearancePanel.cpp:216
+msgid "Follow Cursor"
+msgstr "커서 따라가기"
+
+#: src/panel/PreferenceAppearancePanel.cpp:219
+msgid "Fixed:"
+msgstr "고정:"
+
+#: src/panel/PreferenceAppearancePanel.cpp:222
+msgid "Left"
+msgstr "왼쪽:"
+
+#: src/panel/PreferenceAppearancePanel.cpp:223
+msgid "Central"
+msgstr "중앙:"
+
+#: src/panel/PreferenceAppearancePanel.cpp:224
+msgid "Right"
+msgstr "오른쪽:"
+
+#: src/panel/PreferenceAppearancePanel.cpp:229
+msgid "Background Density"
+msgstr "배경 투명도"
+
+#: src/panel/PreferenceAppearancePanel.cpp:232
+msgid "Thin"
+msgstr "얇은"
+
+#: src/panel/PreferenceAppearancePanel.cpp:236
+msgid "Thick"
+msgstr "두꺼운"
+
+#: src/panel/PreferenceAppearancePanel.cpp:241
+msgid "Notification Icon Position"
+msgstr "알림 아이콘 위치"
+
+#: src/panel/PreferenceAppearancePanel.cpp:243
+msgid "Cross Screen"
+msgstr "크로스 스크린"
+
+#: src/panel/PreferenceAppearancePanel.cpp:248
+msgid "Top Left"
+msgstr "좌측 상단"
+
+#: src/panel/PreferenceAppearancePanel.cpp:249
+msgid "Top Centre"
+msgstr "중앙 상단"
+
+#: src/panel/PreferenceAppearancePanel.cpp:250
+msgid "Top Right"
+msgstr "우측 상단"
+
+#: src/panel/PreferenceAppearancePanel.cpp:251
+msgid "Centre Left"
+msgstr "중앙 좌측"
+
+#: src/panel/PreferenceAppearancePanel.cpp:252
+msgid "Centre"
+msgstr "중심"
+
+#: src/panel/PreferenceAppearancePanel.cpp:253
+msgid "Centre Right"
+msgstr "중앙 우측"
+
+#: src/panel/PreferenceAppearancePanel.cpp:254
+msgid "Bottom Left"
+msgstr "하단 좌측"
+
+#: src/panel/PreferenceAppearancePanel.cpp:255
+msgid "Bottom Centre"
+msgstr "하단 중앙"
+
+#: src/panel/PreferenceAppearancePanel.cpp:256
+msgid "Bottom Right"
+msgstr "하단 우측"
+
+#: src/panel/PreferenceAppearancePanel.cpp:260
+msgid "Startup Animation"
+msgstr "작동 애니메이션"
+
+#: src/panel/PreferenceAppearancePanel.cpp:262
+msgid "- Play 3D startup animation."
+msgstr "- 3D 시작 애니메이션을 재생합니다."
+
+#: src/panel/PreferenceAppearancePanel.cpp:264
+msgid "Show Splash"
+msgstr "시작 화면을 표시합니다"
+
+#: src/panel/PreferenceAppearancePanel.cpp:266
+msgid "- Show splash screen on start-up."
+msgstr "- 시동시 화면이 표시됩니다."
+
+#: src/panel/PreferenceAppearancePanel.cpp:270
+msgid "3D FX"
+msgstr "3D FX"
+
+#: src/panel/PreferenceAppearancePanel.cpp:276
+msgid "Magnification Ratio"
+msgstr "확대 비율"
+
+#: src/panel/PreferenceAppearancePanel.cpp:279
+msgid "x0.5"
+msgstr "x0.5"
+
+#: src/panel/PreferenceAppearancePanel.cpp:284
+msgid "x2.0"
+msgstr "x2.0"
+
+#: src/panel/PreferenceAppearancePanel.cpp:289
+msgid "Camera Following Mouse"
+msgstr "마우스가 카메라 따라가기"
+
+#: src/panel/PreferenceAppearancePanel.cpp:292
+msgid "Breathing Camera Effect"
+msgstr "카메라 숨쉬기(호흡) 이펙트 효과"
+
+#: src/panel/PreferenceAppearancePanel.cpp:297
+msgid "Analog TV"
+msgstr "아날로그 TV"
+
+#: src/panel/PreferenceAppearancePanel.cpp:300
+#: src/panel/PreferenceAppearancePanel.cpp:309
+#: src/panel/PreferenceGraphicPanel.cpp:263
+msgid "Off"
+msgstr "오프"
+
+#: src/panel/PreferenceAppearancePanel.cpp:301
+#: src/panel/PreferenceAppearancePanel.cpp:310
+msgid "Light"
+msgstr "가벼운"
+
+#: src/panel/PreferenceAppearancePanel.cpp:302
+#: src/panel/PreferenceAppearancePanel.cpp:311
+#: src/panel/PreferenceGraphicPanel.cpp:238
+msgid "Medium"
+msgstr "중간"
+
+#: src/panel/PreferenceAppearancePanel.cpp:303
+#: src/panel/PreferenceAppearancePanel.cpp:312
+msgid "Strong"
+msgstr "강력한"
+
+#: src/panel/PreferenceAppearancePanel.cpp:304
+msgid "Zoom"
+msgstr "확대/축소"
+
+#: src/panel/PreferenceAppearancePanel.cpp:306
+msgid "Motion Blur"
+msgstr "모션 블러"
+
+#: src/panel/PreferenceFrame.cpp:197
+msgid "Preferences"
+msgstr "환경 설정"
+
+#: src/panel/PreferenceFrame.cpp:209 src/panel/PreferencePluginPanel.cpp:190
+msgid "Reset"
+msgstr "초기화"
+
+#: src/panel/PreferenceFrame.cpp:209
+msgid "Reset all settings"
+msgstr "모든 설정을 초기화"
+
+#: src/panel/PreferenceFrame.cpp:214
+msgid "Save"
+msgstr "저장"
+
+#: src/panel/PreferenceFrame.cpp:214
+msgid "Save changes"
+msgstr "변경 사항 저장"
+
+#: src/panel/PreferenceFrame.cpp:215
+msgid "Revert changes"
+msgstr "변경 사항 되돌리기"
+
+#: src/panel/PreferenceFrame.cpp:230
+msgid "General"
+msgstr "일반"
+
+#: src/panel/PreferenceFrame.cpp:230 src/panel/PreferenceGeneralPanel.cpp:258
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: src/panel/PreferenceFrame.cpp:231
+msgid "Appearance"
+msgstr "외관"
+
+#: src/panel/PreferenceFrame.cpp:232
+msgid "Graphics"
+msgstr "그래픽"
+
+#: src/panel/PreferenceFrame.cpp:232 src/panel/PreferenceGraphicPanel.cpp:201
+msgid "Graphics Settings"
+msgstr "그래픽 설정"
+
+#: src/panel/PreferenceFrame.cpp:233
+msgid "Sounds"
+msgstr "음성"
+
+#: src/panel/PreferenceFrame.cpp:233 src/panel/PreferenceSoundPanel.cpp:133
+msgid "Sound Settings"
+msgstr "음성 설정"
+
+#: src/panel/PreferenceFrame.cpp:234
+msgid "Plug-ins"
+msgstr "플러그인"
+
+#: src/panel/PreferenceFrame.cpp:234 src/panel/PreferencePluginPanel.cpp:162
+msgid "Plug-in Settings"
+msgstr "플러그인 설정"
+
+#: src/panel/PreferenceFrame.cpp:235
+msgid "About"
+msgstr "정보"
+
+#: src/panel/PreferenceFrame.cpp:277
+msgid "Are you sure to reset all the settings?"
+msgstr "모든 설정을 재설정 하시겠습니까?"
+
+#: src/panel/PreferenceGeneralPanel.cpp:270
+msgid "DPI Scaling"
+msgstr "DPI 비율"
+
+#: src/panel/PreferenceGeneralPanel.cpp:273
+msgid "Auto"
+msgstr "자동"
+
+#: src/panel/PreferenceGeneralPanel.cpp:276
+msgid "100%"
+msgstr "100%"
+
+#: src/panel/PreferenceGeneralPanel.cpp:278
+msgid "125%"
+msgstr "125%"
+
+#: src/panel/PreferenceGeneralPanel.cpp:280
+msgid "150%"
+msgstr "150%"
+
+#: src/panel/PreferenceGeneralPanel.cpp:282
+msgid "200%"
+msgstr "200%"
+
+#: src/panel/PreferenceGeneralPanel.cpp:286
+msgid "Lock Launcher"
+msgstr "런처 잠금"
+
+#: src/panel/PreferenceGeneralPanel.cpp:288
+msgid "- Disable editing launcher items."
+msgstr "- 실행 프로그램 항목을 편집 할 수 없습니다."
+
+#: src/panel/PreferenceGeneralPanel.cpp:290
+msgid "Show Tooltips"
+msgstr "참고 표시"
+
+#: src/panel/PreferenceGeneralPanel.cpp:293
+msgid "Touch Friendly"
+msgstr "태블릿 최적화"
+
+#: src/panel/PreferenceGeneralPanel.cpp:295
+msgid "- Provide better user experience for tablet devices."
+msgstr "- 태블릿 장치의 사용자 환경을 개선하십시오."
+
+#: src/panel/PreferenceGeneralPanel.cpp:299
+msgid "Hotkeys"
+msgstr "핫키"
+
+#: src/panel/PreferenceGeneralPanel.cpp:305
+msgid "Enable Mouse Gesture"
+msgstr "마우스 제스처 활성화"
+
+#: src/panel/PreferenceGeneralPanel.cpp:308
+msgid "&Exclusions..."
+msgstr "제외(&E)"
+
+#: src/panel/PreferenceGeneralPanel.cpp:309
+msgid "- Manage mouse gesture exclusions."
+msgstr "- 마우스 제스처를 제거하지 못했습니다."
+
+#: src/panel/PreferenceGeneralPanel.cpp:314
+msgid "LMB + RMB"
+msgstr "LMB + RMB"
+
+#: src/panel/PreferenceGeneralPanel.cpp:315
+msgid "LMB"
+msgstr "LMB"
+
+#: src/panel/PreferenceGeneralPanel.cpp:316
+msgid "MMB"
+msgstr "MMB"
+
+#: src/panel/PreferenceGeneralPanel.cpp:317
+msgid "RMB"
+msgstr "RMB"
+
+#: src/panel/PreferenceGeneralPanel.cpp:318
+msgid "XBUTTON1"
+msgstr "XBUTTON1"
+
+#: src/panel/PreferenceGeneralPanel.cpp:319
+msgid "XBUTTON2"
+msgstr "XBUTTON2"
+
+#: src/panel/PreferenceGeneralPanel.cpp:321
+msgid "+ Slide Down"
+msgstr "+ 아래로 슬라이드"
+
+#: src/panel/PreferenceGeneralPanel.cpp:324
+msgid "Sensitive"
+msgstr "감도"
+
+#: src/panel/PreferenceGeneralPanel.cpp:327
+#: src/panel/PreferenceGraphicPanel.cpp:237
+msgid "Low"
+msgstr "낮음"
+
+#: src/panel/PreferenceGeneralPanel.cpp:328
+msgid "Normal"
+msgstr "보통"
+
+#: src/panel/PreferenceGeneralPanel.cpp:329
+#: src/panel/PreferenceGraphicPanel.cpp:239
+msgid "High"
+msgstr "높음"
+
+#: src/panel/PreferenceGeneralPanel.cpp:333
+msgid "Enable Hotkey"
+msgstr "핫키 사용"
+
+#: src/panel/PreferenceGeneralPanel.cpp:338
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: src/panel/PreferenceGeneralPanel.cpp:341
+msgid "Shift"
+msgstr "Shift"
+
+#: src/panel/PreferenceGeneralPanel.cpp:344
+msgid "Alt"
+msgstr "Alt"
+
+#: src/panel/PreferenceGeneralPanel.cpp:347
+msgid "Win"
+msgstr "Win"
+
+#: src/panel/PreferenceGeneralPanel.cpp:351
+msgid "+ Key"
+msgstr "+ 키"
+
+#: src/panel/PreferenceGeneralPanel.cpp:354
+msgid "A"
+msgstr "A"
+
+#: src/panel/PreferenceGeneralPanel.cpp:355
+msgid "B"
+msgstr "B"
+
+#: src/panel/PreferenceGeneralPanel.cpp:356
+msgid "C"
+msgstr "C"
+
+#: src/panel/PreferenceGeneralPanel.cpp:357
+msgid "D"
+msgstr "D"
+
+#: src/panel/PreferenceGeneralPanel.cpp:358
+msgid "E"
+msgstr "E"
+
+#: src/panel/PreferenceGeneralPanel.cpp:359
+msgid "F"
+msgstr "F"
+
+#: src/panel/PreferenceGeneralPanel.cpp:360
+msgid "G"
+msgstr "G"
+
+#: src/panel/PreferenceGeneralPanel.cpp:361
+msgid "H"
+msgstr "H"
+
+#: src/panel/PreferenceGeneralPanel.cpp:362
+msgid "I"
+msgstr "I"
+
+#: src/panel/PreferenceGeneralPanel.cpp:363
+msgid "J"
+msgstr "J"
+
+#: src/panel/PreferenceGeneralPanel.cpp:364
+msgid "K"
+msgstr "K"
+
+#: src/panel/PreferenceGeneralPanel.cpp:365
+msgid "L"
+msgstr "L"
+
+#: src/panel/PreferenceGeneralPanel.cpp:366
+msgid "M"
+msgstr "M"
+
+#: src/panel/PreferenceGeneralPanel.cpp:367
+msgid "N"
+msgstr "N"
+
+#: src/panel/PreferenceGeneralPanel.cpp:368
+msgid "O"
+msgstr "O"
+
+#: src/panel/PreferenceGeneralPanel.cpp:369
+msgid "P"
+msgstr "P"
+
+#: src/panel/PreferenceGeneralPanel.cpp:370
+msgid "Q"
+msgstr "Q"
+
+#: src/panel/PreferenceGeneralPanel.cpp:371
+msgid "R"
+msgstr "R"
+
+#: src/panel/PreferenceGeneralPanel.cpp:372
+msgid "S"
+msgstr "S"
+
+#: src/panel/PreferenceGeneralPanel.cpp:373
+msgid "T"
+msgstr "T"
+
+#: src/panel/PreferenceGeneralPanel.cpp:374
+msgid "U"
+msgstr "U"
+
+#: src/panel/PreferenceGeneralPanel.cpp:375
+msgid "V"
+msgstr "V"
+
+#: src/panel/PreferenceGeneralPanel.cpp:376
+msgid "W"
+msgstr "W"
+
+#: src/panel/PreferenceGeneralPanel.cpp:377
+msgid "X"
+msgstr "X"
+
+#: src/panel/PreferenceGeneralPanel.cpp:378
+msgid "Y"
+msgstr "Y"
+
+#: src/panel/PreferenceGeneralPanel.cpp:379
+msgid "Z"
+msgstr "Z"
+
+#: src/panel/PreferenceGeneralPanel.cpp:380
+msgid "`"
+msgstr "`"
+
+#: src/panel/PreferenceGeneralPanel.cpp:382
+msgid "2"
+msgstr "2"
+
+#: src/panel/PreferenceGeneralPanel.cpp:383
+msgid "3"
+msgstr "3"
+
+#: src/panel/PreferenceGeneralPanel.cpp:384
+msgid "4"
+msgstr "4"
+
+#: src/panel/PreferenceGeneralPanel.cpp:385
+msgid "5"
+msgstr "5"
+
+#: src/panel/PreferenceGeneralPanel.cpp:386
+msgid "6"
+msgstr "6"
+
+#: src/panel/PreferenceGeneralPanel.cpp:387
+msgid "7"
+msgstr "7"
+
+#: src/panel/PreferenceGeneralPanel.cpp:388
+msgid "8"
+msgstr "8"
+
+#: src/panel/PreferenceGeneralPanel.cpp:389
+msgid "9"
+msgstr "9"
+
+#: src/panel/PreferenceGeneralPanel.cpp:390
+#: src/panel/PreferenceGeneralPanel.cpp:414
+msgid "0"
+msgstr "0"
+
+#: src/panel/PreferenceGeneralPanel.cpp:391
+msgid "-"
+msgstr "-"
+
+#: src/panel/PreferenceGeneralPanel.cpp:392
+msgid "="
+msgstr "="
+
+#: src/panel/PreferenceGeneralPanel.cpp:393
+msgid "\\"
+msgstr "\\"
+
+#: src/panel/PreferenceGeneralPanel.cpp:397
+msgid "Remap Win-Key"
+msgstr "윈도우키를 SAO 유틸리티 사용"
+
+#: src/panel/PreferenceGeneralPanel.cpp:404
+msgid "MISC."
+msgstr "그 외."
+
+#: src/panel/PreferenceGeneralPanel.cpp:411
+msgid "Start with Windows, delay for"
+msgstr "PC를 부팅했을때 자동으로 지연됩니다."
+
+#: src/panel/PreferenceGeneralPanel.cpp:417
+msgid "seconds"
+msgstr "초"
+
+#: src/panel/PreferenceGeneralPanel.cpp:420
+msgid "Verbose Mode"
+msgstr "상세 표시 모드"
+
+#: src/panel/PreferenceGeneralPanel.cpp:425
+msgid "Enable Steam Features (Program restart required)"
+msgstr "스팀 기능 활성화(프로그램 재시작 필요)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:213
+msgid "Video Adapter"
+msgstr "비디오 어댑터"
+
+#: src/panel/PreferenceGraphicPanel.cpp:219
+msgid "Display Mode"
+msgstr "디스플레이 모드"
+
+#: src/panel/PreferenceGraphicPanel.cpp:222
+msgid "Direct3D 9"
+msgstr "다이렉트3D 9"
+
+#: src/panel/PreferenceGraphicPanel.cpp:224
+msgid "Layered"
+msgstr "수직 계층(Layered)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:226
+msgid "- Recommended option with transparent background support."
+msgstr "- 투명한 배경 지원이 있는 추천 옵션."
+
+#: src/panel/PreferenceGraphicPanel.cpp:228
+msgid "Standard"
+msgstr "표준(Standard)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:229
+msgid ""
+"- Recommended for any stereo mode,\n"
+"also fixes some performance or 3D graphic problems."
+msgstr ""
+"- 모든 스트레오 모드에 권장,\n"
+"또한 일부 성능이나 3D 그래픽 문제를 해결합니다."
+
+#: src/panel/PreferenceGraphicPanel.cpp:233
+msgid "Texture Quality"
+msgstr "텍스쳐 품질"
+
+#: src/panel/PreferenceGraphicPanel.cpp:242
+msgid "Texture Filtering"
+msgstr "텍스쳐 필터링"
+
+#: src/panel/PreferenceGraphicPanel.cpp:245
+msgid "No Filtering"
+msgstr "필터링 사용 안함"
+
+#: src/panel/PreferenceGraphicPanel.cpp:246
+msgid "Nearest Neighbor"
+msgstr "최근접 이웃(Nearest Neighbor)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:247
+msgid "Bilinear"
+msgstr "쌍선형(Bilinear)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:248
+msgid "Trilinear"
+msgstr "삼성형(Trilinear)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:249
+msgid "Anisotropic"
+msgstr "이방성(Anisotropic)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:251
+msgid "Render Quality"
+msgstr "렌더링 품질"
+
+#: src/panel/PreferenceGraphicPanel.cpp:255
+msgid "High Performance"
+msgstr "고성능"
+
+#: src/panel/PreferenceGraphicPanel.cpp:256
+msgid "Balance"
+msgstr "밸런스"
+
+#: src/panel/PreferenceGraphicPanel.cpp:257
+msgid "High Quality"
+msgstr "고품질"
+
+#: src/panel/PreferenceGraphicPanel.cpp:260
+msgid "Anti-aliasing"
+msgstr "안티 앨리어싱"
+
+#: src/panel/PreferenceGraphicPanel.cpp:264
+msgid "FSAA"
+msgstr "FSAA"
+
+#: src/panel/PreferenceGraphicPanel.cpp:265
+msgid "MSAA 2X"
+msgstr "MSAA 2X"
+
+#: src/panel/PreferenceGraphicPanel.cpp:266
+msgid "MSAA 4X"
+msgstr "MSAA 4X"
+
+#: src/panel/PreferenceGraphicPanel.cpp:267
+msgid "MSAA 8X"
+msgstr "MSAA 8X"
+
+#: src/panel/PreferenceGraphicPanel.cpp:268
+msgid "MSAA 16X"
+msgstr "MSAA 16X"
+
+#: src/panel/PreferenceGraphicPanel.cpp:272
+msgid "Stereo"
+msgstr "스테레오"
+
+#: src/panel/PreferenceGraphicPanel.cpp:279
+msgid "Disable"
+msgstr "사용 안함"
+
+#: src/panel/PreferenceGraphicPanel.cpp:282
+msgid "Side by Side Stereo"
+msgstr "사이드 바이 사이드 스트레오"
+
+#: src/panel/PreferenceGraphicPanel.cpp:284
+msgid "Anaglyph Stereo"
+msgstr "애너 글리프 스테레오"
+
+#: src/panel/PreferenceGraphicPanel.cpp:288
+msgid "Stereoscopic Mode"
+msgstr "입체 모드"
+
+#: src/panel/PreferenceGraphicPanel.cpp:291
+msgid "Half Size (Cropped)"
+msgstr "절반 크기(잘린)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:292
+msgid "Full Size (Squeezed)"
+msgstr "풀 사이즈(압착)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:293
+msgid "Full Size (Black Bars)"
+msgstr "풀 사이즈(검정 바)"
+
+#: src/panel/PreferenceGraphicPanel.cpp:297
+msgid "Zero Parallax"
+msgstr "관측 거리 제로"
+
+#: src/panel/PreferenceGraphicPanel.cpp:300
+#: src/panel/PreferenceGraphicPanel.cpp:313
+msgid "Near"
+msgstr "가까운"
+
+#: src/panel/PreferenceGraphicPanel.cpp:305
+#: src/panel/PreferenceGraphicPanel.cpp:318
+msgid "Far"
+msgstr "멀리"
+
+#: src/panel/PreferenceGraphicPanel.cpp:310
+msgid "Interaxial Separation"
+msgstr "축 간격"
+
+#: src/panel/PreferencePluginPanel.cpp:150
+#: src/panel/PreferenceSoundPanel.cpp:255
+#: src/panel/PreferenceSoundPanel.cpp:373
+#: src/panel/PreferenceSoundPanel.cpp:480
+msgid "Yes"
+msgstr "예"
+
+#: src/panel/PreferencePluginPanel.cpp:150
+#: src/panel/PreferenceSoundPanel.cpp:256
+#: src/panel/PreferenceSoundPanel.cpp:373
+msgid "No"
+msgstr "아니오"
+
+#: src/panel/PreferencePluginPanel.cpp:174
+msgid "Enable Plug-ins"
+msgstr "플러그인 활성화"
+
+#: src/panel/PreferencePluginPanel.cpp:177
+msgid "Get Updates"
+msgstr "업데이트 얻기"
+
+#: src/panel/PreferencePluginPanel.cpp:180
+msgid "Install..."
+msgstr "설치..."
+
+#: src/panel/PreferencePluginPanel.cpp:186
+msgid "Remove"
+msgstr "삭제"
+
+#: src/panel/PreferencePluginPanel.cpp:188
+msgid "- Remove this plug-in. (Program restart required)"
+msgstr "- 이 플러그인을 제거하였습니다 (프로그램을 다시 시작해야합니다)"
+
+#: src/panel/PreferencePluginPanel.cpp:192
+msgid "- Reset this plug-in's settings."
+msgstr "- 이 플러그인의 설정을 초기화 하십시오."
+
+#: src/panel/PreferencePluginPanel.cpp:194
+#: src/panel/PreferencePluginPanel.cpp:215
+#: src/panel/PreferenceSoundPanel.cpp:154
+#: src/panel/PreferenceSoundPanel.cpp:173
+msgid "Enable"
+msgstr "활성화"
+
+#: src/panel/PreferencePluginPanel.cpp:197
+msgid "Config"
+msgstr "설정"
+
+#: src/panel/PreferencePluginPanel.cpp:199
+msgid "Details..."
+msgstr "세부 사항..."
+
+#: src/panel/PreferencePluginPanel.cpp:201
+msgid "?"
+msgstr "?"
+
+#: src/panel/PreferencePluginPanel.cpp:202
+msgid "- Read plug-in guideline."
+msgstr "- 플러그인 설명서를 읽으십시오."
+
+#: src/panel/PreferencePluginPanel.cpp:213
+msgid "Version"
+msgstr "버전"
+
+#: src/panel/PreferencePluginPanel.cpp:214
+msgid "Author"
+msgstr "제작자"
+
+#: src/panel/PreferencePluginPanel.cpp:397
+msgid "Nerve Gear Package (*.NVG)|*.NVG"
+msgstr "너브 기어 패키지 (*.NVG)|*.NVG"
+
+#: src/panel/PreferenceSoundPanel.cpp:145
+msgid "Enable Sounds"
+msgstr "사운드 활성화"
+
+#: src/panel/PreferenceSoundPanel.cpp:148
+msgid "Presets..."
+msgstr "프리셋..."
+
+#: src/panel/PreferenceSoundPanel.cpp:159
+msgid "Playback"
+msgstr "재생"
+
+#: src/panel/PreferenceSoundPanel.cpp:171
+msgid "Events"
+msgstr "이벤트"
+
+#: src/panel/PreferenceSoundPanel.cpp:172
+msgid "Sound Files"
+msgstr "사운드 파일"
+
+#: src/panel/PreferenceSoundPanel.cpp:179
+msgid "Program Start"
+msgstr "프로그램 시작"
+
+#: src/panel/PreferenceSoundPanel.cpp:182
+msgid "Program Ready"
+msgstr "프로그램 준비"
+
+#: src/panel/PreferenceSoundPanel.cpp:185
+msgid "Launcher Show"
+msgstr "런처 표시"
+
+#: src/panel/PreferenceSoundPanel.cpp:188
+msgid "Launcher Hide"
+msgstr "런처 숨기기"
+
+#: src/panel/PreferenceSoundPanel.cpp:191
+msgid "Message Show"
+msgstr "메세지 표시"
+
+#: src/panel/PreferenceSoundPanel.cpp:194
+msgid "Message Hide"
+msgstr "메세지 숨기기"
+
+#: src/panel/PreferenceSoundPanel.cpp:197
+msgid "Menu Popup"
+msgstr "메뉴 팝업"
+
+#: src/panel/PreferenceSoundPanel.cpp:203
+msgid "Panel Popup"
+msgstr "패널 팝업"
+
+#: src/panel/PreferenceSoundPanel.cpp:206
+msgid "Item Select"
+msgstr "아이템 선택"
+
+#: src/panel/PreferenceSoundPanel.cpp:209
+msgid "Message Notify"
+msgstr "메세지 알림"
+
+#: src/panel/PreferenceSoundPanel.cpp:212
+msgid "System Notify"
+msgstr "시스템 알림"
+
+#: src/panel/PreferenceSoundPanel.cpp:215
+msgid "System Forbid"
+msgstr "시스템 금지"
+
+#: src/panel/PreferenceSoundPanel.cpp:218
+msgid "System Alert"
+msgstr "시스템 경고"
+
+#: src/panel/PreferenceSoundPanel.cpp:389
+msgid "Wave files (*.WAV)|*.WAV"
+msgstr "음성 파일 (*.WAV)|*.WAV"
+
+#: src/panel/PreferenceSoundPanel.cpp:445
+msgid "&Default Settings"
+msgstr "기본 설정(&D)"
+
+#: src/panel/PreferenceSoundPanel.cpp:460
+msgid "&Import Presets..."
+msgstr "프리셋 불러오기(&I)..."
+
+#: src/panel/PreferenceSoundPanel.cpp:461
+msgid "&Export Presets..."
+msgstr "프리셋 내보내기(&E)"
+
+#: src/panel/PreferenceSoundPanel.cpp:488
+#: src/panel/PreferenceSoundPanel.cpp:501
+msgid "Preset files (*.PRESET)|*.PRESET"
+msgstr "프리셋 파일 (*.PRESET)|*.PRESET"
+
+#: src/panel/WorkshopFrame.cpp:227
+msgid "Workshop is unavailable when Steam is not running or in offline mode."
+msgstr "Steam이 실행 중이 아니거나 오프라인 모드 일 때 워크샵을 사용할 수 없습니다."
+
+#: src/panel/WorkshopFrame.cpp:228
+msgid "Warning"
+msgstr "경고"
+
+#: src/panel/WorkshopFrame.cpp:252
+msgid "Aincrad Workshop"
+msgstr "아인크라드 워크샵"
+
+#: src/panel/WorkshopFrame.cpp:259 src/panel/WorkshopFrame.cpp:272
+#: src/panel/WorkshopFrame.cpp:285
+msgid "Comming soon!"
+msgstr "조만간!"
+
+#: src/panel/WorkshopFrame.cpp:261 src/panel/WorkshopFrame.cpp:274
+#: src/panel/WorkshopFrame.cpp:287
+msgid "View on Steam"
+msgstr "Steam에서 보기"
+
+#: src/panel/WorkshopFrame.cpp:299
+msgid "Create"
+msgstr "만들기"
+
+#: src/panel/WorkshopFrame.cpp:303
+msgid "Delete"
+msgstr "삭제"
+
+#: src/panel/WorkshopFrame.cpp:305
+msgid "View"
+msgstr "보기"
+
+#: src/panel/WorkshopFrame.cpp:308
+msgid "Refresh List"
+msgstr "목록 새로 고침"
+
+#: src/panel/WorkshopFrame.cpp:314
+msgid "Online Shop"
+msgstr "온라인 샵"
+
+#: src/panel/WorkshopFrame.cpp:315
+msgid "Subscribed Items"
+msgstr "구독 항목"
+
+#: src/panel/WorkshopFrame.cpp:316
+msgid "Favorited Items"
+msgstr "즐겨 찾기"
+
+#: src/panel/WorkshopFrame.cpp:317
+msgid "My Items"
+msgstr "내 아이템"
+
+#: src/panel/WorkshopFrame.cpp:388
+msgid "Now Loading..."
+msgstr "로딩중..."
+
+#: src/panel/WorkshopFrame.cpp:485
+msgid "Failed to create the workshop item."
+msgstr "위크샵 아이템을 만들지 못했습니다."
+
+#: src/panel/WorkshopFrame.cpp:486 src/panel/WorkshopFrame.cpp:502
+#: src/panel/WorkshopPublishDialog.cpp:336
+msgid "Error"
+msgstr "애러"
+
+#: src/panel/WorkshopFrame.cpp:501
+msgid "Failed to delete the workshop item."
+msgstr "워크샵 아이템을 지우지 못했습니다."
+
+#: src/panel/WorkshopFrame.cpp:532
+msgid "Creating workshop item..."
+msgstr "워크샵 아이템 생성 중..."
+
+#: src/panel/WorkshopFrame.cpp:548
+msgid "Deleting workshop item..."
+msgstr "워크샵 아이템 삭제 중..."
+
+#: src/panel/WorkshopPublishDialog.cpp:192
+msgid "Publish Workshop Item"
+msgstr "워크샵 아이템 게시"
+
+#: src/panel/WorkshopPublishDialog.cpp:195
+msgid "Title"
+msgstr "제목"
+
+#: src/panel/WorkshopPublishDialog.cpp:199
+msgid "Type"
+msgstr "유형"
+
+#: src/panel/WorkshopPublishDialog.cpp:202
+msgid "Icon Set"
+msgstr "아이콘 세트"
+
+#: src/panel/WorkshopPublishDialog.cpp:205
+msgid "Cover Image: (< 1 MB, Recommended Aspect 16:9)"
+msgstr "커버 이미지: ( 1 MB 미만, 권장 화면 16:9)"
+
+#: src/panel/WorkshopPublishDialog.cpp:213
+msgid "Resource Folder:"
+msgstr "리소스 폴더"
+
+#: src/panel/WorkshopPublishDialog.cpp:225
+msgid "Change Note:"
+msgstr "변경 내역"
+
+#: src/panel/WorkshopPublishDialog.cpp:230
+msgid "Submit"
+msgstr "제출"
+
+#: src/panel/WorkshopPublishDialog.cpp:241
+msgid "Leave it blank to keep original data"
+msgstr "원본 데이터를 유지하려면 비워 둡니다."
+
+#: src/panel/WorkshopPublishDialog.cpp:321
+msgid ""
+"Failed to update the workshop item.\n"
+"Error Code: "
+msgstr ""
+"워크샵 아이템 업데이트를 실패했습니다.\n"
+"애러 코드: "
+
+#: src/panel/WorkshopPublishDialog.cpp:378
+msgid "Updating workshop item..."
+msgstr "워크샵 아이템 업데이트중..."
+
+#: src/panel/WorkshopPublishDialog.cpp:391
+msgid "Image files (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
+msgstr "이미지 파일 (*.PNG;*.JPG;*.GIF)|*.PNG;*.JPG;*.GIF"
+
+#: include/utils/preference.h:22
+#, c-format
+msgid ""
+"Remove [ %s ] ?\n"
+"(Please disable responding plug-in manually)"
+msgstr ""
+"[ %s ] 를 제거 하시겠습니까?\n"
+"(응답 플러그인을 수동으로 비활성화 하십시오)"

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SAO Theme for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-20 02:57+0200\n"
+"PO-Revision-Date: 2018-11-22 23:23+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/SAO Theme\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: include/defs.h:9
+msgid "SAO Theme"
+msgstr "SAO 테마"
+
+#: include/defs.h:10
+msgid "Sword Art Online Theme for SAO Utils"
+msgstr "SAO Utils를 위한 소드 아트 온라인 테마"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"

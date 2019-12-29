@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:01+0800\n"
+"PO-Revision-Date: 2018-11-22 21:59+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _uiT\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/GGO/LauncherMenu.cpp:345 src/SAO/LauncherMenu.cpp:292
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+"- 메뉴를 열려면 클릭하십시오"
+"길게 누르거나 오른쪽 버튼을 클릭하면 현재 항목을 편집 할 수 있습니다."
+
+#: src/GGO/ListMenu.cpp:524 src/SAO/ListMenu.cpp:296
+msgid "- Modify this item."
+msgstr "- 이 아이템을 편집 할 수 있습니다."
+
+#: src/GGO/ListMenu.cpp:531 src/SAO/ListMenu.cpp:304
+msgid "- Add new item."
+msgstr "- 아이템을 추가합니다."
+
+#: src/GGO/ListMenu.cpp:538 src/SAO/ListMenu.cpp:312
+msgid "- Drag to move item."
+msgstr "- 드래그하여 항목을 이동하십시오."
+
+#: src/GGO/ListMenu.cpp:545 src/SAO/ListMenu.cpp:320
+msgid "- Remove this item."
+msgstr "- 이 아이템을 삭제합니다."
+
+#: src/share/theme/HelpMenu.cpp:74
+msgid "User Guide"
+msgstr "사용자 안내서"
+
+#: src/share/theme/HelpMenu.cpp:84
+msgid "About"
+msgstr "정보"
+
+#: src/share/theme/OptionMenu.cpp:78
+msgid "Switch Theme"
+msgstr "테마 전환"
+
+#: src/share/theme/OptionMenu.cpp:88
+msgid "General"
+msgstr "일반"
+
+#: src/share/theme/OptionMenu.cpp:98
+msgid "Appearance"
+msgstr "외관"
+
+#: src/share/theme/OptionMenu.cpp:108
+msgid "Graphics"
+msgstr "그래픽"
+
+#: src/share/theme/OptionMenu.cpp:118
+msgid "Sounds"
+msgstr "사운드"
+
+#: src/share/theme/OptionMenu.cpp:128
+msgid "Plug-ins"
+msgstr "플러그인"
+
+#: src/share/theme/PluginMenu.cpp:90
+msgid "Manage Plug-ins"
+msgstr "플러그인 관리자"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Enable plug-in [ %s ] ?"
+msgstr "[ %s ] 플러그인을 활성화 하시겠습니까?"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Disable plug-in [ %s ] ?"
+msgstr "[ %s ] 플러그인을 비활성화 하시겠습니까?"
+
+#: src/share/theme/SettingMenu.cpp:75
+msgid "- Settings for SAO Utils."
+msgstr "- SAO Utils 설정."
+
+#: src/share/theme/SettingMenu.cpp:86
+msgid "- Workshop of SAO Utils."
+msgstr "- SAO Utils의 워크샵."
+
+#: src/share/theme/SettingMenu.cpp:97
+msgid "- Information of SAO Utils."
+msgstr "- SAO Utils의 정보."
+
+#: src/share/theme/SettingMenu.cpp:107
+msgid "- Shut down SAO Utils."
+msgstr "- SAO Utils를 종료합니다."

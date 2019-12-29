@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensor Data Extension for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-01 22:13+0800\n"
+"PO-Revision-Date: 2018-11-22 23:28+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:\\DEV\\Projects\\SAO Utils\\Steam 1\\plugin\\Sensor Data Extension\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/CoreTempDataSource_info.cpp:59
+msgid "Processor Information"
+msgstr "프로세서 정보"
+
+#: src/CoreTempDataSource_info.cpp:64
+msgid "Processor Information Data"
+msgstr "프소세서 정보 데이터"
+
+#: src/CoreTempDataSource_info.cpp:172
+msgid "Model"
+msgstr "모델"
+
+#: src/CoreTempDataSource_info.cpp:173
+msgid "CPU Speed"
+msgstr "CPU 주파수 속도"
+
+#: src/CoreTempDataSource_info.cpp:174
+msgid "Bus Speed"
+msgstr "BUS 주파수 속도"
+
+#: src/CoreTempDataSource_info.cpp:175
+msgid "Multiplier"
+msgstr "배수"
+
+#: src/CoreTempDataSource_info.cpp:176
+msgid "VID"
+msgstr "VID"
+
+#: src/CoreTempDataSource_load.cpp:53
+msgid "CPU Load"
+msgstr "CPU 부하"
+
+#: src/CoreTempDataSource_load.cpp:58
+msgid "CPU Load Data"
+msgstr "CPU 부하 데이터"
+
+#: src/CoreTempDataSource_mtpr.cpp:53
+msgid "CPU Multiplier"
+msgstr "CPU 배수"
+
+#: src/CoreTempDataSource_mtpr.cpp:58
+msgid "CPU Multiplier Data"
+msgstr "CPU 배수 데이터"
+
+#: src/CoreTempDataSource_power.cpp:53
+msgid "CPU Power"
+msgstr "CPU 전력"
+
+#: src/CoreTempDataSource_power.cpp:58
+msgid "CPU Power Consumption Data"
+msgstr "CPU 소비 전력 데이터"
+
+#: src/CoreTempDataSource_temp.cpp:53
+msgid "CPU Temperature"
+msgstr "CPU 온도"
+
+#: src/CoreTempDataSource_temp.cpp:58
+msgid "CPU Temperature Data"
+msgstr "CPU 온도 데이터"
+
+#: src/GPUZDataSource_info.cpp:53
+msgid "GPU Information Data"
+msgstr "GPU 정보 데이터"
+
+#: src/GPUZDataSource_info.cpp:58
+msgid "Graphic Card Information Data"
+msgstr "그래픽 카드 정보 데이터"
+
+#: src/GPUZDataSource_sens.cpp:54
+msgid "GPU Sensor Data"
+msgstr "GPU 센서 데이터"
+
+#: src/GPUZDataSource_sens.cpp:59
+msgid "Graphic Card Sensor Data"
+msgstr "그래픽 카드 센서 데이터"
+
+#: src/GPUZDataSource_sens.cpp:162
+msgid ""
+"The update parameter takes '[{min}, {max}]' string to define minimum and maximum values.\n"
+"Example: [0.0, 100.0]"
+msgstr ""
+"업데이트 매개 변수는 최소값과 최대 값을 정의하기 위해'[{최소}, {최대}]'문자열을 사용합니다.\n"
+"예: [0.0, 100.0]"
+
+#: src/HWiNFODataSource_data.cpp:80
+#: src/HWiNFODataSource_data.cpp:89
+#: src/SpeedFanDataSource_temp.cpp:53
+#: src/SpeedFanDataSource_temp.cpp:58
+msgid "Temperature Data"
+msgstr "온도 데이터"
+
+#: src/HWiNFODataSource_data.cpp:81
+#: src/HWiNFODataSource_data.cpp:90
+#: src/SpeedFanDataSource_volt.cpp:58
+#: src/SpeedFanDataSource_volt.cpp:63
+msgid "Voltage Data"
+msgstr "전압 데이터"
+
+#: src/HWiNFODataSource_data.cpp:82
+#: src/HWiNFODataSource_data.cpp:91
+#: src/SpeedFanDataSource_fan.cpp:53
+#: src/SpeedFanDataSource_fan.cpp:58
+msgid "Fan Speed Data"
+msgstr "팬 속도 데이터"
+
+#: src/HWiNFODataSource_data.cpp:83
+#: src/HWiNFODataSource_data.cpp:92
+msgid "Ammeter Data"
+msgstr "전류 데이터"
+
+#: src/HWiNFODataSource_data.cpp:84
+#: src/HWiNFODataSource_data.cpp:93
+msgid "Power Consumption Data"
+msgstr "소비 전력 데이터"
+
+#: src/HWiNFODataSource_data.cpp:85
+#: src/HWiNFODataSource_data.cpp:94
+msgid "Clock Frequency Data"
+msgstr "클럭 주파수 데이터"
+
+#: src/HWiNFODataSource_data.cpp:86
+#: src/HWiNFODataSource_data.cpp:95
+msgid "Usage Data"
+msgstr "사용 데이터"
+
+#: src/HWiNFODataSource_data.cpp:87
+#: src/HWiNFODataSource_data.cpp:96
+msgid "Miscellaneous Data"
+msgstr "기타 데이터"
+
+#: src/XmlDataSourceT_data.cpp:103
+#: src/XmlDataSourceT_data.cpp:119
+msgid "System Data"
+msgstr "시스템 데이터"
+
+#: include/defs.h:9
+msgid "Sensor Data Extension"
+msgstr "센서 데이터 확장"
+
+#: include/defs.h:10
+msgid "Sensor Data Extension for SAO Utils"
+msgstr "SAO Utils의 센서 데이터 확장 입니다"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua."
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
+
+#: include/strs.h:9
+#, c-format
+msgid "%s Data Proxy"
+msgstr "%s 프록시 데이터"
+
+#: include/strs.h:14
+#, c-format
+msgid "Data available when %s is running and the 'Shared Memory' function is enabled."
+msgstr "%s 가 실행 중이고 '공유 메모리'기능이 활성되어있을 때 사용할 수 있는 데이터입니다."
+

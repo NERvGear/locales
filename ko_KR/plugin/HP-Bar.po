@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HP-Bar for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
+"PO-Revision-Date: 2018-11-22 23:06+0800\n"
+"Last-Translator: 그미래(rainkr01) <rainkr01@naver.com>\n"
+"Language-Team: [한식구 : 한글화를 하는 사람들의 모임] <https://cafe.naver.com/hansicgu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/HP-Bar\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+"Language: ko_KR\n"
+
+#: src/ContextMenu.cpp:65
+msgid "Move Up"
+msgstr "위로"
+
+#: src/ContextMenu.cpp:66
+msgid "Move Down"
+msgstr "아래로"
+
+#: src/ContextMenu.cpp:67
+msgid "Reorder"
+msgstr "정리했습니다."
+
+#: src/ContextMenu.cpp:70
+msgid "&New Bar..."
+msgstr "새로운 바를 추가(&N)..."
+
+#: src/ContextMenu.cpp:71
+msgid "&Edit Bar..."
+msgstr "바를 편집합니다(&E)..."
+
+#: src/ContextMenu.cpp:72
+msgid "&Remove Bar"
+msgstr "바를 삭제합니다(&R)..."
+
+#: src/ContextMenu.cpp:74
+msgid "Always on &Top"
+msgstr "최상위 고정(&T)"
+
+#: src/ContextMenu.cpp:75
+msgid "&Attach to Launcher"
+msgstr "런처에 연결합니다(&A)"
+
+#: src/ContextMenu.cpp:76
+msgid "&Lock Widget"
+msgstr "위젯을 잠금(&L)"
+
+#: src/ContextMenu.cpp:77
+msgid "&Transparent Widget"
+msgstr "위젯을 투명화(&T)"
+
+#: src/panel/EditBarDialog.cpp:120
+msgid "Bar Settings"
+msgstr "바 셋팅"
+
+#: src/panel/EditBarDialog.cpp:123
+msgid "Name"
+msgstr "이름"
+
+#: src/panel/EditBarDialog.cpp:128
+msgid "Click to choose a data"
+msgstr "데이터를 선택하십시오"
+
+#: src/panel/EditBarDialog.cpp:136
+msgid "OK"
+msgstr "OK"
+
+#: src/panel/EditBarDialog.cpp:138
+msgid "Cancel"
+msgstr "취소"
+
+#: include/defs.h:9
+msgid "HP-Bar"
+msgstr "HP-바"
+
+#: include/defs.h:10
+msgid "HP-Bar Widget for SAO Utils"
+msgstr "SAO Utils를 위한 HP-Bar 위젯"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua의 SAO Utils 프로젝트 입니다"
