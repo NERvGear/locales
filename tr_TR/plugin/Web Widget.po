@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 17:02+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Web Widget\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/WebObject.cpp:459
+msgid "All files|*.*"
+msgstr "Tüm dosyalar | *. *"
+
+#: src/WebObject.cpp:475
+msgid "Please input URL:"
+msgstr "Lütfen URL girin:"
+
+#: src/WebObject.cpp:475
+msgid "Go to..."
+msgstr "Git ..."
+
+#: src/WebObject.cpp:703
+msgid "&Show widget menu"
+msgstr "& Widget menüsünü göster"
+
+#: include/defs.h:9
+msgid "Web Widget"
+msgstr "Web Widget'ı"
+
+#: include/defs.h:10
+msgid "Web Widget for SAO Utils"
+msgstr "SAO Utils için Web Widget'ı"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua'nın SAO Utils Projesi"

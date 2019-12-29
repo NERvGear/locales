@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bangumi for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:05+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Bangumi\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/Bangumi.cpp:187
+msgid "Retrieving animation list..."
+msgstr "Animasyon listesi alınıyor ..."
+
+#: src/Bangumi.cpp:202 src/Bangumi.cpp:492
+msgid "Cannot retrieve animation list."
+msgstr "Animasyon listesi alınamıyor."
+
+#: src/Bangumi.cpp:486
+msgid "No records currently."
+msgstr "Şu anda kayıt yok."
+
+#: src/BangumiDataSource.cpp:76
+msgid "Bangumi Data Collection"
+msgstr "Bangumi Veri Toplama"
+
+#: src/BangumiDataSource.cpp:81
+msgid "Bangumi Daily Animation Data Collection"
+msgstr "Bangumi Günlük Animasyon Veri Toplama"
+
+#: src/BangumiDataSource.cpp:132
+msgid "Programme Schedule"
+msgstr "Program Çizelgesi"
+
+#: src/BangumiDataSource.cpp:137
+msgid "Animation Programme Schedule Data"
+msgstr "Animasyon Programı Zamanlama Verileri"
+
+#: src/BangumiDataSource.cpp:260
+msgid "On-Air Animation"
+msgstr "Canlı Animasyon"
+
+#: src/BangumiDataSource.cpp:261
+msgid "On-Air Animation Count"
+msgstr "Canlı Animasyon Sayısı"
+
+#: src/BangumiDataSource.cpp:262
+msgid "Daily Animation Count"
+msgstr "Günlük Animasyon Sayısı"
+
+#: src/ConfigDialog.cpp:47
+msgid "Bangumi"
+msgstr "Bangumi"
+
+#: src/ConfigDialog.cpp:49
+msgid "Prefer local translation name"
+msgstr "Yerel çeviri adını tercih et"
+
+#: src/ConfigDialog.cpp:52
+msgid "Prefer local  premiere time"
+msgstr "Yerel prömiyeri zamanını tercih et"
+
+#: src/ConfigDialog.cpp:56
+msgid "Hide special programs"
+msgstr "Özel programları gizle"
+
+#: src/ConfigDialog.cpp:60
+msgid "Treat midnight as another day"
+msgstr "Gece yarısına başka bir gün gibi davran"
+
+#: src/ConfigDialog.cpp:64
+msgid "Open web pages in external browser"
+msgstr "Web sayfalarını harici tarayıcıda aç"
+
+#: src/ConfigDialog.cpp:70
+msgid "Data sources supported by ACGDB.COM"
+msgstr "ACGDB.COM tarafından desteklenen veri kaynakları"
+
+#: src/ConfigDialog.cpp:73
+msgid "OK"
+msgstr "TAMAM"
+
+#: src/InfoBox.cpp:198
+msgid "Spring"
+msgstr "Bahar"
+
+#: src/InfoBox.cpp:198
+msgid "Summer"
+msgstr "Yaz"
+
+#: src/InfoBox.cpp:198
+msgid "Autumn"
+msgstr "Sonbahar"
+
+#: src/InfoBox.cpp:198
+msgid "Winter"
+msgstr "Kış"
+
+#: src/InfoBox.cpp:250
+#, c-format
+msgid "Premiere :   %s"
+msgstr "Gala :   %s"
+
+#: src/InfoBox.cpp:256
+#, c-format
+msgid "Episode :   %s"
+msgstr "Bölüm:    % s"
+
+#: src/InfoBox.cpp:262
+#, c-format
+msgid "Tags :   %s"
+msgstr "Etiketler:   %s"
+
+#: src/InfoBox.cpp:267
+msgid "Description :"
+msgstr "Açıklama:"
+
+#: src/InfoBox.cpp:289
+#, c-format
+msgid "Time :  %s"
+msgstr "Zaman :  %s"
+
+#: src/InfoBox.cpp:295
+msgid "ON AIR"
+msgstr "YAYINDA"
+
+#: src/InfoBox.cpp:296
+msgid "OFF AIR"
+msgstr "YAYINDA DEĞİL"
+
+#: src/InfoBox.cpp:297
+msgid "FIN"
+msgstr "SON"
+
+#: src/InfoBox.cpp:299
+msgid "UNKNOWN"
+msgstr "BİLİNMEYEN"
+
+#: src/InfoBox.cpp:301
+#, c-format
+msgid "State :  %s"
+msgstr "Durum:  %s"
+
+#: include/defs.h:11
+msgid "Daily Animation Widget for SAO Utils"
+msgstr ""
+"SAO Utils için Günlük Animasyon Widget'ı\n"
+" \n"
+"için\n"
+"için çevirileri\n"
+"EdatSıklık\n"
+"for\n"
+"için, amacıyla, uygun, dolayı, karşı, göre\n"
+"in order to\n"
+"için\n"
+"pro\n"
+"için\n"
+"on account of\n"
+"için, dolayı, dolayısıyla, yüzünden\n"
+"seeing\n"
+"için, yüzünden, dolayı\n"
+"Bağlaç\n"
+"so\n"
+"bu yüzden, yani, için, diye, -ması için\n"
+"that\n"
+"o, ki, şu, diye, için\n"
+"so as to\n"
+"için, -mak için, -ecek şekilde\n"
+"Zarf\n"
+"pro\n"
+"için, lehinde\n"
+"in the cause of\n"
+"için, uğruna, aşkına"
+
+#: include/defs.h:12
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua'nın SAO Utils Projesi"

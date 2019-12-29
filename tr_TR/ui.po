@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 22:01+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _uiT\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/GGO/LauncherMenu.cpp:345 src/SAO/LauncherMenu.cpp:292
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+"- Menüyü genişletmek için tıklayın,\n"
+"geçerli öğeyi düzenlemek için uzun basın veya sağ tıklayın."
+
+#: src/GGO/ListMenu.cpp:524 src/SAO/ListMenu.cpp:296
+msgid "- Modify this item."
+msgstr "- Bu öğeyi değiştirin."
+
+#: src/GGO/ListMenu.cpp:531 src/SAO/ListMenu.cpp:304
+msgid "- Add new item."
+msgstr "- Yeni öğe ekle."
+
+#: src/GGO/ListMenu.cpp:538 src/SAO/ListMenu.cpp:312
+msgid "- Drag to move item."
+msgstr "- Öğeyi taşımak için sürükleyin."
+
+#: src/GGO/ListMenu.cpp:545 src/SAO/ListMenu.cpp:320
+msgid "- Remove this item."
+msgstr "- Bu öğeyi kaldır."
+
+#: src/share/theme/HelpMenu.cpp:74
+msgid "User Guide"
+msgstr "Kullanici rehberi"
+
+#: src/share/theme/HelpMenu.cpp:84
+msgid "About"
+msgstr "Hakkında"
+
+#: src/share/theme/OptionMenu.cpp:78
+msgid "Switch Theme"
+msgstr "Temayı Değiştir"
+
+#: src/share/theme/OptionMenu.cpp:88
+msgid "General"
+msgstr "Genel"
+
+#: src/share/theme/OptionMenu.cpp:98
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: src/share/theme/OptionMenu.cpp:108
+msgid "Graphics"
+msgstr "Grafik"
+
+#: src/share/theme/OptionMenu.cpp:118
+msgid "Sounds"
+msgstr "Ses"
+
+#: src/share/theme/OptionMenu.cpp:128
+msgid "Plug-ins"
+msgstr "Eklentiler"
+
+#: src/share/theme/PluginMenu.cpp:90
+msgid "Manage Plug-ins"
+msgstr "Eklentileri Yönet"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Enable plug-in [ %s ] ?"
+msgstr "Eklenti etkinleştirilsin mi [% s]?"
+
+#: src/share/theme/PluginMenu.cpp:230
+#, c-format
+msgid "Disable plug-in [ %s ] ?"
+msgstr "Eklenti devre dışı bırakılsın mı [% s]?"
+
+#: src/share/theme/SettingMenu.cpp:75
+msgid "- Settings for SAO Utils."
+msgstr "- SAO Utils ayarları."
+
+#: src/share/theme/SettingMenu.cpp:86
+msgid "- Workshop of SAO Utils."
+msgstr "- SAO Utils Atölye."
+
+#: src/share/theme/SettingMenu.cpp:97
+msgid "- Information of SAO Utils."
+msgstr "- SAO Utils bilgileri."
+
+#: src/share/theme/SettingMenu.cpp:107
+msgid "- Shut down SAO Utils."
+msgstr "- SAO Utils'i kapatın."

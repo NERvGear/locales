@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-04 23:44+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Mail Box\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/MailBox.cpp:139
+msgid "<Untitled>"
+msgstr "<Başlıksız>"
+
+#: src/MailBox.cpp:280
+#, c-format
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+"% s\n"
+"% d Okunmamış İleti"
+
+#: src/MsgBox.cpp:180
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr "<HTML içeriğini okumak için 'HTML Aç'ı tıklayın>"
+
+#: src/MsgBox.cpp:295
+msgid "Reply"
+msgstr "Cevap"
+
+#: src/MsgBox.cpp:300
+msgid "Mark  Read"
+msgstr "Okundu Olarak İşaretle"
+
+#: src/MsgBox.cpp:305
+msgid "Read  Later"
+msgstr "Sonra Oku"
+
+#: src/MsgBox.cpp:310
+msgid "Open  HTML"
+msgstr "HTML'yi aç"
+
+#: src/MsgBox.cpp:314
+msgid "Ignore  All"
+msgstr "Hepsini Yoksay"
+
+#: src/task.cpp:21
+#, c-format
+msgid "Failed to test %s server."
+msgstr ""
+"%s sunucusu test edilemedi.\n"
+" "
+
+#: src/task.cpp:22
+#, c-format
+msgid "Cannot connect to server: %s:%d."
+msgstr "Sunucuya bağlanılamıyor:% s:% d."
+
+#: src/task.cpp:23
+#, c-format
+msgid "Cannot login to %s server, %s."
+msgstr "%s sunucusuna giriş yapılamıyor,% s."
+
+#: src/task.cpp:24
+msgid "Cannot retrieve message list."
+msgstr "Mesaj listesi alınamıyor."
+
+#: src/task.cpp:27
+msgid "invalid user name or password"
+msgstr "Geçersiz kullanıcı adı veya şifre"
+
+#: src/task.cpp:207 src/panel/ComposeDialog.cpp:298
+msgid "Failed to send message."
+msgstr "Mesaj gönderilemedi."
+
+#: src/task.cpp:257
+msgid "Message rejected by server."
+msgstr "İleti sunucu tarafından reddedildi."
+
+#: src/task.cpp:345
+msgid "Failed to receive message."
+msgstr "Mesaj alınamadı."
+
+#: src/task.cpp:378
+msgid "Cannot download message."
+msgstr "Mesaj indirilemiyor."
+
+#: src/task.cpp:379
+msgid "Cannot find specified message."
+msgstr "Belirtilen mesaj bulunamadı."
+
+#: src/task.cpp:402
+msgid "Failed to fetch message list."
+msgstr "Mesaj listesi getirilemedi."
+
+#: src/WidgetObject.cpp:133 src/panel/ComposeDialog.cpp:175
+msgid "Compose Message"
+msgstr "Mesaj Yaz"
+
+#: src/WidgetObject.cpp:143
+msgid "Online User"
+msgstr "Online Kullanıcı"
+
+#: src/WidgetObject.cpp:153
+msgid "Inbox"
+msgstr "Gelen kutusu"
+
+#: src/WidgetObject.cpp:163
+msgid "Option"
+msgstr "Seçenek"
+
+#: src/panel/ComposeDialog.cpp:120
+msgid "- Hide original message."
+msgstr "- Orijinal mesajı gizleyin."
+
+#: src/panel/ComposeDialog.cpp:123
+msgid "- Show original message."
+msgstr "- Orijinal mesajı göster."
+
+#: src/panel/ComposeDialog.cpp:180
+msgid "From"
+msgstr "'dan"
+
+#: src/panel/ComposeDialog.cpp:185
+msgid "To"
+msgstr "e"
+
+#: src/panel/ComposeDialog.cpp:189
+msgid "Subject"
+msgstr "Konu"
+
+#: src/panel/ComposeDialog.cpp:194
+msgid "Attachment"
+msgstr "Ek dosya"
+
+#: src/panel/ComposeDialog.cpp:195
+msgid "<Not implemented yet!>"
+msgstr "<Henüz uygulanmadı!>"
+
+#: src/panel/ComposeDialog.cpp:215
+msgid "Original Message"
+msgstr "Orijinal mesaj"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send"
+msgstr "Gönder"
+
+#: src/panel/ComposeDialog.cpp:235
+msgid "Send message"
+msgstr "Mesaj gönder"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard"
+msgstr "Sil"
+
+#: src/panel/ComposeDialog.cpp:236
+msgid "Discard message"
+msgstr "Mesajı sil"
+
+#: src/panel/ComposeDialog.cpp:266
+msgid "Discard editing message ?"
+msgstr "Düzenleme mesajı silinsin mi?"
+
+#: src/panel/ComposeDialog.cpp:276
+msgid "Please input recipient."
+msgstr "Lütfen alıcı girin."
+
+#: src/panel/ComposeDialog.cpp:283
+msgid "Sending message......"
+msgstr "Mesaj gönderiliyor......"
+
+#: src/panel/ComposeDialog.cpp:328
+msgid "Message sent."
+msgstr "Mesajı gönderildi."
+
+#: src/panel/ConfigDialog.cpp:226
+msgid "Mail Box"
+msgstr "Posta Kutusu"
+
+#: src/panel/ConfigDialog.cpp:228
+msgid "Email Account Settings"
+msgstr "E-posta Hesabı Ayarları"
+
+#: src/panel/ConfigDialog.cpp:230
+msgid "Email Address:"
+msgstr "Email Adresi:"
+
+#: src/panel/ConfigDialog.cpp:239
+msgid "Server Address"
+msgstr "Sunucu adresi"
+
+#: src/panel/ConfigDialog.cpp:242
+msgid "Port"
+msgstr "Port"
+
+#: src/panel/ConfigDialog.cpp:245
+msgid "Secure"
+msgstr "Secure"
+
+#: src/panel/ConfigDialog.cpp:251
+msgid "POP3 Server:"
+msgstr "POP3 Server:"
+
+#: src/panel/ConfigDialog.cpp:260 src/panel/ConfigDialog.cpp:276
+msgid "None"
+msgstr "Yok"
+
+#: src/panel/ConfigDialog.cpp:261 src/panel/ConfigDialog.cpp:277
+msgid "SSL"
+msgstr "SSL"
+
+#: src/panel/ConfigDialog.cpp:262 src/panel/ConfigDialog.cpp:278
+msgid "TLS"
+msgstr "TLS"
+
+#: src/panel/ConfigDialog.cpp:267
+msgid "SMTP Server:"
+msgstr "SMTP Server:"
+
+#: src/panel/ConfigDialog.cpp:283
+msgid "Username:"
+msgstr "Kullanıcı adı:"
+
+#: src/panel/ConfigDialog.cpp:287
+msgid "Password:"
+msgstr "Parola:"
+
+#: src/panel/ConfigDialog.cpp:292
+msgid "Click to test account setting"
+msgstr "Hesap ayarını test etmek için tıklayın"
+
+#: src/panel/ConfigDialog.cpp:294
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr "* POP3 sunucusunda oturum açamıyorsanız SSL'yi deneyin."
+
+#: src/panel/ConfigDialog.cpp:298
+msgid "Do not contain chat history in reply messages"
+msgstr "Yanıt iletilerinde sohbet geçmişi içermez"
+
+#: src/panel/ConfigDialog.cpp:303
+msgid "Check for new messages every"
+msgstr "Her birinde yeni mesaj olup olmadığını kontrol edin"
+
+#: src/panel/ConfigDialog.cpp:309
+msgid "minutes"
+msgstr "dakika"
+
+#: src/panel/ConfigDialog.cpp:313
+msgid "Display Name (in Online User list):"
+msgstr "Görünen Ad (Çevrimiçi Kullanıcı listesinde):"
+
+#: src/panel/ConfigDialog.cpp:320
+msgid "Signature text:"
+msgstr "İmza metni:"
+
+# ignore
+#: src/panel/ConfigDialog.cpp:329
+msgid "OK"
+msgstr "TAMAM"
+
+#: src/panel/ConfigDialog.cpp:411
+msgid "Please input email address!"
+msgstr "Lütfen e-posta adresini girin!"
+
+#: src/panel/ConfigDialog.cpp:418
+msgid "Please input POP3 server!"
+msgstr "Lütfen POP3 sunucusu girin!"
+
+#: src/panel/ConfigDialog.cpp:425
+msgid "Please input SMTP server!"
+msgstr "Lütfen SMTP sunucusunu girin!"
+
+#: src/panel/ConfigDialog.cpp:432
+msgid "Please input user name!"
+msgstr "Lütfen kullanıcı adını girin!"
+
+#: src/panel/ConfigDialog.cpp:439
+msgid "Please input password!"
+msgstr "Lütfen şifrenizi girin!"
+
+#: src/panel/ConfigDialog.cpp:446
+msgid "Connecting to server......"
+msgstr "Sunucuya baglanıyor......"
+
+#: src/panel/ConfigDialog.cpp:482
+msgid "Test Passed!"
+msgstr "Test geçildi!"
+
+#: src/panel/UserEditDialog.cpp:52
+msgid "Display Name:"
+msgstr "Ekran adı:"
+
+#: src/panel/UserEditDialog.cpp:57
+msgid "Locale:"
+msgstr "Yerel:"
+
+#: src/panel/UserInfoPanel.cpp:116 src/panel/UserInfoPanel.cpp:120
+#: src/panel/UserListDialog.cpp:143 src/panel/UserListDialog.cpp:173
+msgid "<N/A>"
+msgstr "<N/A>"
+
+#: src/panel/UserListDialog.cpp:140 src/panel/UserMenu.cpp:64
+msgid "Add Friend"
+msgstr "Arkadaş Ekle"
+
+#: src/panel/UserListDialog.cpp:169 src/panel/UserMenu.cpp:60
+msgid "Edit Friend"
+msgstr "Arkadaşı Düzenle"
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records match your search."
+msgstr "Aramanızla eşleşen kayıt yok."
+
+#: src/panel/UserListDialog.cpp:248
+msgid "No records currently, please come back later!"
+msgstr "Şu anda kayıt yok, lütfen daha sonra tekrar gelin!"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "My Friends"
+msgstr "Arkadaşlarım"
+
+#: src/panel/UserListDialog.cpp:297 src/panel/UserListDialog.cpp:300
+msgid "Online Users"
+msgstr "Online Kullanıcılar"
+
+#: src/panel/UserListDialog.cpp:320
+msgid "User List"
+msgstr "Kullanıcı listesi"
+
+#: src/panel/UserListDialog.cpp:336
+msgid "Search user name or email address"
+msgstr "Kullanıcı adını veya e-posta adresini ara"
+
+#: src/panel/UserListDialog.cpp:346
+msgid "Previous"
+msgstr "Önceki"
+
+#: src/panel/UserListDialog.cpp:354
+msgid "Next"
+msgstr "Sonraki"
+
+#: src/panel/UserListDialog.cpp:387
+msgid "Loading online users, please wait..."
+msgstr "Çevrimiçi kullanıcılar yükleniyor, lütfen bekleyin ..."
+
+#: src/panel/UserMenu.cpp:52
+msgid "Send Mail"
+msgstr "Posta gönder"
+
+#: src/panel/UserMenu.cpp:56
+msgid "New Friend"
+msgstr "Yeni arkadaş"
+
+#: src/panel/UserMenu.cpp:61
+msgid "Remove Friend"
+msgstr "Arkadaşı Kaldır"
+
+#: include/defs.h:10
+msgid "Mail Box for SAO Utils"
+msgstr "SAO Utils için Posta Kutusu"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua'nın SAO Utils Projesi"
+
+#: include/defs.h:27
+msgid "- Sent from SAO Utils Mail Box"
+msgstr "- SAO Utils Posta Kutusundan Gönderildi"

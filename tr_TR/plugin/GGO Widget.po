@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GGO Widget for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/GGO Widget\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/ContextMenu.cpp:62
+msgid "Left Shift"
+msgstr "Sol Shift"
+
+#: src/ContextMenu.cpp:63
+msgid "Right Shift"
+msgstr "Sağ Shift"
+
+#: src/ContextMenu.cpp:64
+msgid "Row Up"
+msgstr "Yukarı Ok"
+
+#: src/ContextMenu.cpp:65
+msgid "Row Down"
+msgstr "Aşağı Ok"
+
+#: src/ContextMenu.cpp:66
+msgid "Reorder"
+msgstr "Yeniden sıralama"
+
+#: src/ContextMenu.cpp:69
+msgid "Preset A (Large)"
+msgstr "Ön Ayar A (Büyük)"
+
+#: src/ContextMenu.cpp:70
+msgid "Preset B (Large)"
+msgstr "Ön Ayar B (Büyük)"
+
+#: src/ContextMenu.cpp:71
+msgid "Preset C (Medium)"
+msgstr "Ön Ayar C (Orta)"
+
+#: src/ContextMenu.cpp:72
+msgid "Preset D (Medium)"
+msgstr "Ön Ayar D (Orta)"
+
+#: src/ContextMenu.cpp:73
+msgid "Preset E (Small)"
+msgstr "Ön Ayar E (Küçük)"
+
+#: src/ContextMenu.cpp:74
+msgid "Preset F (Small)"
+msgstr "Ön Ayar F (Küçük)"
+
+#: src/ContextMenu.cpp:75
+msgid "Customize..."
+msgstr "Özelleştir..."
+
+#: src/ContextMenu.cpp:76
+msgid "Resize"
+msgstr "Yeniden Boyutlandır"
+
+#: src/ContextMenu.cpp:79
+msgid "&New Item..."
+msgstr "&Yeni öğe..."
+
+#: src/ContextMenu.cpp:80
+msgid "&Edit Item..."
+msgstr "&Ögeyi düzenle..."
+
+#: src/ContextMenu.cpp:81
+msgid "&Remove Item"
+msgstr "&Öğeyi kaldır"
+
+#: src/ContextMenu.cpp:83
+msgid "New Row..."
+msgstr "Yeni Satır ..."
+
+#: src/ContextMenu.cpp:84
+msgid "Remove Row"
+msgstr "Satırı Kaldır"
+
+#: src/ContextMenu.cpp:86
+msgid "New Widget"
+msgstr "Yeni Widget"
+
+#: src/ContextMenu.cpp:87
+msgid "Remove Widget"
+msgstr "Widget'ı Kaldır"
+
+#: src/ContextMenu.cpp:89
+msgid "Always on &Top"
+msgstr "Her zaman üstte"
+
+#: src/ContextMenu.cpp:90
+msgid "&Lock Widget"
+msgstr "& Widget'ı Kilitle"
+
+#: src/ContextMenu.cpp:91
+msgid "&Transparent all Widgets"
+msgstr "& Tüm Widget'lar Şeffaf"
+
+#: src/ContextMenu.cpp:93
+msgid "Top Left"
+msgstr "Sol Üst"
+
+#: src/ContextMenu.cpp:94
+msgid "Top Right"
+msgstr "Sağ Üst"
+
+#: src/ContextMenu.cpp:95
+msgid "Bottom Left"
+msgstr "Sol alt"
+
+#: src/ContextMenu.cpp:96
+msgid "Bottom Right"
+msgstr "Sağ Alt"
+
+#: src/ContextMenu.cpp:97
+msgid "&Align To"
+msgstr "&Hizala"
+
+#: src/GGOWidget.cpp:103
+msgid "Are you sure to drop this widget ?"
+msgstr "Bu widget'ı bırakmak istediğinizden emin misiniz?"
+
+#: src/WidgetObject.cpp:751
+#, c-format
+msgid "Please input item size (%d-%d):"
+msgstr "Lütfen öğe boyutunu girin (% d-% d):"
+
+#: src/WidgetObject.cpp:752
+msgid "Resize Item"
+msgstr "Öğeyi Yeniden Boyutlandır"
+
+#: src/panel/EditItemDialog.cpp:137
+msgid "Item Settings"
+msgstr "Öğe Ayarları"
+
+#: src/panel/EditItemDialog.cpp:140
+msgid "Name"
+msgstr "Ad"
+
+#: src/panel/EditItemDialog.cpp:146
+msgid "Type Options"
+msgstr "Tür Seçenekleri"
+
+#: src/panel/EditItemDialog.cpp:152
+msgid "Empty Space"
+msgstr "Boş alan"
+
+#: src/panel/EditItemDialog.cpp:154
+msgid "Static Image"
+msgstr "Statik Görüntü"
+
+#: src/panel/EditItemDialog.cpp:159
+msgid "Numeric or Text"
+msgstr "Sayısal veya Metin"
+
+#: src/panel/EditItemDialog.cpp:161
+msgid "Bar Chart"
+msgstr "Grafik çubuğu"
+
+#: src/panel/EditItemDialog.cpp:163
+msgid "Histogram"
+msgstr "Histogram"
+
+#: src/panel/EditItemDialog.cpp:166
+msgid "..."
+msgstr "..."
+
+#: src/panel/EditItemDialog.cpp:174
+msgid "OK"
+msgstr "TAMAM"
+
+#: src/panel/EditItemDialog.cpp:176
+msgid "Cancel"
+msgstr "İptal et"
+
+#: src/panel/EditItemDialog.cpp:223
+msgid "Click to choose an image"
+msgstr "Bir resim seçmek için tıklayın"
+
+#: src/panel/EditItemDialog.cpp:229
+msgid "Click to choose a data"
+msgstr "Veri seçmek için tıklayın"
+
+#: src/panel/EditItemDialog.cpp:265
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "Desteklenen tüm dosyalar | * .PNG; *. JPG; *. BMP; *. ICO"
+
+#: src/panel/EditItemDialog.cpp:266
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "Görüntü dosyaları (* .PNG; *. JPG; *. BMP) | * .PNG; *. JPG; *. BMP"
+
+#: src/panel/EditItemDialog.cpp:267
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "Simge dosyaları (* .ICO) | * .ICO"
+
+#: include/defs.h:9
+msgid "GGO Widget"
+msgstr "GGO Widget'ı"
+
+#: include/defs.h:10
+msgid "Gun Gale Online Status Widget for SAO Utils"
+msgstr "SAO Utils için Gun Gale Çevrimiçi Durum Widget'ı"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua'nın SAO Utils Projesi"

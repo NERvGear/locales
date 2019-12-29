@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HP-Bar for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 02:59+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/HP-Bar\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/ContextMenu.cpp:65
+msgid "Move Up"
+msgstr "Yukarı Taşı"
+
+#: src/ContextMenu.cpp:66
+msgid "Move Down"
+msgstr "Aşağı Taşı"
+
+#: src/ContextMenu.cpp:67
+msgid "Reorder"
+msgstr "Yeniden sırala"
+
+#: src/ContextMenu.cpp:70
+msgid "&New Bar..."
+msgstr "& Yeni Çubuk ..."
+
+#: src/ContextMenu.cpp:71
+msgid "&Edit Bar..."
+msgstr "& Çubuğu Düzenle ..."
+
+#: src/ContextMenu.cpp:72
+msgid "&Remove Bar"
+msgstr "& Çubuğu Kaldır"
+
+#: src/ContextMenu.cpp:74
+msgid "Always on &Top"
+msgstr "Her zaman üstte"
+
+#: src/ContextMenu.cpp:75
+msgid "&Attach to Launcher"
+msgstr "& Başlatıcıya Ekle"
+
+#: src/ContextMenu.cpp:76
+msgid "&Lock Widget"
+msgstr "& Widget'ı Kilitle"
+
+#: src/ContextMenu.cpp:77
+msgid "&Transparent Widget"
+msgstr "& Şeffaf Widget"
+
+#: src/panel/EditBarDialog.cpp:120
+msgid "Bar Settings"
+msgstr "Çubuk Ayarları"
+
+#: src/panel/EditBarDialog.cpp:123
+msgid "Name"
+msgstr "Ad"
+
+#: src/panel/EditBarDialog.cpp:128
+msgid "Click to choose a data"
+msgstr "Veri seçmek için tıklayın"
+
+#: src/panel/EditBarDialog.cpp:136
+msgid "OK"
+msgstr "TAMAM"
+
+#: src/panel/EditBarDialog.cpp:138
+msgid "Cancel"
+msgstr "İptal et"
+
+#: include/defs.h:9
+msgid "HP-Bar"
+msgstr "HP-Bar"
+
+#: include/defs.h:10
+msgid "HP-Bar Widget for SAO Utils"
+msgstr ""
+"SAO Araçları için HP-Bar Widget'ı\n"
+" "
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua"
+msgstr "Joshua'nın SAO Utils Projesi"

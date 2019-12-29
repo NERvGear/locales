@@ -25,3 +25,6 @@
 ### Spanish
 - [MoonAntonio](https://github.com/MoonAntonio)
 
+### Turkish
+- [Lawliet](mailto:ak1n.mnc@gmail.com)
+

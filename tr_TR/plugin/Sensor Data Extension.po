@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensor Data Extension for SAO Utils\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-01 22:13+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Studio GPBeta <studiocghibli@gmail.com>\n"
+"Last-Translator: Lawliet <ak1n.mnc@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Steam 1/plugin/Sensor Data "
+"Extension\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: src/CoreTempDataSource_info.cpp:59
+msgid "Processor Information"
+msgstr "İşlemci Bilgileri"
+
+#: src/CoreTempDataSource_info.cpp:64
+msgid "Processor Information Data"
+msgstr "İşlemci Bilgi Verileri"
+
+#: src/CoreTempDataSource_info.cpp:172
+msgid "Model"
+msgstr "Model"
+
+#: src/CoreTempDataSource_info.cpp:173
+msgid "CPU Speed"
+msgstr "İşlemci hızı"
+
+#: src/CoreTempDataSource_info.cpp:174
+msgid "Bus Speed"
+msgstr "Veri yolu hızı"
+
+#: src/CoreTempDataSource_info.cpp:175
+msgid "Multiplier"
+msgstr "Çarpan"
+
+#: src/CoreTempDataSource_info.cpp:176
+msgid "VID"
+msgstr "VID"
+
+#: src/CoreTempDataSource_load.cpp:53
+msgid "CPU Load"
+msgstr "CPU Yükü"
+
+#: src/CoreTempDataSource_load.cpp:58
+msgid "CPU Load Data"
+msgstr "CPU Yük Verileri"
+
+#: src/CoreTempDataSource_mtpr.cpp:53
+msgid "CPU Multiplier"
+msgstr "CPU Çarpanı"
+
+#: src/CoreTempDataSource_mtpr.cpp:58
+msgid "CPU Multiplier Data"
+msgstr "CPU Çarpanı Verileri"
+
+#: src/CoreTempDataSource_power.cpp:53
+msgid "CPU Power"
+msgstr "CPU Gücü"
+
+#: src/CoreTempDataSource_power.cpp:58
+msgid "CPU Power Consumption Data"
+msgstr "CPU Güç Tüketimi Verileri"
+
+#: src/CoreTempDataSource_temp.cpp:53
+msgid "CPU Temperature"
+msgstr "CPU Sıcaklığı"
+
+#: src/CoreTempDataSource_temp.cpp:58
+msgid "CPU Temperature Data"
+msgstr "CPU Sıcaklık Verileri"
+
+#: src/GPUZDataSource_info.cpp:53
+msgid "GPU Information Data"
+msgstr "GPU Information Data"
+
+#: src/GPUZDataSource_info.cpp:58
+msgid "Graphic Card Information Data"
+msgstr "Grafik Kartı Bilgi Verileri"
+
+#: src/GPUZDataSource_sens.cpp:54
+msgid "GPU Sensor Data"
+msgstr "GPU Sensör Verileri"
+
+#: src/GPUZDataSource_sens.cpp:59
+msgid "Graphic Card Sensor Data"
+msgstr "Grafik Kartı Sensör Verileri"
+
+#: src/GPUZDataSource_sens.cpp:162
+msgid ""
+"The update parameter takes '[{min}, {max}]' string to define minimum and "
+"maximum values.\n"
+"Example: [0.0, 100.0]"
+msgstr ""
+"Güncelleme parametresi, minimum ve maksimum değerleri tanımlamak için "
+"'[{min}, {max}]' dizesini alır.\n"
+"Örnek: [0.0, 100.0]"
+
+#: src/HWiNFODataSource_data.cpp:80 src/HWiNFODataSource_data.cpp:89
+#: src/SpeedFanDataSource_temp.cpp:53 src/SpeedFanDataSource_temp.cpp:58
+msgid "Temperature Data"
+msgstr "Sıcaklık Verileri"
+
+#: src/HWiNFODataSource_data.cpp:81 src/HWiNFODataSource_data.cpp:90
+#: src/SpeedFanDataSource_volt.cpp:58 src/SpeedFanDataSource_volt.cpp:63
+msgid "Voltage Data"
+msgstr "Gerilim Verileri"
+
+#: src/HWiNFODataSource_data.cpp:82 src/HWiNFODataSource_data.cpp:91
+#: src/SpeedFanDataSource_fan.cpp:53 src/SpeedFanDataSource_fan.cpp:58
+msgid "Fan Speed Data"
+msgstr "Fan Hızı Verileri"
+
+#: src/HWiNFODataSource_data.cpp:83 src/HWiNFODataSource_data.cpp:92
+msgid "Ammeter Data"
+msgstr "Ampermetre Verileri"
+
+#: src/HWiNFODataSource_data.cpp:84 src/HWiNFODataSource_data.cpp:93
+msgid "Power Consumption Data"
+msgstr "Güç Tüketimi Verileri"
+
+#: src/HWiNFODataSource_data.cpp:85 src/HWiNFODataSource_data.cpp:94
+msgid "Clock Frequency Data"
+msgstr "Saat Frekansı Verileri"
+
+#: src/HWiNFODataSource_data.cpp:86 src/HWiNFODataSource_data.cpp:95
+msgid "Usage Data"
+msgstr "Kullanım verisi"
+
+#: src/HWiNFODataSource_data.cpp:87 src/HWiNFODataSource_data.cpp:96
+msgid "Miscellaneous Data"
+msgstr "Çeşitli Veriler"
+
+#: src/XmlDataSourceT_data.cpp:103 src/XmlDataSourceT_data.cpp:119
+msgid "System Data"
+msgstr "Sistem verisi"
+
+#: include/defs.h:9
+msgid "Sensor Data Extension"
+msgstr "Sensör Veri Uzantısı"
+
+#: include/defs.h:10
+msgid "Sensor Data Extension for SAO Utils"
+msgstr "Sensör Verileri SAO Utils için Sensör Veri Uzantısı"
+
+#: include/defs.h:11
+msgid "The SAO Utils Project by Joshua."
+msgstr "Joshua'nın SAO Utils Projesi."
+
+#: include/strs.h:9
+#, c-format
+msgid "%s Data Proxy"
+msgstr "%s Veri Proxy'si"
+
+#: include/strs.h:14
+#, c-format
+msgid ""
+"Data available when %s is running and the 'Shared Memory' function is "
+"enabled."
+msgstr ""
+"%s çalışırken ve 'Paylaşılan Bellek' işlevi etkinleştirildiğinde mevcut "
+"veriler."
