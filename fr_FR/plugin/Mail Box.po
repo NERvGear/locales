@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Box for SAO Utils V0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/Mail Box\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid ""
+"%s\n"
+"%d Unread Messages"
+msgstr ""
+"%s\n"
+"%d Messages non lus"
+
+msgid "* Try about SSL if you can't log in the POP3 server."
+msgstr ""
+"* Essayez donc SSL si vous n'arrivez pas à vous connecter au server avec "
+"POP3."
+
+msgid "- Hide original message."
+msgstr "- Cacher le message original."
+
+msgid "- Sent from SAO Utils Mail Box"
+msgstr "- Envoyé depuis la boîte mail SAO Utils"
+
+msgid "- Show original message."
+msgstr "- Montrer le message original."
+
+msgid "<Click 'Open HTML' to read HTML content>"
+msgstr "<Cliquez sur 'Ouvrir HTML' pour lire le contenu HTML>"
+
+msgid "<N/A>"
+msgstr "<N/A>"
+
+msgid "<Not implemented yet!>"
+msgstr "<Pas encore implémenté>"
+
+msgid "<Untitled>"
+msgstr "<Sans titre>"
+
+msgid "Add Friend"
+msgstr "Ajouter un contact"
+
+msgid "Attachment"
+msgstr "Joindre un fichier"
+
+msgid "Cannot connect to server: %s:%d."
+msgstr "Impossible de se connecter au serveur: %s:%d."
+
+msgid "Cannot download message."
+msgstr "Impossible de télécharger le message."
+
+msgid "Cannot find specified message."
+msgstr "Impossible de trouver le message spécifié."
+
+msgid "Cannot login to %s server, %s."
+msgstr "Impossible de se connecter au %s serveur,%s."
+
+msgid "Cannot retrieve message list."
+msgstr "Impossible de récupérer la liste des messages."
+
+msgid "Check for new messages every"
+msgstr "Checker pour tout les nouveaux messages"
+
+msgid "Click to test account setting"
+msgstr "Cliquer pour tester la configuration du compte"
+
+msgid "Compose Message"
+msgstr "Ecrire un message"
+
+msgid "Connecting to server......"
+msgstr "Connection au serveur en cours......"
+
+msgid "Discard"
+msgstr "Abandonner"
+
+msgid "Discard editing message ?"
+msgstr "Abandonner l'édition de votre message?"
+
+msgid "Discard message"
+msgstr "Abandonner le message"
+
+msgid "Display Name (in Online User list):"
+msgstr "Nom d'affichage (dans la liste des utilisateurs en ligne) :"
+
+msgid "Display Name:"
+msgstr "Nom d'affichage:"
+
+msgid "Do not contain chat history in reply messages"
+msgstr "Ne pas retenir l'historique du chat dans les messages de réponse"
+
+msgid "Edit Friend"
+msgstr "Modifier un contact"
+
+msgid "Email Account Settings"
+msgstr "Paramètres de l'adresse e-mail"
+
+msgid "Email Address:"
+msgstr "Adresse e-mail:"
+
+msgid "Failed to fetch message list."
+msgstr "Impossible d'obtenir la liste des messages."
+
+msgid "Failed to receive message."
+msgstr "Le message n'a pas été reçu."
+
+msgid "Failed to send message."
+msgstr "Le message n'a pas été envoyé."
+
+msgid "Failed to test %s server."
+msgstr "Echec du test du serveur %s."
+
+msgid "From"
+msgstr "De"
+
+msgid "Ignore  All"
+msgstr "Tout ignorer"
+
+msgid "Inbox"
+msgstr "Boîte de réception"
+
+msgid "Loading online users, please wait..."
+msgstr "Chargement des utilisateurs en lignes, patientez s'il vous plaît..."
+
+msgid "Locale:"
+msgstr "Locale:"
+
+msgid "Mail Box"
+msgstr "Boite mail"
+
+msgid "Mail Box for SAO Utils"
+msgstr "Boîte mail pour SAO Utils"
+
+msgid "Mark  Read"
+msgstr "Marquer comme lu"
+
+msgid "Message rejected by server."
+msgstr "Message rejeté par le serveur."
+
+msgid "Message sent."
+msgstr "Message envoyé."
+
+msgid "My Friends"
+msgstr "Mes contacts"
+
+msgid "New Friend"
+msgstr "Nouveau contact"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No records currently, please come back later!"
+msgstr "Aucun enregistrement actuellement, veuillez revenir plus tard!"
+
+msgid "No records match your search."
+msgstr "Aucun enregistrement ne correspond à votre recherche."
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Online User"
+msgstr "Utilisateur en ligne"
+
+msgid "Online Users"
+msgstr "Utilisateurs en lignes"
+
+msgid "Open  HTML"
+msgstr "Ouvrir en HTML"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Original Message"
+msgstr "Message original"
+
+msgid "POP3 Server:"
+msgstr "Serveur POP3:"
+
+msgid "Password:"
+msgstr "Mot-de-passe:"
+
+msgid "Please input POP3 server!"
+msgstr "Veuillez entrer le serveur POP3 !"
+
+msgid "Please input SMTP server!"
+msgstr "Veuillez entrer le serveur SMTP !"
+
+msgid "Please input email address!"
+msgstr "Veuillez entrer votre adresse email!"
+
+msgid "Please input password!"
+msgstr "Veuillez entrer votre mot-de-passe !"
+
+msgid "Please input recipient."
+msgstr "Veuillez indiquer le destinataire."
+
+msgid "Please input user name!"
+msgstr "Veuillez entrer votre nom d'utilisateur!"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Previous"
+msgstr "Précedent"
+
+msgid "Read  Later"
+msgstr "Lire plus tard"
+
+msgid "Remove Friend"
+msgstr "Supprimer un contact"
+
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "SMTP Server:"
+msgstr "Serveur SMTP:"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Search user name or email address"
+msgstr "Recherche d'un nom d'utilisateur ou d'une adresse email"
+
+msgid "Secure"
+msgstr "Securiser"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Send Mail"
+msgstr "Envoyer un mail"
+
+msgid "Send message"
+msgstr "Envoyer un message"
+
+msgid "Sending message......"
+msgstr "Envoi du message......"
+
+msgid "Server Address"
+msgstr "L'adresse du serveur"
+
+msgid "Signature text:"
+msgstr "Signature:"
+
+msgid "Subject"
+msgstr "Sujet"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "Test Passed!"
+msgstr "Test passé!"
+
+msgid "The SAO Utils Project by Joshua"
+msgstr "Le projet SAO Utils par Joshua"
+
+msgid "To"
+msgstr "A"
+
+msgid "User List"
+msgstr "Liste d'utilisateur"
+
+msgid "Username:"
+msgstr "Nom d'utilisateur:"
+
+msgid "invalid user name or password"
+msgstr "nom d'utilisateur ou mot de passe incorrect"
+
+msgid "minutes"
+msgstr "minutes"

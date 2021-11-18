@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GGO Widget for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/GGO Widget\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "&Align To"
+msgstr "&Aligner sur"
+
+msgid "&Edit Item..."
+msgstr "&Editer un élément..."
+
+msgid "&Lock Widget"
+msgstr "&Bloquer le Widget"
+
+msgid "&New Item..."
+msgstr "&Créer un nouvel élément..."
+
+msgid "&Remove Item"
+msgstr "&Supprimer un élément"
+
+msgid "&Transparent all Widgets"
+msgstr "&Transparence de tous les Widgets"
+
+msgid "..."
+msgstr "..."
+
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "Les fichiers supportés|*.PNG;*.JPG;*.BMP;*.ICO"
+
+msgid "Always on &Top"
+msgstr "Toujours en-haut"
+
+msgid "Are you sure to drop this widget ?"
+msgstr "Êtes vous sûr de vouloir enlever ce widget ?"
+
+msgid "Bar Chart"
+msgstr "Graphique en barres"
+
+msgid "Bottom Left"
+msgstr "En-bas à droite"
+
+msgid "Bottom Right"
+msgstr "En-bas à gauche"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Click to choose a data"
+msgstr "Cliquez pour choisir une donnée"
+
+msgid "Click to choose an image"
+msgstr "Cliquez pour choisir une image"
+
+msgid "Customize..."
+msgstr "Customiser..."
+
+msgid "Empty Space"
+msgstr "Espace vide"
+
+msgid "GGO Widget"
+msgstr "GGO Widget"
+
+msgid "Gun Gale Online Status Widget for SAO Utils"
+msgstr "Gun Gale Online Status Widget pour SAO Utils"
+
+msgid "Histogram"
+msgstr "Histogramme"
+
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "Icons (*.ICO)|*.ICO"
+
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "Images (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+msgid "Item Settings"
+msgstr "Paramètres des éléments"
+
+msgid "Left Shift"
+msgstr "Shift gauche"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New Row..."
+msgstr "Nouvelle rangée..."
+
+msgid "New Widget"
+msgstr "Nouveau Widget"
+
+msgid "Numeric or Text"
+msgstr "Numérique ou texte"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Please input item size (%d-%d):"
+msgstr "Veuillez indiquer la taille de l'article (%d-%d) :"
+
+msgid "Preset A (Large)"
+msgstr "Preset A (Grande)"
+
+msgid "Preset B (Large)"
+msgstr "Preset B (Grande)"
+
+msgid "Preset C (Medium)"
+msgstr "Preset C (Moyen)"
+
+msgid "Preset D (Medium)"
+msgstr "Preset D (Moyen)"
+
+msgid "Preset E (Small)"
+msgstr "Preset E (Petit)"
+
+msgid "Preset F (Small)"
+msgstr "Preset F (Petit)"
+
+msgid "Remove Row"
+msgstr "Supprimer une rangée"
+
+msgid "Remove Widget"
+msgstr "Supprimer un Widget"
+
+msgid "Reorder"
+msgstr "Réorganisé"
+
+msgid "Resize"
+msgstr "Redimensionner"
+
+msgid "Resize Item"
+msgstr "Redimensionner un élément"
+
+msgid "Right Shift"
+msgstr "Shift droite"
+
+msgid "Row Down"
+msgstr "Rangée du bas"
+
+msgid "Row Up"
+msgstr "Rangée du haut"
+
+msgid "Static Image"
+msgstr "Image statique"
+
+msgid "The SAO Utils Project by Joshua"
+msgstr "Le projet SAO Utils par Joshua"
+
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+msgid "Top Right"
+msgstr "En haut à droite"
+
+msgid "Type Options"
+msgstr "Options de type"

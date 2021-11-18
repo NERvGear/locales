@@ -31,3 +31,5 @@
 ### Korean
 - [그미래 (rainkr01)](https://cafe.naver.com/hansicgu)
 
+### French
+- [Dinspel Ludwig](https://github.com/LeDeutsch)

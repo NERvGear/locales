@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Music Player Support\n"
+"PO-Revision-Date: 2021-11-18 15:11+0100\n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _TRANSLATE\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "Album"
+msgstr "Album"
+
+msgid "All CD-Art-Display compatible players supported."
+msgstr "Tous les lecteurs compatibles CD-Art-Display sont pris en charge."
+
+msgid "Artist"
+msgstr "Artiste"
+
+msgid "CAD Compatible Players"
+msgstr "Lecteurs compatibles avec la CAD"
+
+msgid "CAD/NetEase/QQ Music/Kugou Player supported"
+msgstr "CAD/NetEase/QQ Music/Kugou Player pris en charge"
+
+msgid "Cover Path"
+msgstr "Couverture"
+
+msgid "Cover URL"
+msgstr "URL de la page de garde"
+
+msgid "Cover URL path."
+msgstr "Couvrir le chemin URL."
+
+msgid "Cover file path."
+msgstr "Couvrir le chemin du fichier."
+
+msgid "Custom"
+msgstr "Personnaliser"
+
+msgid "If your player is not supported, try to use this one."
+msgstr "Si votre lecteur n'est pas pris en charge, essayez d'utiliser celui-ci."
+
+msgid "Kugou Music"
+msgstr "Kugou Musique"
+
+msgid "Kugou Music supported."
+msgstr "Kugou Musique supporté."
+
+msgid "Music Info"
+msgstr "Info Musique"
+
+msgid "Music Player Data & Control Plug-in for SAO Utils"
+msgstr "Plug-in de données et de contrôle du lecteur de musique pour SAO Utils"
+
+msgid "Music Player Data Collection"
+msgstr "Collecte de données sur les lecteurs de musique"
+
+msgid ""
+"Music Player Data Source Component\n"
+"Developed by RangerCD\n"
+"Translated by RangerCD"
+msgstr ""
+"Composant de la source de données du lecteur de musique\n"
+"Développé par RangerCD\n"
+"Traduit en Français par Dinspel Ludwig Junior"
+
+msgid "Music Player Support"
+msgstr "Support des lecteurs de musique"
+
+msgid "NetEase Cloud Music"
+msgstr "NetEase Cloud Musique"
+
+msgid "NetEase Cloud Music supported."
+msgstr "NetEase Cloud Musique supporté."
+
+msgid "Playback Progress"
+msgstr "Progression de la lecture"
+
+msgid "Playback Progress (Formatted)"
+msgstr "Progression de la lecture (formaté)"
+
+msgid "QQ Music"
+msgstr "QQ Musique"
+
+msgid "QQ Music supported."
+msgstr "QQ Musique supporté."
+
+msgid "TT Player"
+msgstr "TT Player"
+
+msgid "TT Player supported."
+msgstr "TT Player supporté."
+
+msgid "The album of current track."
+msgstr "L'album du titre actuel."
+
+msgid "The artist of current track."
+msgstr "L'artiste de la piste actuelle."
+
+msgid "The information of current track."
+msgstr "Les informations de la piste actuelle."
+
+msgid "The playback progress of CAD player, which is formatted in \"hh:mm:ss\"."
+msgstr "La progression de la lecture du lecteur CAD, qui est formaté en \"hh:mm:ss\"."
+
+msgid "The playback progress of CAD player."
+msgstr "La progression de la lecture du lecteur CAD."
+
+msgid "The title of current track."
+msgstr "Le titre de la piste actuelle."
+
+msgid "The volume of CAD player."
+msgstr "Le volume du lecteur CAD."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Universal Players"
+msgstr "Lecteurs universelles"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Xiami Music"
+msgstr "Xiami Musique"
+
+msgid "Xiami Music supported."
+msgstr "Xiami Musique supporté."
+
+msgid "Your custom string."
+msgstr "Votre phrase personnalisée."

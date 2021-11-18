@@ -1,0 +1,1271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SAO Utils Beta1 V0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "&Default Settings"
+msgstr "&Paramètres par défaut"
+
+msgid "&Disable Hotkeys"
+msgstr "&Désactiver les touches de raccourcis"
+
+msgid "&Exclusions..."
+msgstr "&Limitations..."
+
+msgid "&Exit"
+msgstr "&Sortir"
+
+msgid "&Export Presets..."
+msgstr "&Exporter les préréglages..."
+
+msgid "&Import Presets..."
+msgstr "&Importer les préréglages..."
+
+msgid "&Lock Launcher"
+msgstr "&Verrouiller le lanceur"
+
+msgid "&Preference"
+msgstr "&Préférences"
+
+msgid "&Switch Theme"
+msgstr "&Changer de thème"
+
+msgid "&Workshop"
+msgstr "&Workshop"
+
+msgid "* Leave 'Press' icon blank to use same icon as Hover state."
+msgstr ""
+"* Laissez l'icône 'Press' vide pour utiliser la même icône que celle du "
+"Hover state."
+
+msgid "+ Key"
+msgstr "+ Touches"
+
+msgid "+ Slide Down"
+msgstr "+ Glisser vers le bas"
+
+msgid "-"
+msgstr "-"
+
+msgid "- Disable editing launcher items."
+msgstr "- Désactiver l'édition des éléments du lanceur."
+
+msgid "- Enable Steam \"In-Game\" status and level."
+msgstr "- Activer le statut et le niveau \"In-Game\" sur Steam."
+
+msgid "- Manage mouse gesture exclusions."
+msgstr "- Gérer les exclusions des gestes de souris."
+
+msgid "- Play 3D startup animation."
+msgstr "- Utiliser une animation de démarrage en 3D."
+
+msgid "- Provide better user experience for tablet devices."
+msgstr "- Fournir une meilleure expérience utilisateur pour les tablettes."
+
+msgid "- Read plug-in guideline."
+msgstr "- Lire le guide des modules d'extension."
+
+msgid ""
+"- Recommended for any stereo mode,\n"
+"also fixes some performance or 3D graphic problems."
+msgstr ""
+"- Recommandé pour tout mode stéréo,\n"
+"corrige également certains problèmes de performance ou de graphisme 3D."
+
+msgid "- Recommended option with transparent background support."
+msgstr "- Option recommandée avec un support de fond transparent."
+
+msgid "- Remove this plug-in. (Program restart required)"
+msgstr "- Supprimez ce plug-in. (Redémarrage du programme requis)"
+
+msgid "- Reset this plug-in's settings."
+msgstr "- Réinitialisez les paramètres de ce plug-in."
+
+msgid "- Show splash screen on start-up."
+msgstr "- Afficher l'écran d'accueil au démarrage."
+
+msgid "..."
+msgstr "..."
+
+msgid "0"
+msgstr "0"
+
+msgid "1"
+msgstr "1"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "2"
+msgstr "2"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "2D"
+msgstr "2D"
+
+msgid "3"
+msgstr "3"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "3D FX"
+msgstr "3D FX"
+
+msgid "4"
+msgstr "4"
+
+msgid "5"
+msgstr "5"
+
+msgid "6"
+msgstr "6"
+
+msgid "7"
+msgstr "7"
+
+msgid "8"
+msgstr "8"
+
+msgid "9"
+msgstr "9"
+
+msgid "<Default>"
+msgstr "<Défaut>"
+
+msgid "<Loading Data...>"
+msgstr "<Chargement des données...>"
+
+msgid "<N/A>"
+msgstr "<N/A>"
+
+msgid "<No Themes Available>"
+msgstr "<Aucun thème disponible>"
+
+msgid "<Preview Not Available>"
+msgstr "<Prévision non disponible>"
+
+msgid "<Unknown Data Source>"
+msgstr "<Source de données inconnue>"
+
+msgid "<Unknown Data>"
+msgstr "<Données inconnues>"
+
+msgid "<Unknown Value>"
+msgstr "<Valeurs inconnues>"
+
+msgid "="
+msgstr "="
+
+msgid "?"
+msgstr "?"
+
+msgid "A"
+msgstr "A"
+
+msgid ""
+"A 'Real Folder' sub-menu enables you to manage the files inside a folder."
+msgstr ""
+"Un sous-menu \"Vrai fichier\" vous permet de gérer les fichiers à "
+"l'intérieur d'un dossier."
+
+msgid "A 'Virtual Folder' sub-menu enables you to organize custom menu items."
+msgstr ""
+"Un sous-menu \"Dossier virtuel\" vous permet d'organiser des éléments de "
+"menu personnalisés."
+
+msgid "A Sword Art Online Look'n'Feel launcher with powerful utilities."
+msgstr ""
+"Un lanceur Look'n'Feel de Sword Art Online avec de puissants utilitaires."
+
+msgid "AC Line Status"
+msgstr "État de la ligne AC"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "About SAO Utils"
+msgstr "A propos de SAO Utils"
+
+msgid "Account Name"
+msgstr "Nom du compte"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Action Command"
+msgstr "Commandes d'actions"
+
+msgid "All files (*.*)|*.*"
+msgstr "Tout les fichiers (*.*)|*.*"
+
+msgid "All supported files|*.PNG;*.JPG;*.BMP;*.ICO"
+msgstr "Tout les fichiers compatibles|*.PNG;*.JPG;*.BMP;*.ICO"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always on &Top"
+msgstr "Toujours en haut"
+
+msgid ""
+"An instance of SAO Utils is already running in the background,\n"
+"please retry after it has stopped completely."
+msgstr ""
+"Une instance de SAO Utils est déjà en cours d'exécution en arrière-plan,\n"
+"veuillez réessayer après l'arrêt complet."
+
+msgid "Anaglyph Stereo"
+msgstr "Anaglyphe Stéréo"
+
+msgid "Analog TV"
+msgstr "Analogue TV"
+
+msgid "Anisotropic"
+msgstr "Anisotropic"
+
+msgid "Anti-aliasing"
+msgstr "Anti-crénelage"
+
+msgid "Appearance"
+msgstr "Apparence"
+
+msgid "Appearance Settings"
+msgstr "Apparence des configurations"
+
+msgid "Are you sure to drop the old menu ?"
+msgstr "Etes-vous sûr d'enlever l'ancien menu ?"
+
+msgid "Are you sure to exit ?"
+msgstr "Êtes-vous sûr de vouloir quitter ?"
+
+msgid "Are you sure to reset all the settings?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser tous les paramètres ?"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Auto"
+msgstr "Automatique"
+
+msgid "Available Memory Count"
+msgstr "Nombre de mémoires disponibles"
+
+msgid "B"
+msgstr "B"
+
+msgid "Background Density"
+msgstr "Densité de fond"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Battery Status"
+msgstr "État de la batterie"
+
+msgid "Bilinear"
+msgstr "Bilinéaire"
+
+msgid "Bottom Centre"
+msgstr "En bas au centre"
+
+msgid "Bottom Left"
+msgstr "En bas a gauche"
+
+msgid "Bottom Right"
+msgstr "En bas a droite"
+
+msgid "Breathing Camera Effect"
+msgstr "Effet de caméra respiratoire"
+
+msgid "Browse"
+msgstr "Naviguer sur"
+
+msgid "C"
+msgstr "C"
+
+msgid "CPU Performance Count"
+msgstr "Comptage des performances du CPU"
+
+msgid "CPU Usage"
+msgstr "Utilisation du CPU"
+
+msgid "Camera Following Mouse"
+msgstr "Appareil photo suivant la souris"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Central"
+msgstr "Centrale"
+
+msgid "Centre"
+msgstr "Centre"
+
+msgid "Centre Left"
+msgstr "Au centre a gauche"
+
+msgid "Centre Right"
+msgstr "Au centre a droite"
+
+msgid "Choose a value..."
+msgstr "Choisissez une valeur ..."
+
+msgid "Click to choose a folder"
+msgstr "Cliquez pour choisir un dossier"
+
+msgid "Command"
+msgstr "Commandes"
+
+msgid "Comment:"
+msgstr "Commentaire :"
+
+msgid "Computer Name"
+msgstr "Nom de l'ordinateur"
+
+msgid "Config"
+msgstr "Configuration"
+
+msgid "Confirm before action"
+msgstr "Confirmer avant d'agir"
+
+msgid "Copy to Clipboard"
+msgstr "Copie dans le presse-papiers"
+
+msgid "Core Data"
+msgstr "Données de base"
+
+msgid "Create File"
+msgstr "Créer un fichier"
+
+msgid "Cross Screen"
+msgstr "Écran partagé"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cur. Value"
+msgstr "Actuelle Valeur"
+
+msgid "Current Date"
+msgstr "Date actuelle"
+
+msgid "Current Time"
+msgstr "Heure actuelle"
+
+msgid "Custom Text"
+msgstr "Texte personnalisé"
+
+msgid "Custom..."
+msgstr "Personnaliser..."
+
+msgid "D"
+msgstr "D"
+
+msgid "DPI Scaling"
+msgstr "Mise à l'échelle du DPI"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Description:"
+msgstr "Déscription:"
+
+msgid "Details..."
+msgstr "Détails..."
+
+msgid "Developer:"
+msgstr "Développeur :"
+
+msgid "Device Uptime"
+msgstr "Temps de fonctionnement des appareils"
+
+msgid "Direct3D 9"
+msgstr "Direct3D 9"
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "Disable if following processes are running:"
+msgstr "Désactiver si les processus suivants sont en cours :"
+
+msgid "Disable mouse gesture in fullscreen mode"
+msgstr "Désactiver le geste de la souris en mode plein écran"
+
+msgid "Display Mode"
+msgstr "Mode d'affichage"
+
+msgid "Display as"
+msgstr "Afficher comme"
+
+msgid "Driver Cluster"
+msgstr "Groupe de conducteurs"
+
+msgid "Driver Space"
+msgstr "Espace conducteur"
+
+msgid "E"
+msgstr "E"
+
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Enable"
+msgstr "Activer"
+
+msgid "Enable Hotkey"
+msgstr "Activer la touche de raccourci"
+
+msgid "Enable Mouse Gesture"
+msgstr "Permettre le geste de la souris"
+
+msgid "Enable Plug-ins"
+msgstr "Activer les plug-ins"
+
+msgid "Enable Sounds"
+msgstr "Activer les sons"
+
+msgid "Enable Steam Features"
+msgstr "Activer les fonctionnalités de Steam"
+
+msgid "Enable Touch Gesture"
+msgstr "Permettre le geste tactile"
+
+msgid "Events"
+msgstr "Événements"
+
+msgid "Execute an existed program."
+msgstr "Exécuter un programme existant."
+
+msgid "Execute item [ %s ] ?"
+msgstr "Exécuter l'élément[ %s ] ?"
+
+msgid "Extension"
+msgstr "Extension"
+
+msgid "F"
+msgstr "F"
+
+msgid "FSAA"
+msgstr "FSAA"
+
+msgid "Failed to install plug-in."
+msgstr "Le plug-in n'a pas été installé."
+
+msgid "Far"
+msgstr "Loin"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "Fixed:"
+msgstr "Fix:"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "Follow Cursor"
+msgstr "Suivre le curseur"
+
+msgid "Free Disk Space Count"
+msgstr "Comptage de l'espace disque libre"
+
+msgid "Full Size (Black Bars)"
+msgstr "Pleine grandeur (barres noires)"
+
+msgid "Full Size (Squeezed)"
+msgstr "Pleine grandeur (serré)"
+
+msgid "G"
+msgstr "G"
+
+msgid "General"
+msgstr "Général"
+
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+msgid "Gesture Exclusions"
+msgstr "Exclusion des gestes"
+
+msgid "Get Updates"
+msgstr "Obtenir des mises à jour"
+
+msgid "Graphics"
+msgstr "Graphiques"
+
+msgid "Graphics Settings"
+msgstr "Paramètres graphiques"
+
+msgid "H"
+msgstr "H"
+
+msgid "Half Size (Cropped)"
+msgstr "Demi-grandeur (Cropped)"
+
+msgid "Hard Disk Usage"
+msgstr "Utilisation du disque dur"
+
+msgid "High"
+msgstr "Elevé"
+
+msgid "High Performance"
+msgstr "Haute performance"
+
+msgid "High Quality"
+msgstr "Haute qualité"
+
+msgid "Hotkeys"
+msgstr "Les touches de raccourcis"
+
+msgid "Hours"
+msgstr "Heures"
+
+msgid "Hover:"
+msgstr "Par dessus:"
+
+msgid "I"
+msgstr "I"
+
+msgid "Icon"
+msgstr "Icônes"
+
+msgid "Icon Picker"
+msgstr "Sélecteur d'icônes"
+
+msgid "Icon Setting"
+msgstr "Configuration d'icône"
+
+msgid "Icon Settings"
+msgstr "Paramètres des icônes"
+
+msgid "Icon Shop"
+msgstr "Boutique d'icône"
+
+msgid "Icon files (*.ICO)|*.ICO"
+msgstr "Icons (*.ICO)|*.ICO"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Image Shop"
+msgstr "Boutique d'image"
+
+msgid "Image files (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+msgstr "Images (*.PNG;*.JPG;*.BMP)|*.PNG;*.JPG;*.BMP"
+
+msgid "Info Panel"
+msgstr "Panneau d'information"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Install Plug-in"
+msgstr "Installer un Plug-in"
+
+msgid "Install..."
+msgstr "Installer..."
+
+msgid "Installed Memory"
+msgstr "Mémoire installée"
+
+msgid "Interaxial Separation"
+msgstr "Séparation des interaxes"
+
+msgid "Inv. Value"
+msgstr "Valeur d'inv"
+
+msgid "Invoke Parameter"
+msgstr "Appeler le paramètre"
+
+msgid "Item Select"
+msgstr "Sélection de l'élément"
+
+msgid "J"
+msgstr "J"
+
+msgid "Joshua (GPBeta)"
+msgstr "Joshua (GPBeta)"
+
+msgid "K"
+msgstr "K"
+
+msgid "Keep launcher after action"
+msgstr "Garder le lanceur après l'action"
+
+msgid "L"
+msgstr "L"
+
+msgid "LMB"
+msgstr "LMB"
+
+msgid "LMB + RMB"
+msgstr "LMB + RMB"
+
+msgid "Launcher Hide"
+msgstr "Lanceur Cacher"
+
+msgid "Launcher Mode"
+msgstr "Mode de lancement"
+
+msgid "Launcher Position"
+msgstr "Position de lancement"
+
+msgid "Launcher Show"
+msgstr "Salon de lancement"
+
+msgid "Layered"
+msgstr "Couches"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Life Time"
+msgstr "Durée de vie"
+
+msgid "Light"
+msgstr "Lumière"
+
+msgid "Lock Launcher"
+msgstr "Verrouiller le lanceur"
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "M"
+msgstr "M"
+
+msgid "MISC."
+msgstr "MISC."
+
+msgid "MMB"
+msgstr "MMB"
+
+msgid "MSAA 16X"
+msgstr "MSAA 16X"
+
+msgid "MSAA 2X"
+msgstr "MSAA 2X"
+
+msgid "MSAA 4X"
+msgstr "MSAA 4X"
+
+msgid "MSAA 8X"
+msgstr "MSAA 8X"
+
+msgid "Magnification Ratio"
+msgstr "Rapport de grossissement"
+
+msgid "Max. Value"
+msgstr "Max. Valeur"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "Menu Popup"
+msgstr "Menu Popup"
+
+msgid "Message Hide"
+msgstr "Masquer le message"
+
+msgid "Message Notify"
+msgstr "Notification de message"
+
+msgid "Message Show"
+msgstr "Afficher le message"
+
+msgid "Milliseconds"
+msgstr "Millisecondes"
+
+msgid "Min. Value"
+msgstr "Min. Valeur"
+
+msgid "Minutes"
+msgstr "Minutes"
+
+msgid "Miscellaneous Data"
+msgstr "Informations diverses"
+
+msgid "Module Name:"
+msgstr "Nom du module :"
+
+msgid "Motion Blur"
+msgstr "Flou artistique"
+
+msgid "N"
+msgstr "N"
+
+msgid "NERvGear Data Collection"
+msgstr "Collecte de données du NERvGear"
+
+msgid ""
+"NERvGear was already stopped :(\n"
+"Debugging information has been saved as files in the program folder.\n"
+"For more information, please enable 'Verbose Mode' to generate a complete "
+"log file."
+msgstr ""
+"NERvGear a déjà été arrêté :(\n"
+"Les informations de débogage ont été enregistrées sous forme de fichiers "
+"dans le dossier du programme.\n"
+"Pour plus d'informations, veuillez activer le mode \"Verbose\" pour générer "
+"un fichier journal complet."
+
+msgid "NERvSDK Version:"
+msgstr "NERvSDK Version:"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Near"
+msgstr "Proche"
+
+msgid "Nearest Neighbor"
+msgstr "Voisin le plus proche"
+
+msgid "Nerve Gear Core Data"
+msgstr "Données de base du Nerve Gear"
+
+msgid "Nerve Gear Data Collection"
+msgstr "Collecte de données du Nerve Gear"
+
+msgid "Nerve Gear Package (*.NVG)|*.NVG"
+msgstr "Nerve Gear Package (*.NVG)|*.NVG"
+
+msgid "No"
+msgstr "Non"
+
+msgid "No Filtering"
+msgstr "Aucun filtrage"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Normal:"
+msgstr "Normal:"
+
+msgid "Notification Icon Position"
+msgstr "Position des icônes de notification"
+
+msgid "O"
+msgstr "O"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OS Description"
+msgstr "Description de l'OS"
+
+msgid "OS Directory"
+msgstr "Répertoire de l'OS"
+
+msgid "OS Name"
+msgstr "Nom de l'OS"
+
+msgid "OS Version"
+msgstr "La version de l'OS"
+
+msgid "Off"
+msgstr "Désactivé"
+
+msgid "Only detect processes running in foreground"
+msgstr "Ne détecter que les processus en cours au premier plan"
+
+msgid "Oops!"
+msgstr "Oups!"
+
+msgid "Open a file with associated program."
+msgstr "Ouvrez un fichier avec le programme associé."
+
+msgid "Open a folder in exlporer."
+msgstr "Ouvrez un dossier."
+
+msgid "Open a web, file or e-mail address. "
+msgstr "Ouvrez un site web, un fichier ou une adresse électronique. "
+
+msgid "Operator System Data"
+msgstr "Données du système d'exploitation"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Original Name:"
+msgstr "Nom original :"
+
+msgid "Other Exclusions"
+msgstr "Autres exclusions"
+
+msgid "Overall"
+msgstr "Globalement"
+
+msgid "P"
+msgstr "P"
+
+msgid "Page File"
+msgstr "Dossier de la page"
+
+msgid "Panel Popup"
+msgstr "Paneau Popup"
+
+msgid "Path:"
+msgstr "Chemin:"
+
+msgid "Physical Memory"
+msgstr "Mémoire physique"
+
+msgid "Playback"
+msgstr "Lecture"
+
+msgid "Please input a shell command"
+msgstr "Veuillez entrer une commande shell"
+
+msgid "Please input a url with http:/file:/mailto: prefix."
+msgstr "Veuillez saisir une url avec http:/file:/mailto: prefix."
+
+msgid "Please input file or folder name:"
+msgstr "Veuillez saisir le nom du fichier ou du dossier :"
+
+msgid "Plug-in Information"
+msgstr "Informations sur les plugins"
+
+msgid "Plug-in Settings"
+msgstr "Paramètres des plugins"
+
+msgid "Plug-in [%s] already installed, do you want to replace it ?"
+msgstr "Plug-in [%s] déjà installé, voulez-vous le remplacer ?"
+
+msgid "Plug-in installed successfully."
+msgstr "Extension Plug-in installé avec succès."
+
+msgid "Plug-in installed, please restart program to enable it."
+msgstr ""
+"Extension Plug-in installé, veuillez redémarrer le programme pour l'activer."
+
+msgid "Plug-ins"
+msgstr "Extensions Plug-ins"
+
+msgid "Power Data"
+msgstr "Données sur l'énergie"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "Preset files (*.PRESET)|*.PRESET"
+msgstr "Fichiers prédéfinis (*.PRESET)|*.PRESET"
+
+msgid "Presets..."
+msgstr "Les préréglages..."
+
+msgid "Press:"
+msgstr "Appuyer :"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Process Name"
+msgstr "Nom du processus"
+
+msgid "Processor"
+msgstr "Processeur"
+
+msgid "Program"
+msgstr "Programme"
+
+msgid "Program Name:"
+msgstr "Nom du programme :"
+
+msgid "Program Ready"
+msgstr "Le programme est prêt"
+
+msgid "Program Start"
+msgstr "Démarrage du programme"
+
+msgid "Program Uptime"
+msgstr "Temps de fonctionnement du programme"
+
+msgid "Programs (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+msgstr ""
+"Programmes (*.EXE;*.PIF;*.COM;*.BAT;*.CMD)|*.EXE;*.PIF;*.COM;*.BAT;*.CMD"
+
+msgid "Q"
+msgstr "Q"
+
+msgid "R"
+msgstr "R"
+
+msgid "RAM Usage"
+msgstr "Utilisation de la RAM"
+
+msgid "RMB"
+msgstr "RMB"
+
+msgid "Real Folder"
+msgstr "Véritable dossier"
+
+msgid "Remap Win-Key"
+msgstr "Remplacer la touche démarrer Windows"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid ""
+"Remove [ %s ] ?\n"
+"(Please disable responding plug-in manually)"
+msgstr ""
+"Supprimer [ %s ] ?\n"
+"(Veuillez désactiver manuellement le plug-in de réponse)"
+
+msgid "Rename File"
+msgstr "Renommer un fichier"
+
+msgid "Render Quality"
+msgstr "Qualité du rendu"
+
+msgid "Replace Plug-in"
+msgstr "Remplacer le plug-in"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Reset all settings"
+msgstr "Réinitialiser tous les paramètres"
+
+msgid "Revert changes"
+msgstr "Inverser les changements"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Run a command or program with parameters."
+msgstr "Exécutez une commande ou un programme avec des paramètres."
+
+msgid "S"
+msgstr "S"
+
+msgid "SAO Utils Starts Successfully."
+msgstr "SAO Utils à démarré avec succès."
+
+msgid ""
+"SAO Utils provides you a customizable 3D app launcher with varieties of "
+"themes, desktop widgets and powerful utilities.\n"
+"Its pluggable architecture allows you, the developer, to add any kinds of "
+"plug-ins to the core program.\n"
+"That's the reason why it was named as \"SAO Utils\" :)"
+msgstr ""
+"SAO Utils vous fournit un lanceur d'applications 3D personnalisable avec une "
+"variété de thèmes, de widgets de bureau et de puissants utilitaires.\n"
+"Son architecture vous permet, en tant que développeur, d'ajouter toutes "
+"sortes de plug-ins au programme de base.\n"
+"C'est la raison pour laquelle il a été nommé \"SAO Utils\" :)"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+msgid "Seconds"
+msgstr "Secondes"
+
+msgid "Select an icon"
+msgstr "Sélectionnez une icône"
+
+msgid "Select the hover icon"
+msgstr "Sélectionnez l'icône de survol"
+
+msgid "Select the press icon"
+msgstr "Sélectionnez l'icône de la presse"
+
+msgid "Sensitive"
+msgstr "Sensible"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Show File Extension"
+msgstr "Afficher l'extension du fichier"
+
+msgid "Show File Icon"
+msgstr "Afficher l'icône du fichier"
+
+msgid "Show Splash"
+msgstr "Voir le Splash"
+
+msgid "Show Tooltips"
+msgstr "Afficher les infobulles"
+
+msgid "Side by Side Stereo"
+msgstr "Stéréo côte-à-côte"
+
+msgid "Sound Files"
+msgstr "Fichiers sonores"
+
+msgid "Sound Settings"
+msgstr "Réglages sonores"
+
+msgid "Sounds"
+msgstr "Sons"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Start with Windows, delay for"
+msgstr "Démarrer avec Windows, retarder pour"
+
+msgid "Startup Animation"
+msgstr "Animation de démarrage"
+
+msgid "Static Image"
+msgstr "Image statique"
+
+msgid "Stereo"
+msgstr "Stéréo"
+
+msgid "Stereoscopic Mode"
+msgstr "Mode stéréoscopique"
+
+msgid "Strong"
+msgstr "Fort"
+
+msgid "Sub-Menu"
+msgstr "Sous-menu"
+
+msgid "System Alert"
+msgstr "Alerte système"
+
+msgid "System Data"
+msgstr "Données du système"
+
+msgid "System Forbid"
+msgstr "Interdiction du système"
+
+msgid "System Notify"
+msgstr "Système de notification"
+
+msgid "System Power Status"
+msgstr "État de la puissance du système"
+
+msgid "T"
+msgstr "T"
+
+msgid "Texture Filtering"
+msgstr "Filtrage de la texture"
+
+msgid "Texture Quality"
+msgstr "Qualité de la texture"
+
+msgid ""
+"The update parameter takes ANSI C strftime() format string to format date or "
+"time.\n"
+"Example: %Y-%m-%d\n"
+"Reference: http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+msgstr ""
+"Le paramètre de mise à jour prend la chaîne de format ANSI C strftime() pour "
+"formater la date ou l'heure.\n"
+"Exemple : %Y-%m-%d\n"
+"Référence : http://www.cplusplus.com/reference/clibrary/ctime/strftime.html"
+
+msgid ""
+"The update parameter takes UID of a plug-in to query module data, returning "
+"NERvGear module data as default.\n"
+"Example: 00000000-0000-0000-0000-000000000000"
+msgstr ""
+"The update parameter takes UID of a plug-in to query module data, returning "
+"NERvGear module data as default.\n"
+"Exemple: 00000000-0000-0000-0000-000000000000"
+
+msgid ""
+"The update parameter takes a custom text to return a string.\n"
+"Example: Welcome to Sword Art Online!"
+msgstr ""
+"Le paramètre de mise à jour prend un texte personnalisé pour retourner une "
+"chaîne de caractères.\n"
+"Exemple : Bienvenue sur Sword Art Online !"
+
+msgid ""
+"The update parameter takes a path to count free space of a disk drive, "
+"returning current disk drive data as default.\n"
+"Example: C:\\"
+msgstr ""
+"Le paramètre de mise à jour prend un chemin pour compter l'espace libre d'un "
+"lecteur de disque, en retournant les données actuelles du lecteur de disque "
+"par défaut.\n"
+"Exemple : C:\\"
+
+msgid "Thick"
+msgstr "Épais"
+
+msgid "Thin"
+msgstr "Mince"
+
+msgid "Top Centre"
+msgstr "En haut au centre"
+
+msgid "Top Left"
+msgstr "En haut a gauche"
+
+msgid "Top Right"
+msgstr "En haut a droite"
+
+msgid "Total Component Service"
+msgstr "Total du service des composants"
+
+msgid "Total Component Usage"
+msgstr "Utilisation totale des composants"
+
+msgid "Total Lock Service"
+msgstr "Service total d'écluses"
+
+msgid "Total Object Service"
+msgstr "Total du service objet"
+
+msgid "Total Object Usage"
+msgstr "Utilisation totale de l'objet"
+
+msgid "Total Private Object"
+msgstr "Total des objets privés"
+
+msgid "Touch Friendly"
+msgstr "Touch Friendly"
+
+msgid "Trilinear"
+msgstr "Trilinéaire"
+
+msgid "U"
+msgstr "U"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "UUID:"
+msgstr "UUID:"
+
+msgid "Update Parameter"
+msgstr "Mise à jour des paramètres"
+
+msgid "Update value every"
+msgstr "Mettre à jour la valeur chaque"
+
+msgid "Useful Utilities Data"
+msgstr "Données utiles sur les services publics"
+
+msgid "User Guide"
+msgstr "Guide de l'utilisateur"
+
+msgid "V"
+msgstr "V"
+
+msgid "Value Unit:"
+msgstr "Unité de valeur :"
+
+msgid "Verbose Mode"
+msgstr "Mode verbeux"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "Video Adapter"
+msgstr "Adaptateur vidéo"
+
+msgid "Virtual Folder"
+msgstr "Dossier virtuel"
+
+msgid "Virtual Memory"
+msgstr "Mémoire virtuelle"
+
+msgid "W"
+msgstr "W"
+
+msgid "Wave files (*.WAV)|*.WAV"
+msgstr "Fichiers Wave (*.WAV)|*.WAV"
+
+msgid "Website:"
+msgstr "Web:"
+
+msgid "Welcome to SAO Utils!"
+msgstr "Bienvenue sur SAO Utils !"
+
+msgid "Win"
+msgstr "Gagner"
+
+msgid "Would you like to take a tutorial?"
+msgstr "Souhaitez-vous suivre un tutoriel?"
+
+msgid "X"
+msgstr "X"
+
+msgid "XBUTTON1"
+msgstr "XBUTTON1"
+
+msgid "XBUTTON2"
+msgstr "XBUTTON2"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Z"
+msgstr "Z"
+
+msgid "Zero Parallax"
+msgstr "Zéro parallaxe"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "\\"
+msgstr "\\"
+
+msgid "`"
+msgstr "`"
+
+msgid "http://www.gpbeta.com"
+msgstr "http://www.gpbeta.com"
+
+msgid "http://www.gpbeta.com/post/develop/sao-utils/"
+msgstr "http://www.gpbeta.com/post/develop/sao-utils/"
+
+msgid "mailto:studiocghibli@gmail.com"
+msgstr "mailto:studiocghibli@gmail.com"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "studiocghibli@gmail.com"
+msgstr "studiocghibli@gmail.com"
+
+msgid "x0.5"
+msgstr "x0.5"
+
+msgid "x2.0"
+msgstr "x2.0"
