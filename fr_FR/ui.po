@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UI for SAO Utils Beta1 V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _uiT\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "- Add new item."
+msgstr "- Ajouter un nouvel élément."
+
+msgid ""
+"- Click to expand menu,\n"
+"long press or right click to edit current item."
+msgstr ""
+"- Cliquer pour agrandir le menu,\n"
+"appuyez longuement ou faites un clic droit pour modifier l'élément en cours."
+
+msgid "- Drag to move item."
+msgstr "- Glisser pour déplacer l'objet."
+
+msgid "- Information of SAO Utils."
+msgstr "- Informations de SAO Utils."
+
+msgid "- Modify this item."
+msgstr "- Modifier cet élément."
+
+msgid "- Remove this item."
+msgstr "- Supprimer cet élément."
+
+msgid "- Settings for SAO Utils."
+msgstr "- Paramètres pour les Utils SAO."
+
+msgid "- Shut down SAO Utils."
+msgstr "- Fermer SAO Utils."
+
+msgid "- Workshop of SAO Utils."
+msgstr "- Atelier de SAO Utils."
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Appearance"
+msgstr "Apparence"
+
+msgid "Disable plug-in [ %s ] ?"
+msgstr "Désactiver le plug-in [ %s ] ?"
+
+msgid "Enable plug-in [ %s ] ?"
+msgstr "Activer le plug-in [ %s ] ?"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Graphics"
+msgstr "Graphiques"
+
+msgid "Manage Plug-ins"
+msgstr "Gérer les Extensions plug-ins"
+
+msgid "Plug-ins"
+msgstr "Extensions Plug-ins"
+
+msgid "Sounds"
+msgstr "Sons"
+
+msgid "Switch Theme"
+msgstr "Changer de thème"
+
+msgid "User Guide"
+msgstr "Guide de l'utilisateur"

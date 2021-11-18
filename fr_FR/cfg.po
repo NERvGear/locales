@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Updater for SAO Utils Beta 1 V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/tool/Updater\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid ""
+"An instance of SAO Utils is already running,\n"
+"please close the program before you continue any operations."
+msgstr ""
+"Une session de SAO Utils est déjà en cours d'exécution,\n"
+"veuillez fermer le programme avant de poursuivre vos activités."
+
+msgid "Are you sure to override current configuration?"
+msgstr "Êtes-vous sûr d'outrepasser la configuration actuelle ?"
+
+msgid "Configuration export finished."
+msgstr "Exportation de la configuration terminée."
+
+msgid "Configuration import finished."
+msgstr "L'importation de la configuration est terminée."
+
+msgid "Configuration migration finished."
+msgstr "La migration de la configuration est terminée."
+
+msgid "Current Version: "
+msgstr "Actuelle version: "
+
+msgid "Executable (%s)|%s"
+msgstr "Exécutable (%s)|%s"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export: "
+msgstr "Exporter: "
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import: "
+msgstr "Importer: "
+
+msgid "Migrate from another version"
+msgstr "Migrer à partir d'une autre version"
+
+msgid "Migrate: "
+msgstr "Migrer: "
+
+msgid "Please choose a configuration source"
+msgstr "Veuillez choisir une source de configuration"
+
+msgid "SAO Utils Configuration Manager"
+msgstr "SAO Utils Configuration Manager"
+
+msgid "Save As"
+msgstr "Enregistrer comme"
+
+msgid "Warning"
+msgstr "Attention"
+
+msgid "Zip File (*.ZIP)|*.ZIP"
+msgstr "Fichier Zip (*.ZIP)|*.ZIP"
