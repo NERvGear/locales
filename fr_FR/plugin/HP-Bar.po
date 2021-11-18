@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HP-Bar for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/HP-Bar\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "&Attach to Launcher"
+msgstr "&Attacher au lanceur"
+
+msgid "&Edit Bar..."
+msgstr "&Bar d'édition..."
+
+msgid "&Lock Widget"
+msgstr "&Verrouiller un Widget"
+
+msgid "&New Bar..."
+msgstr "&Nouvelle barre..."
+
+msgid "&Remove Bar"
+msgstr "&Supprimer une barre"
+
+msgid "&Transparent Widget"
+msgstr "&Widget transparent"
+
+msgid "Always on &Top"
+msgstr "Toujours en haut"
+
+msgid "Bar Settings"
+msgstr "Paramètre de la barre"
+
+msgid "Click to choose a data"
+msgstr "Cliquer pour choisir une donnée"
+
+msgid "HP-Bar"
+msgstr "HP-Bar"
+
+msgid "HP-Bar Widget for SAO Utils"
+msgstr "HP-Bar Widget pour SAO Utils"
+
+msgid "Move Down"
+msgstr "Déplacer plus bas"
+
+msgid "Move Up"
+msgstr "Déplacer plus haut"
+
+msgid "Reorder"
+msgstr "Réorganiser"
+
+msgid "The SAO Utils Project by Joshua"
+msgstr "Le projet SAO Utils par Joshua"

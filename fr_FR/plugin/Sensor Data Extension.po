@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensor Data Extension for SAO Utils V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dinspel Ludwig <le.specimen.26@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_TRANSLATE\n"
+"X-Poedit-Basepath: F:/DEV/Projects/SAO Utils/Beta 1/plugin/Sensor Data "
+"Extension\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: include\n"
+"X-Poedit-SearchPath-1: src\n"
+
+msgid "%s Data Proxy"
+msgstr "%s Proxy des données"
+
+msgid "Ammeter Data"
+msgstr "Données de l'Ampèremètre"
+
+msgid "Bus Speed"
+msgstr "Vitesse du bus"
+
+msgid "CPU Load"
+msgstr "Charge du CPU"
+
+msgid "CPU Load Data"
+msgstr "Données sur la charge du CPU"
+
+msgid "CPU Multiplier"
+msgstr "Multiplicateur de CPU"
+
+msgid "CPU Multiplier Data"
+msgstr "Données du multiplicateur de CPU"
+
+msgid "CPU Power"
+msgstr "Puissance du CPU"
+
+msgid "CPU Power Consumption Data"
+msgstr "Données sur la consommation d'énergie du CPU"
+
+msgid "CPU Speed"
+msgstr "Vitesse du CPU"
+
+msgid "CPU Temperature"
+msgstr "Température du CPU"
+
+msgid "CPU Temperature Data"
+msgstr "Données sur la température du CPU"
+
+msgid "Clock Frequency Data"
+msgstr "Données sur la fréquence de l'horloge"
+
+msgid ""
+"Data available when %s is running and the 'Shared Memory' function is "
+"enabled."
+msgstr ""
+"Données disponibles lorsque %s est en cours d'exécution et que la fonction "
+"\"Mémoire partagée\" est activée."
+
+msgid "Fan Speed Data"
+msgstr "Données sur la vitesse des ventilateurs"
+
+msgid "GPU Information Data"
+msgstr "Données d'information du GPU"
+
+msgid "GPU Sensor Data"
+msgstr "Données des capteurs GPU"
+
+msgid "Graphic Card Information Data"
+msgstr "Données d'informations sur les cartes graphiques"
+
+msgid "Graphic Card Sensor Data"
+msgstr "Données des capteurs de la carte graphique"
+
+msgid "Miscellaneous Data"
+msgstr "Informations diverses"
+
+msgid "Model"
+msgstr "Modèle"
+
+msgid "Multiplier"
+msgstr "Multiplicateur"
+
+msgid "Power Consumption Data"
+msgstr "Données sur la consommation d'énergie"
+
+msgid "Processor Information"
+msgstr "Informations sur le processeur"
+
+msgid "Processor Information Data"
+msgstr "Données d'information sur le processeur"
+
+msgid "Sensor Data Extension"
+msgstr "Extension des données des capteurs"
+
+msgid "Sensor Data Extension for SAO Utils"
+msgstr "Extension des données des capteurs pour SAO Utils"
+
+msgid "System Data"
+msgstr "Données du système"
+
+msgid "Temperature Data"
+msgstr "Données sur la température"
+
+msgid "The SAO Utils Project by Joshua."
+msgstr "Le projet SAO Utils de Joshua."
+
+msgid ""
+"The update parameter takes '[{min}, {max}]' string to define minimum and "
+"maximum values.\n"
+"Example: [0.0, 100.0]"
+msgstr ""
+"Le paramètre de mise à jour prend la chaîne '[{min}, {max}]' pour définir "
+"les valeurs minimales et maximales.\n"
+"Exemple : [0.0, 100.0]"
+
+msgid "Usage Data"
+msgstr "Données d'utilisation"
+
+msgid "VID"
+msgstr "VID"
+
+msgid "Voltage Data"
+msgstr "Données sur la tension"
