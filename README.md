@@ -19,3 +19,6 @@
 - ほーしょー
 - ZOE
 - 時雨月
+
+### Russian
+- [gfififid](https://github.com/gfififid)
