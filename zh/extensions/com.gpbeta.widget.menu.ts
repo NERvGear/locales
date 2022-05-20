@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>EditDialog</name>
     <message>
@@ -63,17 +63,27 @@
         <translation>菜单动作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="47"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Toggle Menu</source>
         <translation>开关菜单</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Show Menu</source>
+        <translation>打开菜单</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Hide Menu</source>
+        <translation>关闭菜单</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>
         <source>Menu Item</source>
         <translation>菜单项</translation>
     </message>

@@ -494,7 +494,7 @@ please exit the program and wait for Steam client to apply the updates.)</source
     <name>NetworkValue</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
-        <source>Bandwith (Mbps)</source>
+        <source>Maximum Speed (MB/S)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -517,39 +517,39 @@ please exit the program and wait for Steam client to apply the updates.)</source
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="69"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="72"/>
         <source>Open File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="81"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="84"/>
         <source>Open Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="87"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="90"/>
         <source>Open Link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="64"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>Link</source>
         <translation type="unfinished"></translation>
     </message>
@@ -760,6 +760,55 @@ global: Object, sharing across values</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="134"/>
         <source>Historical Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SoundAction</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
+        <source>Sound Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
+        <source>Play sound effect or audio file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
+        <source>Playback Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
+        <source>Sound Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <source>Sound Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <source>Audio File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
+        <source>Wave files (*.WAV)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1392,6 +1441,16 @@ Are you sure to disable the unlock button?</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <source>Hibernate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

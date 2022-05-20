@@ -214,7 +214,7 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
     <message>
         <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="125"/>
         <source>Real Time File Logging</source>
-        <translation type="unfinished">實時文件記錄</translation>
+        <translation>實時文件記錄</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="130"/>

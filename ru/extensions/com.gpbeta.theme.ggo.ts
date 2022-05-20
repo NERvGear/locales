@@ -4,7 +4,7 @@
 <context>
     <name>ThemeLauncher</name>
     <message>
-		<location filename="../../../bin/Packages/com.gpbeta.theme.ggo/qml/ThemeLauncher.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.theme.ggo/qml/ThemeLauncher.qml" line="76"/>
         <source>Display Information Panel</source>
         <translation>Показать информационную панель</translation>
     </message>
