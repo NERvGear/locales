@@ -22,3 +22,6 @@
 
 ### Russian
 - [gfififid](https://github.com/gfififid)
+
+### Spanish
+- [AOXE3D](https://github.com/AOXE3D)
