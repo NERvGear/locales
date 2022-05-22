@@ -63,17 +63,27 @@
         <translation>菜單動作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="47"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Toggle Menu</source>
         <translation>開關菜單</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Show Menu</source>
+        <translation>打開菜單</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Hide Menu</source>
+        <translation>關閉菜單</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>
         <source>Menu Item</source>
         <translation>菜單項</translation>
     </message>

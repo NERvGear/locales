@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja">
+<TS version="2.1" language="ja_JP">
 <context>
     <name>EditDialog</name>
     <message>
@@ -63,17 +63,27 @@
         <translation>メニュー操作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="47"/>
         <source>Command</source>
         <translation>コマンド</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Toggle Menu</source>
         <translation>トグルメニュー</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Show Menu</source>
+        <translation>メニューを表示</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Hide Menu</source>
+        <translation>メニューを隠す</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>
         <source>Menu Item</source>
         <translation>メニュー項目</translation>
     </message>
