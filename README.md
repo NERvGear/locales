@@ -25,3 +25,6 @@
 
 ### Spanish
 - [AOXE3D](https://github.com/AOXE3D)
+
+### Turkish
+- [Lawliet0](https://github.com/Lawliet0)
