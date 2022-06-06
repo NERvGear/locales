@@ -14,22 +14,22 @@
         <translation>modeli</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="20"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="21"/>
         <source>CPU Speed</source>
         <translation>İşlemci hızı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="27"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="29"/>
         <source>Bus Speed</source>
         <translation>Otobüs hızı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="34"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="37"/>
         <source>Multiplier</source>
         <translation>çarpan</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/CoreTempInfoData.qml" line="45"/>
         <source>VID</source>
         <translation>VID</translation>
     </message>

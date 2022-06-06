@@ -34,32 +34,32 @@
         <translation>圖標</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="118"/>
         <source>Data 1</source>
         <translation>數據 1</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="119"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="123"/>
         <source>Data 2</source>
         <translation>數據 2</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="129"/>
         <source>Action</source>
         <translation>動作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="129"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="133"/>
         <source>Order</source>
         <translation>排序</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="164"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="168"/>
         <source>Add Item</source>
         <translation>添加項目</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="176"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="180"/>
         <source>Remove Item</source>
         <translation>移除項目</translation>
     </message>

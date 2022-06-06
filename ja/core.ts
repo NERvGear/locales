@@ -532,117 +532,117 @@ Are you sure to continue?</source>
         <translation>DPI スケーリング</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="71"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="72"/>
         <source>Show Splash</source>
         <translation>起動画面を表示</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="78"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="88"/>
         <source>Startup Animation</source>
         <translation>起動アニメーション</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="89"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="99"/>
         <source>NERvGear Boot</source>
         <translation>NERvGear ブート</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="103"/>
         <source>Custom Content</source>
         <translation>カスタムコンテンツ</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="104"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="114"/>
         <source>Animation File</source>
         <translation>アニメーションファイル</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="95"/>
         <source>Startup Animation Style</source>
         <translation>起動アニメーションスタイル</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="112"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
         <source>Dialog Style</source>
         <translation>ダイアログスタイル</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="116"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
         <source>Standard Dialog</source>
         <translation>標準ダイアログ</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="124"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
         <source>Notification Position</source>
         <translation>通知アイコンの位置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Left</source>
         <translation>左上</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Right</source>
         <translation>右上</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Left</source>
         <translation>左下</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Right</source>
         <translation>右下</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="153"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
         <source>Miscellaneous</source>
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="160"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Start with Windows</source>
         <translation>自動的に起動</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
         <source>Steam Features</source>
         <translation>Steam 機能</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>プレイタイムトラッキング、実績、ユーザーレベル...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>内部 Web ブラウザを使用してリンクを開く</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>More Options</source>
         <translation>より多くのオプション</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
         <source>Customize Launcher...</source>
         <translation>ランチャーをカスタマイズ...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
         <source>Launcher style, menu, settings...</source>
         <translation>ランチャーのスタイル、メニュー、設定...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
         <source>Manage Widgets...</source>
         <translation>ウィジェットを管理...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Add, save and remove widgets...</source>
         <translation>ウィジェットの追加、保存、削除...</translation>
     </message>

@@ -532,117 +532,117 @@ Are you sure to continue?</source>
         <translation>DPI 缩放</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="71"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="72"/>
         <source>Show Splash</source>
         <translation>显示启动画面</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="78"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="88"/>
         <source>Startup Animation</source>
         <translation>播放加载动画</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="89"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="99"/>
         <source>NERvGear Boot</source>
         <translation>NERvGear 载入画面</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="103"/>
         <source>Custom Content</source>
         <translation>自定义内容</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="104"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="114"/>
         <source>Animation File</source>
         <translation>动画文件</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="95"/>
         <source>Startup Animation Style</source>
         <translation>加载动画外观</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="112"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
         <source>Dialog Style</source>
         <translation>对话框外观</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="116"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
         <source>Standard Dialog</source>
         <translation>标准对话框</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="124"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
         <source>Notification Position</source>
         <translation>通知图标位置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Left</source>
         <translation>左上角</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Right</source>
         <translation>右上角</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Left</source>
         <translation>左下角</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Right</source>
         <translation>右下角</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="153"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
         <source>Miscellaneous</source>
         <translation>杂项</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="160"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Start with Windows</source>
         <translation>跟随系统启动</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
         <source>Steam Features</source>
         <translation>Steam 功能</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>记录游玩时间、解锁成就、获取用户等级...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>在内部浏览器打开链接</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>More Options</source>
         <translation>更多选项</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
         <source>Customize Launcher...</source>
         <translation>定制启动器...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
         <source>Launcher style, menu, settings...</source>
         <translation>启动器外观、菜单和设置等...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
         <source>Manage Widgets...</source>
         <translation>管理挂件...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Add, save and remove widgets...</source>
         <translation>添加、删除和移除挂件...</translation>
     </message>

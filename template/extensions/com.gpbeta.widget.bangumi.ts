@@ -25,32 +25,32 @@
 <context>
     <name>BangumiWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="52"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="63"/>
         <source>Bangumi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="73"/>
         <source>Timetable...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="67"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="78"/>
         <source>Settings...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="276"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
         <source>No records currently.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="281"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
         <source>Retrieving anime schedule...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="285"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -141,43 +141,68 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="75"/>
+        <source>Widget Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Small</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Extra Large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="83"/>
         <source>Button Styles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="81"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="88"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="107"/>
         <source>Foreground Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="87"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="94"/>
         <source>Background Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="95"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="102"/>
         <source>Item Styles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="113"/>
         <source>Background Color 1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="119"/>
         <source>Background Color 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="118"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="125"/>
         <source>Background Color 3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="132"/>
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>

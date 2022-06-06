@@ -34,32 +34,32 @@
         <translation>Simge</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="118"/>
         <source>Data 1</source>
         <translation>Veri 1</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="119"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="123"/>
         <source>Data 2</source>
         <translation>Veri 2</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="129"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="129"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="133"/>
         <source>Order</source>
         <translation>Satır</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="164"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="168"/>
         <source>Add Item</source>
         <translation>Öğe Ekle</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="176"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hp-bar/qml/EditDialog.qml" line="180"/>
         <source>Remove Item</source>
         <translation>Öğeyi Kaldır</translation>
     </message>

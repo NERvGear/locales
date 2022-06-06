@@ -537,117 +537,117 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>DPI Ölçeklendirme</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="71"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="72"/>
         <source>Show Splash</source>
         <translation>Sıçramayı Göster</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="78"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="88"/>
         <source>Startup Animation</source>
         <translation>Başlangıç Animasyonu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="89"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="99"/>
         <source>NERvGear Boot</source>
         <translation>NERvGear Önyükleme</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="103"/>
         <source>Custom Content</source>
         <translation>Özel içerik</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="104"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="114"/>
         <source>Animation File</source>
         <translation>Animasyon Dosyası</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="95"/>
         <source>Startup Animation Style</source>
         <translation>Başlangıç Animasyonu Stili</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="112"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
         <source>Dialog Style</source>
         <translation>İletişim Tarzı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="116"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
         <source>Standard Dialog</source>
         <translation>Standart İletişim Kutusu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="124"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
         <source>Notification Position</source>
         <translation>Bildirim Konumu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Left</source>
         <translation>Sol üst</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Right</source>
         <translation>sağ üst</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Left</source>
         <translation>sol alt</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Right</source>
         <translation>Sağ alt</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="153"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
         <source>Miscellaneous</source>
         <translation>Diğer</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="160"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Start with Windows</source>
         <translation>Pencerelerle başla</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
         <source>Steam Features</source>
         <translation>Steam Özellikleri</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>Oynatma süresi takibi, başarılar, kullanıcı seviyesi...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>Bağlantıları Dahili Web Tarayıcı Kullanarak Açın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>More Options</source>
         <translation>Daha fazla seçenek</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
         <source>Customize Launcher...</source>
         <translation>Başlatıcıyı Özelleştir...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
         <source>Launcher style, menu, settings...</source>
         <translation>Başlatıcı stili, menü, ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
         <source>Manage Widgets...</source>
         <translation>Widget&apos;ları Yönet...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Add, save and remove widgets...</source>
         <translation>Widget ekleyin, kaydedin ve kaldırın...</translation>
     </message>

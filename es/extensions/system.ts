@@ -506,8 +506,8 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
     <name>NetworkValue</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
-        <source>Bandwith (Mbps)</source>
-        <translation>Ancho de Banda (Mbps)</translation>
+        <source>Maximum Speed (MB/S)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="61"/>
@@ -529,39 +529,39 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="69"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="72"/>
         <source>Open File</source>
         <translation>Abrir Archivo</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="81"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="84"/>
         <source>Open Folder</source>
         <translation>Abrir Carpeta</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="87"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="90"/>
         <source>Open Link</source>
         <translation>Abrir Enlace</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="64"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
         <source>Link</source>
         <translation>Enlace</translation>
     </message>
@@ -788,6 +788,55 @@ local: Object, sharing across scripts</translation>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="134"/>
         <source>Historical Average</source>
         <translation>Promedio Histórico</translation>
+    </message>
+</context>
+<context>
+    <name>SoundAction</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
+        <source>Sound Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
+        <source>Play sound effect or audio file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
+        <source>Playback Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
+        <source>Sound Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <source>Type</source>
+        <translation type="unfinished">Tipo</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <source>Sound Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <source>Audio File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
+        <source>Path</source>
+        <translation type="unfinished">Ruta</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
+        <source>Wave files (*.WAV)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1220,7 +1269,7 @@ Are you sure to disable the unlock button?</source>
         <translation>Posición Absoluta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="332"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="336"/>
         <source>Are you sure to remove this widget?</source>
         <translation>¿Estás seguro de eliminar este widget?</translation>
     </message>
@@ -1233,82 +1282,82 @@ Are you sure to disable the unlock button?</source>
         <translation>Siempre por Encima</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="49"/>
         <source>Mouse Click</source>
         <translation>Clic del Mouse</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="52"/>
         <source>Passthrough</source>
         <translation>Passthrough</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="56"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="59"/>
         <source>Activate Focus</source>
         <translation>Activar Enfoque</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="68"/>
         <source>Widget Frame</source>
         <translation>Marco del Widget</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="71"/>
         <source>Auto Hide</source>
         <translation>Automático</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="76"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="79"/>
         <source>Always Show</source>
         <translation>Mostrar Siempre</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="84"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="87"/>
         <source>Always Hide</source>
         <translation>Ocultar Siempre</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="93"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="96"/>
         <source>Display on</source>
         <translation>Sobre la Pantalla</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="96"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="99"/>
         <source>Desktop</source>
         <translation>Escritorio</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="107"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="110"/>
         <source>Launcher</source>
         <translation>Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="120"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="123"/>
         <source>Anchor to</source>
         <translation>Anclaje</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="157"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="160"/>
         <source>Customize...</source>
         <translation>Personalizar...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="166"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="169"/>
         <source>Reset</source>
         <translation>Restablecer</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="174"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="180"/>
         <source>Opacity</source>
         <translation>Opacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="194"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="200"/>
         <source>Manage Widgets...</source>
         <translation>Administrar Widget...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="199"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="205"/>
         <source>Remove Widget</source>
         <translation>Eliminar Widget</translation>
     </message>
@@ -1347,7 +1396,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="327"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="329"/>
         <source>Unknown Widget</source>
         <translation>Widget Desconocido</translation>
     </message>
@@ -1355,7 +1404,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="231"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="237"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils se ha Iniciado con Éxito.</translation>
     </message>
@@ -1421,6 +1470,16 @@ Are you sure to disable the unlock button?</source>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Logout</source>
         <translation>Cerrar Sesión</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <source>Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <source>Hibernate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

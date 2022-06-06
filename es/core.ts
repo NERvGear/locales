@@ -538,117 +538,117 @@ Are you sure to continue?</source>
         <translation>DPI Scaling</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="71"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="72"/>
         <source>Show Splash</source>
         <translation>Mostrar Salpicaduras</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="78"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="88"/>
         <source>Startup Animation</source>
         <translation>Animación de Inicio</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="89"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="99"/>
         <source>NERvGear Boot</source>
         <translation>NERvGear Boot</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="103"/>
         <source>Custom Content</source>
         <translation>Contenido Personalizado</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="104"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="114"/>
         <source>Animation File</source>
         <translation>Archivo de Animación</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="95"/>
         <source>Startup Animation Style</source>
         <translation>Estilo de Animación de Inicio</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="112"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
         <source>Dialog Style</source>
         <translation>Estilo del Diálogo</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="116"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
         <source>Standard Dialog</source>
         <translation>Diálogo Estándar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="124"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
         <source>Notification Position</source>
         <translation>Posición de Notificación</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Left</source>
         <translation>Arriba Izquierda</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Top Right</source>
         <translation>Arriba Derecha</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Left</source>
         <translation>Abajo Izquierda</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="125"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
         <source>Bottom Right</source>
         <translation>Abajo Derecha</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="153"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
         <source>Miscellaneous</source>
         <translation>Varios</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="160"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Start with Windows</source>
         <translation>Iniciar con Windows</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
         <source>Steam Features</source>
         <translation>Caraterísticas de Steam</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>Seguimiento del tiempo de juego, logros, nivel del usuario...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>Abrir Enlaces Usando Navegador Web Interno</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>More Options</source>
         <translation>Más Opciones</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
         <source>Customize Launcher...</source>
         <translation>Personalizar Lanzador...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
         <source>Launcher style, menu, settings...</source>
         <translation>Estilo del lanzador, menú, ajustes...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
         <source>Manage Widgets...</source>
         <translation>Administrar Widgets...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Add, save and remove widgets...</source>
         <translation>Agregar, guardar y eliminar widgets...</translation>
     </message>
