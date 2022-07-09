@@ -63,17 +63,27 @@
         <translation>Menü Eylemi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="47"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Toggle Menu</source>
         <translation>Menüyü Aç/Kapat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Show Menu</source>
+        <translation>Menüyü göster</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <source>Hide Menu</source>
+        <translation>Menüyü Gizle</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>
         <source>Menu Item</source>
         <translation>Menü seçeneği</translation>
     </message>

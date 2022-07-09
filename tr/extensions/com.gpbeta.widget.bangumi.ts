@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr" sourcelanguage="en">
+<TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
     <name>BangumiDailyValue</name>
     <message>
@@ -25,32 +25,32 @@
 <context>
     <name>BangumiWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="52"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="63"/>
         <source>Bangumi</source>
         <translation>Bangumi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="73"/>
         <source>Timetable...</source>
         <translation>Zaman çizelgesi...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="67"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="78"/>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="276"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
         <source>No records currently.</source>
         <translation>Şu anda kayıt yok.</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="281"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
         <source>Retrieving anime schedule...</source>
         <translation>Anime programı alınıyor...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="285"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>Anime programı alınamıyor.</translation>
     </message>
@@ -141,43 +141,68 @@
         <translation>Stil Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="75"/>
+        <source>Widget Size</source>
+        <translation>Widget Boyutu</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Small</source>
+        <translation>Küçük</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Medium</source>
+        <translation>Orta</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Large</source>
+        <translation>Büyük</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
+        <source>Extra Large</source>
+        <translation>Ekstra büyük</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="83"/>
         <source>Button Styles</source>
         <translation>Düğme Stilleri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="81"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="88"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="107"/>
         <source>Foreground Color</source>
         <translation>Ön plan rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="87"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="94"/>
         <source>Background Color</source>
         <translation>Arka plan rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="95"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="102"/>
         <source>Item Styles</source>
         <translation>Öğe Stilleri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="113"/>
         <source>Background Color 1</source>
         <translation>Arka Plan Rengi 1</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="119"/>
         <source>Background Color 2</source>
         <translation>Arka Plan Rengi 2</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="118"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="125"/>
         <source>Background Color 3</source>
         <translation>Arka Plan Rengi 3</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="132"/>
         <source>Reset</source>
         <translation>Sıfırla</translation>
     </message>
