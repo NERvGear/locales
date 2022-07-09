@@ -192,32 +192,32 @@
         <translation>主题</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="246"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="250"/>
         <source>Original Message</source>
         <translation>原始邮件</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="376"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="380"/>
         <source>Add Attachment</source>
         <translation>添加附件</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="417"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="421"/>
         <source>Invalid mail address</source>
         <translation>无效的邮件地址</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="424"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="428"/>
         <source>Message sent.</source>
         <translation>邮件发送成功。</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="429"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="433"/>
         <source>Failed to send mail</source>
         <translation>邮件发送失败</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="449"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="457"/>
         <source>- Sent from SAO Utils 2 Mail Box</source>
         <translation>- 信息来自 SAO Utils 2 Mail Box</translation>
     </message>

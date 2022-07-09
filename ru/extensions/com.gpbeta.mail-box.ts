@@ -192,32 +192,32 @@
         <translation>Тема</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="246"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="250"/>
         <source>Original Message</source>
         <translation>Оригинальное сообщение</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="376"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="380"/>
         <source>Add Attachment</source>
         <translation>Добавить вложение</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="417"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="421"/>
         <source>Invalid mail address</source>
         <translation>Неверный адрес</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="424"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="428"/>
         <source>Message sent.</source>
         <translation>Сообщение отправлено.</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="429"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="433"/>
         <source>Failed to send mail</source>
         <translation>Отправка письма не удалась</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="449"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MessageComposer.qml" line="457"/>
         <source>- Sent from SAO Utils 2 Mail Box</source>
         <translation>- Отправлено из SAO Utils 2 Mail Box</translation>
     </message>

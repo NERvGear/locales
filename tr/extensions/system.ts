@@ -4,31 +4,74 @@
 <context>
     <name>CommandAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="11"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="9"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="12"/>
         <source>Execute a system command</source>
         <translation>Bir sistem komutu yürütün</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="29"/>
         <source>Command</source>
         <comment>CMD</comment>
         <translatorcomment>CMD</translatorcomment>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="35"/>
         <source>Working Directory</source>
         <translation>Çalışma dizini</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="28"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="36"/>
         <source>Optional</source>
         <translation>İsteğe bağlı</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="41"/>
+        <source>Examples</source>
+        <translation type="unfinished">Örnekler</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="62"/>
+        <source>Command Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="63"/>
+        <source>Control Panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="64"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="67"/>
+        <source>Folder: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="64"/>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="65"/>
+        <source>My Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="66"/>
+        <source>Libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="67"/>
+        <source>Recycle Bin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -77,93 +120,111 @@ http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</translation>
 <context>
     <name>EditDialog</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="53"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="56"/>
         <source>Launcher Menu</source>
         <translation>Başlatıcı Menüsü</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="115"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="114"/>
         <source>Are you sure to drop the old menu?</source>
         <translation>Eski menüyü bıraktığınızdan emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="231"/>
-        <source>Menu Settings</source>
-        <translation>Menü Ayarları</translation>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="116"/>
+        <source>Are you sure to reset launcher menu to default?
+
+WARNING
+All currently configured menu items will be lost!!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="273"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="136"/>
+        <source>Reset Launcher Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="245"/>
+        <source>Style</source>
+        <translation type="unfinished">Stil</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="287"/>
         <source>Item Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="309"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="323"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="317"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="331"/>
         <source>Type</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="319"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
         <source>Action</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Eylem</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="319"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
         <source>Menu</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Menü</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="319"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
         <source>Folder</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Klasör</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="348"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="363"/>
         <source>Action</source>
         <translation>Hareket</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="356"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="371"/>
         <source>Path</source>
         <translation>Yol</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="364"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="379"/>
         <source>Display File Icon</source>
         <translation>Dosya Simgesini Görüntüle</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="372"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="387"/>
         <source>Display File Extension</source>
         <translation>Dosya Uzantısını Görüntüle</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="380"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="395"/>
+        <source>Default Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="407"/>
         <source>Description</source>
         <translation>Tanım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="386"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="413"/>
         <source>Theme Options</source>
         <translation>Tema Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="390"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="417"/>
         <source>Icon</source>
         <translation>Simge</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="402"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="429"/>
         <source>Image</source>
         <translation>Görüntü</translation>
     </message>
@@ -359,39 +420,6 @@ UYARI
         <location filename="../../../src/extensions/system/qml/system/data/MarqueeProcessor.qml" line="121"/>
         <source>Truncate Characters</source>
         <translation>Karakterleri Kes</translation>
-    </message>
-</context>
-<context>
-    <name>MenuSettingsDialog</name>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="88"/>
-        <source>Style</source>
-        <translation>Stil</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="96"/>
-        <source>Position</source>
-        <translation>Konum</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="98"/>
-        <source>Follow Cursor</source>
-        <translation>İmleci takip et</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="98"/>
-        <source>Left</source>
-        <translation>Sol</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="98"/>
-        <source>Center</source>
-        <translation>Orta</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/MenuSettingsDialog.qml" line="98"/>
-        <source>Right</source>
-        <translation>Sağ</translation>
     </message>
 </context>
 <context>
@@ -1125,84 +1153,84 @@ global: Nesne, değerler arasında paylaşım</translation>
 <context>
     <name>WidgetGallery</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="33"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="43"/>
         <source>Disable Unlock Button</source>
         <translation>Kilit Açma Düğmesini Devre Dışı Bırak</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="37"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="47"/>
         <source>You can no longer unlock any transparent widgets.
 Are you sure to disable the unlock button?</source>
         <translation>Artık hiçbir şeffaf widget&apos;ın kilidini açamazsınız.
 Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="61"/>
         <source>Check for Offscreen Widgets</source>
         <translation>Ekran Dışı Widget&apos;ları Kontrol Edin</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="74"/>
         <source>%1 widgets recovered</source>
         <translation>%1 widget kurtarıldı</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="70"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="78"/>
         <source>Get More...</source>
         <translation>Daha fazla al...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="84"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="92"/>
         <source>All Widgets</source>
         <translation>Tüm Widget&apos;lar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="90"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="98"/>
         <source>Themes</source>
         <translation>Temalar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="111"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="119"/>
         <source>Edit...</source>
         <translation>Düzenle...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="116"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="124"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="183"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="191"/>
         <source>Drop outside to add a widget</source>
         <translation>Widget eklemek için dışarı bırakın</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="208"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="216"/>
         <source>Preset Widgets</source>
         <translation>Önceden Ayarlanmış Widget&apos;lar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="214"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="222"/>
         <source>Basic Widgets</source>
         <translation>Temel Widget&apos;lar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="220"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="228"/>
         <source>My Widgets</source>
         <translation>Widget&apos;larım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="337"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="348"/>
         <source>Preset Themes</source>
         <translation>Önceden Ayarlanmış Temalar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="342"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="353"/>
         <source>My Themes</source>
         <translation>Temalarım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="360"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;Boş&gt;</translation>
     </message>
@@ -1270,7 +1298,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation>Mutlak Konum</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="336"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="341"/>
         <source>Are you sure to remove this widget?</source>
         <translation>Bu widget&apos;ı kaldırmak istediğinizden emin misiniz?</translation>
     </message>
@@ -1398,7 +1426,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="329"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="325"/>
         <source>Unknown Widget</source>
         <translation>Bilinmeyen Widget</translation>
     </message>

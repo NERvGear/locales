@@ -372,17 +372,17 @@ Please restart SAO Utils to apply the updates</source>
 <context>
     <name>PageUpdateEdit</name>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="99"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="108"/>
         <source>Title</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="109"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="118"/>
         <source>Description</source>
         <translation>Описание</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="129"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="138"/>
         <source>Select a folder containing a package.json file</source>
         <translation>Укажите папку, содержащую файл package.json</translation>
     </message>

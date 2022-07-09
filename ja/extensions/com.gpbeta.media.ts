@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja">
+<TS version="2.1" language="ja_JP">
 <context>
     <name>CADMusicAction</name>
     <message>
@@ -139,6 +139,136 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>GalleryDialog</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="34"/>
+        <source>Gallery Settings</source>
+        <translation>ギャラリー設定</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="40"/>
+        <source>Image Folder</source>
+        <translation>画像フォルダ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="45"/>
+        <source>Fill Mode</source>
+        <translation>フィルモード</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="46"/>
+        <source>Crop</source>
+        <translation>クロップ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="46"/>
+        <source>Fit</source>
+        <translation>フィット</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="52"/>
+        <source>Background Color</source>
+        <translation>背景色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="58"/>
+        <source>Frame</source>
+        <translation>フレーム</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="67"/>
+        <source>Frame Above Image</source>
+        <translation>画像の上にフレーム</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
+        <source>Transition Animation</source>
+        <translation>トランジションアニメーション</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="78"/>
+        <source>Random</source>
+        <translation>ランダム</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="109"/>
+        <source>Animation Speed</source>
+        <translation>アニメーション速度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Fast</source>
+        <translation>速い</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Normal</source>
+        <translation>普通</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Slow</source>
+        <translation>遅い</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="140"/>
+        <source>Change Image Every</source>
+        <translation>画像の切り替え間隔</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="142"/>
+        <source>Second</source>
+        <translation>秒</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="143"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="144"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="145"/>
+        <source>Seconds</source>
+        <translation>秒</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="146"/>
+        <source>Minute</source>
+        <translation>分</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="149"/>
+        <source>Minutes</source>
+        <translation>分</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
+        <source>Hour</source>
+        <translation>時間</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="199"/>
+        <source>Action</source>
+        <translation>アクション</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="200"/>
+        <source>Defaults to toggle slideshow</source>
+        <translation>デフォルトはスライドショーを切り替え</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryWidget</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="13"/>
+        <source>Gallery Widget</source>
+        <translation>ギャラリーウィジェット</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="22"/>
+        <source>Settings...</source>
+        <translation>設定...</translation>
+    </message>
+</context>
+<context>
     <name>ImageWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="22"/>
@@ -164,6 +294,24 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="53"/>
         <source>Change Image</source>
         <translation>画像を変更</translation>
+    </message>
+</context>
+<context>
+    <name>KuGouMusicData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="10"/>
+        <source>KuGou Music</source>
+        <translation>KuGou ミュージック</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="11"/>
+        <source>KuGou Music Player data</source>
+        <translation>KuGou ミュージックプレーヤーのデータ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="15"/>
+        <source>Title</source>
+        <translation>タイトル</translation>
     </message>
 </context>
 <context>
