@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr" sourcelanguage="en">
+<TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
     <name>CADMusicAction</name>
     <message>
@@ -139,6 +139,136 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>GalleryDialog</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="34"/>
+        <source>Gallery Settings</source>
+        <translation>Galeri Ayarları</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="40"/>
+        <source>Image Folder</source>
+        <translation>Görüntü Klasörü</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="45"/>
+        <source>Fill Mode</source>
+        <translation>Dolgu Modu</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="46"/>
+        <source>Crop</source>
+        <translation>Kırp</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="46"/>
+        <source>Fit</source>
+        <translation>Sığdır</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="52"/>
+        <source>Background Color</source>
+        <translation>Arka plan rengi</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="58"/>
+        <source>Frame</source>
+        <translation>Çerçeve</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="67"/>
+        <source>Frame Above Image</source>
+        <translation>Resmin Üstündeki Çerçeve</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
+        <source>Transition Animation</source>
+        <translation>Geçiş Animasyonu</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="78"/>
+        <source>Random</source>
+        <translation>Rastgele</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="109"/>
+        <source>Animation Speed</source>
+        <translation>Animasyon hızı</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Fast</source>
+        <translation>Hızlı</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <source>Slow</source>
+        <translation>Yavaş</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="140"/>
+        <source>Change Image Every</source>
+        <translation>Görüntüyü Her Arada Değiştir</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="142"/>
+        <source>Second</source>
+        <translation>Saniye</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="143"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="144"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="145"/>
+        <source>Seconds</source>
+        <translation>Saniyeler</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="146"/>
+        <source>Minute</source>
+        <translation>Dakika</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="149"/>
+        <source>Minutes</source>
+        <translation>dakikalık</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
+        <source>Hour</source>
+        <translation>Saat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="199"/>
+        <source>Action</source>
+        <translation>Eylem</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="200"/>
+        <source>Defaults to toggle slideshow</source>
+        <translation>Slayt gösterisini değiştirmek için varsayılanlar</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryWidget</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="13"/>
+        <source>Gallery Widget</source>
+        <translation>Galeri Widget&apos;ı</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="22"/>
+        <source>Settings...</source>
+        <translation>Ayarlar...</translation>
+    </message>
+</context>
+<context>
     <name>ImageWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="22"/>
@@ -164,6 +294,24 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="53"/>
         <source>Change Image</source>
         <translation>Resmi değiştir</translation>
+    </message>
+</context>
+<context>
+    <name>KuGouMusicData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="10"/>
+        <source>KuGou Music</source>
+        <translation>KuGou Müzik</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="11"/>
+        <source>KuGou Music Player data</source>
+        <translation>KuGou Müzik Çalar verileri</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/KuGouMusicData.qml" line="15"/>
+        <source>Title</source>
+        <translation>Başlık</translation>
     </message>
 </context>
 <context>
