@@ -33,17 +33,17 @@
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="41"/>
         <source>Examples</source>
-        <translation type="unfinished">Örnekler</translation>
+        <translation>Örnekler</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="62"/>
         <source>Command Prompt</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut istemi</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="63"/>
         <source>Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrol Paneli</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="64"/>
@@ -51,27 +51,27 @@
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="66"/>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="67"/>
         <source>Folder: </source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya: </translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="64"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgisayarım</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="65"/>
         <source>My Documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgelerim</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="66"/>
         <source>Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Kitaplıklar</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/CommandAction.qml" line="67"/>
         <source>Recycle Bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Geridönüşüm kutusu</translation>
     </message>
 </context>
 <context>
@@ -135,17 +135,20 @@ http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</translation>
 
 WARNING
 All currently configured menu items will be lost!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcı menüsünü varsayılana sıfırladığınızdan emin misiniz?
+
+UYARI
+Şu anda yapılandırılmış tüm menü öğeleri kaybolacak!!</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="136"/>
         <source>Reset Launcher Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcı Menüsünü Sıfırla</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="245"/>
         <source>Style</source>
-        <translation type="unfinished">Stil</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="287"/>
@@ -206,7 +209,7 @@ All currently configured menu items will be lost!!</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="395"/>
         <source>Default Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan Simge</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="407"/>
@@ -535,7 +538,7 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
         <source>Maximum Speed (MB/S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimum Hız (MB/S)</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="61"/>
@@ -824,48 +827,48 @@ global: Nesne, değerler arasında paylaşım</translation>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
         <source>Sound Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses Eylemi</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
         <source>Play sound effect or audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses efektini veya ses dosyasını oynatın</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
         <source>Playback Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynatma Sesi</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
         <source>Sound Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses efekti</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
         <source>Type</source>
-        <translation type="unfinished">Tür</translation>
+        <translation>Tür</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
         <source>Sound Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses Etkinliği</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
         <source>Audio File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ses dosyası</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
         <source>Path</source>
-        <translation type="unfinished">Yol</translation>
+        <translation>Yol</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
         <source>Wave files (*.WAV)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wave dosyaları (*.WAV)</translation>
     </message>
 </context>
 <context>
@@ -1504,12 +1507,12 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyu</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Hibernate</source>
-        <translation type="unfinished"></translation>
+        <translation>Hazırda Beklet</translation>
     </message>
 </context>
 </TS>

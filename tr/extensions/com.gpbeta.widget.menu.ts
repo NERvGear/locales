@@ -75,12 +75,12 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Show Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüyü göster</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
         <source>Hide Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüyü Gizle</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>

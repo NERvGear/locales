@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr" sourcelanguage="en">
+<TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
     <name>BangumiDailyValue</name>
     <message>
@@ -143,27 +143,27 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="75"/>
         <source>Widget Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget Boyutu</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Küçük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="77"/>
         <source>Extra Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstra büyük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/SettingsDialog.qml" line="83"/>

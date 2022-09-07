@@ -654,22 +654,22 @@ Devam edeceğinizden emin misiniz?</translation>
     <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="206"/>
         <source>Create Desktop Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü kısayolu oluşturun</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
         <source>Which can launch without Steam</source>
-        <translation type="unfinished"></translation>
+        <translation>Steam olmadan başlatılabilir</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
         <source>Shortcut created successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol başarıyla oluşturuldu</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="212"/>
         <source>Failed to create shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -914,47 +914,47 @@ Devam edeceğinizden emin misiniz?</translation>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="96"/>
         <source>Customize Menu...</source>
-        <translation type="unfinished"></translation>
+        <translation>Menüyü Özelleştir...</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="122"/>
         <source>Menu Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Menü Konumu</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Merkez</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="172"/>
         <source>Transition Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçiş süresi</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Hızlı</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
         <source>Slow</source>
-        <translation type="unfinished"></translation>
+        <translation>Yavaş</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
