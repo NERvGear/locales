@@ -120,17 +120,17 @@ http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</translation>
 <context>
     <name>EditDialog</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="56"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="58"/>
         <source>Launcher Menu</source>
         <translation>Menú del Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="116"/>
         <source>Are you sure to drop the old menu?</source>
         <translation>¿Está seguro de que vas a dejar el antiguo menú?</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="116"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="118"/>
         <source>Are you sure to reset launcher menu to default?
 
 WARNING
@@ -138,93 +138,98 @@ All currently configured menu items will be lost!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="136"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="142"/>
+        <source>Auto Expand Menus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="149"/>
         <source>Reset Launcher Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="245"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="259"/>
         <source>Style</source>
         <translation type="unfinished">Estilo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="287"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="301"/>
         <source>Item Settings</source>
         <translation>Ajustes de Elemento</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="323"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="337"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="331"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="345"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="347"/>
         <source>Action</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Acción</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="347"/>
         <source>Menu</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Menú</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="347"/>
         <source>Folder</source>
         <comment>LMT</comment>
         <translatorcomment>LMT</translatorcomment>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="363"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="377"/>
         <source>Action</source>
         <translation>Acción</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="371"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="385"/>
         <source>Path</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="379"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="393"/>
         <source>Display File Icon</source>
         <translation>Mostrar el Ícono del Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="387"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="401"/>
         <source>Display File Extension</source>
         <translation>Mostrar la Extensión del Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="395"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="409"/>
         <source>Default Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="407"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="421"/>
         <source>Description</source>
         <translation>Descripción</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="413"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="427"/>
         <source>Theme Options</source>
         <translation>Opciones de Tema</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="417"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="431"/>
         <source>Icon</source>
         <translation>Ícono</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="429"/>
+        <location filename="../../../src/extensions/system/qml/system/launcher/EditDialog.qml" line="443"/>
         <source>Image</source>
         <translation>Imagen</translation>
     </message>
@@ -557,39 +562,39 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="72"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
         <source>Open File</source>
         <translation>Abrir Archivo</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="84"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="86"/>
         <source>Open Folder</source>
         <translation>Abrir Carpeta</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="90"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>Open Link</source>
         <translation>Abrir Enlace</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="64"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="66"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
         <source>Link</source>
         <translation>Enlace</translation>
     </message>
@@ -1170,66 +1175,72 @@ Are you sure to disable the unlock button?</source>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="88"/>
         <source>%1 widgets recovered</source>
         <translation>%1 widgets recuperados</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="78"/>
+        <source>Show Hidden Widgets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="92"/>
         <source>Get More...</source>
         <translation>Obtener Más...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="106"/>
         <source>All Widgets</source>
         <translation>Todos los Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="98"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="112"/>
         <source>Themes</source>
         <translation>Temas</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="133"/>
         <source>Edit...</source>
         <translation>Editar...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="124"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="191"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="205"/>
         <source>Drop outside to add a widget</source>
         <translation>Soltar fuera para añadir un widget</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="216"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="230"/>
         <source>Preset Widgets</source>
         <translation>Widgets Por Defecto</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="222"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="236"/>
         <source>Basic Widgets</source>
         <translation>Widgets Básicos</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="228"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="242"/>
         <source>My Widgets</source>
         <translation>Mis Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="348"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="364"/>
         <source>Preset Themes</source>
         <translation>Temas Por Defecto</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="353"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="369"/>
         <source>My Themes</source>
         <translation>Mis Temas</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="387"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;En Blanco&gt;</translation>
     </message>
@@ -1242,62 +1253,7 @@ Are you sure to disable the unlock button?</source>
         <translation>Galeria de Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="82"/>
-        <source>Anchor Mode</source>
-        <translation>Modo Anclaje</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="121"/>
-        <source>Screen Top Left</source>
-        <translation>Pantalla Superior Izquierda</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="122"/>
-        <source>Screen Top Center</source>
-        <translation>Pantalla Superior Central</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="123"/>
-        <source>Screen Top Right</source>
-        <translation>Pantalla Superior Derecha</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="125"/>
-        <source>Screen Left Center</source>
-        <translation>Pantalla Izquierda Central</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="126"/>
-        <source>Screen Center</source>
-        <translation>Pantalla Central</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="127"/>
-        <source>Screen Right Center</source>
-        <translation>Pantalla Derecha Central</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="129"/>
-        <source>Screen Bottom Left</source>
-        <translation>Pantalla Inferior Izquierda</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="130"/>
-        <source>Screen Bottom Center</source>
-        <translation>Pantalla Inferior Central</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="131"/>
-        <source>Screen Bottom Right</source>
-        <translation>Pantalla Inferior Derecha</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="133"/>
-        <source>Absolute Position</source>
-        <translation>Posición Absoluta</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="341"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="256"/>
         <source>Are you sure to remove this widget?</source>
         <translation>¿Estás seguro de eliminar este widget?</translation>
     </message>
@@ -1366,26 +1322,26 @@ Are you sure to disable the unlock button?</source>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="160"/>
-        <source>Customize...</source>
-        <translation>Personalizar...</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="169"/>
         <source>Reset</source>
         <translation>Restablecer</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="180"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="171"/>
         <source>Opacity</source>
         <translation>Opacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="200"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="187"/>
+        <source>Properties...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="197"/>
         <source>Manage Widgets...</source>
         <translation>Administrar Widget...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="205"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="202"/>
         <source>Remove Widget</source>
         <translation>Eliminar Widget</translation>
     </message>
@@ -1422,9 +1378,32 @@ Are you sure to disable the unlock button?</source>
     </message>
 </context>
 <context>
+    <name>WidgetPropertiesDialog</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="33"/>
+        <source>Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
+        <source>Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="118"/>
+        <source>Absolute Postion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="165"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="325"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="333"/>
         <source>Unknown Widget</source>
         <translation>Widget Desconocido</translation>
     </message>

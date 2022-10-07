@@ -242,22 +242,32 @@ Esa es la razón por la que se llama &quot;SAO Utils&quot; :)</translation>
         <translation>La instalación desde fuentes desconocidas puede ser perjudicial para tu dispositivo y tus datos personales</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="159"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="158"/>
+        <source>Experimental Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="175"/>
         <source>Debug Tools</source>
         <translation>Herramientas de Depuración</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="179"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript Garbage Collection</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="168"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="184"/>
         <source>Trim QML Component Cache</source>
         <translation>Recorte de la Caché del Componente QML</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="189"/>
         <source>Empty Process Working Set</source>
         <translation>Conjunto de Operaciones de Proceso de Vaciado</translation>
     </message>
@@ -270,78 +280,78 @@ Esa es la razón por la que se llama &quot;SAO Utils&quot; :)</translation>
         <translation>Preferencias - SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="37"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="38"/>
         <source>Completed</source>
         <translation>Completado</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="63"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="64"/>
         <source>Are you sure to reset NERvGear settings to default?
 (Desktop widgets and launcher menu will NOT be affected)</source>
         <translation>¿Estás seguro de restablecer la configuración de NERvGear a los valores predeterminados?
 (Los widgets del escritorio y el menú del lanzador NO se verán afectados)</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="66"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="67"/>
         <source>Are you sure to restart NERvGear?
 (Any unsaved changes will be lost)</source>
         <translation>¿Estás seguro de reiniciar NERvGear?
 (Cualquier cambio no guardado se perderá)</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="119"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="120"/>
         <source>Preferences</source>
         <translation>Preferencias</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="138"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="139"/>
         <source>General</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>General</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="151"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="152"/>
         <source>Input</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Entrada</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="157"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="158"/>
         <source>Audio</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Audio</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="164"/>
         <source>Extensions</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Extensiones</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="169"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="170"/>
         <source>About</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Acerca de</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="175"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="176"/>
         <source>Dev. Options</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Opciones de DV</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="192"/>
         <source>Settings</source>
         <translation>Ajustes</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="195"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="196"/>
         <source>Reset to Default</source>
         <translation>Restablecer por Defecto</translation>
     </message>
@@ -676,154 +686,169 @@ Are you sure to continue?</source>
 <context>
     <name>InputSettingsView</name>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="34"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="36"/>
         <source>Action</source>
         <translation>Acción</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="42"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="44"/>
         <source>Keys</source>
         <translation>Teclas</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="62"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="64"/>
         <source>&lt;Please press keys...&gt;</source>
         <translation>&lt;Presiona las teclas...&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="77"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="84"/>
         <source>Gestures</source>
         <translation>Gestos</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
         <source>Enable Mouse Gesture</source>
         <translation>Activar Gestos del Mouse</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="86"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
         <source>Slide down to show launcher</source>
         <translation>Arrastrar hacia abajo para mostrar el lanzador</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="99"/>
         <source>Mouse Buttons</source>
         <translation>Botones del Mouse</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB + RMB</source>
         <translation>LMB + RMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB</source>
         <translation>LMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>MMB</source>
         <translation>MMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>RMB</source>
         <translation>RMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON1</source>
         <translation>XBUTTON1</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON2</source>
         <translation>XBUTTON2</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="107"/>
         <source>Mouse Sensitive</source>
         <translation>Sensibilidad del Mouse</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Low</source>
         <translation>Bajo</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>High</source>
         <translation>Alto</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
         <source>Enable Touch Gesture</source>
         <translation>Activar Gestos Táctiles</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="109"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="116"/>
         <source>Swipe down to show launcher</source>
         <translation>Deslizar hacia abajo para mostrar el lanzador</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="122"/>
         <source>Hotkeys</source>
         <translation>Teclas de Acceso Rápido</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="165"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="171"/>
         <source>Do Not Disturb</source>
         <translation>No Molestar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="179"/>
         <source>Do Not Disturb in Fullscreen</source>
         <translation>No Molestar en Pantalla Completa</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
         <source>Do Not Disturb When Processes Running</source>
         <translation>No Molestar Cuando hay Procesos en Ejecución</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="192"/>
         <source>Process List</source>
         <translation>Lista de Procesos</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="203"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="209"/>
         <source>Process Name</source>
         <translation>Nombre del Proceso</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="241"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="247"/>
         <source>Detect Foreground Processes Only</source>
         <translation>Detectar Sólo los Procesos en Primer Plano</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="248"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="254"/>
         <source>When Do Not Disturb...</source>
         <translation>No Molestar Cuando...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="253"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
         <source>Disable Mouse Gesture</source>
         <translation>Desactivar Gestos del Mouse</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
         <source>Disable Touch Gesture</source>
         <translation>Desactivar Gestos Táctiles</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="271"/>
         <source>Disable Hotkeys</source>
         <translation>Desactivar Teclas de Acceso Rápido</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="276"/>
+        <source>Custom Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
+        <source>Do Not Disturb begins...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
+        <source>Do Not Disturb ends...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -242,22 +242,32 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
         <translation>从未知来源安装扩展可能会损害您的设备和个人数据</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="159"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="158"/>
+        <source>Experimental Features</source>
+        <translation>实验性功能</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
+        <translation>提升图形性能，若 GPU 不兼容则可能使程序或系统崩溃</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="175"/>
         <source>Debug Tools</source>
         <translation>调试工具</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="179"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript 垃圾回收</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="168"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="184"/>
         <source>Trim QML Component Cache</source>
         <translation>修整 QML 组件缓存</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="189"/>
         <source>Empty Process Working Set</source>
         <translation>清空进程工作集内存</translation>
     </message>
@@ -270,72 +280,72 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
         <translation>首选项 - SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="37"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="38"/>
         <source>Completed</source>
         <translation>已完成</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="63"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="64"/>
         <source>Are you sure to reset NERvGear settings to default?
 (Desktop widgets and launcher menu will NOT be affected)</source>
         <translation>是否确认恢复 NERvGear 到出厂设置？
 （桌面挂件和启动器菜单不会受到影响）</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="66"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="67"/>
         <source>Are you sure to restart NERvGear?
 (Any unsaved changes will be lost)</source>
         <translation>是否确认重启 NERvGear？
 （所有未保存的修改将会丢失）</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="119"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="120"/>
         <source>Preferences</source>
         <translation>用户选项</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="138"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="139"/>
         <source>General</source>
         <comment>PNB</comment>
         <translation>常规 / General</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="151"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="152"/>
         <source>Input</source>
         <comment>PNB</comment>
         <translation>输入 / Input</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="157"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="158"/>
         <source>Audio</source>
         <comment>PNB</comment>
         <translation>音频 / Audio</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="164"/>
         <source>Extensions</source>
         <comment>PNB</comment>
         <translation>扩展 / Extensions</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="169"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="170"/>
         <source>About</source>
         <comment>PNB</comment>
         <translation>关于 / About</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="175"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="176"/>
         <source>Dev. Options</source>
         <comment>PNB</comment>
         <translation>开发者模式</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="192"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="195"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="196"/>
         <source>Reset to Default</source>
         <translation>恢复到默认设置</translation>
     </message>
@@ -670,154 +680,169 @@ Are you sure to continue?</source>
 <context>
     <name>InputSettingsView</name>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="34"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="36"/>
         <source>Action</source>
         <translation>动作</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="42"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="44"/>
         <source>Keys</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="62"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="64"/>
         <source>&lt;Please press keys...&gt;</source>
         <translation>&lt;按下组合按键...&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="77"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="84"/>
         <source>Gestures</source>
         <translation>手势</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
         <source>Enable Mouse Gesture</source>
         <translation>启用鼠标手势</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="86"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
         <source>Slide down to show launcher</source>
         <translation>下滑呼出启动器</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="99"/>
         <source>Mouse Buttons</source>
         <translation>鼠标按键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB + RMB</source>
         <translation>左键 + 右键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB</source>
         <translation>左键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>MMB</source>
         <translation>中键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>RMB</source>
         <translation>右键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON1</source>
         <translation>XBUTTON1</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON2</source>
         <translation>XBUTTON2</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="107"/>
         <source>Mouse Sensitive</source>
         <translation>鼠标识别灵敏度</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Low</source>
         <translation>低</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>High</source>
         <translation>高</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
         <source>Enable Touch Gesture</source>
         <translation>启用触摸手势</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="109"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="116"/>
         <source>Swipe down to show launcher</source>
         <translation>双指下滑呼出启动器</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="122"/>
         <source>Hotkeys</source>
         <translation>热键</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="165"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="171"/>
         <source>Do Not Disturb</source>
         <translation>免打扰</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="179"/>
         <source>Do Not Disturb in Fullscreen</source>
         <translation>全屏应用时进入免打扰模式</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
         <source>Do Not Disturb When Processes Running</source>
         <translation>进程运行时进入免打扰模式</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="192"/>
         <source>Process List</source>
         <translation>进程列表</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="203"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="209"/>
         <source>Process Name</source>
         <translation>进程文件名</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="241"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="247"/>
         <source>Detect Foreground Processes Only</source>
         <translation>仅检测在前台运行的进程</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="248"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="254"/>
         <source>When Do Not Disturb...</source>
         <translation>进入免打扰模式时...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="253"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
         <source>Disable Mouse Gesture</source>
         <translation>禁用鼠标手势</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
         <source>Disable Touch Gesture</source>
         <translation>禁用触摸手势</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="271"/>
         <source>Disable Hotkeys</source>
         <translation>禁用所有热键</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="276"/>
+        <source>Custom Actions</source>
+        <translation>自定义动作</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
+        <source>Do Not Disturb begins...</source>
+        <translation>免打扰模式开始...</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
+        <source>Do Not Disturb ends...</source>
+        <translation>免打扰模式结束...</translation>
     </message>
 </context>
 <context>

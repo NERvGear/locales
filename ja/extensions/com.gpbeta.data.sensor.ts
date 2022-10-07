@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja">
+<TS version="2.1" language="ja_JP">
+<context>
+    <name>BluetoothBatteryMonitorData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="8"/>
+        <source>Bluetooth Monitor Data</source>
+        <translation>Bluetooth Monitor データ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="9"/>
+        <source>Data available only if Bluetooth Battery Monitor is running and the &apos;HTTP/JSON API&apos; function is enabled. Usage:
+https://www.bluetoothgoodies.com/info/battery-monitor-api/</source>
+        <translation>データはBluetooth Battery Monitor が動作している、まだ &apos;HTTP/JSON API&apos; 機能が有効にするときに利用できます。使用法：
+https://www.bluetoothgoodies.com/info/battery-monitor-api/</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="15"/>
+        <source>Device Status</source>
+        <translation>デバイスの状態</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="35"/>
+        <source>Battery Level</source>
+        <translation>電池残量</translation>
+    </message>
+</context>
+<context>
+    <name>BluetoothBatteryMonitorValue</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorValue.qml" line="21"/>
+        <source>Device</source>
+        <translation>デバイス</translation>
+    </message>
+</context>
 <context>
     <name>CoreTempInfoData</name>
     <message>

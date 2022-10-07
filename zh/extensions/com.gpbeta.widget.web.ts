@@ -80,22 +80,22 @@
         <translation>网页动作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="29"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open File</source>
         <translation>打开文件</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open Link</source>
         <translation>打开链接</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="37"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="36"/>
         <source>File</source>
         <translation>文件</translation>
     </message>

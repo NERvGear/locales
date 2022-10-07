@@ -80,22 +80,22 @@
         <translation>Web Eylemi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="29"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open File</source>
         <translation>Dosya Aç</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open Link</source>
         <translation>Link aç</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="37"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="36"/>
         <source>File</source>
         <translation>Dosya</translation>
     </message>

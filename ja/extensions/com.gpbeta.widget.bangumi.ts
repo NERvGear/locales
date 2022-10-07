@@ -40,17 +40,17 @@
         <translation>設定...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="288"/>
         <source>No records currently.</source>
         <translation>レコードはありません。</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="293"/>
         <source>Retrieving anime schedule...</source>
         <translation>番組表取得中...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="297"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>番組表を取得できません。</translation>
     </message>
@@ -58,47 +58,47 @@
 <context>
     <name>InfoPanel</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="140"/>
         <source>Premiere</source>
         <translation>放送開始日</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="144"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="145"/>
         <source>Time</source>
         <translation>時間</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="148"/>
         <source>Episode</source>
         <translation>話数</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="150"/>
         <source>State</source>
         <translation>状態</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="151"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
         <source>FIN</source>
         <translation>放送終了</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
         <source>OFF AIR</source>
         <translation>放送時間外</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
         <source>ON AIR</source>
         <translation>放送中</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="155"/>
         <source>UNKNOWN</source>
         <translation>不明</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="159"/>
         <source>Tags</source>
         <translation>タグ</translation>
     </message>

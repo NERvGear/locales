@@ -463,12 +463,12 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>NERvGear::Imports::QmlWebView</name>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="393"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
         <source>This page is not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="394"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="389"/>
         <source>Reload</source>
         <translation type="unfinished"></translation>
     </message>

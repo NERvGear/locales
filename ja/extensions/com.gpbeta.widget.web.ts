@@ -80,22 +80,22 @@
         <translation>Web アクション</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="29"/>
         <source>Command</source>
         <translation>コマンド</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open File</source>
         <translation>ファイルを開く</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="30"/>
         <source>Open Link</source>
         <translation>リンクを開く</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="37"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/WebAction.qml" line="36"/>
         <source>File</source>
         <translation>ファイル</translation>
     </message>

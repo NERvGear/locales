@@ -242,22 +242,32 @@ Adının &quot;SAO Utils&quot; olmasının nedeni budur :)</translation>
         <translation>Bilinmeyen kaynaklardan yüklemek, cihazınıza ve kişisel verileriniz için zararlı olabilir</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="159"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="158"/>
+        <source>Experimental Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="175"/>
         <source>Debug Tools</source>
         <translation>Hata Ayıklama Araçları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="179"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript Çöp Toplama</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="168"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="184"/>
         <source>Trim QML Component Cache</source>
         <translation>QML Bileşen Önbelleğini Kırp</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="189"/>
         <source>Empty Process Working Set</source>
         <translation>Boş Proses Çalışma Seti</translation>
     </message>
@@ -270,77 +280,77 @@ Adının &quot;SAO Utils&quot; olmasının nedeni budur :)</translation>
         <translation>Tercihler - SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="37"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="38"/>
         <source>Completed</source>
         <translation>Tamamlandı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="63"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="64"/>
         <source>Are you sure to reset NERvGear settings to default?
 (Desktop widgets and launcher menu will NOT be affected)</source>
         <translation>NERvGear ayarlarını varsayılana sıfırlamak istediğinizden emin misiniz?
 (Masaüstü widget&apos;ları ve başlatıcı menüsü ETKİLENMEZ)</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="66"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="67"/>
         <source>Are you sure to restart NERvGear?
 (Any unsaved changes will be lost)</source>
         <translation>NERvGear&apos;ı yeniden başlatmak istediğinizden emin misiniz?
 (Kaydedilmemiş tüm değişiklikler kaybolacak)</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="119"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="120"/>
         <source>Preferences</source>
         <translation>Tercihler</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="138"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="139"/>
         <source>General</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Genel</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="151"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="152"/>
         <source>Input</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Giriş</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="157"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="158"/>
         <source>Audio</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Ses</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="164"/>
         <source>Extensions</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Uzantılar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="169"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="170"/>
         <source>About</source>
         <comment>PNB</comment>
         <translatorcomment>PNB</translatorcomment>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="175"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="176"/>
         <source>Dev. Options</source>
         <comment>PNB</comment>
         <translation>Geli. Seçenekleri</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="191"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="192"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="195"/>
+        <location filename="../../src/gear/qml/preferences/EditDialog.qml" line="196"/>
         <source>Reset to Default</source>
         <translation>Varsayılana sıfırla</translation>
     </message>
@@ -675,154 +685,169 @@ Devam edeceğinizden emin misiniz?</translation>
 <context>
     <name>InputSettingsView</name>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="34"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="36"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="42"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="44"/>
         <source>Keys</source>
         <translation>Tuşlar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="62"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="64"/>
         <source>&lt;Please press keys...&gt;</source>
         <translation>&lt;Lütfen tuşlara basın...&gt;</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="77"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="84"/>
         <source>Gestures</source>
         <translation>hareketler</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="85"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
         <source>Enable Mouse Gesture</source>
         <translation>Fare Hareketini Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="86"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
         <source>Slide down to show launcher</source>
         <translation>Başlatıcıyı göstermek için aşağı kaydırın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="99"/>
         <source>Mouse Buttons</source>
         <translation>Fare Düğmeleri</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB + RMB</source>
         <translation>LMB + RMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>LMB</source>
         <translation>LMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>MMB</source>
         <translation>MMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>RMB</source>
         <translation>RMB</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON1</source>
         <translation>XBUTTON1</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
         <source>XBUTTON2</source>
         <translation>XBUTTON2</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="107"/>
         <source>Mouse Sensitive</source>
         <translation>Fare hassasiyeti</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Low</source>
         <translation>Düşük</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="101"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
         <source>High</source>
         <translation>Yüksek</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
         <source>Enable Touch Gesture</source>
         <translation>Dokunma Hareketini Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="109"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="116"/>
         <source>Swipe down to show launcher</source>
         <translation>Başlatıcıyı göstermek için aşağı kaydırın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="115"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="122"/>
         <source>Hotkeys</source>
         <translation>Kısayol Tuşları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="165"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="171"/>
         <source>Do Not Disturb</source>
         <translation>Rahatsız etmeyin</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="173"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="179"/>
         <source>Do Not Disturb in Fullscreen</source>
         <translation>Tam Ekranda Rahatsız Etmeyin</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
         <source>Do Not Disturb When Processes Running</source>
         <translation>İşlemler Çalışırken Rahatsız Etmeyin</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="186"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="192"/>
         <source>Process List</source>
         <translation>İşlem listesi</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="203"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="209"/>
         <source>Process Name</source>
         <translation>İşlem adı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="241"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="247"/>
         <source>Detect Foreground Processes Only</source>
         <translation>Yalnızca Ön Plan İşlemlerini Algıla</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="248"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="254"/>
         <source>When Do Not Disturb...</source>
         <translation>Rahatsız Etmeyin...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="253"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
         <source>Disable Mouse Gesture</source>
         <translation>Fare Hareketini Devre Dışı Bırak</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
         <source>Disable Touch Gesture</source>
         <translation>Dokunma Hareketini Devre Dışı Bırak</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="271"/>
         <source>Disable Hotkeys</source>
         <translation>Kısayol Tuşlarını Devre Dışı Bırak</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="276"/>
+        <source>Custom Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
+        <source>Do Not Disturb begins...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
+        <source>Do Not Disturb ends...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -475,12 +475,12 @@ Uzantıları geçici olarak devre dışı bırakmak ister misiniz?</translation>
 <context>
     <name>NERvGear::Imports::QmlWebView</name>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="393"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
         <source>This page is not available</source>
         <translation>Bu sayfa kullanılamaz</translation>
     </message>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="394"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="389"/>
         <source>Reload</source>
         <translation>Tekrar yükle</translation>
     </message>

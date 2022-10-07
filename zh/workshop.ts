@@ -85,16 +85,25 @@
         <translation>对话框风格</translation>
     </message>
     <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="103"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="146"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="155"/>
         <location filename="../../src/apps/workshop/qml/workshop/shared.js" line="9"/>
         <source>Icon Set</source>
         <translation>图标集</translation>
     </message>
     <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="108"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="167"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="176"/>
         <location filename="../../src/apps/workshop/qml/workshop/shared.js" line="10"/>
         <source>Image Set</source>
         <translation>图片集</translation>
     </message>
     <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="113"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="188"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="197"/>
         <location filename="../../src/apps/workshop/qml/workshop/shared.js" line="11"/>
         <source>Background Set</source>
         <translation>背景集</translation>
@@ -372,19 +381,42 @@ Please restart SAO Utils to apply the updates</source>
 <context>
     <name>PageUpdateEdit</name>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="108"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="134"/>
         <source>Title</source>
         <translation>标题</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="118"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="144"/>
         <source>Description</source>
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="138"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateEdit.qml" line="182"/>
         <source>Select a folder containing a package.json file</source>
         <translation>选择一个包含 package.json 扩展描述文件的目录</translation>
+    </message>
+</context>
+<context>
+    <name>PageUpdateManifest</name>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="63"/>
+        <source>Title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="81"/>
+        <source>Package</source>
+        <translation>标识</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="90"/>
+        <source>Resources</source>
+        <translation>资源</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="128"/>
+        <source>%1 Files</source>
+        <translation>%1 个文件</translation>
     </message>
 </context>
 <context>
@@ -455,35 +487,105 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
 <context>
     <name>PageUpdateType</name>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="57"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="56"/>
         <source>Custom Pack</source>
         <translation>自定义内容</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="60"/>
-        <source>Coming soon...</source>
-        <translation>即将实装...</translation>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="59"/>
+        <source>Craft and customize a resource package</source>
+        <translation>创建并分享自行定制的资源包</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="64"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="63"/>
         <source>Import Package</source>
         <translation>导入扩展包</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="67"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="66"/>
         <source>Import and upload an extension package</source>
         <translation>导入并上传已制作好的扩展包</translation>
     </message>
 </context>
 <context>
+    <name>ResourceBuilder</name>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="12"/>
+        <source>Files in resource folder should be named in forms:
+- Normal state: XXX.png
+- (Optional) Hovered: XXX-hovered.png
+- (Optional) Pressed: XXX-pressed.png</source>
+        <translation>资源目录内的文件应按照以下规则命名：
+- 通常时：XXX.png
+-（可选）悬停时：XXX-hovered.png
+-（可选）按下时：XXX-pressed.png</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="18"/>
+        <source>Supported image formats:
+*.PNG, *.JPG, *.JPEG, *.BMP, *.ICO, *.GIF</source>
+        <translation>支持的图片格式：
+*.PNG, *.JPG, *.JPEG, *.BMP, *.ICO, *.GIF</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="70"/>
+        <source>Duplicate resource location:
+
+%1
+(%2)</source>
+        <translation>重复的资源定位：
+
+%1
+（%2）</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="126"/>
+        <source>Add Resource...</source>
+        <translation>添加资源...</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="133"/>
+        <source>Leave it blank to keep original data</source>
+        <translation>留空则保留原有数据</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceBuilderFolderDialog</name>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="53"/>
+        <source>Title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="60"/>
+        <source>Location</source>
+        <translation>定位</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="61"/>
+        <source>Invalid location path</source>
+        <translation>无效的定位路径</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="69"/>
+        <source>Folder</source>
+        <translation>目录</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="75"/>
+        <source>Include Sub Folders</source>
+        <translation>包含子目录</translation>
+    </message>
+</context>
+<context>
     <name>ResourcePicker</name>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/ResourcePicker.qml" line="21"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourcePicker.qml" line="20"/>
         <source>Resource Folder</source>
         <translation>资源目录</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/ResourcePicker.qml" line="32"/>
+        <location filename="../../src/apps/workshop/qml/workshop/ResourcePicker.qml" line="31"/>
         <source>Leave it blank to keep original data</source>
         <translation>留空则保留原有数据</translation>
     </message>
@@ -525,32 +627,42 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
 <context>
     <name>UpdateDrawer</name>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="148"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="73"/>
+        <source>Failed to create resource package.</source>
+        <translation>创建资源包失败</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="185"/>
         <source>Workshop Item</source>
         <translation>工坊物品</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="150"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="187"/>
         <source>Custom Pack</source>
         <translation>自定义内容</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="151"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="188"/>
         <source>Import Package</source>
         <translation>导入扩展包</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="203"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="241"/>
         <source>Modify</source>
         <translation>修改</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="223"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="260"/>
         <source>Publish</source>
         <translation>发布</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="235"/>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="260"/>
+        <source>Craft</source>
+        <translation>制作</translation>
+    </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="274"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>

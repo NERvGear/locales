@@ -40,17 +40,17 @@
         <translation>設置...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="288"/>
         <source>No records currently.</source>
         <translation>暫無記錄。</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="293"/>
         <source>Retrieving anime schedule...</source>
         <translation>正在獲取動畫列表...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="297"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>無法獲取動畫列表。</translation>
     </message>
@@ -58,47 +58,47 @@
 <context>
     <name>InfoPanel</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="140"/>
         <source>Premiere</source>
         <translation>首映</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="144"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="145"/>
         <source>Time</source>
         <translation>時間</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="148"/>
         <source>Episode</source>
         <translation>話數</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="150"/>
         <source>State</source>
         <translation>狀態</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="151"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
         <source>FIN</source>
         <translation>完結</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
         <source>OFF AIR</source>
         <translation>停播</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
         <source>ON AIR</source>
         <translation>連載中</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="155"/>
         <source>UNKNOWN</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="159"/>
         <source>Tags</source>
         <translation>標簽</translation>
     </message>

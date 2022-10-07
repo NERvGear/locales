@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh">
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>BluetoothBatteryMonitorData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="8"/>
+        <source>Bluetooth Monitor Data</source>
+        <translation>Bluetooth Monitor 数据</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="9"/>
+        <source>Data available only if Bluetooth Battery Monitor is running and the &apos;HTTP/JSON API&apos; function is enabled. Usage:
+https://www.bluetoothgoodies.com/info/battery-monitor-api/</source>
+        <translation>数据仅当 Bluetooth Battery Monitor 运行时可用，且需要手动启用其 &apos;HTTP/JSON API&apos; 功能。用法：
+https://www.bluetoothgoodies.com/info/battery-monitor-api/</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="15"/>
+        <source>Device Status</source>
+        <translation>设备状态</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorData.qml" line="35"/>
+        <source>Battery Level</source>
+        <translation>电量等级</translation>
+    </message>
+</context>
+<context>
+    <name>BluetoothBatteryMonitorValue</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.sensor/qml/BluetoothBatteryMonitorValue.qml" line="21"/>
+        <source>Device</source>
+        <translation>设备</translation>
+    </message>
+</context>
 <context>
     <name>CoreTempInfoData</name>
     <message>

@@ -57,11 +57,6 @@ https://github.com/RangerCD/foo-cad-plus/releases</source>
 需要安装 foo_cad_plus 组件的 Foobar 2000 播放器：
 https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/CADMusicAction.qml" line="45"/>
-        <source>Command</source>
-        <translation>命令</translation>
-    </message>
 </context>
 <context>
     <name>CADMusicData</name>
@@ -182,75 +177,80 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
+        <source>Shuffle Playback</source>
+        <translation>随机播放</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="81"/>
         <source>Transition Animation</source>
         <translation>过场动画</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="86"/>
         <source>Random</source>
         <translation>随机</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="109"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="117"/>
         <source>Animation Speed</source>
         <translation>动画速度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Fast</source>
         <translation>快</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Normal</source>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Slow</source>
         <translation>慢</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="140"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
         <source>Change Image Every</source>
         <translation>更换图片每</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="142"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
         <source>Second</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="143"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="144"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="145"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="151"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="153"/>
         <source>Seconds</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="146"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="154"/>
         <source>Minute</source>
         <translation>分钟</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="156"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="157"/>
         <source>Minutes</source>
         <translation>分钟</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="158"/>
         <source>Hour</source>
         <translation>小时</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="199"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="207"/>
         <source>Action</source>
         <translation>动作</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="200"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="208"/>
         <source>Defaults to toggle slideshow</source>
         <translation>默认播放/暂停幻灯片</translation>
     </message>
@@ -258,14 +258,47 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
 <context>
     <name>GalleryWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="13"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="14"/>
         <source>Gallery Widget</source>
         <translation>幻灯片画廊挂件</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="23"/>
         <source>Settings...</source>
         <translation>设置...</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation>播放 / 暂停</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation>播放</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="12"/>
+        <source>Next Image</source>
+        <translation>下一张</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="13"/>
+        <source>Previous Image</source>
+        <translation>上一张</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <source>Gallery Action</source>
+        <translation>画廊动作</translation>
     </message>
 </context>
 <context>
@@ -361,6 +394,14 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>SelectCommandPreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SelectCommandPreference.qml" line="5"/>
+        <source>Command</source>
+        <translation>命令</translation>
+    </message>
+</context>
+<context>
     <name>SystemMediaAction</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="11"/>
@@ -406,11 +447,6 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="21"/>
         <source>System media control actions</source>
         <translation>系统多媒体控制动作</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="40"/>
-        <source>Command</source>
-        <translation>命令</translation>
     </message>
 </context>
 <context>
