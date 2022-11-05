@@ -342,6 +342,181 @@ All currently configured widgets will be lost!!</source>
     </message>
 </context>
 <context>
+    <name>GuideContent</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="59"/>
+        <source>User Guide</source>
+        <translation>取扱説明書</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="130"/>
+        <source>Next</source>
+        <translation>次へ</translation>
+    </message>
+</context>
+<context>
+    <name>GuideData</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="7"/>
+        <source>Overview</source>
+        <translation>概要</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="12"/>
+        <source>&lt;h4&gt;Welcome to SAO Utils 2&lt;/h4&gt;
+&lt;p&gt;SAO Utils provides you a fresh-new customizable Full-Dive 3D app launcher with varieties of themes, desktop widgets and powerful utilities.&lt;/p&gt;
+&lt;p&gt;Its pluggable architecture allows anyone to add any kinds of extensions to the core program.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;SAO Utils 2 へようこそ&lt;/h4&gt;
+&lt;p&gt;SAO Utils とは、さまざまなテーマやデスクトップウィジェットや強力なユーティリを備えたカスタマイズ可能な 3D アプリランチャーです。&lt;/p&gt;
+&lt;p&gt;メニューは任意のアプリケーションを起動したり、プラグインによって様々な機能を追加したり、お好きなだけカストマイズできます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="17"/>
+        <source>&lt;h4&gt;System Tray Icon&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click on the tray icon to call out the launcher.&lt;/p&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the tray icon to popup tray menu, you can find the Launcher Menu Editor, Widget Gallery, Preferences, etc. or even &lt;b&gt;Exit SAO Utils&lt;/b&gt; here.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;システムトレイアイコン&lt;/h4&gt;
+&lt;p&gt;マウス &lt;kbd&gt;LMB&lt;/kbd&gt; クリックするとランチャーが呼び出されます。&lt;/p&gt;
+&lt;p&gt;マウス &lt;kbd&gt;RMB&lt;/kbd&gt; クリックするとトレイメニューが表示し、ランチャーメニューエディター、ウィジェットギャラリー、環境設定などを見つけることも &lt;b&gt;SAO Utils から脱出&lt;/b&gt;することもできます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="25"/>
+        <source>App Launcher</source>
+        <translation>アプリランチャー</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="30"/>
+        <source>&lt;h4&gt;3D Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Hold mouse &lt;kbd&gt;LMB&lt;/kbd&gt; and &lt;kbd&gt;RMB&lt;/kbd&gt; and slide down, or use keyboard shortcut &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt; to call out the launcher anywhere, anytime.&lt;/p&gt;
+&lt;p&gt;To launch an app or game, mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click the menu item. By holding &lt;kbd&gt;Ctrl&lt;/kbd&gt; and clicking menu items, you can open multiple programs at one time.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;3Dランチャーメニュー&lt;/h4&gt;
+&lt;p&gt;マウス &lt;kbd&gt;LMB&lt;/kbd&gt; と &lt;kbd&gt;RMB&lt;/kbd&gt; を押したまま下にスライドか、キーボードショートカット &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt; で、どこでもランチャーを呼び出すことができます。&lt;/p&gt;
+&lt;p&gt;メニュー項目をマウス &lt;kbd&gt;LMB&lt;/kbd&gt; クリックするとアプリやゲームを起動し、キーボード &lt;kbd&gt;Ctrl&lt;/kbd&gt; を押しながらメニュー項目をクリックすると複数のソフトを開くことができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="35"/>
+        <source>&lt;h4&gt;Launcher Fine-tuning&lt;/h4&gt;
+&lt;p&gt;Click the menu icon at the top left corner to show &lt;b&gt;Launcher Options&lt;/b&gt;, where you can change the Menu Position, Background Density, 3D Mode, Graphics Effects, etc. in real time.&lt;/p&gt;
+&lt;p&gt;Note that mouse gesture and shortcut settings could be found via &lt;b&gt;Preferences - Input&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ランチャーの調整&lt;/h4&gt;
+&lt;p&gt;左上のメニューアイコンをクリックすると、「ランチャーオプション」が表示され、メニューの位置、背景の濃度、3Dモード、グラフィック効果などをリアルタイムに変更することができます。&lt;/p&gt;
+&lt;p&gt;マウスジェスチャとショートカットの設定は、「環境設定 - 入力」で確認できます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="40"/>
+        <source>&lt;h4&gt;Launcher Menu Styles&lt;/h4&gt;
+&lt;p&gt;You can find the &lt;b&gt;Launcher Menu Editor&lt;/b&gt; from the tray icon menu or the Launcher Options, and click the Style button in the top left corner to switch between different menu styles.&lt;/p&gt;
+&lt;p&gt;Click the Menu button in the top right corner to reset the launcher menu to factory settings.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ランチャーメニューのスタイル&lt;/h4&gt;
+&lt;p&gt;トレイアイコンメニューまたはランチャーオプションから「ランチャーメニューエディター」を見つけ、左上のスタイルボタンをクリックすると、メニューのスタイルを切り替えることができます。&lt;/p&gt;
+&lt;p&gt;右上のメニューボタンをクリックすると、ランチャーメニューを初期化することがます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="45"/>
+        <source>&lt;h4&gt;Editing Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; menu items to rearrange the order of items, and click the [+] and [-] buttons to the right of the items to add or remove any number of menu items.&lt;/p&gt;
+&lt;p&gt;The name, type (Action, Menu, Folder), icon, etc. of an item could be changed on the right side panel.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ランチャーメニューの編集&lt;/h4&gt;
+&lt;p&gt;メニュー項目をマウス &lt;kbd&gt;ドラッグ＆ドロップ&lt;/kbd&gt; して順番を入れ替えたり、項目の右にある「＋」「-」ボタンをクリックして、メニュー項目をいくつでも追加・削除することができます。&lt;/p&gt;
+&lt;p&gt;右側のパネルで、アイテムの名前、タイプ（アクション、メニュー、フォルダー）、アイコンなどを変更することができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="53"/>
+        <source>Desktop Widgets</source>
+        <translation>ウィジェット</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="58"/>
+        <source>&lt;h4&gt;Adjusting Widget Position and Size&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; drag on the frame title to move the widget, and drag on the frame edges to resize it.&lt;/p&gt;
+&lt;p&gt;The widget frame can be set to Always Show, Always Hide or Auto Hide in the &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ウィジェットの移動とリサイズ&lt;/h4&gt;
+&lt;p&gt;マウス &lt;kbd&gt;LMB&lt;/kbd&gt; でフレームタイトルをドラッグするとウィジェットが移動し、フレームエッジをドラッグするとリサイズされます。&lt;/p&gt;
+&lt;p&gt;ウィジェットフレームは、ウィジェットメニューで「常に表示」「常に非表示」「自動的に非表示」に設定することができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="63"/>
+        <source>&lt;h4&gt;Widget Options&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the widget to display the &lt;b&gt;Widget Menu&lt;/b&gt;, where you can set the properties such as Always on Top, Mouse Click-through, Anchor and Opacity, as well as customize the widget and remove it.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ウィジェットオプション&lt;/h4&gt;
+&lt;p&gt;ウィジェット上でマウス &lt;kbd&gt;RMB&lt;/kbd&gt; クリックすると、ウィジェットメニューが表示され、「常に最前面に表示」「マウスクリック」「アンカー」「不透明度」などのプロパティを設定したり、ウィジェットのカスタマイズや削除をすることができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="67"/>
+        <source>&lt;h4&gt;Widget Management&lt;/h4&gt;
+&lt;p&gt;In &lt;b&gt;Widget Gallery&lt;/b&gt;, mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; any items to place widgets on the desktop, and you can save the widgets configured on the desktop to &lt;b&gt;My Widget&lt;/b&gt; for reuse and sharing.&lt;/p&gt;
+&lt;p&gt;You can even switch between a whole set of desktop widgets under the &lt;b&gt;Theme&lt;/b&gt; tab in the top right corner, and similarly, save the layout of the widgets on the desktop to &lt;b&gt;My Themes&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ウィジェットの管理&lt;/h4&gt;
+&lt;p&gt;「ウィジェットギャラリー」では、任意のアイテムをマウス &lt;kbd&gt;ドラッグ＆ドロップ&lt;/kbd&gt; でデスクトップにウィジェットを配置し、さらに設定したウィジェットを「マイウィジェット」に保存して再利用・共有することができます。&lt;/p&gt;
+&lt;p&gt;右上の「テーマ」タブでデスクトップのウィジェット全体を切り替えることもできますし、同様にデスクトップのウィジェット配置を「マイテーマ」に保存することもできます&#x3000;。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="72"/>
+        <source>&lt;h4&gt;Widget Properties&lt;/h4&gt;
+&lt;p&gt;You can set individual titles, and precisely control the position and size for each widget in the &lt;b&gt;Properties&lt;/b&gt; panel from &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;b&gt;Anchor Mode&lt;/b&gt; affects the actual position of a widget on screens with different resolutions, so pay attention to it when creating and sharing widgets themes.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ウィジェットプロパティ&lt;/h4&gt;
+&lt;p&gt;ウィジェットメニューの「プロパティ」パネルで、個々のウィジェットにタイトルを設定し、位置や大きさを細かく調整することができます。&lt;/p&gt;
+&lt;p&gt;「アンカーモード」は、解像度の異なる画面でのウィジェットの実際の位置に影響しますので、ウィジェットテーマを作成・共有する際には注意してください。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="77"/>
+        <source>&lt;h4&gt;Placing Widgets in Launcher&lt;/h4&gt;
+&lt;p&gt;You can set the widget to be displayed on the desktop or inside the launcher via &lt;b&gt;Widget Menu - Display on&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;In the 3D launcher, the widget frame can be moved or resized just like on the desktop, and the Z-depth can be changed by mouse &lt;kbd&gt;RMB&lt;/kbd&gt; dragging on the frame title.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;ランチャーにウィジェットの配置&lt;/h4&gt;
+&lt;p&gt;「ウィジェットメニュー - 表示場所」で、デスクトップまたはランチャー内にウィジェットを表示するよう設定することができます。&lt;/p&gt;
+&lt;p&gt;3D ランチャーでは、デスクトップと同様にウィジェットフレームの移動やリサイズが可能で、マウス &lt;kbd&gt;RMB&lt;/kbd&gt; でフレームタイトルをドラッグすると Z 深度を変更することができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="85"/>
+        <source>Extensions</source>
+        <translation>拡張機能</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="90"/>
+        <source>&lt;h4&gt;Extension Management&lt;/h4&gt;
+&lt;p&gt;You can manage extensions via &lt;b&gt;Preferences - Extensions&lt;/b&gt;, the &lt;b&gt;Resources&lt;/b&gt; will be disabled when its providing extension is disabled.&lt;/p&gt;
+&lt;p&gt;In extension&apos;s &lt;b&gt;Details&lt;/b&gt; page, you can also find the information such as Description, Dependencies, Package Name, Homepage, etc.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;エクステンションの管理&lt;/h4&gt;
+&lt;p&gt;「環境設定 - 拡張機能」では拡張機能を管理することができます。拡張機能を無効化すると、提供されている「リソース」も無効化されます。&lt;/p&gt;
+&lt;p&gt;拡張機能の「詳細ページ」では、説明、依存関係、パッケージ名、ホームページなどの情報も見ることができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="95"/>
+        <source>&lt;h4&gt;The Resource System&lt;/h4&gt;
+&lt;p&gt;Most things(Widgets, Menus, Data, Actions, Icons, Backgrounds, etc.) you can access in the system are organized in the form of &lt;b&gt;Resources&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;A resource can also nest or reference other resources to provide varieties of features, so that developers can use resources from other extensions, or provide resources for others in their own extensions.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;リソース・システム&lt;/h4&gt;
+&lt;p&gt;システムでアクセスできるほとんどのもの（ウィジェット、メニュー、データ、アクション、アイコン、背景など）は、「リソース」という形で整理されています。&lt;/p&gt;
+&lt;p&gt;リソースは、様々な機能を提供するために、他のリソースを入れ子にしたり参照したりすることもできます。開発者は、他の拡張機能のリソースを使用したり、自分の拡張機能で他の人にリソースを提供したりすることができます。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="103"/>
+        <source>About</source>
+        <translation>情報</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="108"/>
+        <source>&lt;h4&gt;Thank You for Using SAO Utils&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;There are still many useful settings in &lt;a href=&apos;#preferences&apos;&gt;Preferences&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;More widgets, launcher menus and resources? + &lt;a href=&apos;#workshop&apos;&gt;Workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Found bugs or ideas? + &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;Submit an Issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Developing extensions or scripts? + &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completed guide or video tutorials? + &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;Guide Book&lt;/a&gt; &lt;a href=&apos;https://www.youtube.com/c/StudioGPBeta/videos&apos;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;</source>
+        <translation>&lt;h4&gt;SAO Utils をご利用いただきありがとうございます&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&apos;#preferences&apos;&gt;環境設定&lt;/a&gt; には便利な設定がまだたくさんあります！&lt;/li&gt;
+&lt;li&gt;ウィジェット、メニュー、リソースの充実？＋ &lt;a href=&apos;#workshop&apos;&gt;ワークショップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;バグやアイデアがあれば？＋ &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;問題を報告&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;エクステンションやスクリプトの開発？＋ &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;攻略ガイドやビデオチュートリアル？＋ &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;ガイドブック&lt;/a&gt; &lt;a href=&apos;https://www.youtube.com/c/StudioGPBeta/videos&apos;&gt;ビデオ&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;</translation>
+    </message>
+</context>
+<context>
     <name>HddData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="8"/>
@@ -1041,27 +1216,32 @@ global: Object, 値間での共有</translation>
         <translation>ワークショップ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
-        <source>Manage &amp;Widgets</source>
-        <translation>ウィジェットの管理 (&amp;W)</translation>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <source>User Guide</source>
+        <translation>取扱説明書</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
-        <source>Customize &amp;Launcher</source>
-        <translation>ランチャーのカスタマイズ (&amp;L)</translation>
+        <source>Manage &amp;Widgets</source>
+        <translation>ウィジェットを管理 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="34"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
+        <source>Customize &amp;Launcher</source>
+        <translation>ランチャーを編集 (&amp;L)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
         <source>&amp;Preferences</source>
         <translation>環境設定 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
         <source>Exit</source>
         <translation>SAO Utils を終了</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>Are you sure to exit ?</source>
         <translation>本当にログアウトしますか？</translation>
     </message>
@@ -1116,40 +1296,58 @@ global: Object, 値間での共有</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="21"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Toggle Widget</source>
         <translation>トグルウィジェット</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="22"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Show Widget</source>
         <translation>ウィジェットを表示</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="23"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Hide Widget</source>
         <translation>ウィジェットを非表示</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="24"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Widget Custom</source>
         <translation>ウィジェットカスタム</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="29"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="142"/>
+        <source>Group</source>
+        <translation>グループ</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="88"/>
         <source>Command</source>
         <translation>コマンド</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="95"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="118"/>
+        <source>Target</source>
+        <translation>対象</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="126"/>
         <source>Widget</source>
         <translation>ウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="143"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;デフォルト&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="150"/>
         <source>Custom Action</source>
         <translation>カスタムアクション</translation>
     </message>
@@ -1230,17 +1428,17 @@ Are you sure to disable the unlock button?</source>
         <translation>私のウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="364"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="366"/>
         <source>Preset Themes</source>
         <translation>プリセットテーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="369"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
         <source>My Themes</source>
         <translation>私のテーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="387"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="389"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;空白&gt;</translation>
     </message>
@@ -1253,7 +1451,7 @@ Are you sure to disable the unlock button?</source>
         <translation>ウィジェットギャラリー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="256"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
         <source>Are you sure to remove this widget?</source>
         <translation>このウィジェットを削除しますか？</translation>
     </message>
@@ -1385,17 +1583,27 @@ Are you sure to disable the unlock button?</source>
         <translation>タイトル</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <source>Group</source>
+        <translation>グループ</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;デフォルト&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
         <source>Absolute Postion</source>
         <translation>絶対位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="165"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
@@ -1403,7 +1611,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
         <source>Unknown Widget</source>
         <translation>不明なウィジェット</translation>
     </message>
@@ -1411,7 +1619,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="237"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="54"/>
+        <source>Welcome to SAO Utils</source>
+        <translation>SAO Utils へようこそ</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>ソード·アート·オンライン へようこそ.</translation>
     </message>

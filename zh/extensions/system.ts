@@ -342,6 +342,181 @@ All currently configured widgets will be lost!!</source>
     </message>
 </context>
 <context>
+    <name>GuideContent</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="59"/>
+        <source>User Guide</source>
+        <translation>用户指南</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="130"/>
+        <source>Next</source>
+        <translation>下一页</translation>
+    </message>
+</context>
+<context>
+    <name>GuideData</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="7"/>
+        <source>Overview</source>
+        <translation>简述</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="12"/>
+        <source>&lt;h4&gt;Welcome to SAO Utils 2&lt;/h4&gt;
+&lt;p&gt;SAO Utils provides you a fresh-new customizable Full-Dive 3D app launcher with varieties of themes, desktop widgets and powerful utilities.&lt;/p&gt;
+&lt;p&gt;Its pluggable architecture allows anyone to add any kinds of extensions to the core program.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;欢迎使用 SAO Utils 2&lt;/h4&gt;
+&lt;p&gt;SAO Utils 是一款专注于 ACG 主题化的 3D 应用启动器，更为玩家提供各种主题、桌面挂件和实用工具。&lt;/p&gt;
+&lt;p&gt;通过它的扩展框架，任何人都可以为其开发、分享脚本或配置文件，打开个性化桌面的新世界大门！&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="17"/>
+        <source>&lt;h4&gt;System Tray Icon&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click on the tray icon to call out the launcher.&lt;/p&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the tray icon to popup tray menu, you can find the Launcher Menu Editor, Widget Gallery, Preferences, etc. or even &lt;b&gt;Exit SAO Utils&lt;/b&gt; here.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;托盘图标&lt;/h4&gt;
+&lt;p&gt;鼠标 &lt;kbd&gt;左键&lt;/kbd&gt; 点击托盘图标可以呼出启动器。&lt;/p&gt;
+&lt;p&gt;鼠标 &lt;kbd&gt;右键&lt;/kbd&gt; 点击托盘图标弹出功能菜单，这里除了可以打开【启动器菜单编辑器】、【挂件库】和【首选项】等设置外，你甚至还可以 &lt;b&gt;退出 SAO Utils&lt;/b&gt;。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="25"/>
+        <source>App Launcher</source>
+        <translation>应用启动器</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="30"/>
+        <source>&lt;h4&gt;3D Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Hold mouse &lt;kbd&gt;LMB&lt;/kbd&gt; and &lt;kbd&gt;RMB&lt;/kbd&gt; and slide down, or use keyboard shortcut &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt; to call out the launcher anywhere, anytime.&lt;/p&gt;
+&lt;p&gt;To launch an app or game, mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click the menu item. By holding &lt;kbd&gt;Ctrl&lt;/kbd&gt; and clicking menu items, you can open multiple programs at one time.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;打开 3D 启动器&lt;/h4&gt;
+&lt;p&gt;按住鼠标 &lt;kbd&gt;左键&lt;/kbd&gt; 和 &lt;kbd&gt;右键&lt;/kbd&gt; 后向下滑动鼠标，或使用键盘快捷键 &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt; 即可随时随地呼出启动器。&lt;/p&gt;
+&lt;p&gt;鼠标 &lt;kbd&gt;左键&lt;/kbd&gt; 点击菜单项即可快速启动应用或游戏，按住键盘 &lt;kbd&gt;Ctrl&lt;/kbd&gt; 后点击菜单项可多开程序并保持启动器显示。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="35"/>
+        <source>&lt;h4&gt;Launcher Fine-tuning&lt;/h4&gt;
+&lt;p&gt;Click the menu icon at the top left corner to show &lt;b&gt;Launcher Options&lt;/b&gt;, where you can change the Menu Position, Background Density, 3D Mode, Graphics Effects, etc. in real time.&lt;/p&gt;
+&lt;p&gt;Note that mouse gesture and shortcut settings could be found via &lt;b&gt;Preferences - Input&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;调整启动器&lt;/h4&gt;
+&lt;p&gt;点击启动器左上角的菜单图标可显示【启动器快捷选项】，这里可以实时设置菜单跟随鼠标、背景颜色浓度、开关 3D 模式和画面特效等选项。&lt;/p&gt;
+&lt;p&gt;呼出启动器的鼠标手势和键盘快捷键都可以在【首选项 - 输入】中设置。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="40"/>
+        <source>&lt;h4&gt;Launcher Menu Styles&lt;/h4&gt;
+&lt;p&gt;You can find the &lt;b&gt;Launcher Menu Editor&lt;/b&gt; from the tray icon menu or the Launcher Options, and click the Style button in the top left corner to switch between different menu styles.&lt;/p&gt;
+&lt;p&gt;Click the Menu button in the top right corner to reset the launcher menu to factory settings.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;启动器菜单风格&lt;/h4&gt;
+&lt;p&gt;通过托盘图标菜单或【启动器快捷选项】页面可找到【启动器菜单编辑器】，点击左上角的设置按钮可在不同的菜单风格间切换。&lt;/p&gt;
+&lt;p&gt;点击右上角的菜单按钮可以把启动器菜单恢复到出厂设置。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="45"/>
+        <source>&lt;h4&gt;Editing Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; menu items to rearrange the order of items, and click the [+] and [-] buttons to the right of the items to add or remove any number of menu items.&lt;/p&gt;
+&lt;p&gt;The name, type (Action, Menu, Folder), icon, etc. of an item could be changed on the right side panel.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;编辑启动器菜单&lt;/h4&gt;
+&lt;p&gt;使用鼠标 &lt;kbd&gt;拖拽&lt;/kbd&gt; 菜单项即可快速重排项目顺序，点击项目右方【+】和【-】按钮可添加删除任意数量的菜单项。&lt;/p&gt;
+&lt;p&gt;在编辑器右侧可设置项目的名字、类型（动作、自定义子菜单、系统目录）和图标等选项。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="53"/>
+        <source>Desktop Widgets</source>
+        <translation>桌面挂件</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="58"/>
+        <source>&lt;h4&gt;Adjusting Widget Position and Size&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; drag on the frame title to move the widget, and drag on the frame edges to resize it.&lt;/p&gt;
+&lt;p&gt;The widget frame can be set to Always Show, Always Hide or Auto Hide in the &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;调整挂件位置和尺寸&lt;/h4&gt;
+&lt;p&gt;鼠标 &lt;kbd&gt;左键&lt;/kbd&gt; 按住挂件边框的标题拖动即可移动挂件，拖动边框四周可改变挂件的大小。&lt;/p&gt;
+&lt;p&gt;挂件边框可以在【挂件菜单】中设置总是显示、总是隐藏或悬停显示。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="63"/>
+        <source>&lt;h4&gt;Widget Options&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the widget to display the &lt;b&gt;Widget Menu&lt;/b&gt;, where you can set the properties such as Always on Top, Mouse Click-through, Anchor and Opacity, as well as customize the widget and remove it.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;挂件选项&lt;/h4&gt;
+&lt;p&gt;鼠标 &lt;kbd&gt;右键&lt;/kbd&gt; 点击挂件可显示【挂件菜单】，这里除了可以设置挂件的置顶、点击穿透、对齐方式和透明度等属性外，还可以设置挂件的自定义选项和移除挂件。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="67"/>
+        <source>&lt;h4&gt;Widget Management&lt;/h4&gt;
+&lt;p&gt;In &lt;b&gt;Widget Gallery&lt;/b&gt;, mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; any items to place widgets on the desktop, and you can save the widgets configured on the desktop to &lt;b&gt;My Widget&lt;/b&gt; for reuse and sharing.&lt;/p&gt;
+&lt;p&gt;You can even switch between a whole set of desktop widgets under the &lt;b&gt;Theme&lt;/b&gt; tab in the top right corner, and similarly, save the layout of the widgets on the desktop to &lt;b&gt;My Themes&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;挂件管理&lt;/h4&gt;
+&lt;p&gt;在【挂件库】中 &lt;kbd&gt;拖拽&lt;/kbd&gt; 任意挂件到桌面即可完成添加挂件的操作，还可以把桌面上配置的挂件保存到【我的挂件】方便重复使用和分享。&lt;/p&gt;
+&lt;p&gt;在右上角【主题】分页下你甚至可以快速切换一整套的桌面挂件，同样，在【我的主题】下可以保存桌面上的挂件排版。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="72"/>
+        <source>&lt;h4&gt;Widget Properties&lt;/h4&gt;
+&lt;p&gt;You can set individual titles, and precisely control the position and size for each widget in the &lt;b&gt;Properties&lt;/b&gt; panel from &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;b&gt;Anchor Mode&lt;/b&gt; affects the actual position of a widget on screens with different resolutions, so pay attention to it when creating and sharing widgets themes.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;挂件属性&lt;/h4&gt;
+&lt;p&gt;通过【挂件菜单】打开属性面板，可以为每一个挂件设置单独的标题，还可以精确地控制挂件的位置和大小。&lt;/p&gt;
+&lt;p&gt;【定位模式】会影响不同分辨率的显示器下挂件的实际位置，在制作和分享挂件主题的时候需要特别注意。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="77"/>
+        <source>&lt;h4&gt;Placing Widgets in Launcher&lt;/h4&gt;
+&lt;p&gt;You can set the widget to be displayed on the desktop or inside the launcher via &lt;b&gt;Widget Menu - Display on&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;In the 3D launcher, the widget frame can be moved or resized just like on the desktop, and the Z-depth can be changed by mouse &lt;kbd&gt;RMB&lt;/kbd&gt; dragging on the frame title.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;启动器内的挂件操作&lt;/h4&gt;
+&lt;p&gt;通过【挂件菜单 - 显示于】可以设置挂件在桌面或启动器内显示。&lt;/p&gt;
+&lt;p&gt;在启动器 3D 模式中，挂件边框可以和桌面模式一样移动和调整大小，鼠标 &lt;kbd&gt;右键&lt;/kbd&gt; 按住边框标题拖动还可以改变挂件的前后位置。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="85"/>
+        <source>Extensions</source>
+        <translation>扩展</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="90"/>
+        <source>&lt;h4&gt;Extension Management&lt;/h4&gt;
+&lt;p&gt;You can manage extensions via &lt;b&gt;Preferences - Extensions&lt;/b&gt;, the &lt;b&gt;Resources&lt;/b&gt; will be disabled when its providing extension is disabled.&lt;/p&gt;
+&lt;p&gt;In extension&apos;s &lt;b&gt;Details&lt;/b&gt; page, you can also find the information such as Description, Dependencies, Package Name, Homepage, etc.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;扩展管理&lt;/h4&gt;
+&lt;p&gt;你可以通过【首选项 - 扩展】对扩展进行管理，当一个扩展被禁用时，其提供的【资源】也将一同被禁用。&lt;/p&gt;
+&lt;p&gt;打开扩展的【详情】页，你还能找到扩展描述、依赖、包标识以及主页等信息。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="95"/>
+        <source>&lt;h4&gt;The Resource System&lt;/h4&gt;
+&lt;p&gt;Most things(Widgets, Menus, Data, Actions, Icons, Backgrounds, etc.) you can access in the system are organized in the form of &lt;b&gt;Resources&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;A resource can also nest or reference other resources to provide varieties of features, so that developers can use resources from other extensions, or provide resources for others in their own extensions.&lt;/p&gt;</source>
+        <translation>&lt;h4&gt;资源系统&lt;/h4&gt;
+&lt;p&gt;大部分你能接触的东西（挂件、菜单、数据、动作、图标、背景……）都是以【资源】形式组织管理。&lt;/p&gt;
+&lt;p&gt;资源还可以通过嵌套或引用其他资源实现各种各样的功能，因此开发者既可以使用其他扩展提供的资源，也可以在自己的扩展中为别人提供资源。&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="103"/>
+        <source>About</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="108"/>
+        <source>&lt;h4&gt;Thank You for Using SAO Utils&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;There are still many useful settings in &lt;a href=&apos;#preferences&apos;&gt;Preferences&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;More widgets, launcher menus and resources? + &lt;a href=&apos;#workshop&apos;&gt;Workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Found bugs or ideas? + &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;Submit an Issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Developing extensions or scripts? + &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completed guide or video tutorials? + &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;Guide Book&lt;/a&gt; &lt;a href=&apos;https://www.youtube.com/c/StudioGPBeta/videos&apos;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;</source>
+        <translation>&lt;h4&gt;感谢使用 SAO Utils&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;还有很多有用的设置在 &lt;a href=&apos;#preferences&apos;&gt;首选项&lt;/a&gt; 等待你的发现！&lt;/li&gt;
+&lt;li&gt;想要更多挂件、启动器菜单和各种素材？＋ &lt;a href=&apos;#workshop&apos;&gt;创意工坊&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;发现 Bug / 意见或建议？＋ &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;提交问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如何开发扩展或脚本？＋ &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;更详细的文档和教程？＋ &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;玩家攻略&lt;/a&gt; &lt;a href=&apos;https://www.bilibili.com/video/BV1844y1374J&apos;&gt;视频教程&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;</translation>
+    </message>
+</context>
+<context>
     <name>HddData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="8"/>
@@ -1041,27 +1216,32 @@ global: Object, 全局共享对象</translation>
         <translation>创意工坊</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <source>User Guide</source>
+        <translation>用户指南</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
         <source>Manage &amp;Widgets</source>
         <translation>管理挂件 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
         <source>Customize &amp;Launcher</source>
         <translation>定制启动器 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="34"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
         <source>&amp;Preferences</source>
         <translation>首选项 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>Are you sure to exit ?</source>
         <translation>是否确认退出？</translation>
     </message>
@@ -1116,40 +1296,58 @@ global: Object, 全局共享对象</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="21"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Toggle Widget</source>
         <translation>开关挂件</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="22"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Show Widget</source>
         <translation>显示挂件</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="23"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Hide Widget</source>
         <translation>隐藏挂件</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="24"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Widget Custom</source>
         <translation>挂件自定功能</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="29"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="142"/>
+        <source>Group</source>
+        <translation>分组</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="88"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="95"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="118"/>
+        <source>Target</source>
+        <translation>目标</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="126"/>
         <source>Widget</source>
         <translation>挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="143"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;默认&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="150"/>
         <source>Custom Action</source>
         <translation>挂件功能</translation>
     </message>
@@ -1230,17 +1428,17 @@ Are you sure to disable the unlock button?</source>
         <translation>我的挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="364"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="366"/>
         <source>Preset Themes</source>
         <translation>预置主题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="369"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
         <source>My Themes</source>
         <translation>我的主题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="387"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="389"/>
         <source>&lt;Blank&gt;</source>
         <translation>「空白」</translation>
     </message>
@@ -1253,7 +1451,7 @@ Are you sure to disable the unlock button?</source>
         <translation>挂件库</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="256"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
         <source>Are you sure to remove this widget?</source>
         <translation>是否确认移除该挂件？</translation>
     </message>
@@ -1385,17 +1583,27 @@ Are you sure to disable the unlock button?</source>
         <translation>标题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <source>Group</source>
+        <translation>分组</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;默认&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
         <source>Absolute Postion</source>
         <translation>绝对定位</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="165"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
         <source>Size</source>
         <translation>尺寸</translation>
     </message>
@@ -1403,7 +1611,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
         <source>Unknown Widget</source>
         <translation>未知挂件</translation>
     </message>
@@ -1411,7 +1619,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="237"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="54"/>
+        <source>Welcome to SAO Utils</source>
+        <translation>欢迎使用 SAO Utils</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils 启动成功.</translation>
     </message>

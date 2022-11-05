@@ -190,57 +190,57 @@ Would you like to disable extensions temporarily?</source>
         <translation>Минимум</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="35"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="45"/>
         <source>Value Unit</source>
         <translation>Единицы значения</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="76"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="86"/>
         <source>Custom Unit</source>
         <translation>Кастомное значение</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="99"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="109"/>
         <source>Update Interval</source>
         <translation>Интервал обновления</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="102"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="112"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="154"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="164"/>
         <source>Unit</source>
         <translation>Значение</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Milliseconds</source>
         <translation>Милисекунды</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Seconds</source>
         <translation>Секунды</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Hours</source>
         <translation>Часы</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Days</source>
         <translation>Дни</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Minutes</source>
         <translation>Минуты</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="162"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="172"/>
         <source>Data Processing</source>
         <translation>Обработка данных</translation>
     </message>

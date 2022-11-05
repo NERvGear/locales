@@ -242,32 +242,32 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
         <translation>从未知来源安装扩展可能会损害您的设备和个人数据</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="158"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="159"/>
         <source>Experimental Features</source>
         <translation>实验性功能</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="167"/>
         <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
         <translation>提升图形性能，若 GPU 不兼容则可能使程序或系统崩溃</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="175"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="176"/>
         <source>Debug Tools</source>
         <translation>调试工具</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="179"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="180"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript 垃圾回收</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="185"/>
         <source>Trim QML Component Cache</source>
         <translation>修整 QML 组件缓存</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="189"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="190"/>
         <source>Empty Process Working Set</source>
         <translation>清空进程工作集内存</translation>
     </message>

@@ -189,7 +189,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
-        <source>Numberic or Text</source>
+        <source>Numeric or Text</source>
         <translation>數字或文本</translation>
     </message>
     <message>

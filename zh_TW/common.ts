@@ -190,57 +190,57 @@ Would you like to disable extensions temporarily?</source>
         <translation>最小值</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="35"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="45"/>
         <source>Value Unit</source>
         <translation>取值單位</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="76"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="86"/>
         <source>Custom Unit</source>
         <translation>自定義單位</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="99"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="109"/>
         <source>Update Interval</source>
         <translation>更新間隔</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="102"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="112"/>
         <source>Never</source>
         <translation>從不</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="154"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="164"/>
         <source>Unit</source>
         <translation>單位</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Milliseconds</source>
         <translation>毫秒</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Seconds</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Hours</source>
         <translation>小時</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Days</source>
         <translation>天</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Minutes</source>
         <translation>分鐘</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="162"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="172"/>
         <source>Data Processing</source>
         <translation>啟用數據加工</translation>
     </message>

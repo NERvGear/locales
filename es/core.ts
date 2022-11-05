@@ -242,32 +242,32 @@ Esa es la razón por la que se llama &quot;SAO Utils&quot; :)</translation>
         <translation>La instalación desde fuentes desconocidas puede ser perjudicial para tu dispositivo y tus datos personales</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="158"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="159"/>
         <source>Experimental Features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="167"/>
         <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="175"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="176"/>
         <source>Debug Tools</source>
         <translation>Herramientas de Depuración</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="179"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="180"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript Garbage Collection</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="184"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="185"/>
         <source>Trim QML Component Cache</source>
         <translation>Recorte de la Caché del Componente QML</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="189"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="190"/>
         <source>Empty Process Working Set</source>
         <translation>Conjunto de Operaciones de Proceso de Vaciado</translation>
     </message>

@@ -190,57 +190,57 @@ Uzantıları geçici olarak devre dışı bırakmak ister misiniz?</translation>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="35"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="45"/>
         <source>Value Unit</source>
         <translation>Değer Birimi</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="76"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="86"/>
         <source>Custom Unit</source>
         <translation>Özel Birim</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="99"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="109"/>
         <source>Update Interval</source>
         <translation>Güncelleme aralığı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="102"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="112"/>
         <source>Never</source>
         <translation>Asla</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="154"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="164"/>
         <source>Unit</source>
         <translation>Birim</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Milliseconds</source>
         <translation>Milisaniye</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Seconds</source>
         <translation>saniye</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Hours</source>
         <translation>Saat</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Days</source>
         <translation>Gün</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="155"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="165"/>
         <source>Minutes</source>
         <translation>Dakika</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="162"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPickerBasicPreference.qml" line="172"/>
         <source>Data Processing</source>
         <translation>Veri işleme</translation>
     </message>

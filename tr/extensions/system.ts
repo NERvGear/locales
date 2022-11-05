@@ -346,6 +346,149 @@ UYARI
     </message>
 </context>
 <context>
+    <name>GuideContent</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="59"/>
+        <source>User Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideContent.qml" line="130"/>
+        <source>Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GuideData</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="7"/>
+        <source>Overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="12"/>
+        <source>&lt;h4&gt;Welcome to SAO Utils 2&lt;/h4&gt;
+&lt;p&gt;SAO Utils provides you a fresh-new customizable Full-Dive 3D app launcher with varieties of themes, desktop widgets and powerful utilities.&lt;/p&gt;
+&lt;p&gt;Its pluggable architecture allows anyone to add any kinds of extensions to the core program.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="17"/>
+        <source>&lt;h4&gt;System Tray Icon&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click on the tray icon to call out the launcher.&lt;/p&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the tray icon to popup tray menu, you can find the Launcher Menu Editor, Widget Gallery, Preferences, etc. or even &lt;b&gt;Exit SAO Utils&lt;/b&gt; here.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="25"/>
+        <source>App Launcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="30"/>
+        <source>&lt;h4&gt;3D Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Hold mouse &lt;kbd&gt;LMB&lt;/kbd&gt; and &lt;kbd&gt;RMB&lt;/kbd&gt; and slide down, or use keyboard shortcut &lt;kbd&gt;Alt&lt;/kbd&gt; + &lt;kbd&gt;S&lt;/kbd&gt; to call out the launcher anywhere, anytime.&lt;/p&gt;
+&lt;p&gt;To launch an app or game, mouse &lt;kbd&gt;LMB&lt;/kbd&gt; click the menu item. By holding &lt;kbd&gt;Ctrl&lt;/kbd&gt; and clicking menu items, you can open multiple programs at one time.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="35"/>
+        <source>&lt;h4&gt;Launcher Fine-tuning&lt;/h4&gt;
+&lt;p&gt;Click the menu icon at the top left corner to show &lt;b&gt;Launcher Options&lt;/b&gt;, where you can change the Menu Position, Background Density, 3D Mode, Graphics Effects, etc. in real time.&lt;/p&gt;
+&lt;p&gt;Note that mouse gesture and shortcut settings could be found via &lt;b&gt;Preferences - Input&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="40"/>
+        <source>&lt;h4&gt;Launcher Menu Styles&lt;/h4&gt;
+&lt;p&gt;You can find the &lt;b&gt;Launcher Menu Editor&lt;/b&gt; from the tray icon menu or the Launcher Options, and click the Style button in the top left corner to switch between different menu styles.&lt;/p&gt;
+&lt;p&gt;Click the Menu button in the top right corner to reset the launcher menu to factory settings.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="45"/>
+        <source>&lt;h4&gt;Editing Launcher Menu&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; menu items to rearrange the order of items, and click the [+] and [-] buttons to the right of the items to add or remove any number of menu items.&lt;/p&gt;
+&lt;p&gt;The name, type (Action, Menu, Folder), icon, etc. of an item could be changed on the right side panel.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="53"/>
+        <source>Desktop Widgets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="58"/>
+        <source>&lt;h4&gt;Adjusting Widget Position and Size&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;LMB&lt;/kbd&gt; drag on the frame title to move the widget, and drag on the frame edges to resize it.&lt;/p&gt;
+&lt;p&gt;The widget frame can be set to Always Show, Always Hide or Auto Hide in the &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="63"/>
+        <source>&lt;h4&gt;Widget Options&lt;/h4&gt;
+&lt;p&gt;Mouse &lt;kbd&gt;RMB&lt;/kbd&gt; click on the widget to display the &lt;b&gt;Widget Menu&lt;/b&gt;, where you can set the properties such as Always on Top, Mouse Click-through, Anchor and Opacity, as well as customize the widget and remove it.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="67"/>
+        <source>&lt;h4&gt;Widget Management&lt;/h4&gt;
+&lt;p&gt;In &lt;b&gt;Widget Gallery&lt;/b&gt;, mouse &lt;kbd&gt;drag-and-drop&lt;/kbd&gt; any items to place widgets on the desktop, and you can save the widgets configured on the desktop to &lt;b&gt;My Widget&lt;/b&gt; for reuse and sharing.&lt;/p&gt;
+&lt;p&gt;You can even switch between a whole set of desktop widgets under the &lt;b&gt;Theme&lt;/b&gt; tab in the top right corner, and similarly, save the layout of the widgets on the desktop to &lt;b&gt;My Themes&lt;/b&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="72"/>
+        <source>&lt;h4&gt;Widget Properties&lt;/h4&gt;
+&lt;p&gt;You can set individual titles, and precisely control the position and size for each widget in the &lt;b&gt;Properties&lt;/b&gt; panel from &lt;b&gt;Widget Menu&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;b&gt;Anchor Mode&lt;/b&gt; affects the actual position of a widget on screens with different resolutions, so pay attention to it when creating and sharing widgets themes.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="77"/>
+        <source>&lt;h4&gt;Placing Widgets in Launcher&lt;/h4&gt;
+&lt;p&gt;You can set the widget to be displayed on the desktop or inside the launcher via &lt;b&gt;Widget Menu - Display on&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;In the 3D launcher, the widget frame can be moved or resized just like on the desktop, and the Z-depth can be changed by mouse &lt;kbd&gt;RMB&lt;/kbd&gt; dragging on the frame title.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="85"/>
+        <source>Extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="90"/>
+        <source>&lt;h4&gt;Extension Management&lt;/h4&gt;
+&lt;p&gt;You can manage extensions via &lt;b&gt;Preferences - Extensions&lt;/b&gt;, the &lt;b&gt;Resources&lt;/b&gt; will be disabled when its providing extension is disabled.&lt;/p&gt;
+&lt;p&gt;In extension&apos;s &lt;b&gt;Details&lt;/b&gt; page, you can also find the information such as Description, Dependencies, Package Name, Homepage, etc.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="95"/>
+        <source>&lt;h4&gt;The Resource System&lt;/h4&gt;
+&lt;p&gt;Most things(Widgets, Menus, Data, Actions, Icons, Backgrounds, etc.) you can access in the system are organized in the form of &lt;b&gt;Resources&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;A resource can also nest or reference other resources to provide varieties of features, so that developers can use resources from other extensions, or provide resources for others in their own extensions.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="103"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/tutorial/GuideData.qml" line="108"/>
+        <source>&lt;h4&gt;Thank You for Using SAO Utils&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;There are still many useful settings in &lt;a href=&apos;#preferences&apos;&gt;Preferences&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;More widgets, launcher menus and resources? + &lt;a href=&apos;#workshop&apos;&gt;Workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Found bugs or ideas? + &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;Submit an Issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Developing extensions or scripts? + &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completed guide or video tutorials? + &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;Guide Book&lt;/a&gt; &lt;a href=&apos;https://www.youtube.com/c/StudioGPBeta/videos&apos;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;ul&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HddData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="8"/>
@@ -1045,27 +1188,32 @@ global: Nesne, değerler arasında paylaşım</translation>
         <translation>Atölye</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <source>User Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
         <source>Manage &amp;Widgets</source>
         <translation>Widget&apos;ları &amp;Yönet</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
         <source>Customize &amp;Launcher</source>
         <translation>Başlatıcıyı &amp;Özelleştir</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="34"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Tercihler</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
         <source>Exit</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>Are you sure to exit ?</source>
         <translation>Çıkmak istediğinden emin misin ?</translation>
     </message>
@@ -1120,40 +1268,58 @@ global: Nesne, değerler arasında paylaşım</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="21"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Toggle Widget</source>
         <translation>Widget&apos;ı Aç/Kapat</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="22"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Show Widget</source>
         <translation>Widget&apos;ı Göster</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="23"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Hide Widget</source>
         <translation>Widget&apos;ı Gizle</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="24"/>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="89"/>
         <source>Widget Custom</source>
         <translation>Widget Özel</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="65"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="29"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="142"/>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="88"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="95"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="118"/>
+        <source>Target</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="119"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="126"/>
         <source>Widget</source>
         <translation>Widget</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="143"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/WidgetAction.qml" line="150"/>
         <source>Custom Action</source>
         <translation>Özel Eylem</translation>
     </message>
@@ -1234,17 +1400,17 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation>Widget&apos;larım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="364"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="366"/>
         <source>Preset Themes</source>
         <translation>Önceden Ayarlanmış Temalar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="369"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
         <source>My Themes</source>
         <translation>Temalarım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="387"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="389"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;Boş&gt;</translation>
     </message>
@@ -1257,7 +1423,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation>Widget Galerisi</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="256"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
         <source>Are you sure to remove this widget?</source>
         <translation>Bu widget&apos;ı kaldırmak istediğinizden emin misiniz?</translation>
     </message>
@@ -1390,17 +1556,27 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
         <source>Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
         <source>Absolute Postion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="165"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1408,7 +1584,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="333"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
         <source>Unknown Widget</source>
         <translation>Bilinmeyen Widget</translation>
     </message>
@@ -1416,7 +1592,12 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="237"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="54"/>
+        <source>Welcome to SAO Utils</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils Başarıyla Başladı.</translation>
     </message>
