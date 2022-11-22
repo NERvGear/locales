@@ -15,7 +15,7 @@
         <location filename="../../src/apps/workshop/qml/workshop/ConfirmDialog.qml" line="10"/>
         <source>Are you sure to unsubscribe?
 &lt;%1&gt;</source>
-        <translation>Aboneliği iptal ettiğinizden emin misiniz?
+        <translation>Aboneliği iptal etmek istediğinizden emin misiniz?
 &lt;%1&gt;</translation>
     </message>
     <message>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/CoverPicker.qml" line="72"/>
         <source>Cover Image</source>
-        <translation>Kapak resmi</translation>
+        <translation>Kapak Resmi</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/CoverPicker.qml" line="77"/>
@@ -219,7 +219,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="212"/>
         <source>Rate</source>
-        <translation>Oran</translation>
+        <translation>Beğen</translation>
     </message>
 </context>
 <context>
@@ -227,7 +227,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDiscovery.qml" line="10"/>
         <source>Discovery</source>
-        <translation>keşif</translation>
+        <translation>Keşfet</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDiscovery.qml" line="39"/>
@@ -267,7 +267,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
         <location filename="../../src/apps/workshop/qml/workshop/PageDownloads.qml" line="33"/>
         <location filename="../../src/apps/workshop/qml/workshop/PageDownloads.qml" line="246"/>
         <source>Finished</source>
-        <translation>Tamamlanmış</translation>
+        <translation>Tamamlandı</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDownloads.qml" line="38"/>
@@ -287,7 +287,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDownloads.qml" line="181"/>
         <source>Installing</source>
-        <translation>yükle</translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDownloads.qml" line="247"/>
@@ -308,7 +308,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageH.qml" line="117"/>
         <source>All Items</source>
-        <translation>Tüm eşyalar</translation>
+        <translation>Tüm Öğeler</translation>
     </message>
 </context>
 <context>
@@ -316,7 +316,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageHome.qml" line="14"/>
         <source>Home</source>
-        <translation>ana sayfa</translation>
+        <translation>Ana Sayfa</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageHome.qml" line="23"/>
@@ -368,7 +368,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageSubscribed.qml" line="8"/>
         <source>Subscribed</source>
-        <translation>Abone olundu</translation>
+        <translation>Abone olunan</translation>
     </message>
 </context>
 <context>
@@ -402,22 +402,22 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="63"/>
         <source>Title</source>
-        <translation type="unfinished">Başlık</translation>
+        <translation>Başlık</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="81"/>
         <source>Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Paket</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="90"/>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateManifest.qml" line="128"/>
         <source>%1 Files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dosya</translation>
     </message>
 </context>
 <context>
@@ -450,7 +450,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateResult.qml" line="44"/>
         <source>Publishing...</source>
-        <translation>yayınlanıyor...</translation>
+        <translation>Yayınlanıyor...</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateResult.qml" line="81"/>
@@ -482,7 +482,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateResult.qml" line="118"/>
         <source>Retry</source>
-        <translation>yeniden dene</translation>
+        <translation>Yeniden Dene</translation>
     </message>
 </context>
 <context>
@@ -495,7 +495,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="59"/>
         <source>Craft and customize a resource package</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir kaynak paketi oluşturun ve özelleştirin</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="63"/>
@@ -516,13 +516,17 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
 - Normal state: XXX.png
 - (Optional) Hovered: XXX-hovered.png
 - (Optional) Pressed: XXX-pressed.png</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak klasöründeki dosyalar şu formlarda adlandırılmalıdır:
+- Normal durum: XXX.png
+- (İsteğe bağlı) Gezinilen: XXX-hovered.png
+- (İsteğe bağlı) Basıldı: XXX-pressed.png</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="18"/>
         <source>Supported image formats:
 *.PNG, *.JPG, *.JPEG, *.BMP, *.ICO, *.GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Desteklenen görüntü formatları:
+*.PNG, *.JPG, *.JPEG, *.BMP, *.ICO, *.GIF</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="70"/>
@@ -530,17 +534,20 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
 
 %1
 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Yinelenen kaynak konumu:
+
+%1
+(%2)</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="126"/>
         <source>Add Resource...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak Ekle...</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilder.qml" line="133"/>
         <source>Leave it blank to keep original data</source>
-        <translation type="unfinished">Orijinal verileri saklamak için boş bırakın</translation>
+        <translation>Orijinal verileri korumak için boş bırakın</translation>
     </message>
 </context>
 <context>
@@ -548,27 +555,27 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="53"/>
         <source>Title</source>
-        <translation type="unfinished">Başlık</translation>
+        <translation>Başlık</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="60"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Konum</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="61"/>
         <source>Invalid location path</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz konum yolu</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="69"/>
         <source>Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/ResourceBuilderFolderDialog.qml" line="75"/>
         <source>Include Sub Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt klasörler dahil</translation>
     </message>
 </context>
 <context>
@@ -594,7 +601,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/SearchDialog.qml" line="41"/>
         <source>Keywords...</source>
-        <translation>Anahtar kelimeler...</translation>
+        <translation>Anahtar Kelimeler...</translation>
     </message>
 </context>
 <context>
@@ -602,12 +609,12 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/SubscribeButton.qml" line="12"/>
         <source>Unsubscribe</source>
-        <translation>Aboneliği iptal et</translation>
+        <translation>Abonelikten Çık</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/SubscribeButton.qml" line="12"/>
         <source>Subscribe</source>
-        <translation>Abone Ol</translation>
+        <translation>Abone ol</translation>
     </message>
 </context>
 <context>
@@ -623,7 +630,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="73"/>
         <source>Failed to create resource package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaynak paketi oluşturulamadı.</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="185"/>
@@ -653,7 +660,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="260"/>
         <source>Craft</source>
-        <translation type="unfinished"></translation>
+        <translation>Birleştir</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/UpdateDrawer.qml" line="274"/>
@@ -691,7 +698,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/Workshop.qml" line="203"/>
         <source>Subscribed</source>
-        <translation>Abone olundu</translation>
+        <translation>Abone olunan</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/Workshop.qml" line="209"/>
@@ -706,8 +713,7 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/Workshop.qml" line="221"/>
         <source>Workbench</source>
-        <translatorcomment>Öge ekle</translatorcomment>
-        <translation>Atölye</translation>
+        <translation>Kişisel Atölye</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/Workshop.qml" line="277"/>
