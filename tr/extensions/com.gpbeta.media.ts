@@ -2,6 +2,47 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
+    <name>SelectCommandPreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SelectCommandPreference.qml" line="5"/>
+        <source>Command</source>
+        <translation>Komut</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation>Oynat / Duraklat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation>Oynat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation>Duraklat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="12"/>
+        <source>Next Image</source>
+        <translation>Sonraki Resim</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="13"/>
+        <source>Previous Image</source>
+        <translation>Önceki Resim</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <source>Gallery Action</source>
+        <translation>Galeri Eylemi</translation>
+    </message>
+</context>
+<context>
     <name>CADMusicAction</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/CADMusicAction.qml" line="11"/>
@@ -56,11 +97,6 @@ https://github.com/RangerCD/foo-cad-plus/releases</source>
         <translation>CD Art Display uyumlu oynatıcı eylemleri.
 foo_cad_plus bileşenine sahip Foobar 2000 gerekli:
 https://github.com/RangerCD/foo-cad-plus/releases</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/CADMusicAction.qml" line="45"/>
-        <source>Command</source>
-        <translation>Komut</translation>
     </message>
 </context>
 <context>
@@ -179,6 +215,11 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="67"/>
         <source>Frame Above Image</source>
         <translation>Resmin Üstündeki Çerçeve</translation>
+    </message>
+	<message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
+        <source>Shuffle Playback</source>
+        <translation>Karışık Çalma</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
@@ -406,11 +447,6 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="21"/>
         <source>System media control actions</source>
         <translation>Sistem medya kontrol eylemleri</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="40"/>
-        <source>Command</source>
-        <translation>Komut</translation>
     </message>
 </context>
 <context>
