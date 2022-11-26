@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/AuthorButton.qml" line="15"/>
         <source>More from user</source>
-        <translation>Kullanıcıdan daha fazlası</translation>
+        <translation>Kullanıcının atölyesi için tıkla</translation>
     </message>
 </context>
 <context>
@@ -237,7 +237,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDiscovery.qml" line="64"/>
         <source>Publish by &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; ile yayınla</translation>
+        <translation>&quot;%1&quot; Atölyesi</translation>
     </message>
     <message>
         <location filename="../../src/apps/workshop/qml/workshop/PageDiscovery.qml" line="101"/>
