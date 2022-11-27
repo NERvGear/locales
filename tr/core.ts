@@ -842,12 +842,12 @@ Devam edeceğinizden emin misiniz?</translation>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
         <source>Do Not Disturb begins...</source>
-        <translation>Rahatsız Etmeyin başlar...</translation>
+        <translation>Rahatsız Etmeyin etkin olduğunda devreye girer...</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
         <source>Do Not Disturb ends...</source>
-        <translation>Rahatsız Etmeyin sona eriyor...</translation>
+        <translation>Rahatsız Etmeyin pasif olduğunda devreye girer...</translation>
     </message>
 </context>
 <context>
