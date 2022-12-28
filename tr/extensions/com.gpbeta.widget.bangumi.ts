@@ -40,17 +40,17 @@
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="288"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
         <source>No records currently.</source>
         <translation>Şu anda kayıt yok.</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="293"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
         <source>Retrieving anime schedule...</source>
         <translation>Anime programı alınıyor...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="297"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>Anime programı alınamıyor.</translation>
     </message>
@@ -58,47 +58,47 @@
 <context>
     <name>InfoPanel</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="140"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="139"/>
         <source>Premiere</source>
         <translation>prömiyer</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="145"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="144"/>
         <source>Time</source>
         <translation>Zaman</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="147"/>
         <source>Episode</source>
         <translation>Bölüm</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="149"/>
         <source>State</source>
         <translation>Durum</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="151"/>
         <source>FIN</source>
         <translation>Son</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
         <source>OFF AIR</source>
         <translation>Yayımlanmadı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
         <source>ON AIR</source>
         <translation>Yayında</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
         <source>UNKNOWN</source>
         <translation>BİLİNMEYEN</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="159"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="158"/>
         <source>Tags</source>
         <translation>Etiketler</translation>
     </message>

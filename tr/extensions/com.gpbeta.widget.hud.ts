@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr_TR" sourcelanguage="en_US">
+<TS version="2.1" language="tr" sourcelanguage="en">
 <context>
     <name>EditDialog</name>
     <message>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
-        <source>Numeric or Text</source>
+        <source>Numberic or Text</source>
         <translation>Sayısal veya Metin</translation>
     </message>
     <message>
