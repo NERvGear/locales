@@ -178,7 +178,7 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
         <source>Shuffle Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>隨機播放</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="81"/>
@@ -273,32 +273,32 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="9"/>
         <source>Play / Pause</source>
-        <translation type="unfinished">播放 / 暫停</translation>
+        <translation>播放 / 暫停</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="10"/>
         <source>Play</source>
-        <translation type="unfinished">播放</translation>
+        <translation>播放</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="11"/>
         <source>Stop</source>
-        <translation type="unfinished">停止</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="12"/>
         <source>Next Image</source>
-        <translation type="unfinished"></translation>
+        <translation>下一張</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="13"/>
         <source>Previous Image</source>
-        <translation type="unfinished"></translation>
+        <translation>上一張</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
         <source>Gallery Action</source>
-        <translation type="unfinished"></translation>
+        <translation>畫廊動作</translation>
     </message>
 </context>
 <context>
@@ -398,7 +398,7 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SelectCommandPreference.qml" line="5"/>
         <source>Command</source>
-        <translation type="unfinished">命令</translation>
+        <translation>命令</translation>
     </message>
 </context>
 <context>
@@ -452,29 +452,62 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
 <context>
     <name>VideoWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="35"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <source>Mute</source>
+        <translation>靜音</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
         <source>Fill Mode</source>
         <translation>填充方式</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="48"/>
         <source>Fit</source>
         <translation>適應</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
         <source>Crop</source>
         <translation>裁剪</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="63"/>
         <source>Reset Size</source>
         <translation>重置尺寸</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="76"/>
         <source>Change Video</source>
         <translation>更換視頻</translation>
+    </message>
+</context>
+<context>
+    <name>VideoWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation>播放 / 暫停</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation>播放</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="12"/>
+        <source>Mute</source>
+        <translation>靜音</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="15"/>
+        <source>Video Action</source>
+        <translation>視頻動作</translation>
     </message>
 </context>
 </TS>

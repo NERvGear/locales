@@ -863,71 +863,71 @@ Are you sure to continue?</source>
         <translation>背景設定</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
         <source>Click to Close Launcher</source>
         <translation>クリックして閉じる</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
         <source>Blur Behind</source>
         <translation>背景をぼかす</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
         <source>Overlay Density</source>
         <translation>オーバーレイ密度</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="183"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="189"/>
         <source>Graphic Settings</source>
         <translation>グラフィック設定</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="188"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="194"/>
         <source>3D Mode</source>
         <translation>3D モード</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="200"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="206"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Zoom</source>
         <translation>ズーム</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="210"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="216"/>
         <source>Curvature</source>
         <translation>曲率</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="219"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="225"/>
         <source>Camera</source>
         <translation>カメラ</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="224"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
         <source>Follow Cursor</source>
         <translation>マウスをフォロー</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Breath Motion</source>
         <translation>呼吸効果</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="238"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
         <source>Effects</source>
         <translation>エフェクト</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="243"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="249"/>
         <source>Motion Blur</source>
         <translation>モーションブラー</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Off</source>
         <translation>オフ</translation>
     </message>
@@ -957,52 +957,57 @@ Are you sure to continue?</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="172"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <source>Full-Screen Window</source>
+        <translation>全画面ウィンドウ</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
         <source>Transition Duration</source>
         <translation>トランジション速度</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Fast</source>
         <translation>速い</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Slow</source>
         <translation>遅い</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Light</source>
         <translation>軽い</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Medium</source>
         <translation>中</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Heavy</source>
         <translation>濃い</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="251"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="257"/>
         <source>Analog Filter</source>
         <translation>アナログテレビ</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Offset</source>
         <translation>オフセット</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Shift Amount</source>
         <translation>シフト量</translation>
     </message>

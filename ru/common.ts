@@ -254,6 +254,44 @@ Would you like to disable extensions temporarily?</source>
     </message>
 </context>
 <context>
+    <name>FontPreference</name>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="81"/>
+        <source>Font Family</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="97"/>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="109"/>
+        <source>Font Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <source>Regular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <source>Demi-Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IconDialog</name>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/IconDialog.qml" line="16"/>

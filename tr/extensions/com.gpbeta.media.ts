@@ -2,47 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
-    <name>SelectCommandPreference</name>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SelectCommandPreference.qml" line="5"/>
-        <source>Command</source>
-        <translation>Komut</translation>
-    </message>
-</context>
-<context>
-    <name>GalleryWidgetAction</name>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="9"/>
-        <source>Play / Pause</source>
-        <translation>Oynat / Duraklat</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="10"/>
-        <source>Play</source>
-        <translation>Oynat</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="11"/>
-        <source>Stop</source>
-        <translation>Duraklat</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="12"/>
-        <source>Next Image</source>
-        <translation>Sonraki Resim</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="13"/>
-        <source>Previous Image</source>
-        <translation>Önceki Resim</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
-        <source>Gallery Action</source>
-        <translation>Galeri Eylemi</translation>
-    </message>
-</context>
-<context>
     <name>CADMusicAction</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/CADMusicAction.qml" line="11"/>
@@ -216,82 +175,82 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <source>Frame Above Image</source>
         <translation>Resmin Üstündeki Çerçeve</translation>
     </message>
-	<message>
+    <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
         <source>Shuffle Playback</source>
         <translation>Karışık Çalma</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="81"/>
         <source>Transition Animation</source>
         <translation>Geçiş Animasyonu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="86"/>
         <source>Random</source>
         <translation>Rastgele</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="109"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="117"/>
         <source>Animation Speed</source>
         <translation>Animasyon hızı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Fast</source>
         <translation>Hızlı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="110"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="118"/>
         <source>Slow</source>
         <translation>Yavaş</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="140"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
         <source>Change Image Every</source>
         <translation>Görüntüyü Her Arada Değiştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="142"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
         <source>Second</source>
         <translation>Saniye</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="143"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="144"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="145"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="151"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="153"/>
         <source>Seconds</source>
         <translation>Saniyeler</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="146"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="154"/>
         <source>Minute</source>
         <translation>Dakika</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="148"/>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="156"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="157"/>
         <source>Minutes</source>
         <translation>dakikalık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="158"/>
         <source>Hour</source>
         <translation>Saat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="199"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="207"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="200"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryDialog.qml" line="208"/>
         <source>Defaults to toggle slideshow</source>
         <translation>Slayt gösterisini değiştirmek için varsayılanlar</translation>
     </message>
@@ -299,14 +258,47 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
 <context>
     <name>GalleryWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="13"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="14"/>
         <source>Gallery Widget</source>
         <translation>Galeri Widget&apos;ı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="23"/>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
+    </message>
+</context>
+<context>
+    <name>GalleryWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation>Oynat / Duraklat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation>Oynat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation>Duraklat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="12"/>
+        <source>Next Image</source>
+        <translation>Sonraki Resim</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="13"/>
+        <source>Previous Image</source>
+        <translation>Önceki Resim</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <source>Gallery Action</source>
+        <translation>Galeri Eylemi</translation>
     </message>
 </context>
 <context>
@@ -402,6 +394,14 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>SelectCommandPreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SelectCommandPreference.qml" line="5"/>
+        <source>Command</source>
+        <translation>Komut</translation>
+    </message>
+</context>
+<context>
     <name>SystemMediaAction</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/SystemMediaAction.qml" line="11"/>
@@ -452,29 +452,62 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
 <context>
     <name>VideoWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="35"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <source>Mute</source>
+        <translation type="unfinished">Sesi kapat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
         <source>Fill Mode</source>
         <translation>Dolgu Modu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="48"/>
         <source>Fit</source>
         <translation>Sığdır</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
         <source>Crop</source>
         <translation>Kırp</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="63"/>
         <source>Reset Size</source>
         <translation>Boyutu Sıfırla</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="76"/>
         <source>Change Video</source>
         <translation>Videoyu Değiştir</translation>
+    </message>
+</context>
+<context>
+    <name>VideoWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation type="unfinished">Oynat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="12"/>
+        <source>Mute</source>
+        <translation type="unfinished">Sesi kapat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="15"/>
+        <source>Video Action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

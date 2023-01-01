@@ -448,28 +448,61 @@ https://github.com/RangerCD/foo-cad-plus/releases</source>
 <context>
     <name>VideoWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="35"/>
-        <source>Fill Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
-        <source>Fit</source>
+        <source>Mute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
+        <source>Fill Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="48"/>
+        <source>Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
         <source>Crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="63"/>
         <source>Reset Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="76"/>
         <source>Change Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VideoWidgetAction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="9"/>
+        <source>Play / Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="10"/>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="11"/>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="12"/>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="15"/>
+        <source>Video Action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

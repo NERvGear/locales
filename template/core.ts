@@ -858,71 +858,71 @@ Are you sure to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
         <source>Click to Close Launcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
         <source>Blur Behind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
         <source>Overlay Density</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="183"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="189"/>
         <source>Graphic Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="188"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="194"/>
         <source>3D Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="200"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="206"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="210"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="216"/>
         <source>Curvature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="219"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="225"/>
         <source>Camera</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="224"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
         <source>Follow Cursor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Breath Motion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="238"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
         <source>Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="243"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="249"/>
         <source>Motion Blur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Off</source>
         <translation type="unfinished"></translation>
     </message>
@@ -952,52 +952,57 @@ Are you sure to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="172"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <source>Full-Screen Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
         <source>Transition Duration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Slow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Medium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Heavy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="251"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="257"/>
         <source>Analog Filter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Shift Amount</source>
         <translation type="unfinished"></translation>
     </message>

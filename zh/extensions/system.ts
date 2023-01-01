@@ -832,39 +832,45 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>ScriptAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="10"/>
         <source>Script Action</source>
         <translation>自定义脚本</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Templates.Action, output action
-inputs: Array&lt;Action&gt;, input actions
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
 local: Object, sharing across scripts
 global: Object, sharing across actions
 resolve: Function(value), called if the Promise is fulfilled
 reject: Function(reason), called if the Promise is rejected</source>
         <translation>Java Script 脚本中可使用的对象：
 this: NERvGear.Templates.Action, 输出动作对象
-inputs: Array&lt;Action&gt;, 输入动作对象数组
+actions: Array&lt;NERvGear.Template.Action&gt;, 输入动作对象数组
+values: Array&lt;Value&gt;, 输入数据对象数组
+Value.value: NERvGear.Template.Value, 数值对象
+Value.output: Function(), 计算默认输出的函数
 local: Object, 局部共享对象
 global: Object, 全局共享对象
 resolve: Function(value), 若执行成功，调用该函数
 reject: Function(reason), 若执行失败，调用该函数</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="80"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="74"/>
         <source>Execution Script</source>
         <translation>执行代码</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="79"/>
         <source>Execute All</source>
         <translation>全部执行输入动作</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="91"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
         <source>Execute Sequentially</source>
         <translation>依次执行输入动作</translation>
     </message>
@@ -872,34 +878,39 @@ reject: Function(reason), 若执行失败，调用该函数</translation>
 <context>
     <name>ScriptPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="43"/>
-        <source>Input</source>
-        <translation>输入</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
+        <source>Input Data</source>
+        <translation>输入数据</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
+        <source>Input Actions</source>
+        <translation>输入动作</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
         <source>Output</source>
         <translation>输出</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="121"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="52"/>
         <source>Initialization Script</source>
         <translation>初始化代码</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="122"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="53"/>
         <source>Optional</source>
         <translation>可选</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="69"/>
         <source>Examples</source>
         <translation>示例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="158"/>
-        <source>Please add at least one input first.</source>
-        <translation>请至少添加一个输入动作。</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <source>Please add %1 first.</source>
+        <translation>请先添加一个%1。</translation>
     </message>
 </context>
 <context>
@@ -923,32 +934,32 @@ local: Object, 局部共享对象
 global: Object, 全局共享对象</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="36"/>
         <source>Initialization Script</source>
         <translation>初始化代码</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
         <source>Optional</source>
         <translation>可选</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="47"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="46"/>
         <source>Execution Script</source>
         <translation>执行代码</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="56"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="55"/>
         <source>Examples</source>
         <translation>示例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="67"/>
         <source>Rounding Numbers</source>
         <translation>数值取整</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="70"/>
         <source>Auto Text Color</source>
         <translation>自动高亮文本</translation>
     </message>
@@ -956,44 +967,46 @@ global: Object, 全局共享对象</translation>
 <context>
     <name>ScriptValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="10"/>
         <source>Custom Script</source>
         <translation>自定义脚本</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Template.Value, output value
-inputs: Array&lt;Input&gt;, input objects
-Input.value: NERvGear.Template.Value, input value
-Input.output: Function(), default output for the value
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
 local: Object, sharing across scripts
 global: Object, sharing across values</source>
         <translation>Java Script 脚本中可使用的对象：
 this: NERvGear.Template.Value, 输出数值对象
-inputs: Array&lt;Input&gt;, 输入对象数组
-Input.value: NERvGear.Template.Value, 数值对象
-Input.output: Function(), 计算默认输出的函数
+inputs: Array&lt;Value&gt;, 输入数据对象数组
+Value.value: NERvGear.Template.Value, 数值对象
+Value.output: Function(), 计算默认输出的函数
+actions: Array&lt;NERvGear.Template.Action&gt;, 输入动作对象数组
 local: Object, 局部共享对象
 global: Object, 全局共享对象</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="113"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="65"/>
         <source>Update Script</source>
         <translation>更新代码</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="70"/>
         <source>Dynamic Range</source>
         <translation>动态范围</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="128"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="80"/>
         <source>Group Average</source>
         <translation>分组平均值</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="134"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>历史平均值</translation>
     </message>
@@ -1001,48 +1014,64 @@ global: Object, 全局共享对象</translation>
 <context>
     <name>SoundAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="44"/>
         <source>Sound Action</source>
         <translation>音效动作</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="45"/>
         <source>Play sound effect or audio file</source>
         <translation>播放音效或者音频文件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
-        <source>Playback Audio</source>
-        <translation>播放音频</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="82"/>
         <source>Sound Effect</source>
         <translation>音效</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="70"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Sound Event</source>
         <translation>音效事件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Audio File</source>
         <translation>音频文件</translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="13"/>
+        <source>Play</source>
+        <translation>播放</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="14"/>
+        <source>Play / Stop</source>
+        <translation>播放 / 停止</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="15"/>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
+        <source>Command</source>
+        <translation>命令</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="91"/>
         <source>Path</source>
         <translation>路径</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="94"/>
         <source>Wave files (*.WAV)</source>
         <translation>音频文件 (*.WAV)</translation>
     </message>
@@ -1221,27 +1250,32 @@ global: Object, 全局共享对象</translation>
         <translation>用户指南</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <source>What&apos;s New</source>
+        <translation>更新日志</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
         <source>Manage &amp;Widgets</source>
         <translation>管理挂件 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
         <source>Customize &amp;Launcher</source>
         <translation>定制启动器 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>&amp;Preferences</source>
         <translation>首选项 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>Are you sure to exit ?</source>
         <translation>是否确认退出？</translation>
     </message>
@@ -1451,7 +1485,7 @@ Are you sure to disable the unlock button?</source>
         <translation>挂件库</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
         <source>Are you sure to remove this widget?</source>
         <translation>是否确认移除该挂件？</translation>
     </message>
@@ -1624,7 +1658,7 @@ Are you sure to disable the unlock button?</source>
         <translation>欢迎使用 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils 启动成功.</translation>
     </message>
@@ -1632,72 +1666,82 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>utils</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
         <source>Toggle Launcher</source>
         <translation>开关启动器</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <source>Toggle Launcher (No Menu)</source>
+        <translation>开关启动器（无菜单）</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
         <source>Show Launcher</source>
         <translation>呼出启动器</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <source>Show Launcher (No Menu)</source>
+        <translation>呼出启动器（无菜单）</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
         <source>Hide Launcher</source>
         <translation>关闭启动器</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
         <source>Customize Launcher</source>
         <translation>定制启动器</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
         <source>Manage Widgets</source>
         <translation>管理挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
         <source>Open Workshop</source>
         <translation>打开创意工坊</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
         <source>Show Preferences</source>
         <translation>打开首选项</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Exit SAO Utils</source>
         <translation>退出 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Restart SAO Utils</source>
         <translation>重启 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Shutdown</source>
         <translation>关机</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Reboot</source>
         <translation>重启</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Logout</source>
         <translation>注销</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
         <source>Sleep</source>
         <translation>睡眠</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
         <source>Hibernate</source>
         <translation>休眠</translation>
     </message>

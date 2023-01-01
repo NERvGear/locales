@@ -512,7 +512,7 @@ All currently configured widgets will be lost!!</source>
 &lt;li&gt;ウィジェット、メニュー、リソースの充実？＋ &lt;a href=&apos;#workshop&apos;&gt;ワークショップ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;バグやアイデアがあれば？＋ &lt;a href=&apos;https://nvg.dev/core/sao-utils/issues&apos;&gt;問題を報告&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;エクステンションやスクリプトの開発？＋ &lt;a href=&apos;https://nvg.dev/+/sdk/&apos;&gt;SAO Utils 2 SDK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;攻略ガイドやビデオチュートリアル？＋ &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;ガイドブック&lt;/a&gt; &lt;a href=&apos;https://www.youtube.com/c/StudioGPBeta/videos&apos;&gt;ビデオ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;攻略ガイドやビデオチュートリアル？＋ &lt;a href=&apos;https://nvg.dev/+/doc/&apos;&gt;ガイドブック&lt;/a&gt; &lt;a href=&apos;https://www.nicovideo.jp/watch/sm41323475&apos;&gt;ビデオ&lt;/a&gt;&lt;/li&gt;
 &lt;ul&gt;</translation>
     </message>
 </context>
@@ -832,39 +832,45 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>ScriptAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="10"/>
         <source>Script Action</source>
         <translation>スクリプトアクション</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Templates.Action, output action
-inputs: Array&lt;Action&gt;, input actions
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
 local: Object, sharing across scripts
 global: Object, sharing across actions
 resolve: Function(value), called if the Promise is fulfilled
 reject: Function(reason), called if the Promise is rejected</source>
         <translation>スクリプト用の追加オブジェクト：
 this: NERvGear.Templates.Action, 出力アクション
-inputs: Array&lt;Action&gt;,入力アクション
+actions: Array&lt;NERvGear.Template.Action&gt;, 入力アクション配列
+values: Array&lt;Value&gt;, 入力データ配列
+Value.value: NERvGear.Template.Value, 入力値
+Value.output: Function(), 値のデフォルト出力
 local: Object, スクリプト間での共有
 global: Object, アクション間で共有する
 resolve: Function(value), Promise が満たされた場合に呼び出す
 reject: Function(reason), Promise が拒否された場合に呼び出す</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="80"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="74"/>
         <source>Execution Script</source>
         <translation>実行スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="79"/>
         <source>Execute All</source>
         <translation>すべて実行</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="91"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
         <source>Execute Sequentially</source>
         <translation>順次実行</translation>
     </message>
@@ -872,34 +878,39 @@ reject: Function(reason), Promise が拒否された場合に呼び出す</trans
 <context>
     <name>ScriptPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="43"/>
-        <source>Input</source>
-        <translation>入力</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
+        <source>Input Data</source>
+        <translation>入力データ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
+        <source>Input Actions</source>
+        <translation>入力アクション</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
         <source>Output</source>
         <translation>出力</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="121"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="52"/>
         <source>Initialization Script</source>
         <translation>初期化スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="122"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="53"/>
         <source>Optional</source>
         <translation>オプショナル</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="69"/>
         <source>Examples</source>
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="158"/>
-        <source>Please add at least one input first.</source>
-        <translation>最初に少なくとも1つの入力を追加してください。</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <source>Please add %1 first.</source>
+        <translation>最初に%1を追加してください。</translation>
     </message>
 </context>
 <context>
@@ -923,32 +934,32 @@ local: Object, スクリプト間での共有
 global: Object, プロセッサ間での共有</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="36"/>
         <source>Initialization Script</source>
         <translation>初期化スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
         <source>Optional</source>
         <translation>オプション</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="47"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="46"/>
         <source>Execution Script</source>
         <translation>実行スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="56"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="55"/>
         <source>Examples</source>
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="67"/>
         <source>Rounding Numbers</source>
         <translation>四捨五入</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="70"/>
         <source>Auto Text Color</source>
         <translation>文字色を変更</translation>
     </message>
@@ -956,44 +967,46 @@ global: Object, プロセッサ間での共有</translation>
 <context>
     <name>ScriptValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="10"/>
         <source>Custom Script</source>
         <translation>カスタムスクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Template.Value, output value
-inputs: Array&lt;Input&gt;, input objects
-Input.value: NERvGear.Template.Value, input value
-Input.output: Function(), default output for the value
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
 local: Object, sharing across scripts
 global: Object, sharing across values</source>
         <translation>スクリプト用の追加オブジェクト：
 this: NERvGear.Template.Value, 出力値
-inputs: Array&lt;Input&gt;, 入力オブジェクト
-Input.value: NERvGear.Template.Value, 入力値
-Input.output: Function(), 値のデフォルト出力
+values: Array&lt;Value&gt;, 入力データ配列
+Value.value: NERvGear.Template.Value, 入力値
+Value.output: Function(), 値のデフォルト出力
+actions: Array&lt;NERvGear.Template.Action&gt;, 入力アクション配列
 local: Object, スクリプト間での共有
 global: Object, 値間での共有</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="113"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="65"/>
         <source>Update Script</source>
         <translation>更新スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="70"/>
         <source>Dynamic Range</source>
         <translation>ダイナミックレンジ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="128"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="80"/>
         <source>Group Average</source>
         <translation>グループ平均</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="134"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>過去の平均</translation>
     </message>
@@ -1001,48 +1014,64 @@ global: Object, 値間での共有</translation>
 <context>
     <name>SoundAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="44"/>
         <source>Sound Action</source>
         <translation>サウンドアクション</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="45"/>
         <source>Play sound effect or audio file</source>
         <translation>効果音や音声ファイルを再生する</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
-        <source>Playback Audio</source>
-        <translation>オーディオを再生</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="82"/>
         <source>Sound Effect</source>
         <translation>効果音</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="70"/>
         <source>Type</source>
         <translation>タイプ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Sound Event</source>
         <translation>音声イベント</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Audio File</source>
         <translation>音声ファイル</translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="13"/>
+        <source>Play</source>
+        <translation>再生</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="14"/>
+        <source>Play / Stop</source>
+        <translation>再生 / 停止</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="15"/>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
+        <source>Command</source>
+        <translation>コマンド</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="91"/>
         <source>Path</source>
         <translation>パス</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="94"/>
         <source>Wave files (*.WAV)</source>
         <translation>音声ファイル (*.WAV)</translation>
     </message>
@@ -1221,27 +1250,32 @@ global: Object, 値間での共有</translation>
         <translation>取扱説明書</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <source>What&apos;s New</source>
+        <translation>新着情報</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
         <source>Manage &amp;Widgets</source>
         <translation>ウィジェットを管理 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
         <source>Customize &amp;Launcher</source>
         <translation>ランチャーを編集 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>&amp;Preferences</source>
         <translation>環境設定 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
         <source>Exit</source>
         <translation>SAO Utils を終了</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>Are you sure to exit ?</source>
         <translation>本当にログアウトしますか？</translation>
     </message>
@@ -1451,7 +1485,7 @@ Are you sure to disable the unlock button?</source>
         <translation>ウィジェットギャラリー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
         <source>Are you sure to remove this widget?</source>
         <translation>このウィジェットを削除しますか？</translation>
     </message>
@@ -1624,7 +1658,7 @@ Are you sure to disable the unlock button?</source>
         <translation>SAO Utils へようこそ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>ソード·アート·オンライン へようこそ.</translation>
     </message>
@@ -1632,72 +1666,82 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>utils</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
         <source>Toggle Launcher</source>
         <translation>トグルランチャー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <source>Toggle Launcher (No Menu)</source>
+        <translation>トグルランチャー（メニューなし）</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
         <source>Show Launcher</source>
         <translation>ランチャーを表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <source>Show Launcher (No Menu)</source>
+        <translation>ランチャーを表示（メニューなし）</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
         <source>Hide Launcher</source>
         <translation>ランチャーを隠す</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
         <source>Customize Launcher</source>
         <translation>ランチャーのカスタマイズ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
         <source>Manage Widgets</source>
         <translation>ウィジェットの管理</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
         <source>Open Workshop</source>
         <translation>ワークショップを表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
         <source>Show Preferences</source>
         <translation>設定を表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Exit SAO Utils</source>
         <translation>SAOUtils を終了</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Restart SAO Utils</source>
         <translation>SAOUtils を再起動</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Shutdown</source>
         <translation>シャットダウン</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Reboot</source>
         <translation>リブート</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Logout</source>
         <translation>ログアウト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
         <source>Sleep</source>
         <translation>スリープ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
         <source>Hibernate</source>
         <translation>休止状態</translation>
     </message>

@@ -25,32 +25,37 @@
 <context>
     <name>BangumiWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="65"/>
         <source>Bangumi</source>
         <translation>Bangumi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="75"/>
         <source>Timetable...</source>
         <translation>Расписание...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="83"/>
+        <source>Special Schedules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="92"/>
         <source>Settings...</source>
         <translation>Настройки...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="288"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="308"/>
         <source>No records currently.</source>
         <translation>Сейчас нет трансляций.</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="293"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="313"/>
         <source>Retrieving anime schedule...</source>
         <translation>Получение расписания аниме...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="297"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="317"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>Не удается получить расписание аниме.</translation>
     </message>
@@ -210,57 +215,62 @@
 <context>
     <name>TimetableDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
         <source>Timetable</source>
         <translation>Расписание</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
+        <source>Special Schedules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
         <source>Subscribed</source>
         <translation>Подписанный</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="162"/>
         <source>Custom</source>
         <translation>Пользовательский</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="227"/>
         <source>Title</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="238"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="242"/>
         <source>Visible</source>
         <translation>Видимый</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="253"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="257"/>
         <source>Time</source>
         <translation>Время</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="291"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="303"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="307"/>
         <source>Cover URL</source>
         <translation>URL обложки</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="314"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="318"/>
         <source>Playback URL</source>
         <translation>URL востпроизведения</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="324"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="328"/>
         <source>Introduction</source>
         <translation>Вступление</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="356"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="360"/>
         <source>Untitled</source>
         <translation>Неназванный</translation>
     </message>

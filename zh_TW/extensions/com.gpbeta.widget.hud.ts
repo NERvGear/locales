@@ -2,6 +2,183 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW">
 <context>
+    <name>BackgroundElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="29"/>
+        <source>Solid Color</source>
+        <translation>純色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="35"/>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="43"/>
+        <source>Color</source>
+        <translation>顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="50"/>
+        <source>Hovered Color</source>
+        <translation>懸停時顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="57"/>
+        <source>Pressed Color</source>
+        <translation>按下時顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="65"/>
+        <source>Color Data</source>
+        <translation>顏色數據</translation>
+    </message>
+</context>
+<context>
+    <name>BarGaugeElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="27"/>
+        <source>Enable Data Source</source>
+        <translation>啟用數據源</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="32"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="38"/>
+        <source>Bar Color</source>
+        <translation>計量條顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="45"/>
+        <source>Draw Scales</source>
+        <translation>繪制刻度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="51"/>
+        <source>Scales Color</source>
+        <translation>刻度顏色</translation>
+    </message>
+</context>
+<context>
+    <name>CircleGraphElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="34"/>
+        <source>Enable Data Source</source>
+        <translation>啟用數據源</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="39"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="45"/>
+        <source>Animate Data Changes</source>
+        <translation>數值變化動畫</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="51"/>
+        <source>Circle Radius</source>
+        <translation>圓形半徑</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="62"/>
+        <source>Sector Angle</source>
+        <translation>扇形角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="73"/>
+        <source>Offset Angle</source>
+        <translation>偏移角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="84"/>
+        <source>Cutout Hole</source>
+        <translation>鏤空</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="95"/>
+        <source>Line Color</source>
+        <translation>線條顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="101"/>
+        <source>Fill Color</source>
+        <translation>填充顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="107"/>
+        <source>Line Size</source>
+        <translation>線條粗細</translation>
+    </message>
+</context>
+<context>
+    <name>CraftDialog</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="31"/>
+        <source>Item Editor</source>
+        <translation>编辑项目</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="95"/>
+        <source>Are you sure to discard the changes?</source>
+        <translation>是否確認放棄當前變更？</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="274"/>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="319"/>
+        <source>Item Settings</source>
+        <translation>項目設置</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="323"/>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="366"/>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
+        <source>Color</source>
+        <translation>顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="399"/>
+        <source>Element Settings</source>
+        <translation>元素設置</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="408"/>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="425"/>
+        <source>Opacity</source>
+        <translation>透明度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="437"/>
+        <source>Rotation</source>
+        <translation>旋轉</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="452"/>
+        <source>%1 Settings</source>
+        <translation>%1設置</translation>
+    </message>
+</context>
+<context>
     <name>EditDialog</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="51"/>
@@ -10,6 +187,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="71"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="92"/>
         <source>Default Background</source>
         <translation>默認背景</translation>
     </message>
@@ -63,11 +241,13 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
         <source>Item Settings</source>
         <translation>項目設置</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
@@ -103,6 +283,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="201"/>
         <source>Data</source>
         <translation>數據</translation>
     </message>
@@ -133,11 +314,13 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="206"/>
         <source>Action</source>
         <translation>動作</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="145"/>
         <source>Item</source>
         <translation>項目</translation>
     </message>
@@ -151,6 +334,105 @@
         <source>Are you sure to remove this row?</source>
         <translation>是否確認移除本行？</translation>
     </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="64"/>
+        <source>Are you sure to remove this item?</source>
+        <translation>是否確認移除本項目？</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="82"/>
+        <source>Widget Settings</source>
+        <translation>掛件設置</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="107"/>
+        <source>Default Text Font</source>
+        <translation>默認字體</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="113"/>
+        <source>Default Text Color</source>
+        <translation>默認文本顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="124"/>
+        <source>Grid Size</source>
+        <translation>網格大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="135"/>
+        <source>Snap to Grid</source>
+        <translation>吸附到網格</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="177"/>
+        <source>Opacity</source>
+        <translation>透明度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="189"/>
+        <source>Rotation</source>
+        <translation>旋轉</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="210"/>
+        <source>Edit Item...</source>
+        <translation>編輯項目...</translation>
+    </message>
+</context>
+<context>
+    <name>GeometryEditor</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="16"/>
+        <source>Position and Size</source>
+        <translation>位置和大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="221"/>
+        <source>Width</source>
+        <translation>寬度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="233"/>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="245"/>
+        <source>Horizon</source>
+        <comment>offset</comment>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="260"/>
+        <source>Left</source>
+        <comment>margin</comment>
+        <translation>左邊距</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="272"/>
+        <source>Right</source>
+        <comment>margin</comment>
+        <translation>右邊距</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="286"/>
+        <source>Vertical</source>
+        <comment>offset</comment>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="301"/>
+        <source>Top</source>
+        <comment>margin</comment>
+        <translation>上邊距</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="313"/>
+        <source>Bottom</source>
+        <comment>margin</comment>
+        <translation>下邊距</translation>
+    </message>
 </context>
 <context>
     <name>HUDWidget</name>
@@ -161,8 +443,338 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/HUDWidget.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="33"/>
         <source>Editing Mode...</source>
         <translation>進入編輯模式...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="23"/>
+        <source>HUD Custom</source>
+        <translation>HUD 客製化掛件</translation>
+    </message>
+</context>
+<context>
+    <name>HistogramElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="24"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="29"/>
+        <source>Dynamic Range</source>
+        <translation>動態範圍</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="35"/>
+        <source>Line Color</source>
+        <translation>線條顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="41"/>
+        <source>Fill Color</source>
+        <translation>填充顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="47"/>
+        <source>Bar Width</source>
+        <translation>柱寬</translation>
+    </message>
+</context>
+<context>
+    <name>IconElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/IconElement.qml" line="21"/>
+        <source>Icon</source>
+        <translation>圖標</translation>
+    </message>
+</context>
+<context>
+    <name>ImageElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="27"/>
+        <source>Enable Data Source</source>
+        <translation>啟用數據源</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="32"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="38"/>
+        <source>Fill Mode</source>
+        <translation>填充模式</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <source>Stretch</source>
+        <translation>拉伸</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <source>Fit</source>
+        <translation>適應</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <source>Crop</source>
+        <translation>裁剪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <source>Tile</source>
+        <translation>平鋪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <source>Tile Vertically</source>
+        <translation>垂直平鋪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <source>Tile Horizontally</source>
+        <translation>水平平鋪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <source>Pad</source>
+        <translation>留白</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="46"/>
+        <source>Normal</source>
+        <translation>通常時</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="52"/>
+        <source>Hovered</source>
+        <translation>懸停時</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="58"/>
+        <source>Pressed</source>
+        <translation>按下時</translation>
+    </message>
+</context>
+<context>
+    <name>LineChartElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="53"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="58"/>
+        <source>Dynamic Range</source>
+        <translation>動態範圍</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="64"/>
+        <source>Line Color</source>
+        <translation>線條顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="70"/>
+        <source>Line Size</source>
+        <translation>線條粗細</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="80"/>
+        <source>Line Glow</source>
+        <translation>線條發光</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="87"/>
+        <source>Draw Gridlines</source>
+        <translation>繪制參考線</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="93"/>
+        <source>Gridlines Color</source>
+        <translation>參考線顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="100"/>
+        <source>Gridlines Glow</source>
+        <translation>參考線發光</translation>
+    </message>
+</context>
+<context>
+    <name>SvgShapeElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/SvgShapeElement.qml" line="14"/>
+        <source>SVG Shape</source>
+        <translation>SVG 形狀</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/SvgShapeElement.qml" line="24"/>
+        <source>Path</source>
+        <translation>路徑</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/SvgShapeElement.qml" line="30"/>
+        <source>Line Color</source>
+        <translation>線條顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/SvgShapeElement.qml" line="36"/>
+        <source>Fill Color</source>
+        <translation>填充顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/SvgShapeElement.qml" line="42"/>
+        <source>Line Size</source>
+        <translation>線條粗細</translation>
+    </message>
+</context>
+<context>
+    <name>TextElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="43"/>
+        <source>Enable Data Source</source>
+        <translation>啟用數據源</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="48"/>
+        <source>Text</source>
+        <translation>文本</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="54"/>
+        <source>Data</source>
+        <translation>數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="60"/>
+        <source>Output</source>
+        <translation>輸出</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <source>Value and Unit</source>
+        <translation>數值和單位</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <source>Value Only</source>
+        <translation>僅數值</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <source>Unit Only</source>
+        <translation>僅單位</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="69"/>
+        <source>Rounding Numbers</source>
+        <translation>數值取整</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <source>Fixed</source>
+        <translation>定點數</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="77"/>
+        <source>Decimal Digits</source>
+        <translation>小數位數</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="88"/>
+        <source>Font</source>
+        <translation>字體</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="94"/>
+        <source>Color</source>
+        <translation>顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="100"/>
+        <source>Hovered Color</source>
+        <translation>懸停時顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="106"/>
+        <source>Pressed Color</source>
+        <translation>按下時顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="112"/>
+        <source>Style</source>
+        <translation>樣式</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <source>Normal</source>
+        <translation>正常</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <source>Outline</source>
+        <translation>描邊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <source>Raised</source>
+        <translation>突起</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <source>Sunken</source>
+        <translation>凹陷</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="119"/>
+        <source>Style Color</source>
+        <translation>樣式顏色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="125"/>
+        <source>Horizontal Alignment</source>
+        <translation>水平對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <source>Left</source>
+        <translation>左對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <source>Right</source>
+        <translation>右對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="132"/>
+        <source>Vertical Alignment</source>
+        <translation>垂直對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <source>Top</source>
+        <translation>頂端對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <source>Bottom</source>
+        <translation>底端對齊</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="139"/>
+        <source>Line Height</source>
+        <translation>行高</translation>
     </message>
 </context>
 <context>
@@ -174,11 +786,15 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="27"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/IconElement.qml" line="11"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="14"/>
         <source>Icon</source>
         <translation>圖標</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="28"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="15"/>
         <source>Image</source>
         <translation>圖片</translation>
     </message>
@@ -189,23 +805,43 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="28"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="17"/>
         <source>Numeric or Text</source>
         <translation>數字或文本</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="18"/>
         <source>Bar Gauge</source>
         <translation>條形圖</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="32"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
         <source>Line Chart</source>
         <translation>折線圖</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="33"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="11"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
         <source>Histogram</source>
         <translation>直方圖</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="18"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="16"/>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="19"/>
+        <source>Circle Graph</source>
+        <translation>圓環圖</translation>
     </message>
 </context>
 </TS>

@@ -801,39 +801,36 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
 <context>
     <name>ScriptAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="10"/>
         <source>Script Action</source>
         <translation>Acción de Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Templates.Action, output action
-inputs: Array&lt;Action&gt;, input actions
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
 local: Object, sharing across scripts
 global: Object, sharing across actions
 resolve: Function(value), called if the Promise is fulfilled
 reject: Function(reason), called if the Promise is rejected</source>
-        <translation>Extra objects for scripts:
-this: NERvGear.Templates.Action, output action
-inputs: Array&lt;Action&gt;, input actions
-local: Object, sharing across scripts
-global: Object, sharing across actions
-resolve: Function(value), called if the Promise is fulfilled
-reject: Function(reason), called if the Promise is rejected</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="80"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="74"/>
         <source>Execution Script</source>
         <translation>Ejecucion de Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="79"/>
         <source>Execute All</source>
         <translation>Ejecutar Todos</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="91"/>
+        <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="85"/>
         <source>Execute Sequentially</source>
         <translation>Ejecutar Secuencialmente</translation>
     </message>
@@ -841,34 +838,39 @@ reject: Function(reason), called if the Promise is rejected</translation>
 <context>
     <name>ScriptPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="43"/>
-        <source>Input</source>
-        <translation>Entrada</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
+        <source>Input Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
+        <source>Input Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
         <source>Output</source>
         <translation>Salida</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="121"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="52"/>
         <source>Initialization Script</source>
         <translation>Inicialización de Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="122"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="53"/>
         <source>Optional</source>
         <translation>Opcional</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="69"/>
         <source>Examples</source>
         <translation>Ejemplos</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="158"/>
-        <source>Please add at least one input first.</source>
-        <translation>Por favor, añade al menos una entrada.</translation>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <source>Please add %1 first.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -892,32 +894,32 @@ local: Object, sharing across scripts
 global: Object, sharing across processors</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="36"/>
         <source>Initialization Script</source>
         <translation>Inicialización de Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
         <source>Optional</source>
         <translation>Opcional</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="47"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="46"/>
         <source>Execution Script</source>
         <translation>Ejecución de Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="56"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="55"/>
         <source>Examples</source>
         <translation>Ejemplos</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="67"/>
         <source>Rounding Numbers</source>
         <translation>Redondear Números</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="70"/>
         <source>Auto Text Color</source>
         <translation>Color de Texto Automático</translation>
     </message>
@@ -925,43 +927,39 @@ global: Object, sharing across processors</translation>
 <context>
     <name>ScriptValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="10"/>
         <source>Custom Script</source>
         <translation>Script Personalizado</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="11"/>
         <source>Extra objects for scripts:
 this: NERvGear.Template.Value, output value
-inputs: Array&lt;Input&gt;, input objects
-Input.value: NERvGear.Template.Value, input value
-Input.output: Function(), default output for the value
+values: Array&lt;Value&gt;, input values
+Value.value: NERvGear.Template.Value, value object
+Value.output: Function(), default output for the value
+actions: Array&lt;NERvGear.Template.Action&gt;, input actions
 local: Object, sharing across scripts
 global: Object, sharing across values</source>
-        <translation>Extra objects for scripts:
-this: NERvGear.Template.Value, output value
-inputs: Array&lt;Input&gt;, input objects
-Input.value: NERvGear.Template.Value, input value
-Input.output: Function(), default output for the value
-local: Object, sharing across scripts</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="113"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="65"/>
         <source>Update Script</source>
         <translation>Actualizar Script</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="118"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="70"/>
         <source>Dynamic Range</source>
         <translation>Rango Dinámico</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="128"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="80"/>
         <source>Group Average</source>
         <translation>Promedio del Conjunto</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="134"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>Promedio Histórico</translation>
     </message>
@@ -969,48 +967,64 @@ local: Object, sharing across scripts</translation>
 <context>
     <name>SoundAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="44"/>
         <source>Sound Action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="45"/>
         <source>Play sound effect or audio file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="30"/>
-        <source>Playback Audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="32"/>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="82"/>
         <source>Sound Effect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="51"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="70"/>
         <source>Type</source>
         <translation type="unfinished">Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Sound Event</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="71"/>
         <source>Audio File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="13"/>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="14"/>
+        <source>Play / Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="15"/>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
+        <source>Command</source>
+        <translation type="unfinished">Comando</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="91"/>
         <source>Path</source>
         <translation type="unfinished">Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="94"/>
         <source>Wave files (*.WAV)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1189,27 +1203,32 @@ local: Object, sharing across scripts</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <source>What&apos;s New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
         <source>Manage &amp;Widgets</source>
         <translation>Administrar &amp;Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="32"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
         <source>Customize &amp;Launcher</source>
         <translation>Personalizar &amp;Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="39"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Preferencias</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
         <source>Exit</source>
         <translation>Salir</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>Are you sure to exit ?</source>
         <translation>¿Estás seguro de salir?</translation>
     </message>
@@ -1419,7 +1438,7 @@ Are you sure to disable the unlock button?</source>
         <translation>Galeria de Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="261"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
         <source>Are you sure to remove this widget?</source>
         <translation>¿Estás seguro de eliminar este widget?</translation>
     </message>
@@ -1592,7 +1611,7 @@ Are you sure to disable the unlock button?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="260"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils se ha Iniciado con Éxito.</translation>
     </message>
@@ -1600,72 +1619,82 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>utils</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
         <source>Toggle Launcher</source>
         <translation>Alternar Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <source>Toggle Launcher (No Menu)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
         <source>Show Launcher</source>
         <translation>Mostrar Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <source>Show Launcher (No Menu)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
         <source>Hide Launcher</source>
         <translation>Ocultar Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
         <source>Customize Launcher</source>
         <translation>Personalizar Lanzador</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
         <source>Manage Widgets</source>
         <translation>Administrar Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
         <source>Open Workshop</source>
         <translation>Abrir Workshop</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
         <source>Show Preferences</source>
         <translation>Mostrar Preferencias</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Exit SAO Utils</source>
         <translation>Salir de SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Restart SAO Utils</source>
         <translation>Reiniciar SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Shutdown</source>
         <translation>Apagar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Reboot</source>
         <translation>Reiniciar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Logout</source>
         <translation>Cerrar Sesión</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
         <source>Sleep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
         <source>Hibernate</source>
         <translation type="unfinished"></translation>
     </message>

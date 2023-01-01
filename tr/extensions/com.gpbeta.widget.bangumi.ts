@@ -25,32 +25,37 @@
 <context>
     <name>BangumiWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="65"/>
         <source>Bangumi</source>
         <translation>Bangumi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="75"/>
         <source>Timetable...</source>
         <translation>Zaman çizelgesi...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="83"/>
+        <source>Special Schedules...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="92"/>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="308"/>
         <source>No records currently.</source>
         <translation>Şu anda kayıt yok.</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="292"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="313"/>
         <source>Retrieving anime schedule...</source>
         <translation>Anime programı alınıyor...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="296"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="317"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>Anime programı alınamıyor.</translation>
     </message>
@@ -58,47 +63,47 @@
 <context>
     <name>InfoPanel</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="140"/>
         <source>Premiere</source>
         <translation>prömiyer</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="144"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="145"/>
         <source>Time</source>
         <translation>Zaman</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="147"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="148"/>
         <source>Episode</source>
         <translation>Bölüm</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="150"/>
         <source>State</source>
         <translation>Durum</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="151"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
         <source>FIN</source>
         <translation>Son</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="152"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
         <source>OFF AIR</source>
         <translation>Yayımlanmadı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
         <source>ON AIR</source>
         <translation>Yayında</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="155"/>
         <source>UNKNOWN</source>
         <translation>BİLİNMEYEN</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/InfoPanel.qml" line="159"/>
         <source>Tags</source>
         <translation>Etiketler</translation>
     </message>
@@ -210,57 +215,62 @@
 <context>
     <name>TimetableDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
         <source>Timetable</source>
         <translation>Zaman çizelgesi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
+        <source>Special Schedules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
         <source>Subscribed</source>
         <translation>Abone olundu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="162"/>
         <source>Custom</source>
         <translation>Özel</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="227"/>
         <source>Title</source>
         <translation>Başlık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="238"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="242"/>
         <source>Visible</source>
         <translation>Görünür</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="253"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="257"/>
         <source>Time</source>
         <translation>Zaman</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="291"/>
         <source>Rating</source>
         <translation>Değerlendirme</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="303"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="307"/>
         <source>Cover URL</source>
         <translation>Kapak URL&apos;si</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="314"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="318"/>
         <source>Playback URL</source>
         <translation>Oynatma URL&apos;si</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="324"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="328"/>
         <source>Introduction</source>
         <translation>Tanıtım</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="356"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="360"/>
         <source>Untitled</source>
         <translation>Başlıksız</translation>
     </message>

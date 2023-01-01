@@ -25,32 +25,37 @@
 <context>
     <name>BangumiWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="65"/>
         <source>Bangumi</source>
         <translation>Bangumi 番剧表</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="75"/>
         <source>Timetable...</source>
         <translation>编辑节目表...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="83"/>
+        <source>Special Schedules...</source>
+        <translation>编辑特别节目...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="92"/>
         <source>Settings...</source>
         <translation>设置...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="288"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="308"/>
         <source>No records currently.</source>
         <translation>暂无记录。</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="293"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="313"/>
         <source>Retrieving anime schedule...</source>
         <translation>正在获取动画列表...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="297"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="317"/>
         <source>Cannot retrieve anime schedule.</source>
         <translation>无法获取动画列表。</translation>
     </message>
@@ -210,57 +215,62 @@
 <context>
     <name>TimetableDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
         <source>Timetable</source>
         <translation>时间表</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
+        <source>Special Schedules</source>
+        <translation>特别节目表</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
         <source>Subscribed</source>
         <translation>订阅</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="162"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="227"/>
         <source>Title</source>
         <translation>标题</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="238"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="242"/>
         <source>Visible</source>
         <translation>可见</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="253"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="257"/>
         <source>Time</source>
         <translation>时间</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="287"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="291"/>
         <source>Rating</source>
         <translation>评分</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="303"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="307"/>
         <source>Cover URL</source>
         <translation>封面 URL</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="314"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="318"/>
         <source>Playback URL</source>
         <translation>播放 URL</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="324"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="328"/>
         <source>Introduction</source>
         <translation>简介</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="356"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="360"/>
         <source>Untitled</source>
         <translation>无标题</translation>
     </message>

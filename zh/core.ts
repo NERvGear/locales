@@ -863,71 +863,71 @@ Are you sure to continue?</source>
         <translation>背景设置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
         <source>Click to Close Launcher</source>
         <translation>点击背景关闭启动器</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
         <source>Blur Behind</source>
         <translation>模糊效果</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
         <source>Overlay Density</source>
         <translation>浓度</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="183"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="189"/>
         <source>Graphic Settings</source>
         <translation>图形设置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="188"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="194"/>
         <source>3D Mode</source>
         <translation>3D 模式</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="200"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="206"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Zoom</source>
         <translation>缩放</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="210"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="216"/>
         <source>Curvature</source>
         <translation>弯曲度</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="219"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="225"/>
         <source>Camera</source>
         <translation>镜头</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="224"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
         <source>Follow Cursor</source>
         <translation>跟随鼠标</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Breath Motion</source>
         <translation>呼吸效果</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="238"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
         <source>Effects</source>
         <translation>特效</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="243"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="249"/>
         <source>Motion Blur</source>
         <translation>运动模糊</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Off</source>
         <translation>关</translation>
     </message>
@@ -957,52 +957,57 @@ Are you sure to continue?</source>
         <translation>靠右</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="172"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
+        <source>Full-Screen Window</source>
+        <translation>全屏模式窗口</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
         <source>Transition Duration</source>
         <translation>过场动画</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Fast</source>
         <translation>快</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="173"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
         <source>Slow</source>
         <translation>慢</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Light</source>
         <translation>轻微</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Medium</source>
         <translation>中等</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Heavy</source>
         <translation>强烈</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="251"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="257"/>
         <source>Analog Filter</source>
         <translation>模拟色差</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="252"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
         <source>Offset</source>
         <translation>偏移</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Shift Amount</source>
         <translation>偏移量</translation>
     </message>
