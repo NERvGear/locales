@@ -965,7 +965,7 @@ Devam edeceğinizden emin misiniz?</translation>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="153"/>
         <source>Full-Screen Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Tam Ekran Penceresi</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
