@@ -852,7 +852,16 @@ local: Object, sharing across scripts
 global: Object, sharing across actions
 resolve: Function(value), called if the Promise is fulfilled
 reject: Function(reason), called if the Promise is rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut dosyaları için ekstra nesneler:
+bu: NERvGear.Templates.Action, çıktı eylemi
+eylemler: Dizi&lt;NERvGear.Template.Action&gt;, giriş eylemleri
+değerler: Dizi&lt;Değer&gt;, giriş değerleri
+Value.value: NERvGear.Template.Value, değer nesnesi
+Value.output: Function(), değer için varsayılan çıktı
+yerel: Nesne, betikler arasında paylaşım
+global: Nesne, eylemler arasında paylaşım
+çözümle: İşlev(değer), Söz yerine getirilirse çağrılır
+reddet: İşlev(neden), söz reddedilirse çağrılır</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/ScriptAction.qml" line="74"/>
@@ -875,12 +884,12 @@ reject: Function(reason), called if the Promise is rejected</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
         <source>Input Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Giriş Verileri</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
         <source>Input Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Girdi İşlemleri</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
@@ -905,7 +914,7 @@ reject: Function(reason), called if the Promise is rejected</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
         <source>Please add %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen önce %1 ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -976,7 +985,14 @@ Value.output: Function(), default output for the value
 actions: Array&lt;NERvGear.Template.Action&gt;, input actions
 local: Object, sharing across scripts
 global: Object, sharing across values</source>
-        <translation type="unfinished"></translation>
+        <translation>Komut dosyaları için ekstra nesneler:
+bu: NERvGear.Template.Value, çıkış değeri
+değerler: Dizi&lt;Değer&gt;, giriş değerleri
+Value.value: NERvGear.Template.Value, değer nesnesi
+Value.output: Function(), değer için varsayılan çıktı
+eylemler: Dizi&lt;NERvGear.Template.Action&gt;, giriş eylemleri
+yerel: Nesne, betikler arasında paylaşım
+global: Nesne, değerler arasında paylaşım</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="65"/>
@@ -1036,22 +1052,22 @@ global: Object, sharing across values</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="13"/>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynat</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="14"/>
         <source>Play / Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynat / Durdur</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="15"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Durdur</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="76"/>
         <source>Command</source>
-        <translation type="unfinished">Komut</translation>
+        <translation>Komut</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SoundAction.qml" line="91"/>
@@ -1235,7 +1251,7 @@ global: Object, sharing across values</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Yenilikler</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
@@ -1662,7 +1678,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="9"/>
         <source>Toggle Launcher (No Menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcıyı Değiştir (Menü Yok)</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="10"/>
@@ -1672,7 +1688,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="11"/>
         <source>Show Launcher (No Menu)</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcıyı Göster (Menü Yok)</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="12"/>

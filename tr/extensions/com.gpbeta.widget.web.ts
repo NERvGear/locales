@@ -6,22 +6,22 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="49"/>
         <source>RSS Feed</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS Beslemesi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="243"/>
         <source>Now Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Şimdi yükleniyor...</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
         <source>Fetch Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Alma Hatası</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
         <source>RSS Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS Güncellendi</translation>
     </message>
 </context>
 <context>
@@ -29,67 +29,67 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="35"/>
         <source>Open links in external browser</source>
-        <translation type="unfinished">Bağlantıları harici tarayıcıda aç</translation>
+        <translation>Bağlantıları harici tarayıcıda aç</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="41"/>
         <source>Widget Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget Boyutu</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="46"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Küçük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="54"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="62"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="70"/>
         <source>Extra Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstra büyük</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="77"/>
         <source>Update Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Güncelleme aralığı</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="82"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="90"/>
         <source>5 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 dakika</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="98"/>
         <source>15 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 dakika</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="106"/>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 dakika</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="114"/>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation>Saatlik</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="121"/>
         <source>RSS Feed URL...</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS Besleme URL&apos;si...</translation>
     </message>
 </context>
 <context>

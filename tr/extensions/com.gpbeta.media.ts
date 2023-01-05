@@ -454,7 +454,7 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
         <source>Mute</source>
-        <translation type="unfinished">Sesi kapat</translation>
+        <translation>Sesi kapat</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
@@ -487,27 +487,27 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="9"/>
         <source>Play / Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynat / Duraklat</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="10"/>
         <source>Play</source>
-        <translation type="unfinished">Oynat</translation>
+        <translation>Oynat</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="11"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Duraklat</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="12"/>
         <source>Mute</source>
-        <translation type="unfinished">Sesi kapat</translation>
+        <translation>Sesi kapat</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/VideoWidgetAction.qml" line="15"/>
         <source>Video Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Video İşlemi</translation>
     </message>
 </context>
 </TS>

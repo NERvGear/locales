@@ -258,37 +258,37 @@ Yine de devam etmek istiyor musun?</translation>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="81"/>
         <source>Font Family</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="97"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Boyutu</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="109"/>
         <source>Font Weight</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Ağırlığı</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Işık</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
         <source>Regular</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
         <source>Demi-Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Yarım Kalın</translation>
     </message>
 </context>
 <context>

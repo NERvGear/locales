@@ -37,7 +37,7 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="83"/>
         <source>Special Schedules...</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Programlar...</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/BangumiWidget.qml" line="92"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="23"/>
         <source>Special Schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Programlar</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.bangumi/qml/TimetableDialog.qml" line="158"/>
