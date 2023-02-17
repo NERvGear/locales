@@ -594,17 +594,17 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
 <context>
     <name>MiscAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
         <source>Miscellaneous</source>
         <translation>Varios</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="13"/>
         <source>Utilities shortcuts</source>
         <translation>Accesos Directos a las Utilidades</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="22"/>
         <source>Command</source>
         <translation>Comando</translation>
     </message>
@@ -650,7 +650,7 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
 <context>
     <name>NERvGear::Imports::NetworkInterface</name>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="263"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="290"/>
         <source>Overall</source>
         <translation>Global</translation>
     </message>
@@ -673,20 +673,30 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
         <translation>Velocidad de Descarga</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="20"/>
+        <source>Download Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="30"/>
         <source>Upload Speed</source>
         <translation>Velocidad de Subida</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="39"/>
+        <source>Upload Total</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NetworkValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="48"/>
         <source>Maximum Speed (MB/S)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="59"/>
         <source>Network Adapter</source>
         <translation>Adaptador de Red</translation>
     </message>
@@ -705,41 +715,46 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="82"/>
         <source>Open File</source>
         <translation>Abrir Archivo</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="86"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="94"/>
         <source>Open Folder</source>
         <translation>Abrir Carpeta</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="100"/>
         <source>Open Link</source>
         <translation>Abrir Enlace</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Link</source>
         <translation>Enlace</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
+        <source>Run as Administrator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1113,6 +1128,24 @@ global: Object, sharing across values</source>
     </message>
 </context>
 <context>
+    <name>SystemAction</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="12"/>
+        <source>System Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="13"/>
+        <source>System utilities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="22"/>
+        <source>Command</source>
+        <translation type="unfinished">Comando</translation>
+    </message>
+</context>
+<context>
     <name>SystemData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/SystemData.qml" line="8"/>
@@ -1188,47 +1221,52 @@ global: Object, sharing across values</source>
 <context>
     <name>SystemTrayIcon</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="9"/>
         <source>(Do Not Disturb)</source>
         <translation>(No Molestar)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="17"/>
         <source>Workshop</source>
         <translation>Workshop</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
         <source>User Guide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
         <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="38"/>
         <source>Manage &amp;Widgets</source>
         <translation>Administrar &amp;Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
         <source>Customize &amp;Launcher</source>
         <translation>Personalizar &amp;Lanzador</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <source>Do Not &amp;Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Preferencias</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="64"/>
         <source>Exit</source>
         <translation>Salir</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="66"/>
         <source>Are you sure to exit ?</source>
         <translation>¿Estás seguro de salir?</translation>
     </message>
@@ -1241,7 +1279,7 @@ global: Object, sharing across values</source>
         <translation>Unidad Automática</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="50"/>
         <source>Data Type</source>
         <translation>Tipo de Dato</translation>
     </message>
@@ -1611,7 +1649,7 @@ Are you sure to disable the unlock button?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="265"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils se ha Iniciado con Éxito.</translation>
     </message>
@@ -1650,52 +1688,82 @@ Are you sure to disable the unlock button?</source>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <source>Toggle Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <source>Enable Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <source>Disable Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Manage Widgets</source>
         <translation>Administrar Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Open Workshop</source>
         <translation>Abrir Workshop</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Show Preferences</source>
         <translation>Mostrar Preferencias</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Exit SAO Utils</source>
         <translation>Salir de SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Restart SAO Utils</source>
         <translation>Reiniciar SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="36"/>
         <source>Shutdown</source>
         <translation>Apagar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="37"/>
         <source>Reboot</source>
         <translation>Reiniciar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="24"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="33"/>
         <source>Logout</source>
         <translation>Cerrar Sesión</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="34"/>
         <source>Sleep</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="35"/>
         <source>Hibernate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="32"/>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
+        <source>Toggle Desktop Icons</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

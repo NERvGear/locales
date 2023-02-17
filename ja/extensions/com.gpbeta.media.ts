@@ -305,26 +305,31 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <name>ImageWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="22"/>
+        <source>Auto Resize</source>
+        <translation>自動サイズ変更</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="29"/>
         <source>Fill Mode</source>
         <translation>フィルモード</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="25"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="32"/>
         <source>Fit</source>
         <translation>フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="32"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="39"/>
         <source>Crop</source>
         <translation>クロップ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="47"/>
         <source>Reset Size</source>
         <translation>サイズをリセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="60"/>
         <source>Change Image</source>
         <translation>画像を変更</translation>
     </message>
@@ -450,34 +455,97 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>SystemMediaData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="10"/>
+        <source>System Media Data</source>
+        <translation>システムメディアデータ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="11"/>
+        <source>SMTC system media control data, available on Windows 10 and above.</source>
+        <translation>SMTC システムメディアコントロールデータ、Windows 10 以降で利用可能。</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="15"/>
+        <source>Title</source>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="21"/>
+        <source>Artist</source>
+        <translation>アーティスト</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="27"/>
+        <source>Album</source>
+        <translation>アルバム</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="33"/>
+        <source>Player Name</source>
+        <translation>プレーヤ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="39"/>
+        <source>Playback State</source>
+        <translation>再生状態</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="49"/>
+        <source>Playback Time</source>
+        <translation>再生時間</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="70"/>
+        <source>Playback Progress</source>
+        <translation>再生経過</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="91"/>
+        <source>Cover Image</source>
+        <translation>表紙画像</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="98"/>
+        <source>Available Fields</source>
+        <translation>利用可能なフィールド</translation>
+    </message>
+</context>
+<context>
     <name>VideoWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <source>Auto Resize</source>
+        <translation>自動サイズ変更</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
         <source>Mute</source>
         <translation>ミュート</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="52"/>
         <source>Fill Mode</source>
         <translation>フィルモード</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
         <source>Fit</source>
         <translation>フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="62"/>
         <source>Crop</source>
         <translation>クロップ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="70"/>
         <source>Reset Size</source>
         <translation>サイズをリセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="83"/>
         <source>Change Video</source>
         <translation>ビデオを変更</translation>
     </message>

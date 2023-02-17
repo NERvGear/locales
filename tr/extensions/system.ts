@@ -629,17 +629,17 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
 <context>
     <name>MiscAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
         <source>Miscellaneous</source>
         <translation>Çeşitli</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="13"/>
         <source>Utilities shortcuts</source>
         <translation>Yardımcı programlar kısayolları</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="22"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
@@ -685,7 +685,7 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
 <context>
     <name>NERvGear::Imports::NetworkInterface</name>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="263"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="290"/>
         <source>Overall</source>
         <translation>Tüm</translation>
     </message>
@@ -708,20 +708,30 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
         <translation>İndirme hızı</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="20"/>
+        <source>Download Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="30"/>
         <source>Upload Speed</source>
         <translation>Yükleme hızı</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="39"/>
+        <source>Upload Total</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NetworkValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="48"/>
         <source>Maximum Speed (MB/S)</source>
         <translation>Maksimum Hız (MB/S)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="59"/>
         <source>Network Adapter</source>
         <translation>Ağ adaptörü</translation>
     </message>
@@ -740,41 +750,46 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="82"/>
         <source>Open File</source>
         <translation>Dosya Aç</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="86"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="94"/>
         <source>Open Folder</source>
         <translation>Klasör Aç</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="100"/>
         <source>Open Link</source>
         <translation>Link Aç</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
         <source>Type</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>File</source>
         <translation>Dosya</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Folder</source>
         <translation>Klasör</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Link</source>
         <translation>Link</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
+        <source>Run as Administrator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1164,6 +1179,24 @@ global: Nesne, değerler arasında paylaşım</translation>
     </message>
 </context>
 <context>
+    <name>SystemAction</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="12"/>
+        <source>System Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="13"/>
+        <source>System utilities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="22"/>
+        <source>Command</source>
+        <translation type="unfinished">Komut</translation>
+    </message>
+</context>
+<context>
     <name>SystemData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/SystemData.qml" line="8"/>
@@ -1239,47 +1272,52 @@ global: Nesne, değerler arasında paylaşım</translation>
 <context>
     <name>SystemTrayIcon</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="9"/>
         <source>(Do Not Disturb)</source>
         <translation>(Rahatsız etmeyin)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="17"/>
         <source>Workshop</source>
         <translation>Atölye</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
         <source>What&apos;s New</source>
         <translation>Yenilikler</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="38"/>
         <source>Manage &amp;Widgets</source>
         <translation>Widget&apos;ları &amp;Yönet</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
         <source>Customize &amp;Launcher</source>
         <translation>Başlatıcıyı &amp;Özelleştir</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <source>Do Not &amp;Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>&amp;Preferences</source>
         <translation>&amp;Tercihler</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="64"/>
         <source>Exit</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="66"/>
         <source>Are you sure to exit ?</source>
         <translation>Çıkmak istediğinden emin misin ?</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
         <source>User Guide</source>
         <translation>Kullanıcı Rehberi</translation>
     </message>
@@ -1292,7 +1330,7 @@ global: Nesne, değerler arasında paylaşım</translation>
         <translation>Otomatik Ünite</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="50"/>
         <source>Data Type</source>
         <translation>Veri tipi</translation>
     </message>
@@ -1658,7 +1696,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="265"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils Başarıyla Başladı.</translation>
     </message>
@@ -1702,53 +1740,83 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <source>Toggle Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <source>Enable Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <source>Disable Do Not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Manage Widgets</source>
         <translation>Widget&apos;ları Yönet</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Open Workshop</source>
         <translation>Atölyeyi Aç</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Show Preferences</source>
         <translation>Tercihleri Göster</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Exit SAO Utils</source>
         <translation>SAO Utils&apos;den Çık</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Restart SAO Utils</source>
         <translation>SAO Utils&apos;i yeniden başlatın</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="36"/>
         <source>Shutdown</source>
         <translation>Kapat</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="37"/>
         <source>Reboot</source>
         <translation>yeniden başlat</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="24"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="33"/>
         <source>Logout</source>
         <translation>Çıkış Yap</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="34"/>
         <source>Sleep</source>
         <translation>Uyu</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="35"/>
         <source>Hibernate</source>
         <translation>Hazırda Beklet</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="32"/>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
+        <source>Toggle Desktop Icons</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

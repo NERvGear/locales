@@ -625,17 +625,17 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>MiscAction</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="11"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
         <source>Miscellaneous</source>
         <translation>雜項</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="12"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="13"/>
         <source>Utilities shortcuts</source>
         <translation>快捷功能入口</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="42"/>
+        <location filename="../../../src/extensions/system/qml/system/action/MiscAction.qml" line="22"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
@@ -681,7 +681,7 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>NERvGear::Imports::NetworkInterface</name>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="263"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource_net.cpp" line="290"/>
         <source>Overall</source>
         <translation>所有</translation>
     </message>
@@ -704,20 +704,30 @@ please exit the program and wait for Steam client to apply the updates.)</source
         <translation>下載速度</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="20"/>
+        <source>Download Total</source>
+        <translation>下載總量</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="30"/>
         <source>Upload Speed</source>
         <translation>上傳速度</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="39"/>
+        <source>Upload Total</source>
+        <translation>上傳總量</translation>
     </message>
 </context>
 <context>
     <name>NetworkValue</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="48"/>
         <source>Maximum Speed (MB/S)</source>
         <translation>最高速度（MB/S）</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/data/NetworkValue.qml" line="59"/>
         <source>Network Adapter</source>
         <translation>網卡</translation>
     </message>
@@ -736,41 +746,46 @@ please exit the program and wait for Steam client to apply the updates.)</source
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="82"/>
         <source>Open File</source>
         <translation>打開文件</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="86"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="94"/>
         <source>Open Folder</source>
         <translation>打開目錄</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="100"/>
         <source>Open Link</source>
         <translation>打開鏈接</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="66"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
         <source>Type</source>
         <translation>類型</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Folder</source>
         <translation>目錄</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
         <source>Link</source>
         <translation>鏈接</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
+        <source>Run as Administrator</source>
+        <translation>以管理員身份運行</translation>
     </message>
 </context>
 <context>
@@ -1160,6 +1175,24 @@ global: Object, 全局共享對象</translation>
     </message>
 </context>
 <context>
+    <name>SystemAction</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="12"/>
+        <source>System Action</source>
+        <translation>系統動作</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="13"/>
+        <source>System utilities</source>
+        <translation>實用系統工具</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="22"/>
+        <source>Command</source>
+        <translation>命令</translation>
+    </message>
+</context>
+<context>
     <name>SystemData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/SystemData.qml" line="8"/>
@@ -1235,47 +1268,52 @@ global: Object, 全局共享對象</translation>
 <context>
     <name>SystemTrayIcon</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="9"/>
         <source>(Do Not Disturb)</source>
         <translation>（免打擾模式）</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="17"/>
         <source>Workshop</source>
         <translation>創意工坊</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="22"/>
         <source>User Guide</source>
         <translation>用戶指南</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="27"/>
         <source>What&apos;s New</source>
         <translation>更新日誌</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="36"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="38"/>
         <source>Manage &amp;Widgets</source>
         <translation>管理掛件 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="43"/>
         <source>Customize &amp;Launcher</source>
         <translation>定製啟動器 (&amp;L)</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
+        <source>Do Not &amp;Disturb</source>
+        <translation>免打擾模式 (&amp;D)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
         <source>&amp;Preferences</source>
         <translation>首選項 (&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="55"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="64"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
+        <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="66"/>
         <source>Are you sure to exit ?</source>
         <translation>是否確認退出？</translation>
     </message>
@@ -1288,7 +1326,7 @@ global: Object, 全局共享對象</translation>
         <translation>自動單位轉換</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/data/UnitProcessor.qml" line="50"/>
         <source>Data Type</source>
         <translation>數據類型</translation>
     </message>
@@ -1658,7 +1696,7 @@ Are you sure to disable the unlock button?</source>
         <translation>歡迎使用 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="264"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="265"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils 啟動成功.</translation>
     </message>
@@ -1697,53 +1735,83 @@ Are you sure to disable the unlock button?</source>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
+        <source>Toggle Do Not Disturb</source>
+        <translation>開關免打擾</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <source>Enable Do Not Disturb</source>
+        <translation>啟用免打擾</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <source>Disable Do Not Disturb</source>
+        <translation>禁用免打擾</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
         <source>Manage Widgets</source>
         <translation>管理掛件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
         <source>Open Workshop</source>
         <translation>打開創意工坊</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
         <source>Show Preferences</source>
         <translation>打開首選項</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
         <source>Exit SAO Utils</source>
         <translation>退出 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="18"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
         <source>Restart SAO Utils</source>
         <translation>重啟 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="36"/>
         <source>Shutdown</source>
         <translation>關機</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="20"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="37"/>
         <source>Reboot</source>
         <translation>重啟</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="21"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="24"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="33"/>
         <source>Logout</source>
         <translation>註銷</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="22"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="25"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="34"/>
         <source>Sleep</source>
         <translation>睡眠</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="23"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="26"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="35"/>
         <source>Hibernate</source>
         <translation>休眠</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="32"/>
+        <source>Lock</source>
+        <translation>鎖定</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
+        <source>Toggle Desktop Icons</source>
+        <translation>開關桌面圖標</translation>
     </message>
 </context>
 </TS>

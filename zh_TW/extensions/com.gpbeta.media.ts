@@ -305,26 +305,31 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <name>ImageWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="22"/>
+        <source>Auto Resize</source>
+        <translation>自動重置大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="29"/>
         <source>Fill Mode</source>
         <translation>填充方式</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="25"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="32"/>
         <source>Fit</source>
         <translation>適應</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="32"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="39"/>
         <source>Crop</source>
         <translation>裁剪</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="47"/>
         <source>Reset Size</source>
         <translation>重置尺寸</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="60"/>
         <source>Change Image</source>
         <translation>更換圖片</translation>
     </message>
@@ -450,34 +455,97 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     </message>
 </context>
 <context>
+    <name>SystemMediaData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="10"/>
+        <source>System Media Data</source>
+        <translation>系統多媒體數據</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="11"/>
+        <source>SMTC system media control data, available on Windows 10 and above.</source>
+        <translation>SMTC 系統多媒體控製數據，支持 Windows 10 或以上系統。</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="15"/>
+        <source>Title</source>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="21"/>
+        <source>Artist</source>
+        <translation>藝術家</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="27"/>
+        <source>Album</source>
+        <translation>專輯</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="33"/>
+        <source>Player Name</source>
+        <translation>播放器名稱</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="39"/>
+        <source>Playback State</source>
+        <translation>播放狀態</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="49"/>
+        <source>Playback Time</source>
+        <translation>播放時間</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="70"/>
+        <source>Playback Progress</source>
+        <translation>播放進度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="91"/>
+        <source>Cover Image</source>
+        <translation>封面圖片</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="98"/>
+        <source>Available Fields</source>
+        <translation>可用字段</translation>
+    </message>
+</context>
+<context>
     <name>VideoWidget</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
+        <source>Auto Resize</source>
+        <translation>自動重置大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
         <source>Mute</source>
         <translation>靜音</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="52"/>
         <source>Fill Mode</source>
         <translation>填充方式</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
         <source>Fit</source>
         <translation>適應</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="55"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="62"/>
         <source>Crop</source>
         <translation>裁剪</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="70"/>
         <source>Reset Size</source>
         <translation>重置尺寸</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="83"/>
         <source>Change Video</source>
         <translation>更換視頻</translation>
     </message>

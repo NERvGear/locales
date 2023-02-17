@@ -37,27 +37,90 @@
 <context>
     <name>BarGaugeElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="27"/>
-        <source>Enable Data Source</source>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="44"/>
+        <source>Data</source>
+        <translation type="unfinished">Veri</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="49"/>
+        <source>Animate Data Changes</source>
         <translation>Veri Kaynağını Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="32"/>
-        <source>Data</source>
-        <translation>Veri</translation>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="54"/>
+        <source>Bar Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="70"/>
+        <source>Image Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="76"/>
+        <source>Top</source>
+        <translation type="unfinished">Üst</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="89"/>
+        <source>Left</source>
+        <translation type="unfinished">Sol</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="102"/>
+        <source>Bottom</source>
+        <translation type="unfinished">Alt kısım</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="115"/>
+        <source>Right</source>
+        <translation type="unfinished">Sağ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="143"/>
+        <source>Minimum Bar Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="129"/>
+        <source>Image Horizontal Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="130"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="137"/>
+        <source>Stretch</source>
+        <translation type="unfinished">Uzat</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="130"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="137"/>
+        <source>Repeat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="130"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="137"/>
+        <source>Round</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="136"/>
+        <source>Image Vertical Tile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="154"/>
         <source>Bar Color</source>
         <translation>Çubuk Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="161"/>
         <source>Draw Scales</source>
         <translation>Ölçek Çiz</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="51"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="167"/>
         <source>Scales Color</source>
         <translation>Ölçek Renk</translation>
     </message>
@@ -65,52 +128,52 @@
 <context>
     <name>CircleGraphElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="34"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="36"/>
         <source>Enable Data Source</source>
         <translation>Veri Kaynağını Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="39"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="41"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="45"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="47"/>
         <source>Animate Data Changes</source>
         <translation>Veri Değişikliklerini Canlandırın</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="51"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="53"/>
         <source>Circle Radius</source>
         <translation>Daire Yarıçapı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="64"/>
         <source>Sector Angle</source>
         <translation>Kesim Açısı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="75"/>
         <source>Offset Angle</source>
         <translation>Öteleme Açısı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="84"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="86"/>
         <source>Cutout Hole</source>
         <translation>Kesme Deliği</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="95"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="97"/>
         <source>Line Color</source>
         <translation>Çizgi rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="103"/>
         <source>Fill Color</source>
         <translation>Dolgu Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="107"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="109"/>
         <source>Line Size</source>
         <translation>Çizgi boyutu</translation>
     </message>
@@ -143,37 +206,37 @@
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="366"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="365"/>
         <source>Background</source>
         <translation>Arka fon</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="380"/>
         <source>Color</source>
         <translation>Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="399"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="398"/>
         <source>Element Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="408"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="407"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="425"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="424"/>
         <source>Opacity</source>
         <translation>Saydamlık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="437"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="436"/>
         <source>Rotation</source>
         <translation>Döndürme</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="452"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="451"/>
         <source>%1 Settings</source>
         <translation>%1 Ayarlar</translation>
     </message>
@@ -187,7 +250,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="71"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="92"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="99"/>
         <source>Default Background</source>
         <translation>Varsayılan Arka Plan</translation>
     </message>
@@ -241,23 +304,25 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="163"/>
         <source>Item Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="173"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="190"/>
         <source>Background</source>
         <translation>Arka fon</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="205"/>
         <source>Color</source>
         <translation>Renk</translation>
     </message>
@@ -283,7 +348,8 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="201"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="265"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
@@ -314,13 +380,13 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="206"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="270"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="145"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="158"/>
         <source>Item</source>
         <translation>Öğeler</translation>
     </message>
@@ -340,42 +406,67 @@
         <translation>Bu öğeyi kaldırmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="82"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="89"/>
         <source>Widget Settings</source>
         <translation>Widget Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="107"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="114"/>
+        <source>Default Background Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="120"/>
         <source>Default Text Font</source>
         <translation>Varsayılan Metin Yazı Tipi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="113"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="126"/>
         <source>Default Text Color</source>
         <translation>Varsayılan Metin Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="124"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="137"/>
         <source>Grid Size</source>
         <translation>Izgara Boyutu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="148"/>
         <source>Snap to Grid</source>
         <translation>Kılavuza Yapış</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="177"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="211"/>
         <source>Opacity</source>
         <translation>Saydamlık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="189"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="223"/>
         <source>Rotation</source>
         <translation>Döndürme</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="210"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="235"/>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <source>Always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <source>Normal</source>
+        <translation type="unfinished">Normal</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <source>Hovered</source>
+        <translation type="unfinished">Fareyle üzerine gelindi</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="283"/>
         <source>Edit Item...</source>
         <translation>Ögeyi düzenle...</translation>
     </message>
@@ -388,47 +479,47 @@
         <translation>Pozisyon ve Boyut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="221"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="222"/>
         <source>Width</source>
         <translation>Genişlik</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="233"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="234"/>
         <source>Height</source>
         <translation>Yükseklik</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="245"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="246"/>
         <source>Horizon</source>
         <comment>offset</comment>
         <translation>Hizala</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="260"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="261"/>
         <source>Left</source>
         <comment>margin</comment>
         <translation>Sol</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="272"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="273"/>
         <source>Right</source>
         <comment>margin</comment>
         <translation>Sağ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="286"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="287"/>
         <source>Vertical</source>
         <comment>offset</comment>
         <translation>Dikey</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="301"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="302"/>
         <source>Top</source>
         <comment>margin</comment>
         <translation>Üst</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="313"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/GeometryEditor.qml" line="314"/>
         <source>Bottom</source>
         <comment>margin</comment>
         <translation>Alt kısım</translation>
@@ -456,27 +547,27 @@
 <context>
     <name>HistogramElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="26"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="29"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="31"/>
         <source>Dynamic Range</source>
         <translation>Dinamik Aralık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="35"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="37"/>
         <source>Line Color</source>
         <translation>Çizgi rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="43"/>
         <source>Fill Color</source>
         <translation>Dolgu Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="47"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="49"/>
         <source>Bar Width</source>
         <translation>Bar Genişliği</translation>
     </message>
@@ -492,112 +583,190 @@
 <context>
     <name>ImageElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="27"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="30"/>
         <source>Enable Data Source</source>
         <translation>Veri Kaynağını Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="32"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="35"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="41"/>
         <source>Fill Mode</source>
         <translation>Dolgu Modu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
         <source>Stretch</source>
         <translation>Uzat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
         <source>Fit</source>
         <translation>Sığdır</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="39"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
         <source>Crop</source>
         <translation>Kırp</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
         <source>Tile</source>
         <translation>Karo</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
         <source>Tile Vertically</source>
         <translation>Dikey Döşe</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
         <source>Tile Horizontally</source>
         <translation>Yatay Döşe</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
         <source>Pad</source>
         <translation>Tampon</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="46"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="49"/>
+        <source>Border Radius</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="60"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="52"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="66"/>
         <source>Hovered</source>
         <translation>Fareyle üzerine gelindi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="58"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="72"/>
         <source>Pressed</source>
         <translation>Fareyle üzerine basıldı</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="79"/>
+        <source>Spin Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="84"/>
+        <source>Spin Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="96"/>
+        <source>Spin Frame Rate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LineChartElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="53"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="55"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="58"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="60"/>
         <source>Dynamic Range</source>
         <translation>Dinamik Aralık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="66"/>
         <source>Line Color</source>
         <translation>Çizgi rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="72"/>
         <source>Line Size</source>
         <translation>Çizgi boyutu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="80"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="82"/>
         <source>Line Glow</source>
         <translation>Çizgi Parıltısı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="87"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="89"/>
         <source>Draw Gridlines</source>
         <translation>Kılavuz Çizgileri Çiz</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="93"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="95"/>
         <source>Gridlines Color</source>
         <translation>Kılavuz Çizgileri Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="102"/>
         <source>Gridlines Glow</source>
         <translation>Kılavuz Çizgileri Parlıyor</translation>
+    </message>
+</context>
+<context>
+    <name>PointerMeterElement</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="31"/>
+        <source>Data</source>
+        <translation type="unfinished">Veri</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="36"/>
+        <source>Animate Data Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="41"/>
+        <source>Pointer Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="57"/>
+        <source>Image Origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="90"/>
+        <source>Pointer Offset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="101"/>
+        <source>Pointer Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="112"/>
+        <source>Pointer Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="119"/>
+        <source>Draw Scales</source>
+        <translation type="unfinished">Ölçek Çiz</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="125"/>
+        <source>Scales Offset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="137"/>
+        <source>Scales Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="149"/>
+        <source>Scales Color</source>
+        <translation type="unfinished">Ölçek Renk</translation>
     </message>
 </context>
 <context>
@@ -631,148 +800,178 @@
 <context>
     <name>TextElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="45"/>
         <source>Enable Data Source</source>
         <translation>Veri Kaynağını Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="50"/>
         <source>Text</source>
         <translation>Metin</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="54"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="56"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="60"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="62"/>
         <source>Output</source>
         <translation>Çıktı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="65"/>
         <source>Value and Unit</source>
         <translation>Değer ve Birim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="65"/>
         <source>Value Only</source>
         <translation>Yalnızca Değer</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="65"/>
         <source>Unit Only</source>
         <translation>Yalnızca Birim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="69"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="71"/>
         <source>Rounding Numbers</source>
         <translation>Yuvarlama Sayıları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="74"/>
         <source>Auto</source>
         <translation>Otomatik</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="74"/>
         <source>Fixed</source>
         <translation>Düzeltildi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="77"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="79"/>
         <source>Decimal Digits</source>
         <translation>Ondalık basamak</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="88"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
         <source>Font</source>
         <translation>Yazı tipi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="97"/>
+        <source>Font Size Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="99"/>
+        <source>Fixed Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="99"/>
+        <source>Horizontal Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="99"/>
+        <source>Vertical Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="99"/>
+        <source>Fit</source>
+        <translation type="unfinished">Sığdır</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
+        <source>Minimum Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="116"/>
         <source>Color</source>
         <translation>Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="122"/>
         <source>Hovered Color</source>
         <translation>Üzerine Gelinen Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="128"/>
         <source>Pressed Color</source>
         <translation>Üzerine Basılan Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
         <source>Style</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="136"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="136"/>
         <source>Outline</source>
         <translation>Anahat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="136"/>
         <source>Raised</source>
         <translation>Yükselt</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="136"/>
         <source>Sunken</source>
         <translation>Göm</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="119"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Style Color</source>
         <translation>Stil Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="147"/>
         <source>Horizontal Alignment</source>
         <translation>Yatay hizalama</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="149"/>
         <source>Left</source>
         <translation>Sol</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="149"/>
         <source>Right</source>
         <translation>Sağ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="156"/>
         <source>Center</source>
         <translation>Orta</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="132"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
         <source>Vertical Alignment</source>
         <translation>Dikey hizalama</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="156"/>
         <source>Top</source>
         <translation>Üst</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="134"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="156"/>
         <source>Bottom</source>
         <translation>Alt kısım</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Line Height</source>
         <translation>Satır yüksekliği</translation>
     </message>
@@ -793,7 +992,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="28"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="18"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="15"/>
         <source>Image</source>
         <translation>Resim</translation>
@@ -805,29 +1004,29 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="28"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="30"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="17"/>
         <source>Numeric or Text</source>
         <translation>Sayısal veya Metin</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="31"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="33"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="18"/>
         <source>Bar Gauge</source>
         <translation>Çubuk göstergesi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="32"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="38"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="40"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
         <source>Line Chart</source>
         <translation>Çizgi grafik</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="33"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="11"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="13"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="22"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
@@ -838,10 +1037,16 @@
         <translation>Arka fon</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="22"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="19"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
         <source>Circle Graph</source>
         <translation>Daire Grafiği</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="20"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="19"/>
+        <source>Pointer Meter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

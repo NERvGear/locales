@@ -9,17 +9,17 @@
         <translation>RSS 订阅</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="243"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="246"/>
         <source>Now Loading...</source>
         <translation>正在加载...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
         <source>Fetch Error</source>
         <translation>获取失败</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
         <source>RSS Updated</source>
         <translation>订阅已更新</translation>
     </message>

@@ -9,17 +9,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="243"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="246"/>
         <source>Now Loading...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
         <source>Fetch Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="244"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
         <source>RSS Updated</source>
         <translation type="unfinished"></translation>
     </message>
