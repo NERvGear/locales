@@ -306,7 +306,7 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="22"/>
         <source>Auto Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik Yeniden Boyutlandır</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/ImageWidget.qml" line="29"/>
@@ -459,57 +459,57 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="10"/>
         <source>System Media Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Medya Verileri</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="11"/>
         <source>SMTC system media control data, available on Windows 10 and above.</source>
-        <translation type="unfinished"></translation>
+        <translation>SMTC sistem ortamı kontrol verileri, Windows 10 ve üzeri sürümlerde mevcuttur.</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="15"/>
         <source>Title</source>
-        <translation type="unfinished">Başlık</translation>
+        <translation>Başlık</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="21"/>
         <source>Artist</source>
-        <translation type="unfinished">Sanatçı</translation>
+        <translation>Sanatçı</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="27"/>
         <source>Album</source>
-        <translation type="unfinished">Albüm</translation>
+        <translation>Albüm</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="33"/>
         <source>Player Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyuncu adı</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="39"/>
         <source>Playback State</source>
-        <translation type="unfinished">Oynatma Durumu</translation>
+        <translation>Oynatma Durumu</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="49"/>
         <source>Playback Time</source>
-        <translation type="unfinished">Oynatma Süresi</translation>
+        <translation>Oynatma Süresi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="70"/>
         <source>Playback Progress</source>
-        <translation type="unfinished">Oynatma İlerlemesi</translation>
+        <translation>Oynatma İlerlemesi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="91"/>
         <source>Cover Image</source>
-        <translation type="unfinished">Kapak resmi</translation>
+        <translation>Kapak resmi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/data/SystemMediaData.qml" line="98"/>
         <source>Available Fields</source>
-        <translation type="unfinished">Mevcut Alanlar</translation>
+        <translation>Mevcut Alanlar</translation>
     </message>
 </context>
 <context>
@@ -517,7 +517,7 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="38"/>
         <source>Auto Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik Yeniden Boyutlandır</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.media/qml/VideoWidget.qml" line="45"/>

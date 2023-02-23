@@ -710,7 +710,7 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="20"/>
         <source>Download Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam İndirme</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="30"/>
@@ -720,7 +720,7 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/NetworkData.qml" line="39"/>
         <source>Upload Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplam Yükleme</translation>
     </message>
 </context>
 <context>
@@ -789,7 +789,7 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
         <source>Run as Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Yönetici olarak çalıştır</translation>
     </message>
 </context>
 <context>
@@ -1183,17 +1183,17 @@ global: Nesne, değerler arasında paylaşım</translation>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="12"/>
         <source>System Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem Eylemi</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="13"/>
         <source>System utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem araçları</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/SystemAction.qml" line="22"/>
         <source>Command</source>
-        <translation type="unfinished">Komut</translation>
+        <translation>Komut</translation>
     </message>
 </context>
 <context>
@@ -1299,7 +1299,7 @@ global: Nesne, değerler arasında paylaşım</translation>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="48"/>
         <source>Do Not &amp;Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahatsız &amp;etmeyin</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/SystemTrayIcon.qml" line="57"/>
@@ -1741,17 +1741,17 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="14"/>
         <source>Toggle Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahatsız Etmeyin seçeneğini değiştirin</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="15"/>
         <source>Enable Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahatsız Etmeyin özelliğini etkinleştirin</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="16"/>
         <source>Disable Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Rahatsız Etmeyin özelliğini devre dışı bırakın</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="17"/>
@@ -1811,12 +1811,12 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="32"/>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
         <source>Toggle Desktop Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü Simgelerini Değiştir</translation>
     </message>
 </context>
 </TS>
