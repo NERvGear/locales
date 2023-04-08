@@ -715,44 +715,64 @@ por favor, sal del programa y espera a que el cliente de Steam aplique las actua
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="82"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="99"/>
         <source>Open File</source>
         <translation>Abrir Archivo</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="94"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="111"/>
         <source>Open Folder</source>
         <translation>Abrir Carpeta</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="100"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="117"/>
         <source>Open Link</source>
         <translation>Abrir Enlace</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="91"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>Link</source>
         <translation>Enlace</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="122"/>
+        <source>Open Method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>Prefer Internal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>External Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="131"/>
         <source>Run as Administrator</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1380,90 +1400,95 @@ global: Object, sharing across values</source>
 <context>
     <name>WidgetGallery</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="43"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="44"/>
         <source>Disable Unlock Button</source>
         <translation>Desactivar Botón de Desbloqueo</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="47"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="48"/>
         <source>You can no longer unlock any transparent widgets.
 Are you sure to disable the unlock button?</source>
         <translation>Ya no puedes desbloquear ningún widget transparente.
 ¿Estás seguro de desactivar el botón de desbloqueo?</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="62"/>
         <source>Check for Offscreen Widgets</source>
         <translation>Comprobar Widgets Fuera de la Pantalla</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="74"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="88"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="89"/>
         <source>%1 widgets recovered</source>
         <translation>%1 widgets recuperados</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="78"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="79"/>
         <source>Show Hidden Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="93"/>
+        <source>Find Widget...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="97"/>
         <source>Get More...</source>
         <translation>Obtener Más...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="106"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="111"/>
         <source>All Widgets</source>
         <translation>Todos los Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="112"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
         <source>Themes</source>
         <translation>Temas</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="133"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
         <source>Edit...</source>
         <translation>Editar...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="143"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="205"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="227"/>
         <source>Drop outside to add a widget</source>
         <translation>Soltar fuera para añadir un widget</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="230"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="252"/>
         <source>Preset Widgets</source>
         <translation>Widgets Por Defecto</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="236"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
         <source>Basic Widgets</source>
         <translation>Widgets Básicos</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="242"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
         <source>My Widgets</source>
         <translation>Mis Widgets</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="366"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="388"/>
         <source>Preset Themes</source>
         <translation>Temas Por Defecto</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="393"/>
         <source>My Themes</source>
         <translation>Mis Temas</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="389"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="411"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;En Blanco&gt;</translation>
     </message>
@@ -1590,6 +1615,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPreference</name>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="156"/>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPreference.qml" line="34"/>
         <source>Widget Picker</source>
         <translation>Selector de Widget</translation>
@@ -1644,12 +1670,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="54"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="56"/>
         <source>Welcome to SAO Utils</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="265"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="276"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils se ha Iniciado con Éxito.</translation>
     </message>

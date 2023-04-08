@@ -746,44 +746,64 @@ please exit the program and wait for Steam client to apply the updates.)</source
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="15"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="82"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="99"/>
         <source>Open File</source>
         <translation>打开文件</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="16"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="94"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="111"/>
         <source>Open Folder</source>
         <translation>打开目录</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="17"/>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="100"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="117"/>
         <source>Open Link</source>
         <translation>打开链接</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="74"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="91"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>Folder</source>
         <translation>目录</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="92"/>
         <source>Link</source>
         <translation>链接</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="106"/>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="122"/>
+        <source>Open Method</source>
+        <translation>打开方式</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>Default</source>
+        <translation>默认</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>Prefer Internal</source>
+        <translation>内部优先</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
+        <source>External Only</source>
+        <translation>仅外部</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="131"/>
         <source>Run as Administrator</source>
         <translation>以管理员身份运行</translation>
     </message>
@@ -1427,90 +1447,95 @@ global: Object, 全局共享对象</translation>
 <context>
     <name>WidgetGallery</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="43"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="44"/>
         <source>Disable Unlock Button</source>
         <translation>禁用解锁按钮</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="47"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="48"/>
         <source>You can no longer unlock any transparent widgets.
 Are you sure to disable the unlock button?</source>
         <translation>禁用后将无法解锁透明化挂件。
 是否确认继续？</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="61"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="62"/>
         <source>Check for Offscreen Widgets</source>
         <translation>检查离屏挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="74"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="88"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="75"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="89"/>
         <source>%1 widgets recovered</source>
         <translation>已找回 %1 个挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="78"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="79"/>
         <source>Show Hidden Widgets</source>
         <translation>显示隐藏挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="92"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="93"/>
+        <source>Find Widget...</source>
+        <translation>查找挂件...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="97"/>
         <source>Get More...</source>
         <translation>获取更多...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="106"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="111"/>
         <source>All Widgets</source>
         <translation>所有挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="112"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
         <source>Themes</source>
         <translation>主题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="133"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
         <source>Edit...</source>
         <translation>编辑...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="143"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="205"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="227"/>
         <source>Drop outside to add a widget</source>
         <translation>拖放到桌面以添加挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="230"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="252"/>
         <source>Preset Widgets</source>
         <translation>预置挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="236"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
         <source>Basic Widgets</source>
         <translation>基础挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="242"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
         <source>My Widgets</source>
         <translation>我的挂件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="366"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="388"/>
         <source>Preset Themes</source>
         <translation>预置主题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="371"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="393"/>
         <source>My Themes</source>
         <translation>我的主题</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="389"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="411"/>
         <source>&lt;Blank&gt;</source>
         <translation>「空白」</translation>
     </message>
@@ -1637,6 +1662,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPreference</name>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="156"/>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPreference.qml" line="34"/>
         <source>Widget Picker</source>
         <translation>选取挂件</translation>
@@ -1691,12 +1717,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="54"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="56"/>
         <source>Welcome to SAO Utils</source>
         <translation>欢迎使用 SAO Utils</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="265"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="276"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>SAO Utils 启动成功.</translation>
     </message>

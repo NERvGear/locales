@@ -247,27 +247,32 @@ Esa es la razón por la que se llama &quot;SAO Utils&quot; :)</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Try to Recovery GPU Device Lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
         <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="176"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="182"/>
         <source>Debug Tools</source>
         <translation>Herramientas de Depuración</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="186"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript Garbage Collection</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="191"/>
         <source>Trim QML Component Cache</source>
         <translation>Recorte de la Caché del Componente QML</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="196"/>
         <source>Empty Process Working Set</source>
         <translation>Conjunto de Operaciones de Proceso de Vaciado</translation>
     </message>

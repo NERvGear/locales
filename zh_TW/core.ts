@@ -247,27 +247,32 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
         <translation>實驗性功能</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Try to Recovery GPU Device Lost</source>
+        <translation>GPU 崩潰時嘗試自動恢覆</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
         <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
         <translation>提升圖形性能，若 GPU 不兼容則可能使程序或系統崩潰</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="176"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="182"/>
         <source>Debug Tools</source>
         <translation>調試工具</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="186"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript 垃圾回收</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="191"/>
         <source>Trim QML Component Cache</source>
         <translation>修整 QML 組件緩存</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="196"/>
         <source>Empty Process Working Set</source>
         <translation>清空進程工作集內存</translation>
     </message>

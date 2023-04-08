@@ -101,40 +101,58 @@
         <translation>Posta Kutusu Kısayolları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="42"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="43"/>
         <source>Compose Message</source>
         <translation>Mesaj oluştur</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="43"/>
         <source>Open Inbox</source>
         <translation>Gelen Kutusunu Aç</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="43"/>
         <source>Show Contacts</source>
         <translation>Kişileri Göster</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="44"/>
         <source>Show Options</source>
         <translation>Seçenekleri Göster</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="44"/>
+        <source>Read New Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="50"/>
         <source>Recipient</source>
         <translation>Alıcı</translation>
     </message>
 </context>
 <context>
+    <name>MailData</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailData.qml" line="10"/>
+        <source>Mail Box Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailData.qml" line="15"/>
+        <source>Unread Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Mailer</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/Mailer.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/Mailer.qml" line="87"/>
         <source>%1 new messages</source>
         <translation>%1 yeni mesaj</translation>
     </message>
@@ -291,155 +309,160 @@
 <context>
     <name>OptionsDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="198"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="200"/>
         <source>Account Settings</source>
         <translation>Hesap ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="203"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="205"/>
         <source>Email</source>
         <translation>E-posta</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="221"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="223"/>
         <source>Username</source>
         <translation>Kullanıcı adı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="227"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="229"/>
         <source>Password</source>
         <translation>Parola</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="232"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="234"/>
         <source>Incoming Server</source>
         <translation>Gelen sunucu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="239"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="241"/>
         <source>IMAP Server</source>
         <translation>IMAP Sunucusu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="249"/>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="282"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="251"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="284"/>
         <source>Secure</source>
         <translation>Güvenli</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="250"/>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="283"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="252"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="285"/>
         <source>None</source>
         <translation>Yok</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="265"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="267"/>
         <source>Outgoing Server</source>
         <translation>Giden sunucusu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="272"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="274"/>
         <source>SMTP Server</source>
         <translation>SMTP sunucusu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="297"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="299"/>
         <source>Test Account Settings</source>
         <translation>Hesap Ayarlarını Test Et</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="303"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="305"/>
         <source>Please input email address!</source>
         <translation>Lütfen e-posta adresini girin!</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="309"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="311"/>
         <source>Please input username!</source>
         <translation>Lütfen kullanıcı adını giriniz!</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="315"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="317"/>
         <source>Please input IMAP server address!</source>
         <translation>Lütfen IMAP sunucu adresini girin!</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="321"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="323"/>
         <source>Please input SMTP server address!</source>
         <translation>Lütfen SMTP sunucu adresini giriniz!</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="345"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="347"/>
         <source>General Settings</source>
         <translation>Genel Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="349"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="351"/>
         <source>Style</source>
         <translation>Stil</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="356"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="358"/>
+        <source>Message Notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
         <source>Message History</source>
         <translation>Mesaj geçmişi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="357"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="365"/>
         <source>Adds message history in reply</source>
         <translation>Cevapta mesaj geçmişi ekler</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="363"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="371"/>
         <source>Message Checking Interval</source>
         <translation>Mesaj Kontrol Aralığı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="372"/>
         <source>1 Minute</source>
         <translation>1 dakika</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="372"/>
         <source>5 Minutes</source>
         <translation>5 dakika</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="372"/>
         <source>15 Minutes</source>
         <translation>15 dakika</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="372"/>
         <source>30 Minutes</source>
         <translation>30 dakika</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="372"/>
         <source>1 Hour</source>
         <translation>1 saat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="370"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="378"/>
         <source>Nickname</source>
         <translation>Takma ad</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="376"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="384"/>
         <source>Signature</source>
         <translation>İmza</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="377"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="385"/>
         <source>- Message Sent from SAO Utils 2 Mail Box</source>
         <translation>- SAO Utils 2 Posta Kutusundan Gönderilen Mesaj</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="392"/>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="416"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="400"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="424"/>
         <source>Server Test Failed!</source>
         <translation>Sunucu Testi Başarısız!</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="412"/>
+        <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="420"/>
         <source>Mail Server Test Passed!</source>
         <translation>Posta Sunucusu Testi Geçildi!</translation>
     </message>

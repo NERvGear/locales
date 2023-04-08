@@ -247,29 +247,34 @@ That&apos;s the reason why it is called &quot;SAO Utils&quot; :)</source>
         <translation>実験的機能</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="167"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
+        <source>Try to Recovery GPU Device Lost</source>
+        <translation>GPU デバイスロストから自動回復</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
         <source>Improve graphics performance, may crash the program or system with incompatible GPUs</source>
         <translation>グラフィックス パフォーマンスを改善します。互換性のない GPU を使用すると、プログラムまたはシステムがクラッシュする可能性があります</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="176"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="182"/>
         <source>Debug Tools</source>
         <translation>デバッグツール</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="180"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="186"/>
         <source>JavaScript Garbage Collection</source>
         <translation>JavaScript ガベージコレクション</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="185"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="191"/>
         <source>Trim QML Component Cache</source>
         <translation>QML コンポーネントキャッシュをトリミング</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="196"/>
         <source>Empty Process Working Set</source>
-        <translation>プロセスワーキングセット引き払</translation>
+        <translation>プロセスワーキングセットを引き払</translation>
     </message>
 </context>
 <context>
