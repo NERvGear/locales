@@ -249,7 +249,7 @@ Adının &quot;SAO Utils&quot; olmasının nedeni budur :)</translation>
     <message>
         <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="166"/>
         <source>Try to Recovery GPU Device Lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Kayıp GPU Aygıtını Kurtarmayı Deneyin</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/DevSettingsView.qml" line="173"/>
