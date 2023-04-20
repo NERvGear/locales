@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="tr" sourcelanguage="en">
+<TS version="2.1" language="tr_TR" sourcelanguage="en_US">
 <context>
     <name>Contacts</name>
     <message>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="44"/>
         <source>Read New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni Mesajı Oku</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailAction.qml" line="50"/>
@@ -141,12 +141,12 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailData.qml" line="10"/>
         <source>Mail Box Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta Kutusu Verileri</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/MailData.qml" line="15"/>
         <source>Unread Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Okunmamış Mesajlar</translation>
     </message>
 </context>
 <context>
@@ -398,7 +398,7 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="358"/>
         <source>Message Notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj bildirimi</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.mail-box/qml/OptionsDialog.qml" line="364"/>
