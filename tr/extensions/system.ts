@@ -789,22 +789,22 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="122"/>
         <source>Open Method</source>
-        <translation type="unfinished"></translation>
+        <translation>Açılış Yöntemi</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
         <source>Prefer Internal</source>
-        <translation type="unfinished"></translation>
+        <translation>Dahili Tercih Et</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="123"/>
         <source>External Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Yalnızca Harici</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/OpenAction.qml" line="131"/>
@@ -1476,7 +1476,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="93"/>
         <source>Find Widget...</source>
-        <translation type="unfinished"></translation>
+        <translation>Widget&apos;ı Bul...</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="97"/>
