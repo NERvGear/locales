@@ -263,6 +263,11 @@ https://github.com/RangerCD/foo-cad-plus/releases</source>
         <source>Settings...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="27"/>
+        <source>Refresh Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GalleryWidgetAction</name>
@@ -292,7 +297,12 @@ https://github.com/RangerCD/foo-cad-plus/releases</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="14"/>
+        <source>Refresh Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="17"/>
         <source>Gallery Action</source>
         <translation type="unfinished"></translation>
     </message>

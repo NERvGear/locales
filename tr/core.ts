@@ -582,107 +582,127 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>Başlangıç Animasyonu Stili</translation>
     </message>
     <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="121"/>
+        <source>Animation Fill Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="129"/>
         <source>Dialog Style</source>
         <translation>İletişim Tarzı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="133"/>
         <source>Standard Dialog</source>
         <translation>Standart İletişim Kutusu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="141"/>
         <source>Notification Position</source>
         <translation>Bildirim Konumu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Top Left</source>
         <translation>Sol üst</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Top Right</source>
         <translation>Sağ üst</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Bottom Left</source>
         <translation>Sol alt</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Bottom Right</source>
         <translation>Sağ alt</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Miscellaneous</source>
         <translation>Çeşitli</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Start with Windows</source>
         <translation>Windows ile başla</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Steam Features</source>
         <translation>Steam Özellikleri</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>Oynatma süresi takibi, başarılar, kullanıcı seviyesi...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>Bağlantıları Dahili Web Tarayıcı Kullanarak Açın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
         <source>More Options</source>
         <translation>Daha fazla seçenek</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Customize Launcher...</source>
         <translation>Başlatıcıyı Özelleştir...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
         <source>Launcher style, menu, settings...</source>
         <translation>Başlatıcı stili, menü, ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
         <source>Manage Widgets...</source>
         <translation>Widget&apos;ları Yönet...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
         <source>Add, save and remove widgets...</source>
         <translation>Widget ekleyin, kaydedin ve kaldırın...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="206"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
         <source>Create Desktop Shortcut</source>
         <translation>Masaüstü kısayolu oluşturun</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
         <source>Which can launch without Steam</source>
         <translation>Steam olmadan başlatılabilir</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
         <source>Shortcut created successfully</source>
         <translation>Kısayol başarıyla oluşturuldu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="212"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Failed to create shortcut</source>
         <translation>Kısayol oluşturulamadı</translation>
     </message>
@@ -845,12 +865,12 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>Özel Eylemler</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="281"/>
         <source>Do Not Disturb begins...</source>
         <translation>Rahatsız Etmeyin etkin olduğunda devreye girer...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation>Rahatsız Etmeyin pasif olduğunda devreye girer...</translation>
     </message>
@@ -873,72 +893,72 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>Arka Plan Ayarları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
         <source>Click to Close Launcher</source>
         <translation>Başlatıcıyı Kapatmak İçin Tıklayın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
         <source>Blur Behind</source>
         <translation>Arkasını Bulanıklaştır</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="177"/>
         <source>Overlay Density</source>
         <translation>Arkaplan Şeffaflığı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="189"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="195"/>
         <source>Graphic Settings</source>
         <translation>Grafik Ayarları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="194"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="200"/>
         <source>3D Mode</source>
         <translation>3D Modu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="206"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="212"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Zoom</source>
         <translation>Yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="216"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="222"/>
         <source>Curvature</source>
         <translation>Kavis</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="225"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="231"/>
         <source>Camera</source>
         <translation>Kamera</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Follow Cursor</source>
         <translation>İmleci takip et</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="242"/>
         <source>Breath Motion</source>
         <translatorcomment>Menü hafif şekilde hareket eder</translatorcomment>
         <translation>Nefes Hareketi</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Effects</source>
         <translation>Etkileri</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="249"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="255"/>
         <source>Motion Blur</source>
         <translation>Menü Bulanıklaştırma</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Off</source>
         <translation>Kapalı</translation>
     </message>
@@ -973,52 +993,57 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>Tam Ekran Penceresi</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <source>Topmost Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="184"/>
         <source>Transition Duration</source>
         <translation>Geçiş süresi</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Fast</source>
         <translation>Hızlı</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Slow</source>
         <translation>Yavaş</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Light</source>
         <translation>Işık</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Medium</source>
         <translation>Orta</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Heavy</source>
         <translation>Ağır</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="257"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="263"/>
         <source>Analog Filter</source>
         <translation>Analog Filtre</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Offset</source>
         <translation>Dengele</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="270"/>
         <source>Shift Amount</source>
         <translation>Menü Bulanıklaştırma yoğunluğu</translation>
     </message>

@@ -4,32 +4,32 @@
 <context>
     <name>BackgroundElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="29"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="28"/>
         <source>Solid Color</source>
         <translation>ソリッドカラー</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="36"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="35"/>
         <source>Background</source>
         <translation>背景</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="44"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="43"/>
         <source>Color</source>
         <translation>色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="51"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="50"/>
         <source>Hovered Color</source>
         <translation>ホバーの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="58"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="57"/>
         <source>Pressed Color</source>
         <translation>押しの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="65"/>
         <source>Color Data</source>
         <translation>色データ</translation>
     </message>
@@ -182,8 +182,8 @@
     <name>CraftDialog</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="31"/>
-        <source>Item Editor</source>
-        <translation>アイテムエディター</translation>
+        <source>HUD Ultrahand</source>
+        <translation>HUD ウルトラハンド</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="95"/>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="521"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="538"/>
         <source>Color</source>
         <translation>色</translation>
     </message>
@@ -237,67 +237,67 @@
         <translation>回転</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="451"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="461"/>
         <source>Effect Settings</source>
         <translation>エフェクト設定</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="460"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="470"/>
         <source>Enable Layer Effects</source>
         <translation>レイヤー効果を有効にする</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="465"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="482"/>
         <source>Original Content</source>
         <translation>元のコンテンツ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Hidden</source>
         <translation>非表示</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Overlay</source>
         <translation>オーバーレイ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Combine</source>
         <translation>コンバイン</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="473"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
         <source>Blur Radius</source>
         <translation>ぼかし半径</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="485"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
         <source>Spread Amount</source>
         <translation>スプレッド</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="497"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="514"/>
         <source>Horizontal Offset</source>
         <translation>水平オフセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="509"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="526"/>
         <source>Vertical Offset</source>
         <translation>垂直オフセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="528"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
         <source>Hovered Color</source>
         <translation>ホバーの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="535"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="552"/>
         <source>Pressed Color</source>
         <translation>押しの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="562"/>
         <source>%1 Settings</source>
         <translation>%1設定</translation>
     </message>
@@ -365,25 +365,25 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="163"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="165"/>
         <source>Item Settings</source>
         <translation>アイテム設定</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="173"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="175"/>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="153"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="190"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="192"/>
         <source>Background</source>
         <translation>背景</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="160"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="205"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
         <source>Color</source>
         <translation>カラー</translation>
     </message>
@@ -409,8 +409,8 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="265"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="277"/>
         <source>Data</source>
         <translation>データ</translation>
     </message>
@@ -441,13 +441,13 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="270"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="282"/>
         <source>Action</source>
         <translation>アクション</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
         <source>Item</source>
         <translation>項</translation>
     </message>
@@ -487,47 +487,47 @@
         <translation>デフォルトの文字色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="137"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="139"/>
         <source>Grid Size</source>
         <translation>グリッドサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
         <source>Snap to Grid</source>
         <translation>グリッドにスナップ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="211"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="213"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="225"/>
         <source>Rotation</source>
         <translation>回転</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="235"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="247"/>
         <source>Visibility</source>
         <translation>視認性</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Always</source>
         <translation>常に</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Normal</source>
         <translation>通常</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Hovered</source>
         <translation>ホバー</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="283"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="295"/>
         <source>Edit Item...</source>
         <translation>アイテムを編集...</translation>
     </message>
@@ -595,12 +595,12 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/HUDWidget.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="33"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="26"/>
         <source>Editing Mode...</source>
         <translation>編集モード...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="23"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="16"/>
         <source>HUD Custom</source>
         <translation>HUD カスタム</translation>
     </message>
@@ -654,77 +654,82 @@
         <translation>データ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="68"/>
         <source>Fill Mode</source>
         <translation>フィルモード</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Stretch</source>
         <translation>ストレッチ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Fit</source>
         <translation>フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Crop</source>
         <translation>クロップ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile</source>
         <translation>タイル</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile Vertically</source>
         <translation>縦にタイル</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile Horizontally</source>
         <translation>水平にタイル</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Pad</source>
         <translation>パッド</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="49"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="76"/>
         <source>Border Radius</source>
         <translation>角丸の半径</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="60"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="87"/>
         <source>Normal</source>
         <translation>通常</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="93"/>
         <source>Hovered</source>
         <translation>ホバー</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="99"/>
         <source>Pressed</source>
         <translation>押し</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="79"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="105"/>
+        <source>Smooth Edges</source>
+        <translation>ソフトエッジ</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="111"/>
         <source>Spin Animation</source>
         <translation>回転アニメーション</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="84"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="116"/>
         <source>Spin Speed</source>
         <translation>回転速度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="96"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="128"/>
         <source>Spin Frame Rate</source>
         <translation>回転フレームレート</translation>
     </message>
@@ -775,57 +780,57 @@
 <context>
     <name>PointerMeterElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="30"/>
         <source>Data</source>
         <translation>データ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="36"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="35"/>
         <source>Animate Data Changes</source>
         <translation>データ変更アニメーション</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="40"/>
         <source>Pointer Image</source>
         <translation>ポインターの画像</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="57"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="44"/>
         <source>Image Origin</source>
         <translation>画像の中心</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="90"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="61"/>
         <source>Pointer Offset</source>
         <translation>ポインターのオフセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="72"/>
         <source>Pointer Range</source>
         <translation>ポインターの範囲</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="83"/>
         <source>Pointer Color</source>
         <translation>ポインターの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="119"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="90"/>
         <source>Draw Scales</source>
         <translation>スケールを表示</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="96"/>
         <source>Scales Offset</source>
         <translation>スケールのオフセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="137"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="108"/>
         <source>Scales Range</source>
         <translation>スケールの範囲</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="120"/>
         <source>Scales Color</source>
         <translation>スケールの色</translation>
     </message>
@@ -833,44 +838,44 @@
 <context>
     <name>ShapeElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="52"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="51"/>
         <source>Border Radius</source>
         <translation>角丸の半径</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="62"/>
         <source>Fill Color</source>
         <translation>塗りの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="70"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="108"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="69"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="107"/>
         <source>Hovered Color</source>
         <translation>ホバーの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="77"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="115"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="114"/>
         <source>Pressed Color</source>
         <translation>押しの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="85"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="84"/>
         <source>Fill Color Data</source>
         <translation>塗りの色データ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="90"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="89"/>
         <source>Line Size</source>
         <translation>線のサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="100"/>
         <source>Line Color</source>
         <translation>線の色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="123"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="122"/>
         <source>Line Color Data</source>
         <translation>線の色データ</translation>
     </message>
@@ -906,286 +911,358 @@
 <context>
     <name>TextElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="44"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="43"/>
         <source>Enable Data Source</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="49"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="48"/>
         <source>Text</source>
         <translation>テキスト</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="55"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="54"/>
         <source>Data</source>
         <translation>データ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="61"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="60"/>
         <source>Output</source>
         <translation>出力</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Value and Unit</source>
         <translation>値と単位</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Value Only</source>
         <translation>値のみ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Unit Only</source>
         <translation>単位のみ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="69"/>
         <source>Rounding Numbers</source>
         <translation>四捨五入</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
         <source>Auto</source>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
         <source>Fixed</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="77"/>
         <source>Decimal Digits</source>
         <translation>小数の桁数</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="89"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="88"/>
+        <source>Text Format</source>
+        <translation>テキスト形式</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>Plain Text</source>
+        <translation>プレーンテキスト</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>Rich Text</source>
+        <translation>リッチテキスト</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>HTML Text</source>
+        <translation>HTML テキスト</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="95"/>
         <source>Font</source>
         <translation>フォント</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="96"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="102"/>
         <source>Font Size Mode</source>
         <translation>フォントサイズモード</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Fixed Size</source>
         <translation>固定サイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Horizontal Fit</source>
         <translation>水平フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Vertical Fit</source>
         <translation>垂直フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Fit</source>
         <translation>フィット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="109"/>
         <source>Minimum Font Size</source>
         <translation>最小フォントサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="115"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="121"/>
         <source>Color</source>
         <translation>色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="121"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
         <source>Hovered Color</source>
         <translation>ホバーの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="133"/>
         <source>Pressed Color</source>
         <translation>押しの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="133"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="139"/>
         <source>Style</source>
         <translation>様式</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Normal</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Outline</source>
         <translation>枠線</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Raised</source>
         <translation>凸</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Sunken</source>
         <translation>凹</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="140"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="146"/>
         <source>Style Color</source>
         <translation>様式の色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="146"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="152"/>
         <source>Horizontal Alignment</source>
         <translation>水平方向の配置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Center</source>
         <translation>中央</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="159"/>
         <source>Vertical Alignment</source>
         <translation>垂直方向の配置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Top</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Bottom</source>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="166"/>
         <source>Line Height</source>
         <translation>行の高さ</translation>
     </message>
 </context>
 <context>
+    <name>TransformRotatePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="43"/>
+        <source>Enable 3D Rotation</source>
+        <translation>3D 回転を有効にする</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="49"/>
+        <source>Rotation Angle</source>
+        <translation>回転角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
+        <source>Rotation Origin</source>
+        <translation>回転原点</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="70"/>
+        <source>Rotation Origin Offset</source>
+        <translation>回転原点オフセット</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="87"/>
+        <source>Rotation Axis</source>
+        <translation>回転軸</translation>
+    </message>
+</context>
+<context>
+    <name>TransformScalePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="38"/>
+        <source>Enable Scale</source>
+        <translation>スケールを有効にする</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="43"/>
+        <source>Scale Dimension</source>
+        <translation>スケール寸法</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="63"/>
+        <source>Scale Origin</source>
+        <translation>スケール原点</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="71"/>
+        <source>Scale Origin Offset</source>
+        <translation>スケール原点オフセット</translation>
+    </message>
+</context>
+<context>
     <name>WordArtElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="69"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="75"/>
         <source>Enable Data Source</source>
         <translation>データソースを有効にする</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="74"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="80"/>
         <source>Text</source>
         <translation>テキスト</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="80"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="86"/>
         <source>Data</source>
         <translation>データ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="86"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="92"/>
         <source>Font</source>
         <translation>フォント</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="92"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="98"/>
         <source>Horizontal Alignment</source>
         <translation>水平方向の配置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Center</source>
         <translation>中央</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="99"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="105"/>
         <source>Vertical Alignment</source>
         <translation>垂直方向の配置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Top</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Bottom</source>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="112"/>
         <source>Fill Color</source>
         <translation>塗りの色</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="112"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="192"/>
-        <source>Hovered Color</source>
-        <translation>ホバーの色</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="118"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="147"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="198"/>
+        <source>Hovered Color</source>
+        <translation>ホバーの色</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="124"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="204"/>
         <source>Pressed Color</source>
         <translation>押しの色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="124"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="130"/>
         <source>Line Size</source>
         <translation>線のサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="141"/>
         <source>Line Color</source>
         <translation>線の色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="159"/>
         <source>Shadow Size</source>
         <translation>影のサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="164"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="170"/>
         <source>Horizontal Offset</source>
         <translation>水平レイアウト</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="175"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="181"/>
         <source>Vertical Offset</source>
         <translation>垂直オフセット</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="186"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="192"/>
         <source>Shadow Color</source>
         <translation>影の色</translation>
     </message>
@@ -1200,14 +1277,14 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="27"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/IconElement.qml" line="11"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="14"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
         <source>Icon</source>
         <translation>アイコン</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="28"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="18"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
         <source>Image</source>
         <translation>画像</translation>
     </message>
@@ -1218,61 +1295,106 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="29"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="18"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="28"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="24"/>
         <source>Numeric or Text</source>
         <translation>数値や文字列</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="31"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="33"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="26"/>
         <source>Bar Gauge</source>
         <translation>バーグラフ</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="32"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="40"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="23"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="29"/>
         <source>Line Chart</source>
         <translation>折れ線グラフ</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="33"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="13"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="30"/>
         <source>Histogram</source>
         <translation>柱状グラフ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="18"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="17"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="22"/>
         <source>Background</source>
         <translation>背景</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="28"/>
         <source>Circle Graph</source>
         <translation>円グラフ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="20"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="19"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="27"/>
         <source>Pointer Meter</source>
         <translation>ポインターメーター</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="42"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="17"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="23"/>
         <source>Rectangle</source>
         <translation>矩形</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="57"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="19"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="25"/>
         <source>Word Art</source>
         <translation>ワードアート</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top Left</source>
+        <translation>左上</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top</source>
+        <translation>上</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top Right</source>
+        <translation>右上</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Center</source>
+        <translation>中央</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom Left</source>
+        <translation>左下</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom Right</source>
+        <translation>右下</translation>
     </message>
 </context>
 </TS>

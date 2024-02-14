@@ -217,7 +217,7 @@ Por favor, reinicia SAO Utils para aplicar las actualizaciones</translation>
         <translation>Detalles del Elemento</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="212"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="243"/>
         <source>Rate</source>
         <translation>Pulgar</translation>
     </message>

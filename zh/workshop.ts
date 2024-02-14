@@ -217,7 +217,7 @@ Please restart SAO Utils to apply the updates</source>
         <translation>物品详情</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="212"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="243"/>
         <source>Rate</source>
         <translation>赞</translation>
     </message>

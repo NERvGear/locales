@@ -76,29 +76,37 @@
     </message>
 </context>
 <context>
+    <name>LauncherCatalogView</name>
+    <message>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherCatalogView.qml" line="224"/>
+        <source>Go Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LauncherView</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="61"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="66"/>
         <source>Inventory</source>
         <translation>Envanter</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="107"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="112"/>
         <source>Adventure Log</source>
         <translation>Macera Günlüğü</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="123"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="128"/>
         <source>System</source>
         <translation>sistem</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="192"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="197"/>
         <source>Navigate</source>
         <translation>Gezin</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="206"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="211"/>
         <source>Select</source>
         <translation>Seç</translation>
     </message>
@@ -106,12 +114,12 @@
 <context>
     <name>ThemeDialog</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="103"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="104"/>
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="121"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="123"/>
         <source>Cancel</source>
         <translation>İptal et</translation>
     </message>

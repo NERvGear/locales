@@ -80,8 +80,8 @@
     <name>BackgroundPicker</name>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/BackgroundPicker.qml" line="11"/>
-        <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation>Изображение (*.PNG;*.JPG;*.JPEG;*.BMP)</translation>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -256,38 +256,48 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>FontPreference</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="81"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="109"/>
         <source>Font Family</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="97"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="145"/>
         <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="109"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="157"/>
+        <source>Letter Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="174"/>
         <source>Font Weight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="175"/>
         <source>Bold</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="175"/>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="175"/>
         <source>Regular</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="175"/>
         <source>Demi-Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/FontPreference.qml" line="192"/>
+        <source>Style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -303,23 +313,23 @@ Would you like to disable extensions temporarily?</source>
     <name>IconPicker</name>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="16"/>
-        <source>All supported files (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.EXE)</source>
-        <translation>Все поддерживаемые файлы (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.EXE)</translation>
+        <source>All supported files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="17"/>
-        <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation>Изображения (*.PNG;*.JPG;*.JPEG;*.BMP)</translation>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="18"/>
-        <source>Icon files (*.ICO)</source>
-        <translation>Иконка (*.ICO)</translation>
+        <source>Icon files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/IconPicker.qml" line="19"/>
-        <source>Executable files (*.EXE)</source>
-        <translation>Запускные файлы (*.EXE)</translation>
+        <source>Executable files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -333,27 +343,27 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>ImagePicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="31"/>
-        <source>All supported files (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.GIF)</source>
-        <translation>Все поддерживаемые файлы (*.PNG;*.JPG;*.JPEG;*.BMP;*.ICO;*.GIF)</translation>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="47"/>
+        <source>All supported files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="32"/>
-        <source>Image files (*.PNG;*.JPG;*.JPEG;*.BMP)</source>
-        <translation>Изображение (*.PNG;*.JPG;*.JPEG;*.BMP)</translation>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="48"/>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="33"/>
-        <source>Icon files (*.ICO)</source>
-        <translation>Иконка (*.ICO)</translation>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="49"/>
+        <source>Icon files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="34"/>
-        <source>Animation files (*.GIF)</source>
-        <translation>Анимация (*.GIF)</translation>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="50"/>
+        <source>Animation files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="160"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImagePicker.qml" line="177"/>
         <source>Browse</source>
         <translation>Просмотреть</translation>
     </message>
@@ -361,62 +371,62 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>ImageStatesPicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="68"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="85"/>
         <source>Image Gallery...</source>
         <translation>Галерея изображений...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="73"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="90"/>
         <source>Local Files...</source>
         <translation>Локальные файлы...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="78"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="95"/>
         <source>Clear</source>
         <translation>Очистить</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="205"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="222"/>
         <source>Preview</source>
         <translation>Предварительный просмотр</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="229"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="246"/>
         <source>Normal</source>
         <translation>Нормально</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="249"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="266"/>
         <source>Hovered</source>
         <translation>Зажать</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="269"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="286"/>
         <source>Pressed</source>
         <translation>Нажать</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="291"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="308"/>
         <source>Reset</source>
         <translation>Сбросить</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="338"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="355"/>
         <source>Recommended</source>
         <translation>Рекомендуемые</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="343"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="360"/>
         <source>Light Theme</source>
         <translation>Светлая тема</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="348"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="365"/>
         <source>Dark Theme</source>
         <translation>Тёмная тема</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="354"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="371"/>
         <source>More...</source>
         <translation>Больше...</translation>
     </message>
@@ -513,12 +523,12 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>NERvGear::Imports::QmlWebView</name>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="387"/>
         <source>This page is not available</source>
         <translation>Эта страница не доступна</translation>
     </message>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="389"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
         <source>Reload</source>
         <translation>Перезагрузить</translation>
     </message>

@@ -4,32 +4,32 @@
 <context>
     <name>BackgroundElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="29"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="28"/>
         <source>Solid Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="36"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="35"/>
         <source>Background</source>
         <translation type="unfinished">Fondo</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="44"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="43"/>
         <source>Color</source>
         <translation type="unfinished">Color</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="51"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="50"/>
         <source>Hovered Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="58"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="57"/>
         <source>Pressed Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="65"/>
         <source>Color Data</source>
         <translation type="unfinished"></translation>
     </message>
@@ -182,7 +182,7 @@
     <name>CraftDialog</name>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="31"/>
-        <source>Item Editor</source>
+        <source>HUD Ultrahand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="521"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="538"/>
         <source>Color</source>
         <translation type="unfinished">Color</translation>
     </message>
@@ -237,67 +237,67 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="451"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="461"/>
         <source>Effect Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="460"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="470"/>
         <source>Enable Layer Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="465"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="482"/>
         <source>Original Content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Overlay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="466"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
         <source>Combine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="473"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
         <source>Blur Radius</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="485"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
         <source>Spread Amount</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="497"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="514"/>
         <source>Horizontal Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="509"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="526"/>
         <source>Vertical Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="528"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
         <source>Hovered Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="535"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="552"/>
         <source>Pressed Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="562"/>
         <source>%1 Settings</source>
         <translation type="unfinished"></translation>
     </message>
@@ -365,25 +365,25 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="163"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="165"/>
         <source>Item Settings</source>
         <translation>Ajustes de Elemento</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="173"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="175"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="153"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="190"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="192"/>
         <source>Background</source>
         <translation>Fondo</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="160"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="205"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
         <source>Color</source>
         <translation>Color</translation>
     </message>
@@ -409,8 +409,8 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="265"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="277"/>
         <source>Data</source>
         <translation>Información</translation>
     </message>
@@ -441,13 +441,13 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="270"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="282"/>
         <source>Action</source>
         <translation>Acción</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="158"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
         <source>Item</source>
         <translation>Elemento</translation>
     </message>
@@ -487,47 +487,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="137"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="139"/>
         <source>Grid Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
         <source>Snap to Grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="211"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="213"/>
         <source>Opacity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="223"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="225"/>
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="235"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="247"/>
         <source>Visibility</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Always</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="236"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
         <source>Hovered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="283"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="295"/>
         <source>Edit Item...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -595,12 +595,12 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/HUDWidget.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="33"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="26"/>
         <source>Editing Mode...</source>
         <translation>Modo Edición...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="23"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="16"/>
         <source>HUD Custom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -654,77 +654,82 @@
         <translation type="unfinished">Información</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="68"/>
         <source>Fill Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Stretch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Fit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="42"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="69"/>
         <source>Crop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile Vertically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Tile Horizontally</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="70"/>
         <source>Pad</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="49"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="76"/>
         <source>Border Radius</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="60"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="87"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="66"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="93"/>
         <source>Hovered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="99"/>
         <source>Pressed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="79"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="105"/>
+        <source>Smooth Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="111"/>
         <source>Spin Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="84"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="116"/>
         <source>Spin Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="96"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="128"/>
         <source>Spin Frame Rate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -775,57 +780,57 @@
 <context>
     <name>PointerMeterElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="30"/>
         <source>Data</source>
         <translation type="unfinished">Información</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="36"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="35"/>
         <source>Animate Data Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="40"/>
         <source>Pointer Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="57"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="44"/>
         <source>Image Origin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="90"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="61"/>
         <source>Pointer Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="72"/>
         <source>Pointer Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="83"/>
         <source>Pointer Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="119"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="90"/>
         <source>Draw Scales</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="125"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="96"/>
         <source>Scales Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="137"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="108"/>
         <source>Scales Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="149"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="120"/>
         <source>Scales Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -833,44 +838,44 @@
 <context>
     <name>ShapeElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="52"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="51"/>
         <source>Border Radius</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="62"/>
         <source>Fill Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="70"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="108"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="69"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="107"/>
         <source>Hovered Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="77"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="115"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="76"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="114"/>
         <source>Pressed Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="85"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="84"/>
         <source>Fill Color Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="90"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="89"/>
         <source>Line Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="100"/>
         <source>Line Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="123"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="122"/>
         <source>Line Color Data</source>
         <translation type="unfinished"></translation>
     </message>
@@ -906,286 +911,358 @@
 <context>
     <name>TextElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="44"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="43"/>
         <source>Enable Data Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="49"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="48"/>
         <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="55"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="54"/>
         <source>Data</source>
         <translation type="unfinished">Información</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="61"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="60"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Value and Unit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Value Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="63"/>
         <source>Unit Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="69"/>
         <source>Rounding Numbers</source>
         <translation type="unfinished">Redondear Números</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
         <source>Auto</source>
         <translation type="unfinished">Automático</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="73"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="72"/>
         <source>Fixed</source>
         <translation type="unfinished">Arreglado</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="78"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="77"/>
         <source>Decimal Digits</source>
         <translation type="unfinished">Dígitos Decimales</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="89"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="88"/>
+        <source>Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>Plain Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>Rich Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="90"/>
+        <source>HTML Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="95"/>
         <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="96"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="102"/>
         <source>Font Size Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Fixed Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Horizontal Fit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Vertical Fit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="104"/>
         <source>Fit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="103"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="109"/>
         <source>Minimum Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="115"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="121"/>
         <source>Color</source>
         <translation type="unfinished">Color</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="121"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
         <source>Hovered Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="127"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="133"/>
         <source>Pressed Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="133"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="139"/>
         <source>Style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Normal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Raised</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="141"/>
         <source>Sunken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="140"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="146"/>
         <source>Style Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="146"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="152"/>
         <source>Horizontal Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
         <source>Left</source>
         <translation type="unfinished">Izquierda</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
         <source>Right</source>
         <translation type="unfinished">Derecha</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="148"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Center</source>
         <translation type="unfinished">Centro</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="159"/>
         <source>Vertical Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Top</source>
         <translation type="unfinished">Arriba</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="155"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="161"/>
         <source>Bottom</source>
         <translation type="unfinished">Abajo</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="166"/>
         <source>Line Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TransformRotatePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="43"/>
+        <source>Enable 3D Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="49"/>
+        <source>Rotation Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
+        <source>Rotation Origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="70"/>
+        <source>Rotation Origin Offset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="87"/>
+        <source>Rotation Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TransformScalePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="38"/>
+        <source>Enable Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="43"/>
+        <source>Scale Dimension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="63"/>
+        <source>Scale Origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="71"/>
+        <source>Scale Origin Offset</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WordArtElement</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="69"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="75"/>
         <source>Enable Data Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="74"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="80"/>
         <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="80"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="86"/>
         <source>Data</source>
         <translation type="unfinished">Información</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="86"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="92"/>
         <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="92"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="98"/>
         <source>Horizontal Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
         <source>Left</source>
         <translation type="unfinished">Izquierda</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
         <source>Right</source>
         <translation type="unfinished">Derecha</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="94"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="100"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Center</source>
         <translation type="unfinished">Centro</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="99"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="105"/>
         <source>Vertical Alignment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Top</source>
         <translation type="unfinished">Arriba</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="101"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="107"/>
         <source>Bottom</source>
         <translation type="unfinished">Abajo</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="106"/>
-        <source>Fill Color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="112"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="192"/>
-        <source>Hovered Color</source>
+        <source>Fill Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="118"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="147"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="198"/>
-        <source>Pressed Color</source>
+        <source>Hovered Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="124"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="204"/>
+        <source>Pressed Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="130"/>
         <source>Line Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="135"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="141"/>
         <source>Line Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="153"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="159"/>
         <source>Shadow Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="164"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="170"/>
         <source>Horizontal Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="175"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="181"/>
         <source>Vertical Offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="186"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="192"/>
         <source>Shadow Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1200,14 +1277,14 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="27"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/IconElement.qml" line="11"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="14"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
         <source>Icon</source>
         <translation>Ícono</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="28"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="18"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="15"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
         <source>Image</source>
         <translation>Imagen</translation>
     </message>
@@ -1218,60 +1295,105 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="30"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="29"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="18"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/TextElement.qml" line="28"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="24"/>
         <source>Numeric or Text</source>
         <translation>Numérico o Texto</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="31"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BarGaugeElement.qml" line="33"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="20"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="26"/>
         <source>Bar Gauge</source>
         <translation>Indicador de Barras</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="32"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/LineChartElement.qml" line="40"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="23"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="29"/>
         <source>Line Chart</source>
         <translation>Gráfico Lineal</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/utils.js" line="33"/>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/HistogramElement.qml" line="13"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="24"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="30"/>
         <source>Histogram</source>
         <translation>Histograma</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="18"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/BackgroundElement.qml" line="17"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="22"/>
         <source>Background</source>
         <translation type="unfinished">Fondo</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/CircleGraphElement.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="28"/>
         <source>Circle Graph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="20"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="21"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/PointerMeterElement.qml" line="19"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="27"/>
         <source>Pointer Meter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="42"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="17"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ShapeElement.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="23"/>
         <source>Rectangle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="57"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="19"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/WordArtElement.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="25"/>
         <source>Word Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top</source>
+        <translation type="unfinished">Arriba</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="4"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Left</source>
+        <translation type="unfinished">Izquierda</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Center</source>
+        <translation type="unfinished">Centro</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="5"/>
+        <source>Right</source>
+        <translation type="unfinished">Derecha</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom</source>
+        <translation type="unfinished">Abajo</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
+        <source>Bottom Right</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -267,6 +267,11 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
     </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="27"/>
+        <source>Refresh Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GalleryWidgetAction</name>
@@ -296,7 +301,12 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <translation>Önceki Resim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="14"/>
+        <source>Refresh Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="17"/>
         <source>Gallery Action</source>
         <translation>Galeri Eylemi</translation>
     </message>

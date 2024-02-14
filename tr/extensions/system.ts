@@ -75,6 +75,89 @@
     </message>
 </context>
 <context>
+    <name>CommandValue</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="14"/>
+        <source>Custom Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="147"/>
+        <source>Program Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="152"/>
+        <source>Command Arguments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="158"/>
+        <source>Working Directory</source>
+        <translation type="unfinished">Çalışma dizini</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="159"/>
+        <source>Optional</source>
+        <translation type="unfinished">İsteğe bağlı</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="164"/>
+        <source>Read Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Merged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="171"/>
+        <source>Update Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>On Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>Real Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <source>Update Script</source>
+        <translation type="unfinished">Komut Dosyasını Güncelle</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
+        <source>Examples</source>
+        <translation type="unfinished">Örnekler</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="200"/>
+        <source>Ping Latency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="209"/>
+        <source>NVSMI GPU Temperature</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CpuData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/CpuData.qml" line="8"/>
@@ -647,18 +730,18 @@ lütfen programdan çıkın ve Steam istemcisinin güncellemeleri uygulamasını
 <context>
     <name>MiscData</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
         <source>Miscellaneous Data</source>
         <translation>Çeşitli Veriler</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="9"/>
         <source>Useful Utilities Data</source>
         <translation>Faydalı Yardımcı Program Verileri</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="12"/>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="20"/>
         <source>Custom Text</source>
         <translation>Özel metin</translation>
     </message>
@@ -947,7 +1030,7 @@ reddet: İşlev(neden), söz reddedilirse çağrılır</translation>
         <translation>Örnekler</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="84"/>
         <source>Please add %1 first.</source>
         <translation>Lütfen önce %1 ekleyin.</translation>
     </message>
@@ -1048,6 +1131,11 @@ global: Nesne, değerler arasında paylaşım</translation>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>Tarihsel Ortalama</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="98"/>
+        <source>Access JSON API</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1524,17 +1612,17 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation>Widget&apos;larım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="388"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="391"/>
         <source>Preset Themes</source>
         <translation>Hazır Temalar</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="393"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="396"/>
         <source>My Themes</source>
         <translation>Temalarım</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="411"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="414"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;Boş&gt;</translation>
     </message>
@@ -1552,7 +1640,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
         <translation>Widget Galerisi</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="281"/>
         <source>Are you sure to remove this widget?</source>
         <translation>Bu widget&apos;ı kaldırmak istediğinizden emin misiniz?</translation>
     </message>
@@ -1560,88 +1648,98 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>WidgetMenu</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="39"/>
         <source>Always on Top</source>
         <translation>Her zaman üstte</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="50"/>
         <source>Mouse Click</source>
         <translation>Fare tıklaması</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="53"/>
         <source>Passthrough</source>
         <translatorcomment>Widget&apos;i kilitler üzerine tıklanmaz</translatorcomment>
         <translation>Kilitle</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="59"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="60"/>
         <source>Activate Focus</source>
         <translation>Odağı Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="69"/>
         <source>Widget Frame</source>
         <translation>Widget Çerçevesi</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="72"/>
         <source>Auto Hide</source>
         <translation>Otomatik gizleme</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="80"/>
         <source>Always Show</source>
         <translation>Her zaman göster</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="87"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="88"/>
         <source>Always Hide</source>
         <translation>Her zaman gizle</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="96"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="97"/>
         <source>Display on</source>
         <translation>Görüntüle</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="99"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="100"/>
         <source>Desktop</source>
         <translation>Masaüstü</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="111"/>
         <source>Launcher</source>
         <translation>Başlatıcı</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="123"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="124"/>
         <source>Anchor to</source>
         <translation>Konum</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="160"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="161"/>
         <source>Reset</source>
         <translation>Sıfırla</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="171"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="172"/>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="182"/>
         <source>Opacity</source>
         <translation>Opaklık</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="197"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="201"/>
+        <source>Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="244"/>
         <source>Manage Widgets...</source>
         <translation>Widget&apos;ları Yönet...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="202"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="249"/>
         <source>Remove Widget</source>
         <translation>Widget&apos;ı Kaldır</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="187"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="234"/>
         <source>Properties...</source>
         <translation>Özellikler...</translation>
     </message>
@@ -1681,32 +1779,42 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>WidgetPropertiesDialog</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="33"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="34"/>
         <source>Title</source>
         <translation>Başlık</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
         <source>Group</source>
         <translation>Grup</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Varsayılan&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="50"/>
+        <source>Desktop Application Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
+        <source>Display taskbar icon, also allow OBS to capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="60"/>
         <source>Position</source>
         <translation>Durum</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="136"/>
         <source>Absolute Postion</source>
         <translation>Mutlak Konum</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="183"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
@@ -1714,7 +1822,7 @@ Kilit açma düğmesini devre dışı bıraktığınızdan emin misiniz?</transl
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="366"/>
         <source>Unknown Widget</source>
         <translation>Bilinmeyen Widget</translation>
     </message>

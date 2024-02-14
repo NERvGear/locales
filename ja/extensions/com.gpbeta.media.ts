@@ -267,6 +267,11 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <source>Settings...</source>
         <translation>設定...</translation>
     </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/GalleryWidget.qml" line="27"/>
+        <source>Refresh Gallery</source>
+        <translation>ギャラリーを更新</translation>
+    </message>
 </context>
 <context>
     <name>GalleryWidgetAction</name>
@@ -296,7 +301,12 @@ https://github.com/RangerCD/foo-cad-plus/releases</translation>
         <translation>前の画像</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="14"/>
+        <source>Refresh Gallery</source>
+        <translation>ギャラリーを更新</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.media/qml/action/GalleryWidgetAction.qml" line="17"/>
         <source>Gallery Action</source>
         <translation>ギャラリーアクション</translation>
     </message>

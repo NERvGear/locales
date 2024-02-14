@@ -578,107 +578,127 @@ Are you sure to continue?</source>
         <translation>Стиль анимации запуска</translation>
     </message>
     <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="121"/>
+        <source>Animation Fill Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Stretch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="122"/>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="129"/>
         <source>Dialog Style</source>
         <translation>Стиль диалогового окна</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="126"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="133"/>
         <source>Standard Dialog</source>
         <translation>Стандартный диалог</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="134"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="141"/>
         <source>Notification Position</source>
         <translation>Позиция уведомлений</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Top Left</source>
         <translation>Сверху слева</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Top Right</source>
         <translation>Сверху справа</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Bottom Left</source>
         <translation>Снизу слева</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="135"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="142"/>
         <source>Bottom Right</source>
         <translation>Снизу справа</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="163"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
         <source>Miscellaneous</source>
         <translation>Разное</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="170"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
         <source>Start with Windows</source>
         <translation>Запуск с Windows</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="176"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
         <source>Steam Features</source>
         <translation>Функции Steam</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="177"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="184"/>
         <source>Play time tracking, achievements, user level...</source>
         <translation>Время иры, отслеживание, достижения, уровень пользователя...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="183"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>Открывать ссылки с помощью встроенного браузера</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
         <source>More Options</source>
         <translation>Больше настроек</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="194"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
         <source>Customize Launcher...</source>
         <translation>Настроить лаунчер...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="195"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
         <source>Launcher style, menu, settings...</source>
         <translation>Стиль лаунчера, меню, настройки...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="200"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
         <source>Manage Widgets...</source>
         <translation>Управлять виджетами...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
         <source>Add, save and remove widgets...</source>
         <translation>Добавить, сохранить и убрать виджеты...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="206"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
         <source>Create Desktop Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
         <source>Which can launch without Steam</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
         <source>Shortcut created successfully</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="212"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Failed to create shortcut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -841,12 +861,12 @@ Are you sure to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="282"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="281"/>
         <source>Do Not Disturb begins...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="305"/>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -869,71 +889,71 @@ Are you sure to continue?</source>
         <translation>Настройки фона</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
         <source>Click to Close Launcher</source>
         <translation>Кликом закрыть лаунчер</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="165"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
         <source>Blur Behind</source>
         <translation>Размытие позади</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="171"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="177"/>
         <source>Overlay Density</source>
         <translation>Плотность наложения</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="189"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="195"/>
         <source>Graphic Settings</source>
         <translation>Настройки графики</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="194"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="200"/>
         <source>3D Mode</source>
         <translation>3D режим</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="206"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="212"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Zoom</source>
         <translation>Зум</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="216"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="222"/>
         <source>Curvature</source>
         <translation>Кривизна</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="225"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="231"/>
         <source>Camera</source>
         <translation>Камера</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="230"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Follow Cursor</source>
         <translation>Следить за курсором</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="242"/>
         <source>Breath Motion</source>
         <translation>Эффект дыхания</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="244"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
         <source>Effects</source>
         <translation>Эффекты</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="249"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="255"/>
         <source>Motion Blur</source>
         <translation>Motion Blur</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Off</source>
         <translation>Выкл.</translation>
     </message>
@@ -968,52 +988,57 @@ Are you sure to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="178"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="159"/>
+        <source>Topmost Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="184"/>
         <source>Transition Duration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Fast</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Normal</source>
         <translation type="unfinished">Нормальня</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="179"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="185"/>
         <source>Slow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Light</source>
         <translation>Слабо</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Medium</source>
         <translation>Средне</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="250"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="256"/>
         <source>Heavy</source>
         <translation>Сильно</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="257"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="263"/>
         <source>Analog Filter</source>
         <translation>Аналоговый эффект</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="258"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
         <source>Offset</source>
         <translation>Смещение</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="264"/>
+        <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="270"/>
         <source>Shift Amount</source>
         <translation>Сила раздвоения</translation>
     </message>

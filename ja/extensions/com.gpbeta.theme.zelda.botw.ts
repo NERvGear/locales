@@ -76,29 +76,37 @@
     </message>
 </context>
 <context>
+    <name>LauncherCatalogView</name>
+    <message>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherCatalogView.qml" line="224"/>
+        <source>Go Back</source>
+        <translation>戻る</translation>
+    </message>
+</context>
+<context>
     <name>LauncherView</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="61"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="66"/>
         <source>Inventory</source>
         <translation>ポーチ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="107"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="112"/>
         <source>Adventure Log</source>
         <translation>冒険手帳</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="123"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="128"/>
         <source>System</source>
         <translation>システム</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="192"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="197"/>
         <source>Navigate</source>
         <translation>ナビゲート</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="206"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/LauncherView.qml" line="211"/>
         <source>Select</source>
         <translation>選ぶ</translation>
     </message>
@@ -106,12 +114,12 @@
 <context>
     <name>ThemeDialog</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="103"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="104"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="121"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/ThemeDialog.qml" line="123"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>

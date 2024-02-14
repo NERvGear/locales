@@ -217,7 +217,7 @@ Güncellemeleri uygulamak için lütfen SAO Utils&apos;i yeniden başlatın</tra
         <translation>Ürün Detayları</translation>
     </message>
     <message>
-        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="212"/>
+        <location filename="../../src/apps/workshop/qml/workshop/PageDetails.qml" line="243"/>
         <source>Rate</source>
         <translation>Beğen</translation>
     </message>

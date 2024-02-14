@@ -74,6 +74,89 @@
     </message>
 </context>
 <context>
+    <name>CommandValue</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="14"/>
+        <source>Custom Command</source>
+        <translation>自定義命令</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="147"/>
+        <source>Program Path</source>
+        <translation>程序路徑</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="152"/>
+        <source>Command Arguments</source>
+        <translation>命令參數</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="158"/>
+        <source>Working Directory</source>
+        <translation>工作目錄</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="159"/>
+        <source>Optional</source>
+        <translation>可選</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="164"/>
+        <source>Read Channel</source>
+        <translation>讀取通道</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Output</source>
+        <translation>標準輸出</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Error</source>
+        <translation>標準錯誤</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Merged</source>
+        <translation>合併</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="171"/>
+        <source>Update Mode</source>
+        <translation>更新模式</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>On Exit</source>
+        <translation>退出時</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>Real Time</source>
+        <translation>實時</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <source>Update Script</source>
+        <translation>更新代碼</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
+        <source>Examples</source>
+        <translation>示例</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="200"/>
+        <source>Ping Latency</source>
+        <translation>Ping 延遲</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="209"/>
+        <source>NVSMI GPU Temperature</source>
+        <translation>NVSMI GPU 溫度</translation>
+    </message>
+</context>
+<context>
     <name>CpuData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/CpuData.qml" line="8"/>
@@ -643,18 +726,18 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>MiscData</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
         <source>Miscellaneous Data</source>
         <translation>其他數據</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="9"/>
         <source>Useful Utilities Data</source>
         <translation>雜項數據合集</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="12"/>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="20"/>
         <source>Custom Text</source>
         <translation>自定義文本</translation>
     </message>
@@ -943,7 +1026,7 @@ reject: Function(reason), 若執行失敗，調用該函數</translation>
         <translation>示例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="84"/>
         <source>Please add %1 first.</source>
         <translation>請先添加一個%1。</translation>
     </message>
@@ -1044,6 +1127,11 @@ global: Object, 全局共享對象</translation>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>歷史平均值</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="98"/>
+        <source>Access JSON API</source>
+        <translation>訪問 JSON API</translation>
     </message>
 </context>
 <context>
@@ -1525,17 +1613,17 @@ Are you sure to disable the unlock button?</source>
         <translation>我的掛件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="388"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="391"/>
         <source>Preset Themes</source>
         <translation>預置主題</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="393"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="396"/>
         <source>My Themes</source>
         <translation>我的主題</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="411"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="414"/>
         <source>&lt;Blank&gt;</source>
         <translation>「空白」</translation>
     </message>
@@ -1548,7 +1636,7 @@ Are you sure to disable the unlock button?</source>
         <translation>掛件庫</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="281"/>
         <source>Are you sure to remove this widget?</source>
         <translation>是否確認移除該掛件？</translation>
     </message>
@@ -1556,87 +1644,97 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetMenu</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="39"/>
         <source>Always on Top</source>
         <translation>置頂顯示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="50"/>
         <source>Mouse Click</source>
         <translation>鼠標點擊</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="53"/>
         <source>Passthrough</source>
         <translation>穿透掛件</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="59"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="60"/>
         <source>Activate Focus</source>
         <translation>獲取焦點</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="69"/>
         <source>Widget Frame</source>
         <translation>掛件外框</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="72"/>
         <source>Auto Hide</source>
         <translation>自動隱藏</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="80"/>
         <source>Always Show</source>
         <translation>總是顯示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="87"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="88"/>
         <source>Always Hide</source>
         <translation>總是隱藏</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="96"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="97"/>
         <source>Display on</source>
         <translation>顯示於</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="99"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="100"/>
         <source>Desktop</source>
         <translation>桌面</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="111"/>
         <source>Launcher</source>
         <translation>啟動器</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="123"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="124"/>
         <source>Anchor to</source>
         <translation>對齊到</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="160"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="161"/>
         <source>Reset</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="171"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="172"/>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="182"/>
         <source>Opacity</source>
         <translation>透明度</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="187"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="201"/>
+        <source>Scale</source>
+        <translation>縮放</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="234"/>
         <source>Properties...</source>
         <translation>屬性...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="197"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="244"/>
         <source>Manage Widgets...</source>
         <translation>管理掛件...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="202"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="249"/>
         <source>Remove Widget</source>
         <translation>移除掛件</translation>
     </message>
@@ -1676,32 +1774,42 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPropertiesDialog</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="33"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="34"/>
         <source>Title</source>
         <translation>標題</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
         <source>Group</source>
         <translation>分組</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;默認&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="50"/>
+        <source>Desktop Application Window</source>
+        <translation>桌面應用窗口</translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
+        <source>Display taskbar icon, also allow OBS to capture</source>
+        <translation>顯示任務欄圖標，允許 OBS 採集</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="60"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="136"/>
         <source>Absolute Postion</source>
         <translation>絕對定位</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="183"/>
         <source>Size</source>
         <translation>尺寸</translation>
     </message>
@@ -1709,7 +1817,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="366"/>
         <source>Unknown Widget</source>
         <translation>未知掛件</translation>
     </message>

@@ -74,6 +74,89 @@
     </message>
 </context>
 <context>
+    <name>CommandValue</name>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="14"/>
+        <source>Custom Command</source>
+        <translation>カスタムコマンド</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="147"/>
+        <source>Program Path</source>
+        <translation>プログラムパス</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="152"/>
+        <source>Command Arguments</source>
+        <translation>コマンド引数</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="158"/>
+        <source>Working Directory</source>
+        <translation>作業ディレクトリ</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="159"/>
+        <source>Optional</source>
+        <translation>オプショナル</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="164"/>
+        <source>Read Channel</source>
+        <translation>読み取りチャネル</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Output</source>
+        <translation>標準出力</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Standard Error</source>
+        <translation>標準エラー</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="165"/>
+        <source>Merged</source>
+        <translation>合併</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="171"/>
+        <source>Update Mode</source>
+        <translation>更新モード</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>On Exit</source>
+        <translation>終了時</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="172"/>
+        <source>Real Time</source>
+        <translation>リアルタイム</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <source>Update Script</source>
+        <translation>更新スクリプト</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
+        <source>Examples</source>
+        <translation>例</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="200"/>
+        <source>Ping Latency</source>
+        <translation>Ping 遅延</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="209"/>
+        <source>NVSMI GPU Temperature</source>
+        <translation>NVSMI GPU 温度</translation>
+    </message>
+</context>
+<context>
     <name>CpuData</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/CpuData.qml" line="8"/>
@@ -643,18 +726,18 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>MiscData</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="7"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
         <source>Miscellaneous Data</source>
         <translation>その他のデータ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="8"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="9"/>
         <source>Useful Utilities Data</source>
         <translation>有用なユーティリティデータ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="12"/>
-        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="19"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/data/MiscData.qml" line="20"/>
         <source>Custom Text</source>
         <translation>カスタムテキスト</translation>
     </message>
@@ -943,7 +1026,7 @@ reject: Function(reason), Promise が拒否された場合に呼び出す</trans
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="89"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="84"/>
         <source>Please add %1 first.</source>
         <translation>最初に%1を追加してください。</translation>
     </message>
@@ -1044,6 +1127,11 @@ global: Object, 値間での共有</translation>
         <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="86"/>
         <source>Historical Average</source>
         <translation>過去の平均</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptValue.qml" line="98"/>
+        <source>Access JSON API</source>
+        <translation>JSON API のアクセス</translation>
     </message>
 </context>
 <context>
@@ -1525,17 +1613,17 @@ Are you sure to disable the unlock button?</source>
         <translation>私のウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="388"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="391"/>
         <source>Preset Themes</source>
         <translation>プリセットテーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="393"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="396"/>
         <source>My Themes</source>
         <translation>私のテーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="411"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="414"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;空白&gt;</translation>
     </message>
@@ -1548,7 +1636,7 @@ Are you sure to disable the unlock button?</source>
         <translation>ウィジェットギャラリー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="279"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="281"/>
         <source>Are you sure to remove this widget?</source>
         <translation>このウィジェットを削除しますか？</translation>
     </message>
@@ -1556,87 +1644,97 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetMenu</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="38"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="39"/>
         <source>Always on Top</source>
         <translation>常にトップに</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="49"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="50"/>
         <source>Mouse Click</source>
         <translation>マウスクリック</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="53"/>
         <source>Passthrough</source>
         <translation>パススルー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="59"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="60"/>
         <source>Activate Focus</source>
         <translation>フォーカスをアクティブ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="68"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="69"/>
         <source>Widget Frame</source>
         <translation>ウィジェットフレーム</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="71"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="72"/>
         <source>Auto Hide</source>
         <translation>自動非表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="80"/>
         <source>Always Show</source>
         <translation>常に表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="87"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="88"/>
         <source>Always Hide</source>
         <translation>常に隠す</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="96"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="97"/>
         <source>Display on</source>
         <translation>表示場所</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="99"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="100"/>
         <source>Desktop</source>
         <translation>デスクトップ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="110"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="111"/>
         <source>Launcher</source>
         <translation>ランチャー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="123"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="124"/>
         <source>Anchor to</source>
         <translation>アンカー位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="160"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="161"/>
         <source>Reset</source>
         <translation>リセット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="171"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="172"/>
+        <source>More</source>
+        <translation>もっと</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="182"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="187"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="201"/>
+        <source>Scale</source>
+        <translation>スケール</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="234"/>
         <source>Properties...</source>
         <translation>プロパティ...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="197"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="244"/>
         <source>Manage Widgets...</source>
         <translation>ウィジェットの管理...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="202"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetMenu.qml" line="249"/>
         <source>Remove Widget</source>
         <translation>ウィジェットを削除</translation>
     </message>
@@ -1676,32 +1774,42 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPropertiesDialog</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="33"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="34"/>
         <source>Title</source>
         <translation>タイトル</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="40"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
         <source>Group</source>
         <translation>グループ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="41"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="42"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;デフォルト&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="50"/>
+        <source>Desktop Application Window</source>
+        <translation>デスクトップアプリウィンドウ</translation>
+    </message>
+    <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="51"/>
+        <source>Display taskbar icon, also allow OBS to capture</source>
+        <translation>タスクバーアイコンを表示し、OBS でもキャプチャ可能</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="60"/>
         <source>Position</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="127"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="136"/>
         <source>Absolute Postion</source>
         <translation>絶対位置</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="174"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetPropertiesDialog.qml" line="183"/>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
@@ -1709,7 +1817,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="334"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="366"/>
         <source>Unknown Widget</source>
         <translation>不明なウィジェット</translation>
     </message>
