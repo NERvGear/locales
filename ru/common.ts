@@ -142,17 +142,17 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>DataPicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="57"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="56"/>
         <source>Loading...</source>
         <translation>Загрузка...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="557"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="556"/>
         <source>Process Settings</source>
         <translation>Настройки процесса</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="571"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="570"/>
         <source>Update Settings</source>
         <translation>Настройки обновления</translation>
     </message>
@@ -369,64 +369,83 @@ Would you like to disable extensions temporarily?</source>
     </message>
 </context>
 <context>
+    <name>ImageStatesApplyMenu</name>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesApplyMenu.qml" line="15"/>
+        <source>Apply to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ImageStatesPicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="85"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="106"/>
         <source>Image Gallery...</source>
         <translation>Галерея изображений...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="90"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="111"/>
         <source>Local Files...</source>
         <translation>Локальные файлы...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="95"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="116"/>
+        <source>Custom URL...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="121"/>
         <source>Clear</source>
         <translation>Очистить</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="222"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="292"/>
         <source>Preview</source>
         <translation>Предварительный просмотр</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="246"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesApplyMenu.qml" line="19"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="133"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="316"/>
         <source>Normal</source>
         <translation>Нормально</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="266"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesApplyMenu.qml" line="27"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="138"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="336"/>
         <source>Hovered</source>
         <translation>Зажать</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="286"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesApplyMenu.qml" line="35"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="143"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="356"/>
         <source>Pressed</source>
         <translation>Нажать</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="308"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="378"/>
         <source>Reset</source>
         <translation>Сбросить</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="355"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="425"/>
         <source>Recommended</source>
         <translation>Рекомендуемые</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="360"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="430"/>
         <source>Light Theme</source>
         <translation>Светлая тема</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="365"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="435"/>
         <source>Dark Theme</source>
         <translation>Тёмная тема</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="371"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="441"/>
         <source>More...</source>
         <translation>Больше...</translation>
     </message>

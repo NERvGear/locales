@@ -9,38 +9,68 @@
         <translation>Hızlı Menü</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="154"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="156"/>
         <source>Widget Settings</source>
         <translation>Widget Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="169"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="231"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="171"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="244"/>
         <source>Icon</source>
         <translation>Simge</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="177"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="179"/>
         <source>Style</source>
         <translation>stil</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="182"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="184"/>
         <source>Default Menu</source>
         <translation>Varsayılan Menü</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="218"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="198"/>
+        <source>Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="199"/>
+        <source>Custom Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="199"/>
+        <source>System Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="207"/>
+        <source>Folder Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="214"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="221"/>
+        <source>Auto Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="230"/>
         <source>Item Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="225"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="238"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="241"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/EditDialog.qml" line="254"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
@@ -48,42 +78,42 @@
 <context>
     <name>MenuWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="13"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="17"/>
         <source>Quick Menu</source>
         <translation>Hızlı Menü</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="22"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="27"/>
         <source>Menu Settings...</source>
         <translation>Menü Ayarları...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="36"/>
         <source>Menu Action</source>
         <translation>Menü Eylemi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="47"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="52"/>
         <source>Command</source>
         <translation>Komut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="53"/>
         <source>Toggle Menu</source>
         <translation>Menüyü Aç/Kapat</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="53"/>
         <source>Show Menu</source>
         <translation>Menüyü göster</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="48"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="53"/>
         <source>Hide Menu</source>
         <translation>Menüyü Gizle</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.menu/qml/MenuWidget.qml" line="162"/>
         <source>Menu Item</source>
         <translation>Menü seçeneği</translation>
     </message>

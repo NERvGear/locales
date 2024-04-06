@@ -181,125 +181,153 @@
 <context>
     <name>CraftDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="32"/>
         <source>HUD Ultrahand</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="95"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="96"/>
         <source>Are you sure to discard the changes?</source>
         <translation>Değişiklikleri silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="275"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="279"/>
         <source>More</source>
         <translation>Daha fazla</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="320"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="324"/>
         <source>Item Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="324"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="328"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="366"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="370"/>
         <source>Background</source>
         <translation>Arka fon</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="538"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="385"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="558"/>
         <source>Color</source>
         <translation>Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="399"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="403"/>
         <source>Element Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="408"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="412"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="425"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="431"/>
         <source>Opacity</source>
         <translation>Saydamlık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="437"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="443"/>
         <source>Rotation</source>
         <translation>Döndürme</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="461"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="481"/>
         <source>Effect Settings</source>
         <translation>Efekt Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="470"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
         <source>Enable Layer Effects</source>
         <translation>Katman Efektlerini Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="482"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
         <source>Original Content</source>
         <translation>Orijinal İçerik</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Hidden</source>
         <translation>Gizli</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Overlay</source>
         <translation>Kaplama</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Combine</source>
         <translation>Birleştir</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="510"/>
         <source>Blur Radius</source>
         <translation>Yarıçapı Bulanıklaştır</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="522"/>
         <source>Spread Amount</source>
         <translation>Yayılma Miktarı</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="514"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="534"/>
         <source>Horizontal Offset</source>
         <translation>Yatay Ofset</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="526"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="546"/>
         <source>Vertical Offset</source>
         <translation>Dikey Ofset</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="565"/>
         <source>Hovered Color</source>
         <translation>Üzerine Gelinen Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="552"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="572"/>
         <source>Pressed Color</source>
         <translation>Tıklama Renk</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="562"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="582"/>
         <source>%1 Settings</source>
         <translation>%1 Ayarlar</translation>
+    </message>
+</context>
+<context>
+    <name>CursorInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="26"/>
+        <source>Cursor Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="38"/>
+        <source>Cursor Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="40"/>
+        <source>Width</source>
+        <translation type="unfinished">Genişlik</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="47"/>
+        <source>Height</source>
+        <translation type="unfinished">Yükseklik</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="56"/>
+        <source>Cursor Hot Spot</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -311,7 +339,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="71"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="99"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="110"/>
         <source>Default Background</source>
         <translation>Varsayılan Arka Plan</translation>
     </message>
@@ -365,25 +393,25 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="165"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="222"/>
         <source>Item Settings</source>
         <translation>Öğe Ayarları</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="175"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="232"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="153"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="192"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="251"/>
         <source>Background</source>
         <translation>Arka fon</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="160"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="280"/>
         <source>Color</source>
         <translation>Renk</translation>
     </message>
@@ -409,8 +437,8 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="277"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="350"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="356"/>
         <source>Data</source>
         <translation>Veri</translation>
     </message>
@@ -441,13 +469,15 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="282"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="361"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="132"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="217"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="274"/>
         <source>Item</source>
         <translation>Öğeler</translation>
     </message>
@@ -462,74 +492,116 @@
         <translation>Bu satırı kaldırmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="74"/>
         <source>Are you sure to remove this item?</source>
         <translation>Bu öğeyi kaldırmak istediğinize emin misiniz?</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="89"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="99"/>
         <source>Widget Settings</source>
         <translation>Widget Ayarları</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="125"/>
         <source>Default Background Color</source>
         <translation>Varsayılan Arka Plan Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="120"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="131"/>
+        <source>Default Background Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="132"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="273"/>
+        <source>Element</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="138"/>
         <source>Default Text Font</source>
         <translation>Varsayılan Metin Yazı Tipi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="126"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="144"/>
         <source>Default Text Color</source>
         <translation>Varsayılan Metin Rengi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
+        <source>Default Item Interaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="169"/>
+        <source>Rectangular Interactive Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="170"/>
+        <source>Mouse interactive with transparent pixels, lower resource usage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="196"/>
         <source>Grid Size</source>
         <translation>Izgara Boyutu</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
         <source>Snap to Grid</source>
         <translation>Kılavuza Yapış</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="213"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="266"/>
+        <source>Background Hierarchy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="272"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="286"/>
         <source>Opacity</source>
         <translation>Saydamlık</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="225"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="298"/>
         <source>Rotation</source>
         <translation>Döndürme</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="247"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="341"/>
         <source>Visibility</source>
         <translation>Görüş</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="347"/>
         <source>Always</source>
         <translation>Her zaman</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="348"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="349"/>
         <source>Hovered</source>
         <translation>Fareyle üzerine gelindi</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="295"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="374"/>
         <source>Edit Item...</source>
         <translation>Ögeyi düzenle...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="424"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="244"/>
+        <source>Show more options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -595,12 +667,12 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/HUDWidget.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="26"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="40"/>
         <source>Editing Mode...</source>
         <translation>Düzenleme Modu...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="30"/>
         <source>HUD Custom</source>
         <translation>HUD Özel</translation>
     </message>
@@ -732,6 +804,32 @@
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="128"/>
         <source>Spin Frame Rate</source>
         <translation>Döndürme Kare Hızı</translation>
+    </message>
+</context>
+<context>
+    <name>InteractionSelectPreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="28"/>
+        <source>Interactive Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="33"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="35"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LevitationInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/LevitationInteraction.qml" line="18"/>
+        <source>Lift Distance</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1109,53 +1207,181 @@
     </message>
 </context>
 <context>
+    <name>TrackInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="96"/>
+        <source>Global Tracking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="102"/>
+        <source>Track Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="113"/>
+        <source>Track Origin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="120"/>
+        <source>Track Interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="135"/>
+        <source>Track Animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="140"/>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="141"/>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="142"/>
+        <source>Normal</source>
+        <translation type="unfinished">Normal</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="143"/>
+        <source>Slow</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TransformInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="14"/>
+        <source>Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="15"/>
+        <source>Fast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="16"/>
+        <source>Normal</source>
+        <translation type="unfinished">Normal</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="17"/>
+        <source>Slow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="47"/>
+        <source>Normal Transform...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="57"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="131"/>
+        <source>Opacity</source>
+        <translation type="unfinished">Saydamlık</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="68"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="105"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="142"/>
+        <source>Z Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="75"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="149"/>
+        <source>Animation Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="84"/>
+        <source>Hovered Transform...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="121"/>
+        <source>Pressed Transform...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TransformRotatePreference</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
         <source>Enable 3D Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="49"/>
-        <source>Rotation Angle</source>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="67"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="104"/>
+        <source>Pitch Angle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="79"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="113"/>
+        <source>Yaw Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="91"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="122"/>
+        <source>Roll Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="135"/>
         <source>Rotation Origin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="143"/>
         <source>Rotation Origin Offset</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="87"/>
-        <source>Rotation Axis</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TransformScalePreference</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="40"/>
         <source>Enable Scale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="45"/>
         <source>Scale Dimension</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="65"/>
         <source>Scale Origin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="71"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="73"/>
         <source>Scale Origin Offset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TransformTranslatePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformTranslatePreference.qml" line="30"/>
+        <source>Enable Translate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformTranslatePreference.qml" line="35"/>
+        <source>Translate Dimension</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1394,6 +1620,16 @@
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
         <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="36"/>
+        <source>Mouse Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="41"/>
+        <source>State Transform</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

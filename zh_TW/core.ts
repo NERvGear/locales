@@ -652,52 +652,58 @@ Are you sure to continue?</source>
         <translation>記錄遊玩時間、解鎖成就、獲取用戶等級...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <source>Steam will treat SAO Utils as not running.
+To avoid update failure or file damage, please exit the program before applying updates.</source>
+        <translation>Steam 會判定 SAO Utils 為未啟動。為避免更新失敗或文件損壞，請先退出程序後再安裝更新。</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="192"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>在內部瀏覽器打開鏈接</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="199"/>
         <source>More Options</source>
         <translation>更多選項</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="203"/>
         <source>Customize Launcher...</source>
         <translation>定製啟動器...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="204"/>
         <source>Launcher style, menu, settings...</source>
         <translation>啟動器外觀、菜單和設置等...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="209"/>
         <source>Manage Widgets...</source>
         <translation>管理掛件...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
         <source>Add, save and remove widgets...</source>
         <translation>添加、刪除和移除掛件...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="215"/>
         <source>Create Desktop Shortcut</source>
         <translation>在桌面創建快捷圖標</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="216"/>
         <source>Which can launch without Steam</source>
         <translation>無須拉起 Steam 即可啟動</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Shortcut created successfully</source>
         <translation>快捷方式創建成功</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="221"/>
         <source>Failed to create shortcut</source>
         <translation>快捷方式創建失敗</translation>
     </message>
@@ -727,7 +733,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="92"/>
         <source>Enable Mouse Gesture</source>
-        <translation>啟用鼠標手勢</translation>
+        <translation>啟用滑鼠手勢</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="93"/>
@@ -737,7 +743,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="99"/>
         <source>Mouse Buttons</source>
-        <translation>鼠標按鍵</translation>
+        <translation>滑鼠按鍵</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="100"/>
@@ -772,7 +778,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="107"/>
         <source>Mouse Sensitive</source>
-        <translation>鼠標識別靈敏度</translation>
+        <translation>滑鼠識別靈敏度</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="108"/>
@@ -842,7 +848,7 @@ Are you sure to continue?</source>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="259"/>
         <source>Disable Mouse Gesture</source>
-        <translation>禁用鼠標手勢</translation>
+        <translation>禁用滑鼠手勢</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="265"/>
@@ -868,6 +874,16 @@ Are you sure to continue?</source>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation>免打擾模式結束...</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="329"/>
+        <source>Auto Toggle Widgets</source>
+        <translation>自動開關掛件</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="347"/>
+        <source>Examples</source>
+        <translation>示例</translation>
     </message>
 </context>
 <context>
@@ -932,7 +948,7 @@ Are you sure to continue?</source>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="123"/>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="236"/>
         <source>Follow Cursor</source>
-        <translation>跟隨鼠標</translation>
+        <translation>跟隨游標</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/launcher/OptionsPopup.qml" line="242"/>

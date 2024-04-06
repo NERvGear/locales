@@ -657,52 +657,58 @@ Devam edeceğinizden emin misiniz?</translation>
         <translation>Oynatma süresi takibi, başarılar, kullanıcı seviyesi...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <source>Steam will treat SAO Utils as not running.
+To avoid update failure or file damage, please exit the program before applying updates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="192"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>Bağlantıları Dahili Web Tarayıcı Kullanarak Açın</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="199"/>
         <source>More Options</source>
         <translation>Daha fazla seçenek</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="203"/>
         <source>Customize Launcher...</source>
         <translation>Başlatıcıyı Özelleştir...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="204"/>
         <source>Launcher style, menu, settings...</source>
         <translation>Başlatıcı stili, menü, ayarlar...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="209"/>
         <source>Manage Widgets...</source>
         <translation>Widget&apos;ları Yönet...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
         <source>Add, save and remove widgets...</source>
         <translation>Widget ekleyin, kaydedin ve kaldırın...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="215"/>
         <source>Create Desktop Shortcut</source>
         <translation>Masaüstü kısayolu oluşturun</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="216"/>
         <source>Which can launch without Steam</source>
         <translation>Steam olmadan başlatılabilir</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Shortcut created successfully</source>
         <translation>Kısayol başarıyla oluşturuldu</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="221"/>
         <source>Failed to create shortcut</source>
         <translation>Kısayol oluşturulamadı</translation>
     </message>
@@ -873,6 +879,16 @@ Devam edeceğinizden emin misiniz?</translation>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation>Rahatsız Etmeyin pasif olduğunda devreye girer...</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="329"/>
+        <source>Auto Toggle Widgets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="347"/>
+        <source>Examples</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

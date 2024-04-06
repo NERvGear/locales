@@ -652,52 +652,59 @@ Are you sure to continue?</source>
         <translation>プレイタイムトラッキング、実績、ユーザーレベル...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <source>Steam will treat SAO Utils as not running.
+To avoid update failure or file damage, please exit the program before applying updates.</source>
+        <translation>Steam は SAO Utils を実行していないと扱います。
+アップデートの失敗やファイルの破損を避けるため、更新前にプログラムを終了してください。</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="192"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>内部 Web ブラウザを使用してリンクを開く</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="199"/>
         <source>More Options</source>
         <translation>より多くのオプション</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="203"/>
         <source>Customize Launcher...</source>
         <translation>ランチャーをカスタマイズ...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="204"/>
         <source>Launcher style, menu, settings...</source>
         <translation>ランチャーのスタイル、メニュー、設定...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="209"/>
         <source>Manage Widgets...</source>
         <translation>ウィジェットを管理...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
         <source>Add, save and remove widgets...</source>
         <translation>ウィジェットの追加、保存、削除...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="215"/>
         <source>Create Desktop Shortcut</source>
         <translation>デスクトップショートカットを作成</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="216"/>
         <source>Which can launch without Steam</source>
         <translation>Steam なしで起動できます</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Shortcut created successfully</source>
         <translation>ショートカットの作成に成功しました</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="221"/>
         <source>Failed to create shortcut</source>
         <translation>ショートカットの作成に失敗しました</translation>
     </message>
@@ -868,6 +875,16 @@ Are you sure to continue?</source>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation>集中モードの終わり...</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="329"/>
+        <source>Auto Toggle Widgets</source>
+        <translation>ウィジェットの自動切り替え</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="347"/>
+        <source>Examples</source>
+        <translation>例</translation>
     </message>
 </context>
 <context>

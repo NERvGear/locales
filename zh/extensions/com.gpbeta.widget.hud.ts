@@ -181,125 +181,153 @@
 <context>
     <name>CraftDialog</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="31"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="32"/>
         <source>HUD Ultrahand</source>
         <translation>HUD 究极手</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="95"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="96"/>
         <source>Are you sure to discard the changes?</source>
         <translation>是否确认放弃当前变更？</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="275"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="279"/>
         <source>More</source>
         <translation>更多</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="320"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="324"/>
         <source>Item Settings</source>
         <translation>项目设置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="324"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="328"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="366"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="370"/>
         <source>Background</source>
         <translation>背景</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="381"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="538"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="385"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="558"/>
         <source>Color</source>
         <translation>颜色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="399"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="403"/>
         <source>Element Settings</source>
         <translation>元素设置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="408"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="412"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="425"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="431"/>
         <source>Opacity</source>
         <translation>透明度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="437"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="443"/>
         <source>Rotation</source>
         <translation>旋转</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="461"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="481"/>
         <source>Effect Settings</source>
         <translation>特效设置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="470"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
         <source>Enable Layer Effects</source>
         <translation>启用图层特效</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="482"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
         <source>Original Content</source>
         <translation>原始内容</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Hidden</source>
         <translation>隐藏</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Overlay</source>
         <translation>叠加</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="483"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="503"/>
         <source>Combine</source>
         <translation>合并</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="490"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="510"/>
         <source>Blur Radius</source>
         <translation>模糊半径</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="502"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="522"/>
         <source>Spread Amount</source>
         <translation>扩展量</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="514"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="534"/>
         <source>Horizontal Offset</source>
         <translation>水平偏移</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="526"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="546"/>
         <source>Vertical Offset</source>
         <translation>垂直偏移</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="545"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="565"/>
         <source>Hovered Color</source>
         <translation>悬停时颜色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="552"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="572"/>
         <source>Pressed Color</source>
         <translation>按下时颜色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="562"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="582"/>
         <source>%1 Settings</source>
         <translation>%1设置</translation>
+    </message>
+</context>
+<context>
+    <name>CursorInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="26"/>
+        <source>Cursor Image</source>
+        <translation>光标图片</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="38"/>
+        <source>Cursor Size</source>
+        <translation>光标大小</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="40"/>
+        <source>Width</source>
+        <translation>宽度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="47"/>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/CursorInteraction.qml" line="56"/>
+        <source>Cursor Hot Spot</source>
+        <translation>光标焦点</translation>
     </message>
 </context>
 <context>
@@ -311,7 +339,7 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="71"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="99"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="110"/>
         <source>Default Background</source>
         <translation>默认背景</translation>
     </message>
@@ -365,25 +393,25 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="141"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="165"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="222"/>
         <source>Item Settings</source>
         <translation>项目设置</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="147"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="175"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="232"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="153"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="192"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="251"/>
         <source>Background</source>
         <translation>背景</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="160"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="280"/>
         <source>Color</source>
         <translation>颜色</translation>
     </message>
@@ -409,8 +437,8 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="223"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="277"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="350"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="356"/>
         <source>Data</source>
         <translation>数据</translation>
     </message>
@@ -441,13 +469,15 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="265"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="282"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="361"/>
         <source>Action</source>
         <translation>动作</translation>
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/EditDialog.qml" line="271"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="160"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="132"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="217"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="274"/>
         <source>Item</source>
         <translation>项目</translation>
     </message>
@@ -462,74 +492,116 @@
         <translation>是否确认移除本行？</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="64"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="74"/>
         <source>Are you sure to remove this item?</source>
         <translation>是否确认移除本项目？</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="89"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="99"/>
         <source>Widget Settings</source>
         <translation>挂件设置</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="125"/>
         <source>Default Background Color</source>
         <translation>默认背景颜色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="120"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="131"/>
+        <source>Default Background Hierarchy</source>
+        <translation>默认背景层级</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="132"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="273"/>
+        <source>Element</source>
+        <translation>元素</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="138"/>
         <source>Default Text Font</source>
         <translation>默认字体</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="126"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="144"/>
         <source>Default Text Color</source>
         <translation>默认文本颜色</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="139"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
+        <source>Default Item Interaction</source>
+        <translation>默认项目动效</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="169"/>
+        <source>Rectangular Interactive Area</source>
+        <translation>矩形交互区域</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="170"/>
+        <source>Mouse interactive with transparent pixels, lower resource usage</source>
+        <translation>透明区域可鼠标交互，更低资源占用</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="196"/>
         <source>Grid Size</source>
         <translation>网格大小</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="150"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="207"/>
         <source>Snap to Grid</source>
         <translation>吸附到网格</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="213"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="266"/>
+        <source>Background Hierarchy</source>
+        <translation>背景层级</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="272"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;默认&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="286"/>
         <source>Opacity</source>
         <translation>透明度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="225"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="298"/>
         <source>Rotation</source>
         <translation>旋转</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="247"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="341"/>
         <source>Visibility</source>
         <translation>可见性</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="347"/>
         <source>Always</source>
         <translation>总是</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="348"/>
         <source>Normal</source>
         <translation>通常时</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="248"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="349"/>
         <source>Hovered</source>
         <translation>悬停时</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="295"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="374"/>
         <source>Edit Item...</source>
         <translation>编辑项目...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/CraftDialog.qml" line="424"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/EditDialog.qml" line="244"/>
+        <source>Show more options</source>
+        <translation>显示更多选项</translation>
     </message>
 </context>
 <context>
@@ -595,12 +667,12 @@
     </message>
     <message>
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml/HUDWidget.qml" line="24"/>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="26"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="40"/>
         <source>Editing Mode...</source>
         <translation>进入编辑模式...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="16"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/HUDWidget.qml" line="30"/>
         <source>HUD Custom</source>
         <translation>HUD 自定义挂件</translation>
     </message>
@@ -732,6 +804,32 @@
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/elements/ImageElement.qml" line="128"/>
         <source>Spin Frame Rate</source>
         <translation>旋转帧率</translation>
+    </message>
+</context>
+<context>
+    <name>InteractionSelectPreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="28"/>
+        <source>Interactive Effect</source>
+        <translation>互动效果</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="33"/>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/InteractionSelectPreference.qml" line="35"/>
+        <source>&lt;Default&gt;</source>
+        <translation>&lt;默认&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>LevitationInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/LevitationInteraction.qml" line="18"/>
+        <source>Lift Distance</source>
+        <translation>上升距离</translation>
     </message>
 </context>
 <context>
@@ -1109,54 +1207,182 @@
     </message>
 </context>
 <context>
+    <name>TrackInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="96"/>
+        <source>Global Tracking</source>
+        <translation>全局跟踪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="102"/>
+        <source>Track Angle</source>
+        <translation>跟踪角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="113"/>
+        <source>Track Origin</source>
+        <translation>跟踪原点</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="120"/>
+        <source>Track Interval</source>
+        <translation>跟踪间隔</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="135"/>
+        <source>Track Animation</source>
+        <translation>跟踪动画</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="140"/>
+        <source>Off</source>
+        <translation>关</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="141"/>
+        <source>Fast</source>
+        <translation>快</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="142"/>
+        <source>Normal</source>
+        <translation>正常</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TrackInteraction.qml" line="143"/>
+        <source>Slow</source>
+        <translation>慢</translation>
+    </message>
+</context>
+<context>
+    <name>TransformInteraction</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="14"/>
+        <source>Off</source>
+        <translation>关</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="15"/>
+        <source>Fast</source>
+        <translation>快</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="16"/>
+        <source>Normal</source>
+        <translation>正常</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="17"/>
+        <source>Slow</source>
+        <translation>慢</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="47"/>
+        <source>Normal Transform...</source>
+        <translation>通常时变换...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="57"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="94"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="131"/>
+        <source>Opacity</source>
+        <translation>透明度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="68"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="105"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="142"/>
+        <source>Z Order</source>
+        <translation>Z 次序</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="75"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="112"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="149"/>
+        <source>Animation Speed</source>
+        <translation>动画速度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="84"/>
+        <source>Hovered Transform...</source>
+        <translation>悬停时变换...</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/interactions/TransformInteraction.qml" line="121"/>
+        <source>Pressed Transform...</source>
+        <translation>按下时变换...</translation>
+    </message>
+</context>
+<context>
     <name>TransformRotatePreference</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
         <source>Enable 3D Rotation</source>
         <translation>启用 3D 旋转</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="49"/>
-        <source>Rotation Angle</source>
-        <translation>旋转角度</translation>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="67"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="104"/>
+        <source>Pitch Angle</source>
+        <translation>俯仰角度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="79"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="113"/>
+        <source>Yaw Angle</source>
+        <translation>水平角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="91"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="122"/>
+        <source>Roll Angle</source>
+        <translation>翻滚角度</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="135"/>
         <source>Rotation Origin</source>
         <translation>旋转原点</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="143"/>
         <source>Rotation Origin Offset</source>
         <translation>旋转原点偏移</translation>
-    </message>
-    <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformRotatePreference.qml" line="87"/>
-        <source>Rotation Axis</source>
-        <translation>旋转轴</translation>
     </message>
 </context>
 <context>
     <name>TransformScalePreference</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="38"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="40"/>
         <source>Enable Scale</source>
         <translation>启用缩放</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="43"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="45"/>
         <source>Scale Dimension</source>
         <translation>缩放尺度</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="63"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="65"/>
         <source>Scale Origin</source>
         <translation>缩放原点</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="71"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformScalePreference.qml" line="73"/>
         <source>Scale Origin Offset</source>
         <translation>缩放原点偏移</translation>
+    </message>
+</context>
+<context>
+    <name>TransformTranslatePreference</name>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformTranslatePreference.qml" line="30"/>
+        <source>Enable Translate</source>
+        <translation>启用位移</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/TransformTranslatePreference.qml" line="35"/>
+        <source>Translate Dimension</source>
+        <translation>位移尺度</translation>
     </message>
 </context>
 <context>
@@ -1395,6 +1621,16 @@
         <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="6"/>
         <source>Bottom Right</source>
         <translation>右下角</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="36"/>
+        <source>Mouse Track</source>
+        <translation>鼠标跟踪</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.hud/qml-adv/utils.js" line="41"/>
+        <source>State Transform</source>
+        <translation>状态变换</translation>
     </message>
 </context>
 </TS>

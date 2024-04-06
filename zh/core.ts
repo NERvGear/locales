@@ -652,52 +652,58 @@ Are you sure to continue?</source>
         <translation>记录游玩时间、解锁成就、获取用户等级...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="190"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="185"/>
+        <source>Steam will treat SAO Utils as not running.
+To avoid update failure or file damage, please exit the program before applying updates.</source>
+        <translation>Steam 会判定 SAO Utils 为未启动。为避免更新失败或文件损坏，请先退出程序后再安装更新。</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="192"/>
         <source>Open Links Using Internal Web Browser</source>
         <translation>在内部浏览器打开链接</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="197"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="199"/>
         <source>More Options</source>
         <translation>更多选项</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="201"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="203"/>
         <source>Customize Launcher...</source>
         <translation>定制启动器...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="202"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="204"/>
         <source>Launcher style, menu, settings...</source>
         <translation>启动器外观、菜单和设置等...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="207"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="209"/>
         <source>Manage Widgets...</source>
         <translation>管理挂件...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="208"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="210"/>
         <source>Add, save and remove widgets...</source>
         <translation>添加、删除和移除挂件...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="213"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="215"/>
         <source>Create Desktop Shortcut</source>
         <translation>在桌面创建快捷图标</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="214"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="216"/>
         <source>Which can launch without Steam</source>
         <translation>无须拉起 Steam 即可启动</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="217"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
         <source>Shortcut created successfully</source>
         <translation>快捷方式创建成功</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="219"/>
+        <location filename="../../src/gear/qml/preferences/GeneralSettingsView.qml" line="221"/>
         <source>Failed to create shortcut</source>
         <translation>快捷方式创建失败</translation>
     </message>
@@ -868,6 +874,16 @@ Are you sure to continue?</source>
         <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="304"/>
         <source>Do Not Disturb ends...</source>
         <translation>免打扰模式结束...</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="329"/>
+        <source>Auto Toggle Widgets</source>
+        <translation>自动开关挂件</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/preferences/InputSettingsView.qml" line="347"/>
+        <source>Examples</source>
+        <translation>示例</translation>
     </message>
 </context>
 <context>
