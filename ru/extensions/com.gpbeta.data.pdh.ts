@@ -19,22 +19,22 @@
         <translation>Счетчик производительности</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="37"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="39"/>
         <source>Query Path</source>
         <translation>Путь запроса</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="59"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="61"/>
         <source>Data Type</source>
         <translation>Тип данных</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="61"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="63"/>
         <source>Decimal</source>
         <translation>Десятичная дробь</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="61"/>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="63"/>
         <source>Integer</source>
         <translation>Целое число</translation>
     </message>
@@ -47,6 +47,21 @@
         <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="72"/>
         <source>None</source>
         <translation>Ничего</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="82"/>
+        <source>Examples</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="91"/>
+        <source>CPU Usage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.data.pdh/qml/PdhData.qml" line="104"/>
+        <source>GPU Usage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

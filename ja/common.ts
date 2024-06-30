@@ -386,7 +386,7 @@ Would you like to disable extensions temporarily?</source>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="111"/>
         <source>Local Files...</source>
-        <translation>ローカルファイル...</translation>
+        <translation>ファイル...</translation>
     </message>
     <message>
         <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ImageStatesPicker.qml" line="116"/>

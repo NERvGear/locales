@@ -141,22 +141,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
         <source>Update Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="196"/>
         <source>Examples</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="200"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="207"/>
         <source>Ping Latency</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="209"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="216"/>
         <source>NVSMI GPU Temperature</source>
         <translation type="unfinished"></translation>
     </message>
@@ -189,7 +189,7 @@
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/DateTimeValue.qml" line="5"/>
         <source>ANSI C strftime() Reference:
-http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</source>
+https://cplusplus.com/reference/ctime/strftime/</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -588,6 +588,16 @@ All currently configured widgets will be lost!!</source>
         <source>Drive Cluster</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="50"/>
+        <source>Recycle Bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="51"/>
+        <source>The number and size of files in recycle bin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HddValue</name>
@@ -708,13 +718,13 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>NERvGear::Imports::DataSource</name>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="201"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="212"/>
         <location filename="../../../src/extensions/system/cpp/DataSource_gpu.cpp" line="272"/>
         <source>Overall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="203"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="214"/>
         <source>Core #</source>
         <translation type="unfinished"></translation>
     </message>
@@ -955,37 +965,59 @@ reject: Function(reason), called if the Promise is rejected</source>
 <context>
     <name>ScriptPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="12"/>
         <source>Input Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
         <source>Input Actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="49"/>
         <source>Output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="88"/>
         <source>Initialization Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="53"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="179"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="89"/>
         <source>Optional</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="69"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="65"/>
+        <source>Image...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="70"/>
+        <source>Icon...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="75"/>
+        <source>Background...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="80"/>
+        <source>Local Files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="130"/>
         <source>Examples</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="84"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="63"/>
         <source>Please add %1 first.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1007,32 +1039,17 @@ global: Object, sharing across processors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="36"/>
-        <source>Initialization Script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
-        <source>Optional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="34"/>
         <source>Execution Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="55"/>
-        <source>Examples</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="39"/>
         <source>Rounding Numbers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="70"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="42"/>
         <source>Auto Text Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1529,22 +1546,22 @@ global: Object, sharing across values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="121"/>
         <source>Toggle Widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="123"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="130"/>
         <source>Show Widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="127"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="134"/>
         <source>Hide Widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="131"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="138"/>
         <source>Widget Custom</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1586,95 +1603,100 @@ global: Object, sharing across values</source>
     <name>WidgetGallery</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="44"/>
+        <source>Disable Alt Modifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="50"/>
         <source>Disable Unlock Button</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="54"/>
         <source>You can no longer unlock any transparent widgets.
 Are you sure to disable the unlock button?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="68"/>
         <source>Check for Offscreen Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="75"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="89"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="81"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="95"/>
         <source>%1 widgets recovered</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="85"/>
         <source>Show Hidden Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="93"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="99"/>
         <source>Find Widget...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="97"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="103"/>
         <source>Get More...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="111"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
         <source>All Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="123"/>
         <source>Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="144"/>
         <source>Edit...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="143"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="149"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="227"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="233"/>
         <source>Drop outside to add a widget</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="252"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
         <source>Preset Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
         <source>Basic Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="270"/>
         <source>My Widgets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/ThemeAction.qml" line="162"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="391"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="397"/>
         <source>Preset Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/ThemeAction.qml" line="162"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="396"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="402"/>
         <source>My Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="414"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="420"/>
         <source>&lt;Blank&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1682,12 +1704,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetManager</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="44"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="46"/>
         <source>Widget Gallery</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="281"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="283"/>
         <source>Are you sure to remove this widget?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1811,7 +1833,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="156"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="162"/>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPreference.qml" line="34"/>
         <source>Widget Picker</source>
         <translation type="unfinished"></translation>
@@ -1868,7 +1890,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="378"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="379"/>
         <source>Unknown Widget</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1876,12 +1898,32 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="58"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="303"/>
         <source>Welcome to SAO Utils</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="291"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="325"/>
+        <source>Updated to latest version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="326"/>
+        <source>New version available: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="327"/>
+        <source>See what&apos;s new?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="346"/>
+        <source>New Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="287"/>
         <source>SAO Utils Started Successfully.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1996,6 +2038,11 @@ Are you sure to disable the unlock button?</source>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
         <source>Toggle Desktop Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="39"/>
+        <source>Empty Recycle Bin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

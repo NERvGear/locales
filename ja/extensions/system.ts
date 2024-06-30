@@ -141,22 +141,22 @@
         <translation>リアルタイム</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
         <source>Update Script</source>
         <translation>更新スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="187"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="196"/>
         <source>Examples</source>
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="200"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="207"/>
         <source>Ping Latency</source>
         <translation>Ping 遅延</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="209"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="216"/>
         <source>NVSMI GPU Temperature</source>
         <translation>NVSMI GPU 温度</translation>
     </message>
@@ -189,9 +189,9 @@
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/DateTimeValue.qml" line="5"/>
         <source>ANSI C strftime() Reference:
-http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</source>
-        <translation>ANSI C strftime() 参考：
-http://www.cplusplus.com/reference/clibrary/ctime/strftime.html</translation>
+https://cplusplus.com/reference/ctime/strftime/</source>
+        <translation>ANSI C strftime() 参照：
+https://cplusplus.com/reference/ctime/strftime/</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/data/DateTimeValue.qml" line="8"/>
@@ -627,6 +627,16 @@ All currently configured widgets will be lost!!</source>
         <source>Drive Cluster</source>
         <translation>ドライブクラスター</translation>
     </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="50"/>
+        <source>Recycle Bin</source>
+        <translation>ごみ箱</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/data/HddData.qml" line="51"/>
+        <source>The number and size of files in recycle bin</source>
+        <translation>ごみ箱内のファイルの数とサイズ</translation>
+    </message>
 </context>
 <context>
     <name>HddValue</name>
@@ -751,13 +761,13 @@ please exit the program and wait for Steam client to apply the updates.)</source
 <context>
     <name>NERvGear::Imports::DataSource</name>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="201"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="212"/>
         <location filename="../../../src/extensions/system/cpp/DataSource_gpu.cpp" line="272"/>
         <source>Overall</source>
         <translation>全体</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="203"/>
+        <location filename="../../../src/extensions/system/cpp/DataSource.cpp" line="214"/>
         <source>Core #</source>
         <translation>芯 #</translation>
     </message>
@@ -1007,37 +1017,59 @@ reject: Function(reason), Promise が拒否された場合に呼び出す</trans
 <context>
     <name>ScriptPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="12"/>
         <source>Input Data</source>
         <translation>入力データ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="14"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="13"/>
         <source>Input Actions</source>
         <translation>入力アクション</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="45"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="49"/>
         <source>Output</source>
         <translation>出力</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="52"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="178"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="88"/>
         <source>Initialization Script</source>
         <translation>初期化スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="53"/>
+        <location filename="../../../src/extensions/system/qml/system/data/CommandValue.qml" line="179"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="89"/>
         <source>Optional</source>
         <translation>オプショナル</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="69"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="65"/>
+        <source>Image...</source>
+        <translation>画像...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="70"/>
+        <source>Icon...</source>
+        <translation>アイコン...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="75"/>
+        <source>Background...</source>
+        <translation>背景...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="80"/>
+        <source>Local Files...</source>
+        <translation>ファイル...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/shared/BasicScriptPreference.qml" line="130"/>
         <source>Examples</source>
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="84"/>
+        <location filename="../../../src/extensions/system/qml/system/shared/ScriptPreference.qml" line="63"/>
         <source>Please add %1 first.</source>
         <translation>最初に%1を追加してください。</translation>
     </message>
@@ -1063,32 +1095,17 @@ local: Object, スクリプト間での共有
 global: Object, プロセッサ間での共有</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="36"/>
-        <source>Initialization Script</source>
-        <translation>初期化スクリプト</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="37"/>
-        <source>Optional</source>
-        <translation>オプション</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="46"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="34"/>
         <source>Execution Script</source>
         <translation>実行スクリプト</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="55"/>
-        <source>Examples</source>
-        <translation>例</translation>
-    </message>
-    <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="67"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="39"/>
         <source>Rounding Numbers</source>
         <translation>四捨五入</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="70"/>
+        <location filename="../../../src/extensions/system/qml/system/data/ScriptProcessor.qml" line="42"/>
         <source>Auto Text Color</source>
         <translation>文字色を変更</translation>
     </message>
@@ -1592,22 +1609,22 @@ global: Object, 値間での共有</translation>
         <translation>ウィジェットを制御するためのショートカット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="114"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="121"/>
         <source>Toggle Widget</source>
         <translation>ウィジェットを切り替え</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="123"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="130"/>
         <source>Show Widget</source>
         <translation>ウィジェットを表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="127"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="134"/>
         <source>Hide Widget</source>
         <translation>ウィジェットを非表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="131"/>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="138"/>
         <source>Widget Custom</source>
         <translation>ウィジェットカスタム</translation>
     </message>
@@ -1649,96 +1666,101 @@ global: Object, 値間での共有</translation>
     <name>WidgetGallery</name>
     <message>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="44"/>
+        <source>Disable Alt Modifier</source>
+        <translation>Alt 修飾キーを無効化</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="50"/>
         <source>Disable Unlock Button</source>
         <translation>ロック解除ボタンを無効化</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="48"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="54"/>
         <source>You can no longer unlock any transparent widgets.
 Are you sure to disable the unlock button?</source>
         <translation>透明なウィジェットのロックを解除できなくなりました。
 ロック解除ボタンを無効にしてよろしいですか？</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="62"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="68"/>
         <source>Check for Offscreen Widgets</source>
         <translation>オフスクリーンウィジェットを確認</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="75"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="89"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="81"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="95"/>
         <source>%1 widgets recovered</source>
         <translation>%1 ウィジェットが回復しました</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="79"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="85"/>
         <source>Show Hidden Widgets</source>
         <translation>隠したウィジェットを表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="93"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="99"/>
         <source>Find Widget...</source>
         <translation>ウィジェットを検索...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="97"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="103"/>
         <source>Get More...</source>
         <translation>もっと見る...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="111"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
         <source>All Widgets</source>
         <translation>ウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="117"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="123"/>
         <source>Themes</source>
         <translation>テーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="138"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="144"/>
         <source>Edit...</source>
         <translation>編集...</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="143"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="149"/>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="227"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="233"/>
         <source>Drop outside to add a widget</source>
         <translation>ウィジェットを外にドロップで追加</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="252"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
         <source>Preset Widgets</source>
         <translation>プリセットウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="258"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
         <source>Basic Widgets</source>
         <translation>基本ウィジェット</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="264"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="270"/>
         <source>My Widgets</source>
         <translation>私のウィジェット</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/ThemeAction.qml" line="162"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="391"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="397"/>
         <source>Preset Themes</source>
         <translation>プリセットテーマ</translation>
     </message>
     <message>
         <location filename="../../../src/extensions/system/qml/system/action/ThemeAction.qml" line="162"/>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="396"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="402"/>
         <source>My Themes</source>
         <translation>私のテーマ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="414"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="420"/>
         <source>&lt;Blank&gt;</source>
         <translation>&lt;空白&gt;</translation>
     </message>
@@ -1746,12 +1768,12 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetManager</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="44"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="46"/>
         <source>Widget Gallery</source>
         <translation>ウィジェットギャラリー</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="281"/>
+        <location filename="../../../src/extensions/system/qml/system/WidgetManager.qml" line="283"/>
         <source>Are you sure to remove this widget?</source>
         <translation>このウィジェットを削除しますか？</translation>
     </message>
@@ -1875,7 +1897,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetPreference</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="156"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetGallery.qml" line="162"/>
         <location filename="../../../src/extensions/system/qml/system/widget/WidgetPreference.qml" line="34"/>
         <source>Widget Picker</source>
         <translation>ウィジェットを選択</translation>
@@ -1932,7 +1954,7 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>WidgetView</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="378"/>
+        <location filename="../../../src/extensions/system/qml/system/widget/WidgetView.qml" line="379"/>
         <source>Unknown Widget</source>
         <translation>不明なウィジェット</translation>
     </message>
@@ -1940,12 +1962,32 @@ Are you sure to disable the unlock button?</source>
 <context>
     <name>module</name>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="58"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="303"/>
         <source>Welcome to SAO Utils</source>
         <translation>SAO Utils へようこそ</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/system/qml/system/module.qml" line="291"/>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="325"/>
+        <source>Updated to latest version: </source>
+        <translation>最新バージョンに更新されました：</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="326"/>
+        <source>New version available: </source>
+        <translation>新しいバージョンが利用可能：</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="327"/>
+        <source>See what&apos;s new?</source>
+        <translation>最新の情報をいただけますか？</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="346"/>
+        <source>New Version</source>
+        <translation>新バージョン</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/module.qml" line="287"/>
         <source>SAO Utils Started Successfully.</source>
         <translation>ソード·アート·オンライン へようこそ.</translation>
     </message>
@@ -2061,6 +2103,11 @@ Are you sure to disable the unlock button?</source>
         <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="38"/>
         <source>Toggle Desktop Icons</source>
         <translation>デスクトップアイコンを切り替え</translation>
+    </message>
+    <message>
+        <location filename="../../../src/extensions/system/qml/system/action/utils.js" line="39"/>
+        <source>Empty Recycle Bin</source>
+        <translation>ごみ箱を空にする</translation>
     </message>
 </context>
 </TS>

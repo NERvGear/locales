@@ -4,22 +4,22 @@
 <context>
     <name>FeedWidget</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="49"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="77"/>
         <source>RSS Feed</source>
         <translation>RSS フィード</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="246"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="323"/>
         <source>Now Loading...</source>
         <translation>読み込み中...</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="324"/>
         <source>Fetch Error</source>
         <translation>取得エラー</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="247"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidget.qml" line="324"/>
         <source>RSS Updated</source>
         <translation>フィード更新済み</translation>
     </message>
@@ -27,67 +27,82 @@
 <context>
     <name>FeedWidgetMenu</name>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="35"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="36"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="145"/>
+        <source>Filter Script</source>
+        <translation>フィルタースクリプト</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="46"/>
+        <source>Extra objects for script:
+element: Element, DOM element of current item
+item: Object, extracted item content, available properties: date, link, title</source>
+        <translation>スクリプトの追加オブジェクト：
+element: Element, 現在のアイテムの DOM 要素
+item: Object, 抽出されたアイテムコンテンツ、使用可能なプロパティ：date, link, title</translation>
+    </message>
+    <message>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="59"/>
         <source>Open links in external browser</source>
         <translation>外部ブラウザでリンクを開く</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="41"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="65"/>
         <source>Widget Size</source>
         <translation>ウィジェットサイズ</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="46"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="70"/>
         <source>Small</source>
         <translation>小</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="54"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="78"/>
         <source>Medium</source>
         <translation>中</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="62"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="86"/>
         <source>Large</source>
         <translation>大</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="70"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="94"/>
         <source>Extra Large</source>
         <translation>特大</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="77"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="101"/>
         <source>Update Interval</source>
         <translation>更新間隔</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="82"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="106"/>
         <source>Auto</source>
         <translation>自動</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="90"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="114"/>
         <source>5 Minutes</source>
         <translation>5 分</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="98"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="122"/>
         <source>15 Minutes</source>
         <translation>15 分</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="106"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="130"/>
         <source>30 Minutes</source>
         <translation>30 分</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="114"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="138"/>
         <source>Hourly</source>
         <translation>毎時</translation>
     </message>
     <message>
-        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="121"/>
+        <location filename="../../../bin/Packages/com.gpbeta.widget.web/qml/FeedWidgetMenu.qml" line="151"/>
         <source>RSS Feed URL...</source>
         <translation>RSS フィード URL...</translation>
     </message>
