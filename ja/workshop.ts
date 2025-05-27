@@ -506,6 +506,11 @@ Steam に関するワークショップ利用規約に同意するまで、ア�
         <source>Import and upload an extension package</source>
         <translation>拡張パッケージをインポートしてアップロードする</translation>
     </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="76"/>
+        <source>Tutorial: How to share my widgets and themes?</source>
+        <translation>自分のウィジェットとテーマを共有する方法は?</translation>
+    </message>
 </context>
 <context>
     <name>ResourceBuilder</name>

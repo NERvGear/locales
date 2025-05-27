@@ -506,6 +506,11 @@ El artículo estará oculto hasta que aceptes el Acuerdo Legal de Workshop en St
         <source>Import and upload an extension package</source>
         <translation>Importar y subir un paquete de extensión</translation>
     </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="76"/>
+        <source>Tutorial: How to share my widgets and themes?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceBuilder</name>

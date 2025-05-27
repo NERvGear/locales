@@ -127,22 +127,22 @@
 <context>
     <name>WeatherEditor</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="27"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="28"/>
         <source>Weather Settings</source>
         <translation>天気設定</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="39"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="40"/>
         <source>Display Temperature Meter</source>
         <translation>温度計を表示する</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="45"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="46"/>
         <source>Show Temperature on Hover</source>
         <translation>ホバーで温度を表示</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="52"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="53"/>
         <source>Temperature Unit</source>
         <translation>温度単位</translation>
     </message>
@@ -155,7 +155,7 @@
         <translation>BOTW 天気</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherWidget.qml" line="31"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherWidget.qml" line="32"/>
         <source>Settings...</source>
         <translation>設定...</translation>
     </message>

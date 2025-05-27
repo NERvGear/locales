@@ -4,7 +4,7 @@
 <context>
     <name>ActionDialog</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/ActionDialog.qml" line="7"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/ActionDialog.qml" line="9"/>
         <source>Action Picker</source>
         <translation>選取動作</translation>
     </message>
@@ -17,37 +17,42 @@
         <translation>基礎設置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="114"/>
         <source>Confirm before execution</source>
         <translation>執行前需確認</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="116"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="120"/>
         <source>Behavior after execution</source>
         <translation>執行後關閉啟動器</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Default</source>
         <translation>默認</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Close Launcher</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Keep Launcher</source>
         <translation>保持</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="126"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="127"/>
+        <source>Title</source>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="137"/>
         <source>Run Test</source>
         <translation>執行測試</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="143"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="154"/>
         <source>Action Settings</source>
         <translation>動作設置</translation>
     </message>
@@ -55,7 +60,7 @@
 <context>
     <name>ActionPreference</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ActionPreference.qml" line="14"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ActionPreference.qml" line="15"/>
         <source>Action</source>
         <translation>動作</translation>
     </message>
@@ -63,7 +68,7 @@
 <context>
     <name>ActionSource</name>
     <message>
-        <location filename="../../src/imports/coreplugin/qml/NERvGear/ActionSource.qml" line="39"/>
+        <location filename="../../src/imports/coreplugin/qml/NERvGear/ActionSource.qml" line="41"/>
         <source>Are you sure to execute this action?</source>
         <translation>是否確認執行該動作？</translation>
     </message>
@@ -134,7 +139,7 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>DataDialog</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/DataDialog.qml" line="7"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/DataDialog.qml" line="9"/>
         <source>Data Picker</source>
         <translation>選取數據</translation>
     </message>
@@ -147,12 +152,12 @@ Would you like to disable extensions temporarily?</source>
         <translation>加載中...</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="556"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="585"/>
         <source>Process Settings</source>
         <translation>加工設置</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="570"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="599"/>
         <source>Update Settings</source>
         <translation>更新設置</translation>
     </message>
@@ -542,12 +547,12 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>NERvGear::Imports::QmlWebView</name>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="387"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="413"/>
         <source>This page is not available</source>
         <translation>此頁面不可用</translation>
     </message>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="414"/>
         <source>Reload</source>
         <translation>刷新</translation>
     </message>
@@ -732,7 +737,7 @@ Would you like to disable extensions temporarily?</source>
 <context>
     <name>Shared</name>
     <message>
-        <location filename="../../src/imports/privateplugin/qml/NERvGear/Private/Shared.qml" line="73"/>
+        <location filename="../../src/imports/privateplugin/qml/NERvGear/Private/Shared.qml" line="75"/>
         <source>No Operation</source>
         <translation>無操作</translation>
     </message>

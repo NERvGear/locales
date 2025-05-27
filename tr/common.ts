@@ -4,7 +4,7 @@
 <context>
     <name>ActionDialog</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/ActionDialog.qml" line="7"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/ActionDialog.qml" line="9"/>
         <source>Action Picker</source>
         <translation>Eylem Seçici</translation>
     </message>
@@ -12,7 +12,7 @@
 <context>
     <name>ActionPicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="110"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="114"/>
         <source>Confirm before execution</source>
         <translation>Yürütmeden önce onaylayın</translation>
     </message>
@@ -22,32 +22,37 @@
         <translation>Temel Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="143"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="154"/>
         <source>Action Settings</source>
         <translation>Eylem Ayarları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Keep Launcher</source>
         <translation>Başlatıcıyı Tut</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Default</source>
         <translation>Varsayılan</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="117"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="121"/>
         <source>Close Launcher</source>
         <translation>Başlatıcıyı Kapat</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="126"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="127"/>
+        <source>Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="137"/>
         <source>Run Test</source>
         <translation>Testi Çalıştır</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="116"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/ActionPicker.qml" line="120"/>
         <source>Behavior after execution</source>
         <translation>Yürütme sonrası davranış</translation>
     </message>
@@ -55,7 +60,7 @@
 <context>
     <name>ActionPreference</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ActionPreference.qml" line="14"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Preferences/ActionPreference.qml" line="15"/>
         <source>Action</source>
         <translation>Eylem</translation>
     </message>
@@ -63,7 +68,7 @@
 <context>
     <name>ActionSource</name>
     <message>
-        <location filename="../../src/imports/coreplugin/qml/NERvGear/ActionSource.qml" line="39"/>
+        <location filename="../../src/imports/coreplugin/qml/NERvGear/ActionSource.qml" line="41"/>
         <source>Are you sure to execute this action?</source>
         <translation>Bu eylemi gerçekleştireceğinizden emin misiniz?</translation>
     </message>
@@ -134,7 +139,7 @@ Yine de devam etmek istiyor musun?</translation>
 <context>
     <name>DataDialog</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/DataDialog.qml" line="7"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/DataDialog.qml" line="9"/>
         <source>Data Picker</source>
         <translation>Veri Seçici</translation>
     </message>
@@ -142,12 +147,12 @@ Yine de devam etmek istiyor musun?</translation>
 <context>
     <name>DataPicker</name>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="556"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="585"/>
         <source>Process Settings</source>
         <translation>İşlem Ayarları</translation>
     </message>
     <message>
-        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="570"/>
+        <location filename="../../src/gear/qml/imports/NERvGear/Dialogs/Private/DataPicker.qml" line="599"/>
         <source>Update Settings</source>
         <translation>Ayarları güncelle</translation>
     </message>
@@ -542,12 +547,12 @@ Yine de devam etmek istiyor musun?</translation>
 <context>
     <name>NERvGear::Imports::QmlWebView</name>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="387"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="413"/>
         <source>This page is not available</source>
         <translation>Bu sayfa kullanılamaz</translation>
     </message>
     <message>
-        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="388"/>
+        <location filename="../../src/imports/webkitplugin/cpp/WebKitClient.cpp" line="414"/>
         <source>Reload</source>
         <translation>Tekrar yükle</translation>
     </message>
@@ -732,7 +737,7 @@ Yine de devam etmek istiyor musun?</translation>
 <context>
     <name>Shared</name>
     <message>
-        <location filename="../../src/imports/privateplugin/qml/NERvGear/Private/Shared.qml" line="73"/>
+        <location filename="../../src/imports/privateplugin/qml/NERvGear/Private/Shared.qml" line="75"/>
         <source>No Operation</source>
         <translation>İşlem yok</translation>
     </message>

@@ -502,6 +502,11 @@ The item will be hidden until you agree the Workshop Legal Agreement on Steam.</
         <source>Import and upload an extension package</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../src/apps/workshop/qml/workshop/PageUpdateType.qml" line="76"/>
+        <source>Tutorial: How to share my widgets and themes?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceBuilder</name>

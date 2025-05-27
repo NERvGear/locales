@@ -127,22 +127,22 @@
 <context>
     <name>WeatherEditor</name>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="27"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="28"/>
         <source>Weather Settings</source>
         <translation>Ajustes de Clima</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="39"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="40"/>
         <source>Display Temperature Meter</source>
         <translation>Indicador de Temperatura en Pantalla</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="45"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="46"/>
         <source>Show Temperature on Hover</source>
         <translation>Mostrar Temperatura al pasar por Encima</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="52"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherEditor.qml" line="53"/>
         <source>Temperature Unit</source>
         <translation>Unidad de Temperatura</translation>
     </message>
@@ -155,7 +155,7 @@
         <translation>Clima de BOTW</translation>
     </message>
     <message>
-        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherWidget.qml" line="31"/>
+        <location filename="../../../src/extensions/com.gpbeta.theme.zelda.botw/botw.zelda.theme.gpbeta.com/qml/WeatherWidget.qml" line="32"/>
         <source>Settings...</source>
         <translation>Ajustes...</translation>
     </message>
